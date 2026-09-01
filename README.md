@@ -65,16 +65,30 @@ Everything is deduped by URL and sorted newest-first before being written to
 
 ## Setup
 
-1. **Create a GitHub repo** and push everything in this folder to it.
-2. **(Optional but recommended)** Get a free NASA API key at
+0. **Push this to GitHub.** You already have a git repo with one commit
+   (unzip the download, `cd astrohub-live`) — pick whichever of these you're
+   more comfortable with:
+   - **No terminal:** go to github.com → New repository → don't initialize
+     with a README → on the empty repo's page use "uploading an existing
+     file" and drag in everything except the `.git` folder (GitHub creates
+     its own history, that's fine, you lose the pre-made commit but it
+     doesn't matter).
+   - **Terminal:** create an empty repo on GitHub first (no README, no
+     .gitignore — keep it truly empty so there's no merge conflict), then:
+     ```bash
+     cd astrohub-live
+     git remote add origin https://github.com/<you>/<repo>.git
+     git push -u origin main
+     ```
+1. **(Optional but recommended)** Get a free NASA API key at
    https://api.nasa.gov, then in your repo go to
    Settings → Secrets and variables → Actions → New repository secret,
    name it `NASA_API_KEY`, paste the key.
-3. **Enable the workflow**: it runs automatically on the schedule once
+2. **Enable the workflow**: it runs automatically on the schedule once
    pushed, or trigger it manually from the Actions tab
    ("Refresh astronomy data" → Run workflow) to generate the first
    `public/data.json` immediately rather than waiting for the next cron tick.
-4. **Serve `public/data.json` somewhere the frontend can fetch it.** Easiest
+3. **Serve `public/data.json` somewhere the frontend can fetch it.** Easiest
    options:
    - Raw GitHub URL: `https://raw.githubusercontent.com/<you>/<repo>/main/public/data.json`
      (works immediately, no extra setup, but is rate-limited and not meant
@@ -82,7 +96,7 @@ Everything is deduped by URL and sorted newest-first before being written to
    - GitHub Pages: enable Pages on the repo (Settings → Pages → deploy from
      `main` / `public`), then use the Pages URL — more reliable for anything
      beyond personal use.
-5. **Point the frontend at it.** In the AstroHub React app, set the
+4. **Point the frontend at it.** In the AstroHub React app, set the
    `LIVE_DATA_URL` constant near the top of the file to whichever URL you
    picked in step 4.
 
