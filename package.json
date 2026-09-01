@@ -1,0 +1,16 @@
+{
+  "name": "astrohub-live",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "description": "Ingestion pipeline that pulls real astronomy news (NASA, ESO, ESA/Hubble, arXiv astro-ph) into public/data.json for the AstroHub frontend.",
+  "scripts": {
+    "fetch": "node scripts/fetch-data.mjs"
+  },
+  "dependencies": {
+    "rss-parser": "^3.13.0"
+  },
+  "engines": {
+    "node": ">=20"
+  }
+}

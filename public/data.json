@@ -1,0 +1,9 @@
+{
+  "generatedAt": null,
+  "sourceCount": 4,
+  "itemCount": 0,
+  "errors": [],
+  "apod": null,
+  "items": [],
+  "note": "This is a placeholder. Run `npm run fetch` locally or trigger the 'Refresh astronomy data' GitHub Action to populate this file for real."
+}
