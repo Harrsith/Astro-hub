@@ -1,9 +1,230 @@
 {
-  "generatedAt": null,
-  "sourceCount": 4,
-  "itemCount": 0,
-  "errors": [],
-  "apod": null,
-  "items": [],
-  "note": "This is a placeholder. Run `npm run fetch` locally or trigger the 'Refresh astronomy data' GitHub Action to populate this file for real."
+  "generatedAt": "2026-09-02T02:34:12.132Z",
+  "sourceCount": 5,
+  "itemCount": 20,
+  "errors": [
+    {
+      "source": "NASA breaking news",
+      "message": "Status code 429"
+    },
+    {
+      "source": "arXiv astro-ph (new submissions)",
+      "message": "Request timed out after 15000ms"
+    },
+    {
+      "source": "NASA Exoplanet Archive",
+      "message": "HTTP 400"
+    }
+  ],
+  "apod": {
+    "date": "2026-09-01",
+    "explanation": "Did you need to be on the right side of this airplane to see this eclipse? No.  Lunar eclipses are routinely seen from the half of the Earth facing the Moon when the eclipse occurs, making them some of the most commonly witnessed astronomical events. You don't even need any special equipment to see one -- just your unaided eyes.  Lunar eclipses are also some of the most photographed astronomical events because, unlike with a solar eclipse, your eyes and camera do not have to look toward the bright Sun. However, considering the featured image taken last week from Portugal, if you were on the left side of that airplane during takeoff, you might have trouble seeing it -- at first. But even then, after takeoff, since lunar eclipses typically last for hours, you might soon be able to safely cross the aisle(s) to see it.   Gallery: Lunar Eclipse of 2026 August APOD's main NASA site is moving: From apod.nasa.gov to science.nasa.gov/apod",
+    "hdurl": "https://apod.nasa.gov/apod/image/2608/PlaneEclipse_Ferreira_1059.jpg",
+    "media_type": "image",
+    "service_version": "v1",
+    "title": "A Plane Lunar Eclipse",
+    "url": "https://apod.nasa.gov/apod/image/2608/PlaneEclipse_Ferreira_1059.jpg"
+  },
+  "items": [
+    {
+      "id": "c07c3d9466d9",
+      "agency": "eso",
+      "source": "ESO press releases",
+      "title": "Milky Way's fastest star orbits our supermassive black hole so closely it feels its spin",
+      "summary": "Astronomers have discovered the fastest known star in our galaxy, the Milky Way, orbiting the black hole at its centre. The star, named S301, was detected with the European Southern Observatory’s Very Large Telescope Interferometer (ESO’s VLTI) and reaches speeds of 25 000 km/s as it travels around the four-million-Sol…",
+      "url": "https://www.eso.org/public/news/eso2612/",
+      "publishedAt": "2026-08-19T15:00:00.000Z",
+      "tags": []
+    },
+    {
+      "id": "4095b4950521",
+      "agency": "esa",
+      "source": "ESA/Hubble news",
+      "title": "Science Release: Hubble solves merger mystery from Milky Way’s early years",
+      "summary": "Our home galaxy, the Milky Way, grew to its current size in part by consuming smaller galaxies. Now, new data from the NASA/ESA Hubble Space Telescope show definitive evidence of a dwarf galaxy merging with the young Milky Way galaxy in the earliest phases of its evolution. This finding extends our knowledge of our gal…",
+      "url": "https://esahubble.org/news/heic2611/",
+      "publishedAt": "2026-08-17T15:00:00.000Z",
+      "tags": []
+    },
+    {
+      "id": "3961650ba49c",
+      "agency": "eso",
+      "source": "ESO press releases",
+      "title": "Astronomers find strongest evidence yet that Betelgeuse has a companion",
+      "summary": "At long last, astronomers have firm evidence that Betelgeuse, one of the most famous stars in the night sky, is not alone. Using the European Southern Observatory’s Very Large Telescope (ESO's VLT), a team led by French researcher Miguel Montargès obtained the clearest image ever of what likely is Betelgeuse B, the sta…",
+      "url": "https://www.eso.org/public/news/eso2611/",
+      "publishedAt": "2026-07-28T12:00:00.000Z",
+      "tags": []
+    },
+    {
+      "id": "e6eb178dd881",
+      "agency": "eso",
+      "source": "ESO press releases",
+      "title": "New ‘exomoon’ detection challenges cosmic labels",
+      "summary": "Observations made with the European Southern Observatory’s Very Large Telescope (ESO’s VLT) have revealed evidence for a moon-like object in the CD-35 2722 system. Unlike moons in our Solar System, the newly found object does not orbit a planet, raising questions about what to name it. Instead, it circles a brown dwarf…",
+      "url": "https://www.eso.org/public/news/eso2610/",
+      "publishedAt": "2026-07-22T15:00:00.000Z",
+      "tags": []
+    },
+    {
+      "id": "360321c6fce2",
+      "agency": "eso",
+      "source": "ESO press releases",
+      "title": "Faintest planet ever imaged from Earth found after more than 10 years of hide-and-seek",
+      "summary": "A team of astronomers have discovered a third planet orbiting the star Beta Pictoris. The new planet, Beta Pictoris d, is 100 times fainter than Beta Pictoris b — the first planet discovered in the same system — and is among the lightest exoplanets ever to be imaged from the ground. After spotting the planet using the…",
+      "url": "https://www.eso.org/public/news/eso2609/",
+      "publishedAt": "2026-07-15T12:00:00.000Z",
+      "tags": []
+    },
+    {
+      "id": "fd5e4c61c44b",
+      "agency": "esa",
+      "source": "ESA/Hubble news",
+      "title": "Science Release: Hubble discovers first of star cluster’s missing black holes",
+      "summary": "The massive globular star cluster Omega Centauri has puzzled astronomers for decades. It should be filled with black holes left behind by exploding stars, yet evidence for them is scarce. Now, astronomers using archival data from the NASA/ESA Hubble Space Telescope and supportive observations from the NASA/ESA/CSA Jame…",
+      "url": "https://esahubble.org/news/heic2610/",
+      "publishedAt": "2026-07-13T14:00:00.000Z",
+      "tags": []
+    },
+    {
+      "id": "2f49732bfb31",
+      "agency": "eso",
+      "source": "ESO press releases",
+      "title": "Older than the Sun: Astronomers find new clues to the origin of interstellar comet 3I/ATLAS",
+      "summary": "Astronomers have used the European Southern Observatory's Very Large Telescope (ESO's VLT) to study the composition of 3I/ATLAS, the brightest interstellar object ever seen, in detail. By measuring specific chemical fingerprints — the first observations of this kind for a comet that formed outside the Solar System — th…",
+      "url": "https://www.eso.org/public/news/eso2608/",
+      "publishedAt": "2026-07-06T09:00:00.000Z",
+      "tags": []
+    },
+    {
+      "id": "5f25b1c34a64",
+      "agency": "eso",
+      "source": "ESO press releases",
+      "title": "\"Beyond the limit\": one million satellites and mirrors in space pose grave threat to the night sky",
+      "summary": "A new European Southern Observatory (ESO) study has found that current proposals to launch over 1.7 million satellites into orbit, including extremely bright ones, would have “devastating consequences for astronomy.” According to the study, no more than 100 000 faint satellites, below naked eye visibility, should orbit…",
+      "url": "https://www.eso.org/public/news/eso2607/",
+      "publishedAt": "2026-07-01T12:00:00.000Z",
+      "tags": []
+    },
+    {
+      "id": "4aa41f616de8",
+      "agency": "esa",
+      "source": "ESA/Hubble news",
+      "title": "Science Release: Hubble details early galaxy transforming neighbourhood",
+      "summary": "Astronomers using the NASA/ESA Hubble Space Telescope have found something they never expected: ultraviolet light from a galaxy that existed just 1.4 billion years after the Big Bang. That galaxy contains tightly clustered young stars that produce ionising light capable of transforming the opaque, neutral gas within an…",
+      "url": "https://esahubble.org/news/heic2609/",
+      "publishedAt": "2026-06-23T14:00:00.000Z",
+      "tags": []
+    },
+    {
+      "id": "9f660dbedd4a",
+      "agency": "eso",
+      "source": "ESO press releases",
+      "title": "Strange winds reveal strongest hints yet of magnetic activity in exoplanets",
+      "summary": "A team of astronomers has found the strongest evidence yet that some planets outside our Solar System may be magnetic. Using the European Southern Observatory’s Very Large Telescope (ESO's VLT) and the Gemini North telescope, the researchers measured wind speeds on seven very hot, Jupiter-like exoplanets. The observati…",
+      "url": "https://www.eso.org/public/news/eso2606/",
+      "publishedAt": "2026-06-02T09:00:00.000Z",
+      "tags": []
+    },
+    {
+      "id": "fcf903c5aba3",
+      "agency": "esa",
+      "source": "ESA/Hubble news",
+      "title": "Photo Release: Hubble dazzles with young stars in Trifid Nebula for 36th anniversary",
+      "summary": "The NASA/ESA Hubble Space Telescope looked at a scene it first captured in 1997 in honour of its 36th anniversary: a small portion of a star-forming region about 5000 light-years away in the constellation Sagittarius, known as the Trifid Nebula. The image shows changes over incredibly short timescales and instills a se…",
+      "url": "https://esahubble.org/news/heic2608/",
+      "publishedAt": "2026-04-20T14:00:00.000Z",
+      "tags": []
+    },
+    {
+      "id": "bcf281fe44ca",
+      "agency": "eso",
+      "source": "ESO press releases",
+      "title": "First light for PoET: shining (sun)light on exoplanet research",
+      "summary": "The Paranal solar ESPRESSO Telescope (PoET), installed at the European Southern Observatory's (ESO's) Paranal site in Chile, has made its first observations. The telescope will work with ESO's ESPRESSO instrument to study the Sun in detail. Described as a solar telescope for planet hunters, PoET aims to understand how…",
+      "url": "https://www.eso.org/public/news/eso2605/",
+      "publishedAt": "2026-04-09T12:00:00.000Z",
+      "tags": []
+    },
+    {
+      "id": "87a307bff2f3",
+      "agency": "eso",
+      "source": "ESO press releases",
+      "title": "A Solar System in the making? Two planets spotted forming in disc around young star",
+      "summary": "Astronomers have observed two planets forming in the disc around a young star named WISPIT 2. Having previously detected one planet, the team have now employed European Southern Observatory (ESO) telescopes to confirm the presence of another. These observations, and the unique structure of the disc around the star, ind…",
+      "url": "https://www.eso.org/public/news/eso2604/",
+      "publishedAt": "2026-03-24T13:00:00.000Z",
+      "tags": []
+    },
+    {
+      "id": "1d1bf1aaa4be",
+      "agency": "esa",
+      "source": "ESA/Hubble news",
+      "title": "Photo Release: Hubble revisits Crab Nebula to track 25 years of expansion",
+      "summary": "Nearly a millennium ago, astronomers witnessed a brilliant new star blazing in the sky — a supernova so bright it was visible in daylight for weeks. Today, its expanding remnant, the Crab Nebula, continues to evolve 6,500 light-years away. First linked to historical records by Edwin Hubble, the nebula has since been st…",
+      "url": "https://esahubble.org/news/heic2607/",
+      "publishedAt": "2026-03-23T14:00:00.000Z",
+      "tags": []
+    },
+    {
+      "id": "fc6f29c600b1",
+      "agency": "esa",
+      "source": "ESA/Hubble news",
+      "title": "Science Release: Hubble unexpectedly catches comet breaking up",
+      "summary": "Comet K1, whose full name is Comet C/2025 K1 (ATLAS), had just passed its closest approach to the Sun and was heading out of the Solar System. Though it had been intact just days before, K1 fragmented into at least four pieces while the NASA/ESA Hubble Space Telescope was watching. The odds of that happening while Hubb…",
+      "url": "https://esahubble.org/news/heic2606/",
+      "publishedAt": "2026-03-18T14:00:00.000Z",
+      "tags": []
+    },
+    {
+      "id": "c53f78557e24",
+      "agency": "eso",
+      "source": "ESO press releases",
+      "title": "Largest image of its kind shows hidden chemistry at the heart of the Milky Way",
+      "summary": "Astronomers have captured the central region of our Milky Way in a striking new image, unveiling a complex network of filaments of cosmic gas in unprecedented detail. Obtained with the Atacama Large Millimeter/submillimeter Array (ALMA), this rich dataset — the largest ALMA image to date — will allow astronomers to pro…",
+      "url": "https://www.eso.org/public/news/eso2603/",
+      "publishedAt": "2026-02-25T13:00:00.000Z",
+      "tags": []
+    },
+    {
+      "id": "67b2e29862d2",
+      "agency": "esa",
+      "source": "ESA/Hubble news",
+      "title": "Science Release: Hubble identifies one of darkest known galaxies",
+      "summary": "Most galaxies in the nearby Universe are quite luminous, but some are so faint they’re nearly invisible. Astronomers, using the NASA/ESA Hubble Space Telescope in combination with other observatories, identified a galaxy that appears to be almost entirely dominated by dark matter with only a smattering of stars. The ga…",
+      "url": "https://esahubble.org/news/heic2605/",
+      "publishedAt": "2026-02-18T15:00:00.000Z",
+      "tags": []
+    },
+    {
+      "id": "ae5ccc01bf63",
+      "agency": "esa",
+      "source": "ESA/Hubble news",
+      "title": "Photo Release: Hubble captures light show around rapidly dying star",
+      "summary": "This stunning image from the NASA/ESA Hubble Space Telescope reveals a dramatic interplay of light and shadow in the Egg Nebula, sculpted by freshly ejected stardust. Located approximately 1,000 light-years away in the constellation Cygnus, the Egg Nebula features a central star obscured by a dense cloud of dust. Only…",
+      "url": "https://esahubble.org/news/heic2604/",
+      "publishedAt": "2026-02-10T15:00:00.000Z",
+      "tags": []
+    },
+    {
+      "id": "db31f371b721",
+      "agency": "esa",
+      "source": "ESA/Hubble news",
+      "title": "Science Release: Researchers discover hundreds of cosmic anomalies with help from AI",
+      "summary": "A team of astronomers have used a new AI-assisted method to search for rare astronomical objects in the Hubble Legacy Archive. The team sifted through nearly 100 million image cutouts in just two and a half days, uncovering nearly 1400 anomalous objects, more than 800 of which had never been documented before.",
+      "url": "https://esahubble.org/news/heic2603/",
+      "publishedAt": "2026-01-27T15:00:00.000Z",
+      "tags": []
+    },
+    {
+      "id": "edad31e561d0",
+      "agency": "esa",
+      "source": "ESA/Hubble news",
+      "title": "Science Release: Hubble uncovers the secret of stars that defy ageing",
+      "summary": "Some stars appear to defy time itself. Nestled within ancient star clusters, they shine bluer and brighter than their neighbours, looking far younger than their true age. Known as blue straggler stars, these stellar oddities have puzzled astronomers for more than 70 years. Now, new results using the NASA/ESA Hubble Spa…",
+      "url": "https://esahubble.org/news/heic2602/",
+      "publishedAt": "2026-01-21T10:00:00.000Z",
+      "tags": []
+    }
+  ]
 }
