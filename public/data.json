@@ -1,8 +1,12 @@
 {
-  "generatedAt": "2026-09-02T12:16:24.254Z",
+  "generatedAt": "2026-09-02T18:15:05.322Z",
   "sourceCount": 5,
-  "itemCount": 55,
+  "itemCount": 45,
   "errors": [
+    {
+      "source": "NASA breaking news",
+      "message": "Status code 429"
+    },
     {
       "source": "NASA Exoplanet Archive",
       "message": "HTTP 400"
@@ -19,38 +23,6 @@
     "url": "https://apod.nasa.gov/apod/image/2609/colors_of_eclipse_1024.jpg"
   },
   "items": [
-    {
-      "id": "543167fdb4ff",
-      "agency": "nasa",
-      "source": "NASA breaking news",
-      "title": "NASA Selects Blue Origin as Mars Telecommunications Network Provider",
-      "summary": "NASA awarded Blue Origin a contract Tuesday to develop the agency’s Mars Telecommunications Network, a next-generation communications system that will enable reliable, high-bandwidth communications and navigation services for current and future Mars missions. The firm-fixed-price contract has a maximum potential value…",
-      "url": "https://www.nasa.gov/news-release/nasa-selects-blue-origin-as-mars-telecommunications-network-provider/",
-      "publishedAt": "2026-09-01T21:08:37.000Z",
-      "tags": [
-        "Space Communications & Navigation Program",
-        "Goddard Space Flight Center",
-        "Mars"
-      ]
-    },
-    {
-      "id": "9ba844625235",
-      "agency": "nasa",
-      "source": "NASA breaking news",
-      "title": "What’s Up: September 2026 Skywatching Tips from NASA",
-      "summary": "Brilliant Venus and a Harvest Moon Use the Moon to find Antares and the Teapot, spot brilliant Venus, welcome the equinox, and see the Harvest Moon near Saturn and Neptune. Skywatching Highlights Transcript The Moon joins a tea party… Venus cranks up the brightness… the seasons officially change… and the Harvest Moon m…",
-      "url": "https://science.nasa.gov/solar-system/skywatching/whats-up-september-2026-skywatching-tips-from-nasa/",
-      "publishedAt": "2026-09-01T19:15:25.000Z",
-      "tags": [
-        "Earth's Moon",
-        "Neptune",
-        "Saturn",
-        "Skywatching",
-        "Skywatching Tips",
-        "The Solar System",
-        "Venus"
-      ]
-    },
     {
       "id": "16db9ed75d24",
       "agency": "arxiv",
@@ -99,16 +71,6 @@
       "summary": "The Ariel Mission Candidate Sample (MCS) Tier-2 requirements provide a common screening reference by assuming a clear H$_2$/He atmosphere and a five-scale-height transmission signal. We quantify how those requirements change for 197 known planets with $1.5\\leq R_{\\rm p}/R_\\oplus<4.0$ when composition and clouds are spe…",
       "url": "https://arxiv.org/abs/2609.01577v1",
       "publishedAt": "2026-09-01T17:43:40.000Z",
-      "tags": []
-    },
-    {
-      "id": "e3b8d4de3b8b",
-      "agency": "nasa",
-      "source": "NASA breaking news",
-      "title": "Historic Engines Take Their Place on Artemis III",
-      "summary": "On Aug. 24, technicians at NASA’s Kennedy Space Center in Florida began installing the four RS‑25 engines in the core stage of the agency’s Space Launch System (SLS) rocket that will carry the Artemis III crew into low Earth orbit in 2027. Each RS‑25 engine has a unique serial number that records its detailed flight [……",
-      "url": "https://www.nasa.gov/image-article/historic-engines-take-their-place-on-artemis-iii/",
-      "publishedAt": "2026-09-01T17:30:35.000Z",
       "tags": []
     },
     {
@@ -310,97 +272,6 @@
       "url": "https://arxiv.org/abs/2609.01199v1",
       "publishedAt": "2026-09-01T13:06:56.000Z",
       "tags": []
-    },
-    {
-      "id": "a035f4cc058e",
-      "agency": "nasa",
-      "source": "NASA breaking news",
-      "title": "APOD: 2026 September 1 – A Plane Lunar Eclipse",
-      "summary": "APOD Science APOD APOD: 2026 September 1 – A… Today’s APOD Archive Submissions Index Search Calendar RSS Education About Discuss APOD Astronomy Picture of the Day Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a profession…",
-      "url": "https://science.nasa.gov/image-article/apod-2026-september-1-a-plane-lunar-eclipse/",
-      "publishedAt": "2026-09-01T04:05:00.000Z",
-      "tags": [
-        "APOD"
-      ]
-    },
-    {
-      "id": "e9cfc42e0742",
-      "agency": "nasa",
-      "source": "NASA breaking news",
-      "title": "Ice Island Survives Run-In With Joe Island",
-      "summary": "In summer 2026, a substantial iceberg calved from Petermann Glacier in northwest Greenland and swiftly drifted into Nares Strait, colliding with an island along the way.",
-      "url": "https://science.nasa.gov/earth/earth-observatory/iceberg-from-petermann-glacier-speeds-away/",
-      "publishedAt": "2026-09-01T04:00:00.000Z",
-      "tags": [
-        "Earth Observatory",
-        "Ice & Glaciers",
-        "Landsat 9",
-        "Sea Level Rise"
-      ]
-    },
-    {
-      "id": "8cd5a4ac52b5",
-      "agency": "nasa",
-      "source": "NASA breaking news",
-      "title": "NASA Welcomes Türkiye as Newest Artemis Accords Signatory",
-      "summary": "During a ceremony hosted by NASA Administrator Jared Isaacman at the agency’s headquarters in Washington on Monday, the Republic of Türkiye signed the Artemis Accords, joining the growing international coalition of like-minded nations dedicated to peaceful, transparent space exploration. “It is my privilege to welcome…",
-      "url": "https://www.nasa.gov/organizations/oiir/artemis-accords/nasa-welcomes-turkiye-as-newest-artemis-accords-signatory/",
-      "publishedAt": "2026-08-31T21:14:12.000Z",
-      "tags": [
-        "Artemis Accords",
-        "Artemis",
-        "General",
-        "Office of International and Interagency Relations (OIIR)"
-      ]
-    },
-    {
-      "id": "9ee4654b74de",
-      "agency": "nasa",
-      "source": "NASA breaking news",
-      "title": "September 2026 Satellite Puzzler",
-      "summary": "Here’s the August 2026 puzzler. Quick, where is this? And what makes this place interesting or unique?",
-      "url": "https://science.nasa.gov/earth/earth-observatory/september-2026-satellite-puzzler/",
-      "publishedAt": "2026-08-31T19:37:57.000Z",
-      "tags": [
-        "Earth Observatory"
-      ]
-    },
-    {
-      "id": "403d6e497feb",
-      "agency": "nasa",
-      "source": "NASA breaking news",
-      "title": "NASA’s Nancy Grace Roman Space Telescope Launches",
-      "summary": "NASA’s Nancy Grace Roman Space Telescope, aboard a SpaceX Falcon Heavy rocket, transits the Sun during launch from the agency’s Kennedy Space Center in Florida on Aug. 30, 2026. Roman is named after the agency’s first chief astronomer. Roman will survey billions of stars and galaxies with a field of view far larger tha…",
-      "url": "https://www.nasa.gov/image-article/nasas-nancy-grace-roman-space-telescope-launches/",
-      "publishedAt": "2026-08-31T14:10:31.000Z",
-      "tags": [
-        "Kennedy Space Center",
-        "Nancy Grace Roman Space Telescope"
-      ]
-    },
-    {
-      "id": "09522e7d3481",
-      "agency": "nasa",
-      "source": "NASA breaking news",
-      "title": "Roman Commissioning",
-      "summary": "Where is Roman? Roman is making its three-month journey from Earth to Sun-Earth Lagrange Point 2, or L2. Along the way, Roman is undergoing a process called commissioning, where systems are turned on, adjusted, calibrated, and prepared for science operations. Commissioning is the time for scientists and engineers to ma…",
-      "url": "https://science.nasa.gov/missions/roman-space-telescope/roman-commissioning/",
-      "publishedAt": "2026-08-31T12:16:53.000Z",
-      "tags": [
-        "Nancy Grace Roman Space Telescope"
-      ]
-    },
-    {
-      "id": "aef0c35a4771",
-      "agency": "nasa",
-      "source": "NASA breaking news",
-      "title": "APOD: 2026 August 31 – Launch of the Roman Space Telescope",
-      "summary": "APOD Science APOD APOD: 2026 August 31 –… Today’s APOD Archive Submissions Index Search Calendar RSS Education About Discuss APOD Astronomy Picture of the Day Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a professional a…",
-      "url": "https://science.nasa.gov/image-article/apod-2026-august-31-launch-of-the-roman-space-telescope/",
-      "publishedAt": "2026-08-31T04:05:00.000Z",
-      "tags": [
-        "APOD"
-      ]
     },
     {
       "id": "c07c3d9466d9",
