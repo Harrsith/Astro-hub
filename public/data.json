@@ -1,11 +1,15 @@
 {
-  "generatedAt": "2026-09-03T06:17:04.915Z",
+  "generatedAt": "2026-09-03T12:17:05.806Z",
   "sourceCount": 5,
-  "itemCount": 55,
+  "itemCount": 45,
   "errors": [
     {
+      "source": "NASA breaking news",
+      "message": "Status code 429"
+    },
+    {
       "source": "NASA Exoplanet Archive",
-      "message": "fetch failed"
+      "message": "HTTP 400"
     }
   ],
   "apod": {
@@ -19,62 +23,6 @@
     "url": "https://apod.nasa.gov/apod/image/2609/eclipse_stork_1080.jpg"
   },
   "items": [
-    {
-      "id": "bfce533f1d8e",
-      "agency": "nasa",
-      "source": "NASA breaking news",
-      "title": "APOD: 2026 September 3 – The Eclipse and the Stork",
-      "summary": "APOD Science APOD APOD: 2026 September 3 – The… Today’s APOD Archive Submissions Index Search Calendar RSS Education About Discuss APOD Astronomy Picture of the Day Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a professi…",
-      "url": "https://science.nasa.gov/image-article/apod-2026-september-3-the-eclipse-and-the-stork/",
-      "publishedAt": "2026-09-03T04:05:00.000Z",
-      "tags": [
-        "APOD"
-      ]
-    },
-    {
-      "id": "36dc3123720f",
-      "agency": "nasa",
-      "source": "NASA breaking news",
-      "title": "Peatland Fires Darken Skies in Indonesia",
-      "summary": "With Indonesia gripped by drought, fires are smoldering on the surface and underground.",
-      "url": "https://science.nasa.gov/missions/aqua/peatland-fires-darken-skies-in-indonesia/",
-      "publishedAt": "2026-09-03T04:01:00.000Z",
-      "tags": [
-        "Aqua",
-        "Earth Observatory",
-        "Wildfires"
-      ]
-    },
-    {
-      "id": "6ab199dc7d65",
-      "agency": "nasa",
-      "source": "NASA breaking news",
-      "title": "NASA Revamps Challenge Linking Community College Studies to Aerospace Careers",
-      "summary": "Community college students across the U.S. now have another opportunity to discover how their education can lead to fulfilling roles at the forefront of aerospace, science, engineering, and technology. The updated NASA Community College Aerospace Scholars (NCAS) student challenge invites students to learn about the age…",
-      "url": "https://www.nasa.gov/learning-resources/linking-community-college-studies-to-aerospace-careers/",
-      "publishedAt": "2026-09-02T19:01:05.000Z",
-      "tags": [
-        "Learning Resources",
-        "For Colleges & Universities"
-      ]
-    },
-    {
-      "id": "9033f7f20872",
-      "agency": "nasa",
-      "source": "NASA breaking news",
-      "title": "NASA’s Hubble Tracks New Decagon Encircling Saturn’s South Pole",
-      "summary": "NASA’s Hubble Space Telescope observes a giant, evolving, 10-sided atmospheric wave encircling Saturn’s south pole.",
-      "url": "https://science.nasa.gov/missions/hubble/nasas-hubble-tracks-new-decagon-encircling-saturns-south-pole/",
-      "publishedAt": "2026-09-02T18:00:37.000Z",
-      "tags": [
-        "Astrophysics",
-        "Astrophysics Division",
-        "Goddard Space Flight Center",
-        "Hubble Space Telescope",
-        "Saturn",
-        "The Solar System"
-      ]
-    },
     {
       "id": "a1872142f277",
       "agency": "esa",
@@ -216,16 +164,6 @@
       "tags": []
     },
     {
-      "id": "a8f0decc70b2",
-      "agency": "nasa",
-      "source": "NASA breaking news",
-      "title": "Rising Over Louisiana",
-      "summary": "On Aug. 28, 2026 (the evening of Aug. 27 in some time zones), the Moon passed into Earth’s shadow, creating a deep partial lunar eclipse. At the moment of greatest eclipse, 12:13 a.m. EDT, 96.3% of the Moon’s disk was immersed in Earth’s umbra—the central, darkest part of the shadow where sunlight is completely blocked…",
-      "url": "https://www.nasa.gov/image-article/rising-over-louisiana/",
-      "publishedAt": "2026-09-02T15:38:50.000Z",
-      "tags": []
-    },
-    {
       "id": "6fc189a36b78",
       "agency": "arxiv",
       "source": "arXiv astro-ph (new submissions)",
@@ -254,28 +192,6 @@
       "url": "https://arxiv.org/abs/2609.02693v1",
       "publishedAt": "2026-09-02T15:00:34.000Z",
       "tags": []
-    },
-    {
-      "id": "4b17e36dda88",
-      "agency": "nasa",
-      "source": "NASA breaking news",
-      "title": "NASA Rocket Takes First Multi-Point Look Inside Radio-Disrupting Clouds",
-      "summary": "High above Earth, thin veils of metallic haze drift through the edge of space. Known as sporadic E layers, these high-altitude “clouds” form from the vaporized dust of burnt-up meteors, earning their name from the unpredictable way they emerge and then dissipate. Now, new results from a NASA sounding rocket — a suborbi…",
-      "url": "https://science.nasa.gov/science-research/heliophysics/nasa-rocket-takes-first-multi-point-look-inside-radio-disrupting-clouds/",
-      "publishedAt": "2026-09-02T14:53:54.000Z",
-      "tags": [
-        "Goddard Space Flight Center",
-        "Heliophysics",
-        "Heliophysics Division",
-        "Heliophysics Research Program",
-        "Ionosphere",
-        "Science Mission Directorate",
-        "Sounding Rockets",
-        "Sounding Rockets Program",
-        "Space Weather",
-        "The Sun",
-        "Wallops Flight Facility"
-      ]
     },
     {
       "id": "2fe4add99029",
@@ -365,62 +281,6 @@
       "summary": "The 3.5-meter Segmented-Mirror Robotic Space Telescope uses an image slicer for all spectroscopic observations. The planning baseline uses $R \\simeq 1000$ for the wide survey and retains selectable $R \\simeq 5000$ bands for precision line measurements. The central science case is a dense emission-line galaxy redshift s…",
       "url": "https://arxiv.org/abs/2609.02574v1",
       "publishedAt": "2026-09-02T13:19:53.000Z",
-      "tags": []
-    },
-    {
-      "id": "4a196c737e52",
-      "agency": "nasa",
-      "source": "NASA breaking news",
-      "title": "APOD: 2026 September 2 – Solar Eclipses and Culture",
-      "summary": "APOD Science APOD APOD: 2026 September 2 –… Today’s APOD Archive Submissions Index Search Calendar RSS Education About Discuss APOD Astronomy Picture of the Day Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a professional…",
-      "url": "https://science.nasa.gov/image-article/apod-2026-september-2-solar-eclipses-and-culture/",
-      "publishedAt": "2026-09-02T04:05:00.000Z",
-      "tags": [
-        "APOD"
-      ]
-    },
-    {
-      "id": "543167fdb4ff",
-      "agency": "nasa",
-      "source": "NASA breaking news",
-      "title": "NASA Selects Blue Origin as Mars Telecommunications Network Provider",
-      "summary": "NASA awarded Blue Origin a contract Tuesday to develop the agency’s Mars Telecommunications Network, a next-generation communications system that will enable reliable, high-bandwidth communications and navigation services for current and future Mars missions. The firm-fixed-price contract has a maximum potential value…",
-      "url": "https://www.nasa.gov/news-release/nasa-selects-blue-origin-as-mars-telecommunications-network-provider/",
-      "publishedAt": "2026-09-01T21:08:37.000Z",
-      "tags": [
-        "Space Communications & Navigation Program",
-        "Communicating and Navigating with Missions",
-        "Goddard Space Flight Center",
-        "Mars",
-        "Technology"
-      ]
-    },
-    {
-      "id": "9ba844625235",
-      "agency": "nasa",
-      "source": "NASA breaking news",
-      "title": "What’s Up: September 2026 Skywatching Tips from NASA",
-      "summary": "Brilliant Venus and a Harvest Moon Use the Moon to find Antares and the Teapot, spot brilliant Venus, welcome the equinox, and see the Harvest Moon near Saturn and Neptune. Skywatching Highlights Transcript The Moon joins a tea party… Venus cranks up the brightness… the seasons officially change… and the Harvest Moon m…",
-      "url": "https://science.nasa.gov/solar-system/skywatching/whats-up-september-2026-skywatching-tips-from-nasa/",
-      "publishedAt": "2026-09-01T19:15:25.000Z",
-      "tags": [
-        "Earth's Moon",
-        "Neptune",
-        "Saturn",
-        "Skywatching",
-        "Skywatching Tips",
-        "The Solar System",
-        "Venus"
-      ]
-    },
-    {
-      "id": "e3b8d4de3b8b",
-      "agency": "nasa",
-      "source": "NASA breaking news",
-      "title": "Historic Engines Take Their Place on Artemis III",
-      "summary": "On Aug. 24, technicians at NASA’s Kennedy Space Center in Florida began installing the four RS‑25 engines in the core stage of the agency’s Space Launch System (SLS) rocket that will carry the Artemis III crew into low Earth orbit in 2027. Each RS‑25 engine has a unique serial number that records its detailed flight [……",
-      "url": "https://www.nasa.gov/image-article/historic-engines-take-their-place-on-artemis-iii/",
-      "publishedAt": "2026-09-01T17:30:35.000Z",
       "tags": []
     },
     {
