@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-04T12:16:00.171Z",
+  "generatedAt": "2026-09-04T18:13:43.408Z",
   "sourceCount": 5,
   "itemCount": 55,
   "errors": [
@@ -18,6 +18,41 @@
     "url": "https://apod.nasa.gov/apod/image/2609/noirlab2621a_1024.jpg"
   },
   "items": [
+    {
+      "id": "46d6ffc539fb",
+      "agency": "nasa",
+      "source": "NASA breaking news",
+      "title": "NASA Hosts Virtual Artemis Webinar for Blind, Low-Vision Community",
+      "summary": "NASA will host a virtual webinar at 2 p.m. EDT on Friday, Oct. 2, titled “The RS-25 Engine and the Future of Artemis Missions: An Accessible Webinar for the Blind and Low-Vision Community.” This webinar is open to the public, however it is tailored specifically for a blind and low-vision audience. The webinar will last…",
+      "url": "https://www.nasa.gov/general/nasa-hosts-virtual-artemis-webinar-for-blind-low-vision-community/",
+      "publishedAt": "2026-09-04T16:48:59.000Z",
+      "tags": [
+        "General",
+        "Events"
+      ]
+    },
+    {
+      "id": "e12ef7fbad74",
+      "agency": "nasa",
+      "source": "NASA breaking news",
+      "title": "Lunar Occultation of Venus",
+      "summary": "On Wednesday, June 17, skywatchers across the United States—and parts of Canada—enjoyed a rare event: a daytime lunar occultation of Venus. A lunar occultation occurs when the Moon moves directly in front of another celestial object from our viewpoint on Earth, briefly hiding it from sight. This time, the Moon slipped…",
+      "url": "https://www.nasa.gov/image-article/lunar-occultation-of-venus/",
+      "publishedAt": "2026-09-04T14:14:57.000Z",
+      "tags": []
+    },
+    {
+      "id": "be548ad5da3b",
+      "agency": "nasa",
+      "source": "NASA breaking news",
+      "title": "APOD: 2026 September 4 – Na Uhane Mahoe Huki Pu i ke Ola",
+      "summary": "APOD Science APOD APOD: 2026 September 4 – Na… Today’s APOD Archive Submissions Index Search Calendar RSS Education About Discuss APOD Astronomy Picture of the Day Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a professio…",
+      "url": "https://science.nasa.gov/image-article/apod-2026-september-4-na-uhane-mahoe-huki-pu-i-ke-ola/",
+      "publishedAt": "2026-09-04T04:05:00.000Z",
+      "tags": [
+        "APOD"
+      ]
+    },
     {
       "id": "be3bd339ffba",
       "agency": "nasa",
@@ -365,36 +400,6 @@
       ]
     },
     {
-      "id": "6ab199dc7d65",
-      "agency": "nasa",
-      "source": "NASA breaking news",
-      "title": "NASA Revamps Challenge Linking Community College Studies to Aerospace Careers",
-      "summary": "Community college students across the U.S. now have another opportunity to discover how their education can lead to fulfilling roles at the forefront of aerospace, science, engineering, and technology. The updated NASA Community College Aerospace Scholars (NCAS) student challenge invites students to learn about the age…",
-      "url": "https://www.nasa.gov/learning-resources/linking-community-college-studies-to-aerospace-careers/",
-      "publishedAt": "2026-09-02T19:01:05.000Z",
-      "tags": [
-        "Learning Resources",
-        "For Colleges & Universities"
-      ]
-    },
-    {
-      "id": "9033f7f20872",
-      "agency": "nasa",
-      "source": "NASA breaking news",
-      "title": "NASA’s Hubble Tracks New Decagon Encircling Saturn’s South Pole",
-      "summary": "NASA’s Hubble Space Telescope observes a giant, evolving, 10-sided atmospheric wave encircling Saturn’s south pole.",
-      "url": "https://science.nasa.gov/missions/hubble/nasas-hubble-tracks-new-decagon-encircling-saturns-south-pole/",
-      "publishedAt": "2026-09-02T18:00:37.000Z",
-      "tags": [
-        "Astrophysics",
-        "Astrophysics Division",
-        "Goddard Space Flight Center",
-        "Hubble Space Telescope",
-        "Saturn",
-        "The Solar System"
-      ]
-    },
-    {
       "id": "a1872142f277",
       "agency": "esa",
       "source": "ESA/Hubble news",
@@ -402,16 +407,6 @@
       "summary": "Recent observations with the NASA/ESA Hubble Space Telescope have revealed a giant, evolving 10-sided atmospheric wave encircling Saturn’s south pole. This discovery marks the first time a large regular-sided jet pattern has been observed in the planet’s southern hemisphere. The feature appears remarkably similar to Sa…",
       "url": "https://esahubble.org/news/heic2612/",
       "publishedAt": "2026-09-02T18:00:00.000Z",
-      "tags": []
-    },
-    {
-      "id": "a8f0decc70b2",
-      "agency": "nasa",
-      "source": "NASA breaking news",
-      "title": "Rising Over Louisiana",
-      "summary": "On Aug. 28, 2026 (the evening of Aug. 27 in some time zones), the Moon passed into Earth’s shadow, creating a deep partial lunar eclipse. At the moment of greatest eclipse, 12:13 a.m. EDT, 96.3% of the Moon’s disk was immersed in Earth’s umbra—the central, darkest part of the shadow where sunlight is completely blocked…",
-      "url": "https://www.nasa.gov/image-article/rising-over-louisiana/",
-      "publishedAt": "2026-09-02T15:38:50.000Z",
       "tags": []
     },
     {
