@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-05T12:14:20.560Z",
+  "generatedAt": "2026-09-05T18:12:54.089Z",
   "sourceCount": 5,
   "itemCount": 55,
   "errors": [
@@ -18,6 +18,18 @@
     "url": "https://apod.nasa.gov/apod/image/2609/2026Eclipse_WB57GoPro_Totality_H264_1024.jpg"
   },
   "items": [
+    {
+      "id": "af78470351ea",
+      "agency": "nasa",
+      "source": "NASA breaking news",
+      "title": "APOD: 2026 September 5 – Chasing the Moon’s Shadow",
+      "summary": "APOD Science APOD APOD: 2026 September 5 –… Today’s APOD Archive Submissions Index Search Calendar RSS Education About Discuss APOD Astronomy Picture of the Day Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a professional…",
+      "url": "https://science.nasa.gov/image-article/apod-2026-september-5-chasing-the-moons-shadow/",
+      "publishedAt": "2026-09-05T04:05:00.000Z",
+      "tags": [
+        "APOD"
+      ]
+    },
     {
       "id": "5950d665817b",
       "agency": "nasa",
@@ -384,18 +396,6 @@
       "url": "https://arxiv.org/abs/2609.03701v1",
       "publishedAt": "2026-09-03T11:39:22.000Z",
       "tags": []
-    },
-    {
-      "id": "bfce533f1d8e",
-      "agency": "nasa",
-      "source": "NASA breaking news",
-      "title": "APOD: 2026 September 3 – The Eclipse and the Stork",
-      "summary": "APOD Science APOD APOD: 2026 September 3 – The… Today’s APOD Archive Submissions Index Search Calendar RSS Education About Discuss APOD Astronomy Picture of the Day Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a professi…",
-      "url": "https://science.nasa.gov/image-article/apod-2026-september-3-the-eclipse-and-the-stork/",
-      "publishedAt": "2026-09-03T04:05:00.000Z",
-      "tags": [
-        "APOD"
-      ]
     },
     {
       "id": "a1872142f277",
