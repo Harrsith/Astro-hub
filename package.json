@@ -5,12 +5,23 @@
   "type": "module",
   "description": "Ingestion pipeline that pulls real astronomy news (NASA, ESO, ESA/Hubble, arXiv astro-ph) into public/data.json for the AstroHub frontend.",
   "scripts": {
-    "fetch": "node scripts/fetch-data.mjs"
+    "fetch": "node scripts/fetch-data.mjs",
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
   },
   "dependencies": {
+    "lucide-react": "^1.41.0",
+    "react": "^19.2.8",
+    "react-dom": "^19.2.8",
+    "recharts": "^3.10.1",
     "rss-parser": "^3.13.0"
   },
   "engines": {
     "node": ">=20"
+  },
+  "devDependencies": {
+    "@vitejs/plugin-react": "^6.1.1",
+    "vite": "^8.2.2"
   }
 }

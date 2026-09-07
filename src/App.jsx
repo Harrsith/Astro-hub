@@ -10,7 +10,7 @@ const NASA_API_KEY = "DEMO_KEY";
 // pipeline in this project (see README.md). Leave blank to run entirely on
 // the hand-curated fallback feed below.
 // e.g. "https://raw.githubusercontent.com/<you>/<repo>/main/public/data.json"
-const LIVE_DATA_URL = "";
+const LIVE_DATA_URL = "/data.json";
 
 const AGENCIES = [
   { id: "nasa", name: "NASA", full: "National Aeronautics and Space Administration", color: "#6FA8FF" },
@@ -672,14 +672,14 @@ function LiveApod() {
     setStatus("loading");
     setError(null);
 
-    fetch(`https://api.nasa.gov/planetary/apod?api_key=${NASA_API_KEY}`)
+    fetch("/data.json")
       .then((res) => {
-        if (!res.ok) throw new Error(`NASA APOD API returned ${res.status}`);
+        if (!res.ok) throw new Error(`Local data feed returned ${res.status}`);
         return res.json();
       })
       .then((json) => {
         if (cancelled) return;
-        setData(json);
+        setData(json.apod);
         setStatus("success");
       })
       .catch((err) => {
