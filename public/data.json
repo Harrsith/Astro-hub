@@ -1,17 +1,16 @@
 {
-  "generatedAt": "2026-09-08T00:20:19.652Z",
+  "generatedAt": "2026-09-08T06:15:46.120Z",
   "sourceCount": 5,
   "itemCount": 70,
   "errors": [],
   "apod": {
-    "copyright": "Mark Killion",
-    "date": "2026-09-07",
-    "explanation": "The Pelican Nebula is slowly being transformed.  IC 5070 (an official designation) is divided from the larger North America Nebula by a molecular cloud filled with dark dust.  The deep featured picture from Utah, USA incorporates 25 hours of exposure and brings out great details of this filamentary dust. The Pelican Nebula receives much study because it is a particularly active mix of star formation and evolving gas clouds.  The light from young energetic stars is slowly transforming the cold gas to hot gas, with the advancing boundary between the two, known as an ionization front, visible in bright orange on the upper right. Particularly dense tentacles of cold gas remain.  Millions of years from now, the Pelican Nebula, bounded by dark nebula LDN 935, might no longer be known as the Pelican, as the balance and placement of stars and gas will surely leave something that appears completely different.   APOD's main NASA site is moving: From apod.nasa.gov to science.nasa.gov/apod",
-    "hdurl": "https://apod.nasa.gov/apod/image/2609/Pelican_Killion_4800.jpg",
+    "date": "2026-09-08",
+    "explanation": "Why are Saturn’s poles geometric? Saturn’s North Pole has been known to be surrounded by a hexagonal (6 sides) cloud since discovery in 1987 in data taken by NASA’s Voyager spacecrafts, which quickly flew past the ringed world in the early 1980s.  Now, recent observations of Saturn by the Hubble Space Telescope reveal a slightly different geometric cloud pattern around the South Pole: a decagon (10 sides).  The geometric boundaries are possibly caused by waves when the fast-moving gas away from the poles interacts with slower-moving gas closer to the poles.  In the featured image composite by the Hubble taken last year, the South Pole of Saturn is marked by an X and surrounded by bands of circulating clouds.  The decagon appears most prominent in the dark inner regions.  The northern hexagon has proven stable for over 40 years, while the stability of the southern decagon will surely remain a topic of research.   APOD's main NASA site is moving: From apod.nasa.gov to science.nasa.gov/apod",
+    "hdurl": "https://apod.nasa.gov/apod/image/2609/SaturnDecagon_Hubble_960.jpg",
     "media_type": "image",
     "service_version": "v1",
-    "title": "The Pelican Nebula in Gas, Dust, and Stars",
-    "url": "https://apod.nasa.gov/apod/image/2609/Pelican_Killion_960.jpg"
+    "title": "Hubble: Decagon Around Saturn's South Pole",
+    "url": "https://apod.nasa.gov/apod/image/2609/SaturnDecagon_Hubble_960.jpg"
   },
   "items": [
     {
@@ -21,7 +20,7 @@
       "title": "Kepler-1753 b — catalog entry updated",
       "summary": "Orbits Kepler-1753: discovered via Transit, 2021, 2.23x Earth radius, 5.59x Earth mass, 16.0-day orbit.",
       "url": "https://exoplanetarchive.ipac.caltech.edu/overview/Kepler-1753",
-      "publishedAt": "2026-09-08T00:20:19.183Z",
+      "publishedAt": "2026-09-08T06:15:45.914Z",
       "tags": [
         "Transit"
       ]
@@ -33,7 +32,7 @@
       "title": "K2-126 b — catalog entry updated",
       "summary": "Orbits K2-126: discovered via Transit, 2017, 1.97x Earth radius, 4.54x Earth mass, 7.4-day orbit.",
       "url": "https://exoplanetarchive.ipac.caltech.edu/overview/K2-126",
-      "publishedAt": "2026-09-08T00:20:19.183Z",
+      "publishedAt": "2026-09-08T06:15:45.914Z",
       "tags": [
         "Transit"
       ]
@@ -45,7 +44,7 @@
       "title": "K2-123 b — catalog entry updated",
       "summary": "Orbits K2-123: discovered via Transit, 2017, 2.76x Earth radius, 8.05x Earth mass, 31.0-day orbit.",
       "url": "https://exoplanetarchive.ipac.caltech.edu/overview/K2-123",
-      "publishedAt": "2026-09-08T00:20:19.183Z",
+      "publishedAt": "2026-09-08T06:15:45.914Z",
       "tags": [
         "Transit"
       ]
@@ -57,7 +56,7 @@
       "title": "Kepler-1176 b — catalog entry updated",
       "summary": "Orbits Kepler-1176: discovered via Transit, 2016, 2.45x Earth radius, 6.57x Earth mass, 24.2-day orbit.",
       "url": "https://exoplanetarchive.ipac.caltech.edu/overview/Kepler-1176",
-      "publishedAt": "2026-09-08T00:20:19.183Z",
+      "publishedAt": "2026-09-08T06:15:45.914Z",
       "tags": [
         "Transit"
       ]
@@ -69,7 +68,7 @@
       "title": "K2-43 b — catalog entry updated",
       "summary": "Orbits K2-43: discovered via Transit, 2016, 4.51x Earth radius, 18.50x Earth mass, 3.5-day orbit.",
       "url": "https://exoplanetarchive.ipac.caltech.edu/overview/K2-43",
-      "publishedAt": "2026-09-08T00:20:19.183Z",
+      "publishedAt": "2026-09-08T06:15:45.914Z",
       "tags": [
         "Transit"
       ]
@@ -81,7 +80,7 @@
       "title": "Kepler-1416 b — catalog entry updated",
       "summary": "Orbits Kepler-1416: discovered via Transit, 2016, 0.88x Earth radius, 0.61x Earth mass, 1.5-day orbit.",
       "url": "https://exoplanetarchive.ipac.caltech.edu/overview/Kepler-1416",
-      "publishedAt": "2026-09-08T00:20:19.183Z",
+      "publishedAt": "2026-09-08T06:15:45.914Z",
       "tags": [
         "Transit"
       ]
@@ -93,7 +92,7 @@
       "title": "Kepler-1399 b — catalog entry updated",
       "summary": "Orbits Kepler-1399: discovered via Transit, 2016, 1.25x Earth radius, 2.10x Earth mass, 1.6-day orbit.",
       "url": "https://exoplanetarchive.ipac.caltech.edu/overview/Kepler-1399",
-      "publishedAt": "2026-09-08T00:20:19.183Z",
+      "publishedAt": "2026-09-08T06:15:45.914Z",
       "tags": [
         "Transit"
       ]
@@ -105,7 +104,7 @@
       "title": "Kepler-770 b — catalog entry updated",
       "summary": "Orbits Kepler-770: discovered via Transit, 2016, 2.30x Earth radius, 5.90x Earth mass, 18.9-day orbit.",
       "url": "https://exoplanetarchive.ipac.caltech.edu/overview/Kepler-770",
-      "publishedAt": "2026-09-08T00:20:19.183Z",
+      "publishedAt": "2026-09-08T06:15:45.914Z",
       "tags": [
         "Transit"
       ]
@@ -117,7 +116,7 @@
       "title": "Kepler-1263 b — catalog entry updated",
       "summary": "Orbits Kepler-1263: discovered via Transit, 2016, 1.14x Earth radius, 1.55x Earth mass, 4.6-day orbit.",
       "url": "https://exoplanetarchive.ipac.caltech.edu/overview/Kepler-1263",
-      "publishedAt": "2026-09-08T00:20:19.183Z",
+      "publishedAt": "2026-09-08T06:15:45.914Z",
       "tags": [
         "Transit"
       ]
@@ -129,7 +128,7 @@
       "title": "Kepler-723 b — catalog entry updated",
       "summary": "Orbits Kepler-723: discovered via Transit, 2016, 12.19x Earth radius, 4.1-day orbit.",
       "url": "https://exoplanetarchive.ipac.caltech.edu/overview/Kepler-723",
-      "publishedAt": "2026-09-08T00:20:19.183Z",
+      "publishedAt": "2026-09-08T06:15:45.914Z",
       "tags": [
         "Transit"
       ]
@@ -141,7 +140,7 @@
       "title": "Kepler-1542 c — catalog entry updated",
       "summary": "Orbits Kepler-1542: discovered via Transit, 2016, 0.65x Earth radius, 0.21x Earth mass, 2.9-day orbit.",
       "url": "https://exoplanetarchive.ipac.caltech.edu/overview/Kepler-1542",
-      "publishedAt": "2026-09-08T00:20:19.183Z",
+      "publishedAt": "2026-09-08T06:15:45.914Z",
       "tags": [
         "Transit"
       ]
@@ -153,7 +152,7 @@
       "title": "K2-85 b — catalog entry updated",
       "summary": "Orbits K2-85: discovered via Transit, 2016, 1.40x Earth radius, 3.20x Earth mass, 0.7-day orbit.",
       "url": "https://exoplanetarchive.ipac.caltech.edu/overview/K2-85",
-      "publishedAt": "2026-09-08T00:20:19.183Z",
+      "publishedAt": "2026-09-08T06:15:45.914Z",
       "tags": [
         "Transit"
       ]
@@ -165,7 +164,7 @@
       "title": "Kepler-368 c — catalog entry updated",
       "summary": "Orbits Kepler-368: discovered via Transit, 2014, 3.88x Earth radius, 14.30x Earth mass, 72.4-day orbit.",
       "url": "https://exoplanetarchive.ipac.caltech.edu/overview/Kepler-368",
-      "publishedAt": "2026-09-08T00:20:19.183Z",
+      "publishedAt": "2026-09-08T06:15:45.914Z",
       "tags": [
         "Transit"
       ]
@@ -177,7 +176,7 @@
       "title": "HAT-P-8 b — catalog entry updated",
       "summary": "Orbits HAT-P-8: discovered via Transit, 2008, 15.69x Earth radius, 406.82x Earth mass, 3.1-day orbit.",
       "url": "https://exoplanetarchive.ipac.caltech.edu/overview/HAT-P-8",
-      "publishedAt": "2026-09-08T00:20:19.183Z",
+      "publishedAt": "2026-09-08T06:15:45.914Z",
       "tags": [
         "Transit"
       ]
@@ -189,9 +188,35 @@
       "title": "HD 2039 b — catalog entry updated",
       "summary": "Orbits HD 2039: discovered via Radial Velocity, 2002, 12.70x Earth radius, 1999.15x Earth mass, 1120.0-day orbit.",
       "url": "https://exoplanetarchive.ipac.caltech.edu/overview/HD_2039",
-      "publishedAt": "2026-09-08T00:20:19.183Z",
+      "publishedAt": "2026-09-08T06:15:45.914Z",
       "tags": [
         "Radial Velocity"
+      ]
+    },
+    {
+      "id": "bc70b2ca3553",
+      "agency": "nasa",
+      "source": "NASA breaking news",
+      "title": "APOD: 2026 September 8 – Hubble: Decagon Around Saturn’s South Pole",
+      "summary": "APOD Science APOD APOD: 2026 September 8 –… Today’s APOD Archive Submissions Index Search Calendar RSS Education About Discuss APOD Astronomy Picture of the Day Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a professional…",
+      "url": "https://science.nasa.gov/image-article/apod-2026-september-8-hubble-decagon-around-saturns-south-pole/",
+      "publishedAt": "2026-09-08T04:05:00.000Z",
+      "tags": [
+        "APOD"
+      ]
+    },
+    {
+      "id": "7b4333f7e0cd",
+      "agency": "nasa",
+      "source": "NASA breaking news",
+      "title": "The Otherworldly Geology of Vasquez Rocks",
+      "summary": "Layers of sedimentary rock that jut from the Soledad Basin at surprising angles have long enthralled television and film producers, including the team behind Star Trek.",
+      "url": "https://science.nasa.gov/earth/earth-observatory/the-otherworldly-geology-of-vasquez-rocks/",
+      "publishedAt": "2026-09-08T04:01:00.000Z",
+      "tags": [
+        "Earth Observatory",
+        "Landsat 9",
+        "Topography"
       ]
     },
     {
@@ -544,31 +569,6 @@
         "Deep Space Climate Observatory (DSCOVR)",
         "Earth Observatory",
         "Hurricanes & Typhoons"
-      ]
-    },
-    {
-      "id": "86220f3d6792",
-      "agency": "nasa",
-      "source": "NASA breaking news",
-      "title": "NASA to Cover Progress 96 Spacecraft Launch, Docking",
-      "summary": "NASA will provide live coverage of the launch and docking of a Roscosmos cargo spacecraft carrying about three tons of food, fuel, and supplies for the crew aboard the International Space Station. The unpiloted Progress 96 resupply spacecraft is scheduled to launch at 12:15 p.m. EDT (9:15 p.m. Baikonur time), Wednesday…",
-      "url": "https://www.nasa.gov/news-release/nasa-to-cover-progress-96-spacecraft-launch-docking/",
-      "publishedAt": "2026-09-03T17:06:00.000Z",
-      "tags": [
-        "International Space Station (ISS)",
-        "ISS Research"
-      ]
-    },
-    {
-      "id": "1d15290f4b3f",
-      "agency": "nasa",
-      "source": "NASA breaking news",
-      "title": "Curiosity Blog, Sols 4988-4994: More New Tricks for an Old Dog",
-      "summary": "Written by Michelle Minitti, MAHLI Deputy Principal Investigator Earth planning date: Friday, Aug. 21, 2026 After Curiosity’s 14 years on the surface, Mars continues to surprise. Both of our workspaces this week contained features unlike quite anything we have seen in the past — broad, shallow pits (like the one in the…",
-      "url": "https://science.nasa.gov/blog/curiosity-blog-sols-4988-4994-more-new-tricks-for-an-old-dog/",
-      "publishedAt": "2026-09-03T15:59:48.000Z",
-      "tags": [
-        "Blogs"
       ]
     },
     {
