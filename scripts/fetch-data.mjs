@@ -83,7 +83,7 @@ async function fetchApod() {
 // every naming edge case — if a link 404s, the archive's own search page
 // (linked as a fallback in the app) always works.
 async function fetchExoplanets() {
-  const query = "SELECT+TOP+15+pl_name,hostname,disc_year,discoverymethod,pl_orbper,pl_rade,pl_bmasse+FROM+pscomppars+ORDER+BY+disc_year+DESC";
+  const query = "SELECT+TOP+15+pl_name,hostname,disc_year,discoverymethod,pl_orbper,pl_rade,pl_bmasse,ra,dec+FROM+pscomppars+ORDER+BY+disc_year+DESC";
   const url = `https://exoplanetarchive.ipac.caltech.edu/TAP/sync?query=${query}&format=json`;
   try {
     const res = await fetch(url, { headers: { "User-Agent": "AstroHub-Ingest/1.0" } });
@@ -105,6 +105,8 @@ async function fetchExoplanets() {
       return {
         id: hashId(`exo:${row.pl_name}:${row.rowupdate}`),
         agency: "exo",
+      ra: row.ra,
+      dec: row.dec,
         source: "NASA Exoplanet Archive",
         title: `${row.pl_name} — catalog entry updated`,
         summary: `Orbits ${row.hostname}${facts.length ? ": " + facts.join(", ") : ""}.`,

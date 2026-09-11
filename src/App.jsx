@@ -241,14 +241,17 @@ function raDecToXY(raHours, decDeg, cx, cy, rMax) {
   return { x: cx + r * Math.cos(angle), y: cy + r * Math.sin(angle) };
 }
 function parseRA(raStr) {
-  if (!raStr || raStr === "—") return null;
-  const m = raStr.match(/(\d+)h\s*(\d+)m/);
+  if (raStr == null || raStr === "—") return null;
+  if (typeof raStr === "number" && Number.isFinite(raStr)) return raStr / 15;
+  const value = String(raStr).trim();
+  const m = value.match(/(\d+)h\s*(\d+)m/);
   if (!m) return null;
   return parseInt(m[1], 10) + parseInt(m[2], 10) / 60;
 }
 function parseDec(decStr) {
-  if (!decStr || decStr === "—") return null;
-  return parseInt(decStr, 10);
+  if (decStr == null || decStr === "—") return null;
+  if (typeof decStr === "number" && Number.isFinite(decStr)) return decStr;
+  return parseFloat(String(decStr).trim());
 }
 
 export default function AstroHub() {
@@ -285,8 +288,8 @@ export default function AstroHub() {
           summary: item.summary,
           detail: null,
           tag: item.agency === "arxiv" ? "Preprint" : item.agency === "exo" ? "Catalog update" : "Press release",
-          ra: "—",
-          dec: "—",
+          ra: item.ra ?? "—",
+          dec: item.dec ?? "—",
           source: item.url,
           sourceLabel: item.source,
         }));
@@ -679,7 +682,8 @@ function LiveApod() {
       })
       .then((json) => {
         if (cancelled) return;
-        setData(json.apod);
+        if (!json.apod) { setError("NASA Picture of the Day is temporarily unavailable."); setStatus("error"); return; }
+    setData(json.apod);
         setStatus("success");
       })
       .catch((err) => {
@@ -741,6 +745,7 @@ function SkyMap({ objects }) {
   const cx = size / 2;
   const cy = size / 2;
   const rMax = size / 2 - 34;
+  const [selectedObject, setSelectedObject] = useState(null);
 
   return (
     <svg width={size} height={size} viewBox={`0 0 ${size} ${size}`}>
@@ -764,8 +769,8 @@ function SkyMap({ objects }) {
         const { x, y } = raDecToXY(ra, dec, cx, cy, rMax);
         const agency = AGENCIES.find((a) => a.id === obj.agency);
         return (
-          <g key={obj.id}>
-            <circle cx={x} cy={y} r={5} fill={agency.color} opacity="0.9" />
+          <g key={obj.id} onClick={() => setSelectedObject(obj)} style={{ cursor: "pointer" }}>
+            <circle cx={x} cy={y} r={selectedObject?.id === obj.id ? 8 : 5} fill={agency.color} opacity="0.9" />
             <circle cx={x} cy={y} r={9} fill="none" stroke={agency.color} strokeWidth="1" opacity="0.35" />
           </g>
         );
