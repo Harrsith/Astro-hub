@@ -8,7 +8,7 @@
 // README.md "Known limitations".
 
 import Parser from "rss-parser";
-import { writeFile, mkdir } from "node:fs/promises";
+import { writeFile, mkdir, readFile } from "node:fs/promises";
 import { createHash } from "node:crypto";
 
 const NASA_API_KEY = process.env.NASA_API_KEY || "DEMO_KEY";
@@ -65,11 +65,60 @@ async function fetchFeed(source) {
 
 async function fetchApod() {
   try {
-    const res = await fetch(`https://api.nasa.gov/planetary/apod?api_key=${NASA_API_KEY}`);
-    if (!res.ok) throw new Error(`HTTP ${res.status}`);
-    return await res.json();
+    const res = await fetch(
+      `https://api.nasa.gov/planetary/apod?api_key=${NASA_API_KEY}`,
+      { headers: { "User-Agent": "AstroHub-Ingest/1.0" } }
+    );
+    if (res.ok) {
+      return await res.json();
+    }
+    console.warn(`[fetch-data] APOD API returned HTTP ${res.status}; trying NASA's official APOD page.`);
   } catch (err) {
-    console.error(`[fetch-data] Failed to fetch APOD: ${err.message}`);
+    console.warn(`[fetch-data] APOD API failed: ${err.message}; trying NASA's official APOD page.`);
+  }
+
+  try {
+    const res = await fetch("https://apod.nasa.gov/apod/ap.html", {
+      headers: { "User-Agent": "AstroHub-Ingest/1.0" }
+    });
+    if (!res.ok) throw new Error(`HTTP ${res.status}`);
+
+    const html = await res.text();
+
+    const titleMatch = html.match(/<b>\s*([^<]+?)\s*<\/b>/i);
+    const imageMatch = html.match(/<a href="([^"]+\.(?:jpg|jpeg|png|gif))"/i);
+    const dateMatch = html.match(/(\d{4})\s+([A-Za-z]+)\s+(\d{1,2})/);
+
+    const title = titleMatch?.[1]?.trim();
+    const imagePath = imageMatch?.[1];
+    const dateParts = dateMatch?.slice(1);
+
+    if (!title || !imagePath || !dateParts) {
+      throw new Error("Could not parse NASA APOD page");
+    }
+
+    const [, monthName, day] = dateParts;
+    const monthMap = {
+      January: 1, February: 2, March: 3, April: 4, May: 5, June: 6,
+      July: 7, August: 8, September: 9, October: 10, November: 11, December: 12
+    };
+
+    const month = String(monthMap[monthName]).padStart(2, "0");
+    const date = `${dateParts[0]}-${month}-${String(day).padStart(2, "0")}`;
+
+    const imageUrl = new URL(imagePath, "https://apod.nasa.gov/apod/").href;
+
+    return {
+      title,
+      date,
+      url: imageUrl,
+      hdurl: imageUrl,
+      media_type: "image",
+      explanation: "Today's Astronomy Picture of the Day from NASA.",
+      copyright: ""
+    };
+  } catch (err) {
+    console.error(`[fetch-data] Failed to fetch APOD from API and official page: ${err.message}`);
     return null;
   }
 }
@@ -149,7 +198,8 @@ async function main() {
     (a, b) => new Date(b.publishedAt) - new Date(a.publishedAt)
   );
 
-  const apod = await fetchApod();
+  const previousPayload = await readFile("public/data.json", "utf8").then(JSON.parse).catch(() => null);
+  const apod = await fetchApod() || previousPayload?.apod || null;
   const totalSources = SOURCES.length + 1; // +1 for the Exoplanet Archive
 
   const payload = {
