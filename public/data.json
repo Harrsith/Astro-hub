@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-14T00:18:19.011Z",
+  "generatedAt": "2026-09-14T06:18:07.782Z",
   "sourceCount": 5,
   "itemCount": 45,
   "errors": [
@@ -9,13 +9,13 @@
     }
   ],
   "apod": {
-    "copyright": "Paolo Girotti",
-    "date": "2026-09-13",
-    "explanation": "This sight was worth getting out of bed early.  Just over four years ago, Comet C/2020 F3 (NEOWISE) rose before dawn to the delight of northern sky enthusiasts awake that early. Up before sunrise on July 8th, the featured photographer was able to capture in dramatic fashion one of the few comets visible to the unaided eye this century, an inner-Solar System intruder that has become known as the Great Comet of 2020.  The resulting video detailed Comet NEOWISE from Italy rising over the Adriatic Sea. The featured time-lapse video combines over 240 images taken over 30 minutes.  The comet was seen rising through a foreground of bright and undulating noctilucent clouds, and before a background of distant stars.  Comet NEOWISE remained unexpectedly bright for over a month, with its ion and dust tails found to emanate from a nucleus spanning about five kilometers across.   APOD's main NASA site is moving: From apod.nasa.gov to science.nasa.gov/apod",
-    "media_type": "video",
+    "date": "2026-09-14",
+    "explanation": "The hydrogen in your body and present in every molecule of water came from the Big Bang.  There are no other appreciable sources of hydrogen in the universe.  The carbon in your body was made by nuclear fusion in the interior of stars, as was the oxygen.  Much of the iron in your body was made during supernovas of stars that occurred long ago and far away.  The gold in your jewelry was likely made from neutron stars during collisions that may have been visible as short-duration gamma-ray bursts or gravitational wave events. Elements like phosphorus and copper are present in our bodies in only small amounts but are essential to the functioning of all known life.  The featured periodic table is color coded to indicate humanity's best guess as to the nuclear origin of all known elements.  The sites of nuclear creation of some elements, such as copper, are not really well known and are continuing topics of observational and computational research.   APOD's main NASA site is moving: From apod.nasa.gov to science.nasa.gov/apod",
+    "hdurl": "https://apod.nasa.gov/apod/image/2609/ElementOrigins2_svs_6000.jpg",
+    "media_type": "image",
     "service_version": "v1",
-    "title": "Comet NEOWISE Rising over the Adriatic Sea",
-    "url": "https://apod.nasa.gov/apod/image/2609/NoctilucentNeowise_Girotti.mp4"
+    "title": "Where Your Elements Came From",
+    "url": "https://apod.nasa.gov/apod/image/2609/ElementOrigins2_svs_1080.jpg"
   },
   "items": [
     {
@@ -27,7 +27,7 @@
       "title": "Kepler-1753 b — catalog entry updated",
       "summary": "Orbits Kepler-1753: discovered via Transit, 2021, 2.23x Earth radius, 5.59x Earth mass, 16.0-day orbit.",
       "url": "https://exoplanetarchive.ipac.caltech.edu/overview/Kepler-1753",
-      "publishedAt": "2026-09-14T00:18:05.208Z",
+      "publishedAt": "2026-09-14T06:17:52.186Z",
       "tags": [
         "Transit"
       ]
@@ -41,7 +41,7 @@
       "title": "K2-126 b — catalog entry updated",
       "summary": "Orbits K2-126: discovered via Transit, 2017, 1.97x Earth radius, 4.54x Earth mass, 7.4-day orbit.",
       "url": "https://exoplanetarchive.ipac.caltech.edu/overview/K2-126",
-      "publishedAt": "2026-09-14T00:18:05.208Z",
+      "publishedAt": "2026-09-14T06:17:52.186Z",
       "tags": [
         "Transit"
       ]
@@ -55,7 +55,7 @@
       "title": "K2-123 b — catalog entry updated",
       "summary": "Orbits K2-123: discovered via Transit, 2017, 2.76x Earth radius, 8.05x Earth mass, 31.0-day orbit.",
       "url": "https://exoplanetarchive.ipac.caltech.edu/overview/K2-123",
-      "publishedAt": "2026-09-14T00:18:05.208Z",
+      "publishedAt": "2026-09-14T06:17:52.186Z",
       "tags": [
         "Transit"
       ]
@@ -69,7 +69,7 @@
       "title": "Kepler-1176 b — catalog entry updated",
       "summary": "Orbits Kepler-1176: discovered via Transit, 2016, 2.45x Earth radius, 6.57x Earth mass, 24.2-day orbit.",
       "url": "https://exoplanetarchive.ipac.caltech.edu/overview/Kepler-1176",
-      "publishedAt": "2026-09-14T00:18:05.208Z",
+      "publishedAt": "2026-09-14T06:17:52.186Z",
       "tags": [
         "Transit"
       ]
@@ -83,7 +83,7 @@
       "title": "K2-43 b — catalog entry updated",
       "summary": "Orbits K2-43: discovered via Transit, 2016, 4.51x Earth radius, 18.50x Earth mass, 3.5-day orbit.",
       "url": "https://exoplanetarchive.ipac.caltech.edu/overview/K2-43",
-      "publishedAt": "2026-09-14T00:18:05.208Z",
+      "publishedAt": "2026-09-14T06:17:52.186Z",
       "tags": [
         "Transit"
       ]
@@ -97,7 +97,7 @@
       "title": "Kepler-1416 b — catalog entry updated",
       "summary": "Orbits Kepler-1416: discovered via Transit, 2016, 0.88x Earth radius, 0.61x Earth mass, 1.5-day orbit.",
       "url": "https://exoplanetarchive.ipac.caltech.edu/overview/Kepler-1416",
-      "publishedAt": "2026-09-14T00:18:05.208Z",
+      "publishedAt": "2026-09-14T06:17:52.186Z",
       "tags": [
         "Transit"
       ]
@@ -111,7 +111,7 @@
       "title": "Kepler-1399 b — catalog entry updated",
       "summary": "Orbits Kepler-1399: discovered via Transit, 2016, 1.25x Earth radius, 2.10x Earth mass, 1.6-day orbit.",
       "url": "https://exoplanetarchive.ipac.caltech.edu/overview/Kepler-1399",
-      "publishedAt": "2026-09-14T00:18:05.208Z",
+      "publishedAt": "2026-09-14T06:17:52.186Z",
       "tags": [
         "Transit"
       ]
@@ -125,7 +125,7 @@
       "title": "Kepler-770 b — catalog entry updated",
       "summary": "Orbits Kepler-770: discovered via Transit, 2016, 2.30x Earth radius, 5.90x Earth mass, 18.9-day orbit.",
       "url": "https://exoplanetarchive.ipac.caltech.edu/overview/Kepler-770",
-      "publishedAt": "2026-09-14T00:18:05.208Z",
+      "publishedAt": "2026-09-14T06:17:52.186Z",
       "tags": [
         "Transit"
       ]
@@ -139,7 +139,7 @@
       "title": "Kepler-1263 b — catalog entry updated",
       "summary": "Orbits Kepler-1263: discovered via Transit, 2016, 1.14x Earth radius, 1.55x Earth mass, 4.6-day orbit.",
       "url": "https://exoplanetarchive.ipac.caltech.edu/overview/Kepler-1263",
-      "publishedAt": "2026-09-14T00:18:05.208Z",
+      "publishedAt": "2026-09-14T06:17:52.186Z",
       "tags": [
         "Transit"
       ]
@@ -153,7 +153,7 @@
       "title": "Kepler-723 b — catalog entry updated",
       "summary": "Orbits Kepler-723: discovered via Transit, 2016, 12.19x Earth radius, 4.1-day orbit.",
       "url": "https://exoplanetarchive.ipac.caltech.edu/overview/Kepler-723",
-      "publishedAt": "2026-09-14T00:18:05.208Z",
+      "publishedAt": "2026-09-14T06:17:52.186Z",
       "tags": [
         "Transit"
       ]
@@ -167,7 +167,7 @@
       "title": "Kepler-1542 c — catalog entry updated",
       "summary": "Orbits Kepler-1542: discovered via Transit, 2016, 0.65x Earth radius, 0.21x Earth mass, 2.9-day orbit.",
       "url": "https://exoplanetarchive.ipac.caltech.edu/overview/Kepler-1542",
-      "publishedAt": "2026-09-14T00:18:05.208Z",
+      "publishedAt": "2026-09-14T06:17:52.186Z",
       "tags": [
         "Transit"
       ]
@@ -181,7 +181,7 @@
       "title": "K2-85 b — catalog entry updated",
       "summary": "Orbits K2-85: discovered via Transit, 2016, 1.40x Earth radius, 3.20x Earth mass, 0.7-day orbit.",
       "url": "https://exoplanetarchive.ipac.caltech.edu/overview/K2-85",
-      "publishedAt": "2026-09-14T00:18:05.208Z",
+      "publishedAt": "2026-09-14T06:17:52.186Z",
       "tags": [
         "Transit"
       ]
@@ -195,7 +195,7 @@
       "title": "Kepler-368 c — catalog entry updated",
       "summary": "Orbits Kepler-368: discovered via Transit, 2014, 3.88x Earth radius, 14.30x Earth mass, 72.4-day orbit.",
       "url": "https://exoplanetarchive.ipac.caltech.edu/overview/Kepler-368",
-      "publishedAt": "2026-09-14T00:18:05.208Z",
+      "publishedAt": "2026-09-14T06:17:52.186Z",
       "tags": [
         "Transit"
       ]
@@ -209,7 +209,7 @@
       "title": "HAT-P-8 b — catalog entry updated",
       "summary": "Orbits HAT-P-8: discovered via Transit, 2008, 15.69x Earth radius, 406.82x Earth mass, 3.1-day orbit.",
       "url": "https://exoplanetarchive.ipac.caltech.edu/overview/HAT-P-8",
-      "publishedAt": "2026-09-14T00:18:05.208Z",
+      "publishedAt": "2026-09-14T06:17:52.186Z",
       "tags": [
         "Transit"
       ]
@@ -223,9 +223,36 @@
       "title": "HD 2039 b — catalog entry updated",
       "summary": "Orbits HD 2039: discovered via Radial Velocity, 2002, 12.70x Earth radius, 1999.15x Earth mass, 1120.0-day orbit.",
       "url": "https://exoplanetarchive.ipac.caltech.edu/overview/HD_2039",
-      "publishedAt": "2026-09-14T00:18:05.208Z",
+      "publishedAt": "2026-09-14T06:17:52.186Z",
       "tags": [
         "Radial Velocity"
+      ]
+    },
+    {
+      "id": "c4f5f74478e0",
+      "agency": "nasa",
+      "source": "NASA breaking news",
+      "title": "APOD: 2026 September 14 – Where Your Elements Came From",
+      "summary": "APOD Science APOD APOD: 2026 September 14 –… Today’s APOD Archive Submissions Index Search Calendar RSS Education About Discuss APOD Astronomy Picture of the Day Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a professiona…",
+      "url": "https://science.nasa.gov/image-article/apod-2026-september-14-where-your-elements-came-from/",
+      "publishedAt": "2026-09-14T04:05:00.000Z",
+      "tags": [
+        "APOD"
+      ]
+    },
+    {
+      "id": "42b2e0b1ccd4",
+      "agency": "nasa",
+      "source": "NASA breaking news",
+      "title": "An Early Look at Fall Color in Canada",
+      "summary": "Reds, yellows, and oranges are already sweeping across tundra landscapes in Nunavut.",
+      "url": "https://science.nasa.gov/earth/earth-observatory/an-early-look-at-fall-color-in-canada/",
+      "publishedAt": "2026-09-14T04:00:00.000Z",
+      "tags": [
+        "Earth Observatory",
+        "Land Cover",
+        "Landsat 9",
+        "Vegetation"
       ]
     },
     {
@@ -332,34 +359,6 @@
       "tags": [
         "Artemis Accords",
         "Office of International and Interagency Relations (OIIR)"
-      ]
-    },
-    {
-      "id": "d692cc0bd259",
-      "agency": "nasa",
-      "source": "NASA breaking news",
-      "title": "NASA Answers President’s Call to Establish United States Space Academy",
-      "summary": "Less than two weeks after an Executive Order was signed to create the first United States Space Academy, NASA-led work is in full swing to make the academy a reality and shape the future of America’s aerospace workforce and leadership. NASA Administrator Jared Isaacman chaired the first Presidential Commission on the U…",
-      "url": "https://www.nasa.gov/news-release/nasa-answers-presidents-call-to-establish-united-states-space-academy/",
-      "publishedAt": "2026-09-10T20:26:52.000Z",
-      "tags": [
-        "Leadership",
-        "General"
-      ]
-    },
-    {
-      "id": "992049287590",
-      "agency": "nasa",
-      "source": "NASA breaking news",
-      "title": "NASA’s Life-Saving Technology Where Cell Signals Can’t Go",
-      "summary": "Search and rescue technology developed in part by NASA saved five lives",
-      "url": "https://www.nasa.gov/technology/tech-transfer-spinoffs/nasas-life-saving-technology-where-cell-signals-cant-go/",
-      "publishedAt": "2026-09-10T20:12:39.000Z",
-      "tags": [
-        "Technology Transfer & Spinoffs",
-        "Research and Technology Mission Directorate",
-        "Spinoffs",
-        "Technology Transfer"
       ]
     },
     {
