@@ -1,13 +1,8 @@
 {
-  "generatedAt": "2026-09-15T12:15:40.384Z",
+  "generatedAt": "2026-09-15T18:13:11.115Z",
   "sourceCount": 5,
-  "itemCount": 45,
-  "errors": [
-    {
-      "source": "arXiv astro-ph (new submissions)",
-      "message": "Status code 429"
-    }
-  ],
+  "itemCount": 70,
+  "errors": [],
   "apod": {
     "copyright": "Arnaud Mariat",
     "date": "2026-09-15",
@@ -28,7 +23,7 @@
       "title": "Kepler-1753 b — catalog entry updated",
       "summary": "Orbits Kepler-1753: discovered via Transit, 2021, 2.23x Earth radius, 5.59x Earth mass, 16.0-day orbit.",
       "url": "https://exoplanetarchive.ipac.caltech.edu/overview/Kepler-1753",
-      "publishedAt": "2026-09-15T12:15:30.799Z",
+      "publishedAt": "2026-09-15T18:13:10.722Z",
       "tags": [
         "Transit"
       ]
@@ -42,7 +37,7 @@
       "title": "K2-126 b — catalog entry updated",
       "summary": "Orbits K2-126: discovered via Transit, 2017, 1.97x Earth radius, 4.54x Earth mass, 7.4-day orbit.",
       "url": "https://exoplanetarchive.ipac.caltech.edu/overview/K2-126",
-      "publishedAt": "2026-09-15T12:15:30.799Z",
+      "publishedAt": "2026-09-15T18:13:10.722Z",
       "tags": [
         "Transit"
       ]
@@ -56,7 +51,7 @@
       "title": "K2-123 b — catalog entry updated",
       "summary": "Orbits K2-123: discovered via Transit, 2017, 2.76x Earth radius, 8.05x Earth mass, 31.0-day orbit.",
       "url": "https://exoplanetarchive.ipac.caltech.edu/overview/K2-123",
-      "publishedAt": "2026-09-15T12:15:30.799Z",
+      "publishedAt": "2026-09-15T18:13:10.722Z",
       "tags": [
         "Transit"
       ]
@@ -70,7 +65,7 @@
       "title": "Kepler-1176 b — catalog entry updated",
       "summary": "Orbits Kepler-1176: discovered via Transit, 2016, 2.45x Earth radius, 6.57x Earth mass, 24.2-day orbit.",
       "url": "https://exoplanetarchive.ipac.caltech.edu/overview/Kepler-1176",
-      "publishedAt": "2026-09-15T12:15:30.799Z",
+      "publishedAt": "2026-09-15T18:13:10.722Z",
       "tags": [
         "Transit"
       ]
@@ -84,7 +79,7 @@
       "title": "K2-43 b — catalog entry updated",
       "summary": "Orbits K2-43: discovered via Transit, 2016, 4.51x Earth radius, 18.50x Earth mass, 3.5-day orbit.",
       "url": "https://exoplanetarchive.ipac.caltech.edu/overview/K2-43",
-      "publishedAt": "2026-09-15T12:15:30.799Z",
+      "publishedAt": "2026-09-15T18:13:10.722Z",
       "tags": [
         "Transit"
       ]
@@ -98,7 +93,7 @@
       "title": "Kepler-1416 b — catalog entry updated",
       "summary": "Orbits Kepler-1416: discovered via Transit, 2016, 0.88x Earth radius, 0.61x Earth mass, 1.5-day orbit.",
       "url": "https://exoplanetarchive.ipac.caltech.edu/overview/Kepler-1416",
-      "publishedAt": "2026-09-15T12:15:30.799Z",
+      "publishedAt": "2026-09-15T18:13:10.722Z",
       "tags": [
         "Transit"
       ]
@@ -112,7 +107,7 @@
       "title": "Kepler-1399 b — catalog entry updated",
       "summary": "Orbits Kepler-1399: discovered via Transit, 2016, 1.25x Earth radius, 2.10x Earth mass, 1.6-day orbit.",
       "url": "https://exoplanetarchive.ipac.caltech.edu/overview/Kepler-1399",
-      "publishedAt": "2026-09-15T12:15:30.799Z",
+      "publishedAt": "2026-09-15T18:13:10.722Z",
       "tags": [
         "Transit"
       ]
@@ -126,7 +121,7 @@
       "title": "Kepler-770 b — catalog entry updated",
       "summary": "Orbits Kepler-770: discovered via Transit, 2016, 2.30x Earth radius, 5.90x Earth mass, 18.9-day orbit.",
       "url": "https://exoplanetarchive.ipac.caltech.edu/overview/Kepler-770",
-      "publishedAt": "2026-09-15T12:15:30.799Z",
+      "publishedAt": "2026-09-15T18:13:10.722Z",
       "tags": [
         "Transit"
       ]
@@ -140,7 +135,7 @@
       "title": "Kepler-1263 b — catalog entry updated",
       "summary": "Orbits Kepler-1263: discovered via Transit, 2016, 1.14x Earth radius, 1.55x Earth mass, 4.6-day orbit.",
       "url": "https://exoplanetarchive.ipac.caltech.edu/overview/Kepler-1263",
-      "publishedAt": "2026-09-15T12:15:30.799Z",
+      "publishedAt": "2026-09-15T18:13:10.722Z",
       "tags": [
         "Transit"
       ]
@@ -154,7 +149,7 @@
       "title": "Kepler-723 b — catalog entry updated",
       "summary": "Orbits Kepler-723: discovered via Transit, 2016, 12.19x Earth radius, 4.1-day orbit.",
       "url": "https://exoplanetarchive.ipac.caltech.edu/overview/Kepler-723",
-      "publishedAt": "2026-09-15T12:15:30.799Z",
+      "publishedAt": "2026-09-15T18:13:10.722Z",
       "tags": [
         "Transit"
       ]
@@ -168,7 +163,7 @@
       "title": "Kepler-1542 c — catalog entry updated",
       "summary": "Orbits Kepler-1542: discovered via Transit, 2016, 0.65x Earth radius, 0.21x Earth mass, 2.9-day orbit.",
       "url": "https://exoplanetarchive.ipac.caltech.edu/overview/Kepler-1542",
-      "publishedAt": "2026-09-15T12:15:30.799Z",
+      "publishedAt": "2026-09-15T18:13:10.722Z",
       "tags": [
         "Transit"
       ]
@@ -182,7 +177,7 @@
       "title": "K2-85 b — catalog entry updated",
       "summary": "Orbits K2-85: discovered via Transit, 2016, 1.40x Earth radius, 3.20x Earth mass, 0.7-day orbit.",
       "url": "https://exoplanetarchive.ipac.caltech.edu/overview/K2-85",
-      "publishedAt": "2026-09-15T12:15:30.799Z",
+      "publishedAt": "2026-09-15T18:13:10.722Z",
       "tags": [
         "Transit"
       ]
@@ -196,7 +191,7 @@
       "title": "Kepler-368 c — catalog entry updated",
       "summary": "Orbits Kepler-368: discovered via Transit, 2014, 3.88x Earth radius, 14.30x Earth mass, 72.4-day orbit.",
       "url": "https://exoplanetarchive.ipac.caltech.edu/overview/Kepler-368",
-      "publishedAt": "2026-09-15T12:15:30.799Z",
+      "publishedAt": "2026-09-15T18:13:10.722Z",
       "tags": [
         "Transit"
       ]
@@ -210,7 +205,7 @@
       "title": "HAT-P-8 b — catalog entry updated",
       "summary": "Orbits HAT-P-8: discovered via Transit, 2008, 15.69x Earth radius, 406.82x Earth mass, 3.1-day orbit.",
       "url": "https://exoplanetarchive.ipac.caltech.edu/overview/HAT-P-8",
-      "publishedAt": "2026-09-15T12:15:30.799Z",
+      "publishedAt": "2026-09-15T18:13:10.722Z",
       "tags": [
         "Transit"
       ]
@@ -224,9 +219,70 @@
       "title": "HD 2039 b — catalog entry updated",
       "summary": "Orbits HD 2039: discovered via Radial Velocity, 2002, 12.70x Earth radius, 1999.15x Earth mass, 1120.0-day orbit.",
       "url": "https://exoplanetarchive.ipac.caltech.edu/overview/HD_2039",
-      "publishedAt": "2026-09-15T12:15:30.799Z",
+      "publishedAt": "2026-09-15T18:13:10.722Z",
       "tags": [
         "Radial Velocity"
+      ]
+    },
+    {
+      "id": "ed76c72aa9f4",
+      "agency": "nasa",
+      "source": "NASA breaking news",
+      "title": "Celebrate International Observe the Moon Night with NASA",
+      "summary": "In April, the world watched as four humans circled the Moon for the first time in over 50 years with NASA’s Artemis II mission. On Saturday, Sept. 19, the public is invited to look up again with NASA events across the country, including the International Observe the Moon Night celebration held at NASA’s Goddard Space […",
+      "url": "https://www.nasa.gov/centers-and-facilities/goddard/celebrate-international-observe-the-moon-night-with-nasa/",
+      "publishedAt": "2026-09-15T16:15:12.000Z",
+      "tags": [
+        "Goddard Space Flight Center",
+        "Earth's Moon",
+        "Planetary Science",
+        "The Solar System"
+      ]
+    },
+    {
+      "id": "a387088486f4",
+      "agency": "nasa",
+      "source": "NASA breaking news",
+      "title": "Artemis III Crew Visits NASA Kennedy’s Vehicle Assembly Building",
+      "summary": "NASA astronaut Randy Bresnik (left) and ESA (European Space Agency) astronaut Luca Parmitano view progress on the solid rocket booster integration in High Bay 3 inside the Vehicle Assembly Building at NASA’s Kennedy Space Center in Florida on Wednesday, Sept. 2, 2026. Bresnik, Parmitano, and NASA astronauts Andre Dougl…",
+      "url": "https://www.nasa.gov/image-article/artemis-iii-crew-visits-nasa-kennedys-vehicle-assembly-building/",
+      "publishedAt": "2026-09-15T16:14:24.000Z",
+      "tags": [
+        "Artemis 3",
+        "Kennedy Space Center"
+      ]
+    },
+    {
+      "id": "b0968df046bb",
+      "agency": "nasa",
+      "source": "NASA breaking news",
+      "title": "NASA’s Webb Reveals Dynamic Panorama of Star Formation",
+      "summary": "This starry view of the nearby star-forming region IC 348 is one of the largest images released to date from NASA’s James Webb Space Telescope. Using Webb, astronomers searched IC 348 for brown dwarfs, which are less massive than the smallest stars. The researchers discovered brown dwarfs just twice the mass of Jupiter…",
+      "url": "https://science.nasa.gov/missions/webb/nasas-webb-reveals-dynamic-panorama-of-star-formation/",
+      "publishedAt": "2026-09-15T14:00:00.000Z",
+      "tags": [
+        "Astrophysics",
+        "Astrophysics Division",
+        "Brown Dwarfs",
+        "Goddard Space Flight Center",
+        "James Webb Space Telescope (JWST)",
+        "Nebulae",
+        "Reflection Nebulae",
+        "Science & Research",
+        "Stars",
+        "The Universe"
+      ]
+    },
+    {
+      "id": "509df50bc51a",
+      "agency": "nasa",
+      "source": "NASA breaking news",
+      "title": "Travel",
+      "summary": "The NSSC provides travel reimbursement services for all authorized Agency travel including: domestic, foreign, local, ETDY, and Change of Station (COS). References Federal Travel Regulations (FTR) Traveler Extended TDY and Taxes Domestic Per Diem Rates Foreign Per Diem Rates Change of Station NSSC Travel now has anothe…",
+      "url": "https://www.nasa.gov/centers-and-facilities/nssc/travel/",
+      "publishedAt": "2026-09-15T13:38:56.000Z",
+      "tags": [
+        "NASA Shared Services Center"
       ]
     },
     {
@@ -269,6 +325,156 @@
       ]
     },
     {
+      "id": "bc94be0c0aaa",
+      "agency": "arxiv",
+      "source": "arXiv astro-ph (new submissions)",
+      "title": "Less isn't more: Cosmological bounds on the neutrino masses are robust to changes in the neutrino abundance",
+      "summary": "We investigate how neutrino-mass constraints from cosmology depend on the assumed thermal history of the universe. Photon injection after neutrino decoupling would decrease the neutrino abundance inferred from the temperature of the cosmic microwave background (CMB), potentially loosening the upper limit on their masse…",
+      "url": "https://arxiv.org/abs/2609.15970v1",
+      "publishedAt": "2026-09-14T17:55:48.000Z",
+      "tags": []
+    },
+    {
+      "id": "d7507ea3604c",
+      "agency": "arxiv",
+      "source": "arXiv astro-ph (new submissions)",
+      "title": "Constraining quantum-gravity predictions for evolving dark energy",
+      "summary": "We confront a class of dark-energy equations of state emerging from group field theory (GFT) quantum gravity with DESI Data Release 2 baryon acoustic oscillations and Pantheon+ type-Ia supernovae. We introduce sampling parametrisations that replace microscopic initial-condition parameters by combinations more directly…",
+      "url": "https://arxiv.org/abs/2609.15969v1",
+      "publishedAt": "2026-09-14T17:55:04.000Z",
+      "tags": []
+    },
+    {
+      "id": "74abbc1ddaf4",
+      "agency": "arxiv",
+      "source": "arXiv astro-ph (new submissions)",
+      "title": "A Standard Ultraviolet Continuum Can Hide Supercritical Accretion in GN-z11",
+      "summary": "The ultraviolet continuum from a high-redshift accreting black hole is routinely used to infer its mass. GN-z11 offers a sharp test of whether that inference is secure. A thin-disk fit to its continuum gives an Eddington mass of $M_{\\rm E}=1.12\\times10^{7}\\,\\Msun$, an order of magnitude above the $\\log(\\Mbh/\\Msun)=6.2\\…",
+      "url": "https://arxiv.org/abs/2609.15967v1",
+      "publishedAt": "2026-09-14T17:54:11.000Z",
+      "tags": []
+    },
+    {
+      "id": "c198ee2e928f",
+      "agency": "arxiv",
+      "source": "arXiv astro-ph (new submissions)",
+      "title": "Can Isotropic Thermal Conduction Heat One of the Hottest Cool Cores?",
+      "summary": "Thermal conduction can act as a heating mechanism for cool-core clusters, yet the same transport must erode any temperature discontinuity it crosses. Ophiuchus permits both effects to be tested in the same atmosphere. Its temperature rises from about $1$ keV in the innermost core to $9$ keV at $r\\sim30$ kpc, making con…",
+      "url": "https://arxiv.org/abs/2609.15962v1",
+      "publishedAt": "2026-09-14T17:53:01.000Z",
+      "tags": []
+    },
+    {
+      "id": "c5786cbd9a74",
+      "agency": "arxiv",
+      "source": "arXiv astro-ph (new submissions)",
+      "title": "Validating Inverse Fundamental-Plane IMBH Mass Estimates in the SKA/ngVLA Era",
+      "summary": "The radio/X-ray/black-hole-mass Fundamental Plane (FP) is widely used to estimate masses of accreting intermediate-mass black hole (IMBH) candidates. Its inverse use is justified only when radio luminosity traces a compact jet core and X-rays arise from the same sub-Eddington hard-state accretion flow. We formulate an…",
+      "url": "https://arxiv.org/abs/2609.15960v1",
+      "publishedAt": "2026-09-14T17:51:52.000Z",
+      "tags": []
+    },
+    {
+      "id": "52c3ad7bd8b9",
+      "agency": "arxiv",
+      "source": "arXiv astro-ph (new submissions)",
+      "title": "MUSHY: Multimodal Flow-Based Amortized Bayesian Inference for Spectroscopic Data Fusion",
+      "summary": "We are in an era of unprecedented spectroscopic data availability, with surveys such as APOGEE, GALAH, and DESI observing millions of stars. However, data are heterogeneous and to date, efforts to exploit synergies between surveys have been limited. In particular, there is a lack of principled methods that combine spec…",
+      "url": "https://arxiv.org/abs/2609.15945v1",
+      "publishedAt": "2026-09-14T17:46:51.000Z",
+      "tags": []
+    },
+    {
+      "id": "d194b765c4f0",
+      "agency": "arxiv",
+      "source": "arXiv astro-ph (new submissions)",
+      "title": "NERV: Neural-network Enhanced Reconstruction of the UniVerse with Application to Baryon Acoustic Oscillations in the BOSS DR12 Galaxy Sample",
+      "summary": "We present the first application of neural-network-based baryon acoustic oscillation (BAO) reconstruction to real galaxy survey data, restoring the acoustic signature damped by nonlinear structure growth. {\\texttt{NERV}} ({\\bf N}eural-network {\\bf E}nhanced {\\bf R}econstruction of the Uni{\\bf V}erse) augments standard…",
+      "url": "https://arxiv.org/abs/2609.15943v1",
+      "publishedAt": "2026-09-14T17:45:26.000Z",
+      "tags": []
+    },
+    {
+      "id": "a7a897e8d575",
+      "agency": "arxiv",
+      "source": "arXiv astro-ph (new submissions)",
+      "title": "Distinguishing cosmology, astrophysics and systematics: the Bayesian search for a primordial gravitational-wave background in next-generation observatories",
+      "summary": "Next-generation gravitational-wave observatories like Cosmic Explorer will provide an unprecedented opportunity to probe the cosmological stochastic gravitational-wave background, providing insight into the early Universe that is inaccessible with other means. We investigate the prospects for measuring a Gaussian cosmo…",
+      "url": "https://arxiv.org/abs/2609.15931v1",
+      "publishedAt": "2026-09-14T17:38:57.000Z",
+      "tags": []
+    },
+    {
+      "id": "bed506bc2efe",
+      "agency": "arxiv",
+      "source": "arXiv astro-ph (new submissions)",
+      "title": "Disentangling 3D Magnetic Field Geometry from Turbulence: A Polarization-Based Classification Method",
+      "summary": "We develop a decision tree classifier that recovers 3D magnetic field geometry from synthetic polarization and position angle maps of a magnetized, turbulent field. We test the classifier for a series of geometries: Uniform, Wavy, Helical, and Hourglass. The classifier is calibrated across a range of Alfvénic Mach numb…",
+      "url": "https://arxiv.org/abs/2609.15925v1",
+      "publishedAt": "2026-09-14T17:34:23.000Z",
+      "tags": []
+    },
+    {
+      "id": "6d1d3dbe3142",
+      "agency": "arxiv",
+      "source": "arXiv astro-ph (new submissions)",
+      "title": "Common Excitation Patterns of Star Formation, Active Galactic Nuclei, and Shocks in Seyfert Galaxies",
+      "summary": "The growth of galaxies and their central supermassive black holes is closely connected, yet the net effect of active galactic nuclei (AGN) feedback on host-galaxy star formation remains uncertain. AGN may enhance, suppress, or have little measurable impact on star formation, but distinguishing among these outcomes requ…",
+      "url": "https://arxiv.org/abs/2609.15913v1",
+      "publishedAt": "2026-09-14T17:25:15.000Z",
+      "tags": []
+    },
+    {
+      "id": "77255a0edd1b",
+      "agency": "arxiv",
+      "source": "arXiv astro-ph (new submissions)",
+      "title": "The JWST Proto-PAH Project: Detection of the methyl radical CH$_{3}$ in the highly evolved C-rich object SMP LMC 011",
+      "summary": "We report the first detection of the neutral methyl radical CH$_3$ in a highly evolved C-rich object, SMP LMC 011, using JWST MIRI/MRS. CH$_3$ is well fitted by an excitation temperature of $T_{\\rm ex} \\simeq$~190\\,K and a column density of $N_{\\rm tot}(\\mathrm{CH_3}) \\simeq 5.6\\times10^{17}$ cm$^{-2}$. We also report…",
+      "url": "https://arxiv.org/abs/2609.15905v1",
+      "publishedAt": "2026-09-14T17:20:46.000Z",
+      "tags": []
+    },
+    {
+      "id": "0f0aa02ac422",
+      "agency": "arxiv",
+      "source": "arXiv astro-ph (new submissions)",
+      "title": "Ce II-IV emission in kilonovae with R-matrix collision strengths and distorted wave recombination rates",
+      "summary": "We provide transition probabilities and Maxwellian-averaged collision-strengths for the electron-impact excitation of Ce {\\sc ii} - {\\sc iv}. These ions are potentially abundant in kilonovae (KNe) and feature both forbidden and allowed transitions in the infrared. These atomic data are obtained using the {\\sc grasp}$^0…",
+      "url": "https://arxiv.org/abs/2609.15900v1",
+      "publishedAt": "2026-09-14T17:18:41.000Z",
+      "tags": []
+    },
+    {
+      "id": "2229b2ea735f",
+      "agency": "arxiv",
+      "source": "arXiv astro-ph (new submissions)",
+      "title": "Impact of uncertainties on the cosmic optical and infrared backgrounds on the propagation of astroparticles",
+      "summary": "When propagating through the universe, gamma rays at very-high energy (VHE, E > 100 GeV) and ultra-high energy cosmic rays (UHECRs, E > 1 EeV) can interact with the optical, infrared and microwave photon fields that permeate the universe. These interactions result in a characteristic absorption imprint in the spectra o…",
+      "url": "https://arxiv.org/abs/2609.15896v1",
+      "publishedAt": "2026-09-14T17:16:27.000Z",
+      "tags": []
+    },
+    {
+      "id": "7c1e58463b73",
+      "agency": "arxiv",
+      "source": "arXiv astro-ph (new submissions)",
+      "title": "Rubin Observatory Reveals a Dust-Shrouded Halo Globular Cluster in Ophiuchus",
+      "summary": "We present the discovery of the Milky Way satellite Rubin-GC1 (Rubin J1628-1735) using data from the NSF-DOE Vera C. Rubin Observatory's Early Data Preview 2. The system was discovered in the direction of the Galactic bulge with $(l, b) \\sim (359^{\\circ}, 21^{\\circ})$ in a region of high stellar density and a foregroun…",
+      "url": "https://arxiv.org/abs/2609.15872v1",
+      "publishedAt": "2026-09-14T16:59:19.000Z",
+      "tags": []
+    },
+    {
+      "id": "552764c5c6b9",
+      "agency": "arxiv",
+      "source": "arXiv astro-ph (new submissions)",
+      "title": "Neutron Skin Effects on Particle Emission in Heavy-Ion Collisions: A Topic Review with Astrophysical and Nuclear Structure Connections",
+      "summary": "The neutron skin, defined by the difference between neutron and proton root-mean-square radii, is a characteristic manifestation of isospin asymmetry and an important probe of the isovector nuclear interaction. This focused review examines how neutron skins influence particle emission and collective dynamics in heavy-i…",
+      "url": "https://arxiv.org/abs/2609.15856v1",
+      "publishedAt": "2026-09-14T16:49:54.000Z",
+      "tags": []
+    },
+    {
       "id": "512f56e2c92e",
       "agency": "nasa",
       "source": "NASA breaking news",
@@ -283,6 +489,36 @@
       ]
     },
     {
+      "id": "e4be9f464dc9",
+      "agency": "arxiv",
+      "source": "arXiv astro-ph (new submissions)",
+      "title": "Cosmological Signatures of Curvature-Coupled Dark Energy",
+      "summary": "We study a curvature-coupled dark energy model that can modify cosmological evolution both before recombination and during the late-time accelerated era. The model belongs to the class of scalar-tensor theories, in which a quintessence field is non-minimally coupled to the Ricci scalar. We specify the model through a s…",
+      "url": "https://arxiv.org/abs/2609.15836v1",
+      "publishedAt": "2026-09-14T16:33:36.000Z",
+      "tags": []
+    },
+    {
+      "id": "8152bf2d9976",
+      "agency": "arxiv",
+      "source": "arXiv astro-ph (new submissions)",
+      "title": "Analysis of GWTC-3 with multiple quasicircular models",
+      "summary": "The interpretation of gravitational wave sources depends on the specific choice of model used to interpret signals. Previous analyses of GWTC-3 event candidates using SEOBNRv4PHM, IMRPhenomXPHM, and NRSur7dq4 have sometimes arrived at notably different conclusions about event properties. Subtle analysis settings and co…",
+      "url": "https://arxiv.org/abs/2609.15827v1",
+      "publishedAt": "2026-09-14T16:29:34.000Z",
+      "tags": []
+    },
+    {
+      "id": "27c95bd18625",
+      "agency": "arxiv",
+      "source": "arXiv astro-ph (new submissions)",
+      "title": "Multi-chromatic observations of classical Cepheids using the CHARA Array interferometer: Surface brightness-colour relation, projection factor, and limb-darkening",
+      "summary": "The Baade-Wesselink (BW) method compares the linear and angular variations of Cepheids to derive their distance. This method is limited, however, by the projection factor, which relates the observed radial velocity to the true pulsation velocity of the star. Using simultaneous observations from the CHARA Array interfer…",
+      "url": "https://arxiv.org/abs/2609.15804v1",
+      "publishedAt": "2026-09-14T16:12:52.000Z",
+      "tags": []
+    },
+    {
       "id": "325470b7766a",
       "agency": "nasa",
       "source": "NASA breaking news",
@@ -290,6 +526,76 @@
       "summary": "Fans pose for a photo with an astronaut in the NASA Experience Zone at an NFL game between the Pittsburgh Steelers and the Atlanta Falcons at Acrisure Stadium, Sunday, Sept. 13, 2026, in Pittsburgh, Pennsylvania. NASA’s engagement at NFL games is part of the agency’s Inspiration Tour, aimed at strengthening connections…",
       "url": "https://www.nasa.gov/image-article/nasa-kicks-off-inspiration-tour-with-steelers-vs-falcons-game/",
       "publishedAt": "2026-09-14T16:00:11.000Z",
+      "tags": []
+    },
+    {
+      "id": "d7b479099305",
+      "agency": "arxiv",
+      "source": "arXiv astro-ph (new submissions)",
+      "title": "Modeling Gamma-Ray Bursts Using CRISP",
+      "summary": "Astrophysical neutrinos are a clear identifier of photohadronic interactions in sources of Ultra-High-Energy Cosmic Rays (UHECRs). As the Pierre Auger Observatory has shown that UHECRs exhibit a composition heavier than protons at Earth, we expect that these heavy primaries undergo nuclear cascades due to photodisinteg…",
+      "url": "https://arxiv.org/abs/2609.15761v1",
+      "publishedAt": "2026-09-14T15:47:52.000Z",
+      "tags": []
+    },
+    {
+      "id": "9a494b6833bb",
+      "agency": "arxiv",
+      "source": "arXiv astro-ph (new submissions)",
+      "title": "Thermophysical characterization of the potentially hazardous near-Earth object 2024 YR4",
+      "summary": "The asteroid 2024 YR4 is a potentially hazardous Apollo-type near-Earth object. Its highly eccentric orbit produces close Earth-Moon encounters roughly every 4 years. A collection of light curves, including JWST-NIRCam data, allowed us to constrain the rotation period, spin pole, and convex shape solutions for the obje…",
+      "url": "https://arxiv.org/abs/2609.15756v1",
+      "publishedAt": "2026-09-14T15:42:55.000Z",
+      "tags": []
+    },
+    {
+      "id": "2719ee6b3976",
+      "agency": "arxiv",
+      "source": "arXiv astro-ph (new submissions)",
+      "title": "Toward Precision Kinetic Sunyaev-Zel'dovich Cosmology---1. The Matter - Momentum Bispectrum at One-Loop Order",
+      "summary": "The kinetic Sunyaev-Zeldovich (kSZ) effect is a sensitive probe of the free-electron momentum field, tapping into spatial correlations relevant for both large-scale cosmology and smaller-scale astrophysics. Precision kSZ measurements will provide a robust channel for constraining inflationary physics and equivalence pr…",
+      "url": "https://arxiv.org/abs/2609.15750v1",
+      "publishedAt": "2026-09-14T15:39:04.000Z",
+      "tags": []
+    },
+    {
+      "id": "ee52c0131370",
+      "agency": "arxiv",
+      "source": "arXiv astro-ph (new submissions)",
+      "title": "Using the Circumgalactic Medium of Dwarf Galaxies as a Calorimetric Dark Matter Detector",
+      "summary": "Many well-motivated dark matter (DM) scenarios, including dark photon DM, axion-like particles, sterile neutrinos, and primordial black holes, can deposit energy into ordinary matter and significantly raise the thermal energy of astrophysical gas. We present a simple, model-independent implementation of DM-induced heat…",
+      "url": "https://arxiv.org/abs/2609.15748v1",
+      "publishedAt": "2026-09-14T15:38:48.000Z",
+      "tags": []
+    },
+    {
+      "id": "c82106f37b27",
+      "agency": "arxiv",
+      "source": "arXiv astro-ph (new submissions)",
+      "title": "Automatic astrometric calibration of low-cost all-sky cameras",
+      "summary": "All-sky cameras support weather monitoring, amateur astronomy, fireball and space-debris detection, and measurements of light pollution. These applications require reliable astrometric calibration despite imperfect camera alignment and variable observing conditions. We present an open-source procedure that combines a c…",
+      "url": "https://arxiv.org/abs/2609.15724v1",
+      "publishedAt": "2026-09-14T15:21:36.000Z",
+      "tags": []
+    },
+    {
+      "id": "8d679ab93b22",
+      "agency": "arxiv",
+      "source": "arXiv astro-ph (new submissions)",
+      "title": "Iron Nuclei with Energy of 10^19 eV in Extragalactic Cosmic Rays Near Earth",
+      "summary": "The paper discusses the fraction of extragalactic cosmic iron nuclei with energies of 10^19 eV that reached Earth from distant sources without fragmentation in intergalactic space. It is shown that the fraction of particles with energies E = 10^19 eV is significant (about 10%), even if the redshifts of the sources reac…",
+      "url": "https://arxiv.org/abs/2609.15719v1",
+      "publishedAt": "2026-09-14T15:18:40.000Z",
+      "tags": []
+    },
+    {
+      "id": "c44a9b8d448a",
+      "agency": "arxiv",
+      "source": "arXiv astro-ph (new submissions)",
+      "title": "Hadrophilic inelastic freeze-in dark matter in $q_1-q_2$ gauge extension and the high energy LZ event",
+      "summary": "The recent observation of a single event at nuclear recoil energy $248\\pm23\\pm23$ keV by the LZ collaboration has prompted dark matter (DM) model builders to explore new physics explanations. While most of the existing literature invokes an endothermic scattering by a TeV-scale DM to explain the event, the favored DM i…",
+      "url": "https://arxiv.org/abs/2609.15714v1",
+      "publishedAt": "2026-09-14T15:15:11.000Z",
       "tags": []
     },
     {
@@ -304,60 +610,6 @@
         "Johnson Space Center",
         "Candidate Astronauts",
         "General"
-      ]
-    },
-    {
-      "id": "c4f5f74478e0",
-      "agency": "nasa",
-      "source": "NASA breaking news",
-      "title": "APOD: 2026 September 14 – Where Your Elements Came From",
-      "summary": "APODScienceAPODAPOD: 2026 September 14 –…Today’s APODArchiveSubmissionsIndexSearchCalendarRSSEducationAboutDiscuss APOD Astronomy Picture of the Day Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a professional astronomer.…",
-      "url": "https://science.nasa.gov/image-article/apod-2026-september-14-where-your-elements-came-from/",
-      "publishedAt": "2026-09-14T04:05:00.000Z",
-      "tags": [
-        "APOD"
-      ]
-    },
-    {
-      "id": "42b2e0b1ccd4",
-      "agency": "nasa",
-      "source": "NASA breaking news",
-      "title": "An Early Look at Fall Color in Canada",
-      "summary": "Reds, yellows, and oranges are already sweeping across tundra landscapes in Nunavut.",
-      "url": "https://science.nasa.gov/earth/earth-observatory/an-early-look-at-fall-color-in-canada/",
-      "publishedAt": "2026-09-14T04:00:00.000Z",
-      "tags": [
-        "Earth Observatory",
-        "Land Cover",
-        "Landsat 9",
-        "Vegetation"
-      ]
-    },
-    {
-      "id": "cedfaa2baa38",
-      "agency": "nasa",
-      "source": "NASA breaking news",
-      "title": "APOD: 2026 September 13 – Comet NEOWISE Rising over the Adriatic Sea",
-      "summary": "APODScienceAPODAPOD: 2026 September 13 –…Today’s APODArchiveSubmissionsIndexSearchCalendarRSSEducationAboutDiscuss APOD Astronomy Picture of the Day Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a professional astronomer.…",
-      "url": "https://science.nasa.gov/image-article/apod-2026-september-13-comet-neowise-rising-over-the-adriatic-sea/",
-      "publishedAt": "2026-09-13T04:05:00.000Z",
-      "tags": [
-        "APOD"
-      ]
-    },
-    {
-      "id": "0d444d4e751e",
-      "agency": "nasa",
-      "source": "NASA breaking news",
-      "title": "Help Refine Data from Space Telescopes with Artifact InSPECtor",
-      "summary": "How do scientists studying space with data from a telescope hundreds of thousands of miles away know that what they are seeing is real? A new NASA project, Artifact InSPECtor, invites you to find out – and by doing so, to help missions like Euclid and NASA’s new Nancy Grace Roman Space Telescope answer fundamental […]",
-      "url": "https://science.nasa.gov/get-involved/citizen-science/help-refine-data-from-space-telescopes-with-artifact-inspector/",
-      "publishedAt": "2026-09-11T19:48:09.000Z",
-      "tags": [
-        "Citizen Science",
-        "Dark Energy",
-        "Euclid",
-        "Nancy Grace Roman Space Telescope"
       ]
     },
     {
@@ -458,106 +710,6 @@
       "summary": "Astronomers using the NASA/ESA Hubble Space Telescope have found something they never expected: ultraviolet light from a galaxy that existed just 1.4 billion years after the Big Bang. That galaxy contains tightly clustered young stars that produce ionising light capable of transforming the opaque, neutral gas within an…",
       "url": "https://esahubble.org/news/heic2609/",
       "publishedAt": "2026-06-23T14:00:00.000Z",
-      "tags": []
-    },
-    {
-      "id": "9f660dbedd4a",
-      "agency": "eso",
-      "source": "ESO press releases",
-      "title": "Strange winds reveal strongest hints yet of magnetic activity in exoplanets",
-      "summary": "A team of astronomers has found the strongest evidence yet that some planets outside our Solar System may be magnetic. Using the European Southern Observatory’s Very Large Telescope (ESO's VLT) and the Gemini North telescope, the researchers measured wind speeds on seven very hot, Jupiter-like exoplanets. The observati…",
-      "url": "https://www.eso.org/public/news/eso2606/",
-      "publishedAt": "2026-06-02T09:00:00.000Z",
-      "tags": []
-    },
-    {
-      "id": "fcf903c5aba3",
-      "agency": "esa",
-      "source": "ESA/Hubble news",
-      "title": "Photo Release: Hubble dazzles with young stars in Trifid Nebula for 36th anniversary",
-      "summary": "The NASA/ESA Hubble Space Telescope looked at a scene it first captured in 1997 in honour of its 36th anniversary: a small portion of a star-forming region about 5000 light-years away in the constellation Sagittarius, known as the Trifid Nebula. The image shows changes over incredibly short timescales and instills a se…",
-      "url": "https://esahubble.org/news/heic2608/",
-      "publishedAt": "2026-04-20T14:00:00.000Z",
-      "tags": []
-    },
-    {
-      "id": "bcf281fe44ca",
-      "agency": "eso",
-      "source": "ESO press releases",
-      "title": "First light for PoET: shining (sun)light on exoplanet research",
-      "summary": "The Paranal solar ESPRESSO Telescope (PoET), installed at the European Southern Observatory's (ESO's) Paranal site in Chile, has made its first observations. The telescope will work with ESO's ESPRESSO instrument to study the Sun in detail. Described as a solar telescope for planet hunters, PoET aims to understand how…",
-      "url": "https://www.eso.org/public/news/eso2605/",
-      "publishedAt": "2026-04-09T12:00:00.000Z",
-      "tags": []
-    },
-    {
-      "id": "87a307bff2f3",
-      "agency": "eso",
-      "source": "ESO press releases",
-      "title": "A Solar System in the making? Two planets spotted forming in disc around young star",
-      "summary": "Astronomers have observed two planets forming in the disc around a young star named WISPIT 2. Having previously detected one planet, the team have now employed European Southern Observatory (ESO) telescopes to confirm the presence of another. These observations, and the unique structure of the disc around the star, ind…",
-      "url": "https://www.eso.org/public/news/eso2604/",
-      "publishedAt": "2026-03-24T13:00:00.000Z",
-      "tags": []
-    },
-    {
-      "id": "1d1bf1aaa4be",
-      "agency": "esa",
-      "source": "ESA/Hubble news",
-      "title": "Photo Release: Hubble revisits Crab Nebula to track 25 years of expansion",
-      "summary": "Nearly a millennium ago, astronomers witnessed a brilliant new star blazing in the sky — a supernova so bright it was visible in daylight for weeks. Today, its expanding remnant, the Crab Nebula, continues to evolve 6,500 light-years away. First linked to historical records by Edwin Hubble, the nebula has since been st…",
-      "url": "https://esahubble.org/news/heic2607/",
-      "publishedAt": "2026-03-23T14:00:00.000Z",
-      "tags": []
-    },
-    {
-      "id": "fc6f29c600b1",
-      "agency": "esa",
-      "source": "ESA/Hubble news",
-      "title": "Science Release: Hubble unexpectedly catches comet breaking up",
-      "summary": "Comet K1, whose full name is Comet C/2025 K1 (ATLAS), had just passed its closest approach to the Sun and was heading out of the Solar System. Though it had been intact just days before, K1 fragmented into at least four pieces while the NASA/ESA Hubble Space Telescope was watching. The odds of that happening while Hubb…",
-      "url": "https://esahubble.org/news/heic2606/",
-      "publishedAt": "2026-03-18T14:00:00.000Z",
-      "tags": []
-    },
-    {
-      "id": "c53f78557e24",
-      "agency": "eso",
-      "source": "ESO press releases",
-      "title": "Largest image of its kind shows hidden chemistry at the heart of the Milky Way",
-      "summary": "Astronomers have captured the central region of our Milky Way in a striking new image, unveiling a complex network of filaments of cosmic gas in unprecedented detail. Obtained with the Atacama Large Millimeter/submillimeter Array (ALMA), this rich dataset — the largest ALMA image to date — will allow astronomers to pro…",
-      "url": "https://www.eso.org/public/news/eso2603/",
-      "publishedAt": "2026-02-25T13:00:00.000Z",
-      "tags": []
-    },
-    {
-      "id": "67b2e29862d2",
-      "agency": "esa",
-      "source": "ESA/Hubble news",
-      "title": "Science Release: Hubble identifies one of darkest known galaxies",
-      "summary": "Most galaxies in the nearby Universe are quite luminous, but some are so faint they’re nearly invisible. Astronomers, using the NASA/ESA Hubble Space Telescope in combination with other observatories, identified a galaxy that appears to be almost entirely dominated by dark matter with only a smattering of stars. The ga…",
-      "url": "https://esahubble.org/news/heic2605/",
-      "publishedAt": "2026-02-18T15:00:00.000Z",
-      "tags": []
-    },
-    {
-      "id": "ae5ccc01bf63",
-      "agency": "esa",
-      "source": "ESA/Hubble news",
-      "title": "Photo Release: Hubble captures light show around rapidly dying star",
-      "summary": "This stunning image from the NASA/ESA Hubble Space Telescope reveals a dramatic interplay of light and shadow in the Egg Nebula, sculpted by freshly ejected stardust. Located approximately 1,000 light-years away in the constellation Cygnus, the Egg Nebula features a central star obscured by a dense cloud of dust. Only…",
-      "url": "https://esahubble.org/news/heic2604/",
-      "publishedAt": "2026-02-10T15:00:00.000Z",
-      "tags": []
-    },
-    {
-      "id": "db31f371b721",
-      "agency": "esa",
-      "source": "ESA/Hubble news",
-      "title": "Science Release: Researchers discover hundreds of cosmic anomalies with help from AI",
-      "summary": "A team of astronomers have used a new AI-assisted method to search for rare astronomical objects in the Hubble Legacy Archive. The team sifted through nearly 100 million image cutouts in just two and a half days, uncovering nearly 1400 anomalous objects, more than 800 of which had never been documented before.",
-      "url": "https://esahubble.org/news/heic2603/",
-      "publishedAt": "2026-01-27T15:00:00.000Z",
       "tags": []
     }
   ]
