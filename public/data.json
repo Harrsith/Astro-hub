@@ -1,173 +1,19 @@
 {
-  "generatedAt": "2026-09-20T00:17:27.683Z",
+  "generatedAt": "2026-09-20T06:14:59.507Z",
   "sourceCount": 5,
   "itemCount": 70,
   "errors": [],
   "apod": {
-    "copyright": "Neelam and Ajay Talwar",
-    "date": "2026-09-19",
-    "explanation": "Also known as the false dawn, a luminous band of zodiacal light is captured in this dark night skyscape. The serene view was recorded just before the beginning of astronomical twilight during September's star party at the remote Hanle Dark Sky Reserve, Ladakh, India, planet Earth. At about 4,500 meters altitude, the dark sky reserve presents a haven for hardy stargazing and astrophotography enthusiasts. While meteors streak through the night, bright planet Jupiter appears immersed in the faint zodiacal glow near the eastern horizon. Follow the zodiacal band toward the zenith to find open star cluster M44 and a yellowish tinged planet Mars near the center of the frame. In fact, serendipitous detections of interplanetary dust by NASA's Juno spacecraft suggest Mars itself is the source of dust that back scatters sunlight and creates zodiacal light in planet Earth's night.  APOD's main NASA site is moving: From apod.nasa.gov to science.nasa.gov/apod",
-    "hdurl": "https://apod.nasa.gov/apod/image/2609/2026-09-09ZodiacalLightHSP.jpg",
+    "copyright": "Giuseppe Petricca",
+    "date": "2026-09-20",
+    "explanation": "If you went outside at the same time every day and took a picture that included the Sun, how would the Sun's position change?  A visual answer to that question is an analemma, a composite image taken from the same spot at the same time over the course of a year.  The featured analemma was composed from images taken every few days at noon near the village of Callanish in the Outer Hebrides in Scotland, UK.  In the foreground are the Callanish Stones, a stone circle built around 2700 BC during humanity's Bronze Age.  It is not known if the placement of the Callanish Stones has or had astronomical significance.  The ultimate causes for the figure-8 shape of this and all analemmas are the tilt of the Earth axis and the ellipticity of the Earth's orbit around the Sun.  At the solstices, the Sun will appear at the top or bottom of an analemma. The featured image was taken near the December solstice and so the Sun appears near the bottom.  Equinoxes, however, correspond to analemma middle points -- not the intersection point. In two days there will be an equinox (\"equal night\"), when day and night are equal over all of planet Earth. Many cultures celebrate a change of season at an equinox.   APOD's main NASA site is moving: From apod.nasa.gov to science.nasa.gov/apod",
+    "hdurl": "https://apod.nasa.gov/apod/image/2609/CallanishAnalemma_Petricca_1280.jpg",
     "media_type": "image",
     "service_version": "v1",
-    "title": "A Zodiacal Night",
-    "url": "https://apod.nasa.gov/apod/image/2609/2026-09-09ZodiacalLightHSP1024.jpg"
+    "title": "Analemma over the Callanish Stones",
+    "url": "https://apod.nasa.gov/apod/image/2609/CallanishAnalemma_Petricca_960.jpg"
   },
   "items": [
-    {
-      "id": "71992d8ffc70",
-      "agency": "exo",
-      "ra": 297.919724,
-      "dec": 45.2742038,
-      "source": "NASA Exoplanet Archive",
-      "title": "Kepler-1176 b — catalog entry updated",
-      "summary": "Orbits Kepler-1176: discovered via Transit, 2016, 2.45x Earth radius, 6.57x Earth mass, 24.2-day orbit.",
-      "url": "https://exoplanetarchive.ipac.caltech.edu/overview/Kepler-1176",
-      "publishedAt": "2026-09-20T00:17:27.138Z",
-      "tags": [
-        "Transit"
-      ]
-    },
-    {
-      "id": "d1b50d5534a8",
-      "agency": "exo",
-      "ra": 169.117028,
-      "dec": -3.9754405,
-      "source": "NASA Exoplanet Archive",
-      "title": "K2-43 b — catalog entry updated",
-      "summary": "Orbits K2-43: discovered via Transit, 2016, 4.51x Earth radius, 18.50x Earth mass, 3.5-day orbit.",
-      "url": "https://exoplanetarchive.ipac.caltech.edu/overview/K2-43",
-      "publishedAt": "2026-09-20T00:17:27.138Z",
-      "tags": [
-        "Transit"
-      ]
-    },
-    {
-      "id": "0a1cf473e9b5",
-      "agency": "exo",
-      "ra": 298.6634624,
-      "dec": 43.8940593,
-      "source": "NASA Exoplanet Archive",
-      "title": "Kepler-1416 b — catalog entry updated",
-      "summary": "Orbits Kepler-1416: discovered via Transit, 2016, 0.88x Earth radius, 0.61x Earth mass, 1.5-day orbit.",
-      "url": "https://exoplanetarchive.ipac.caltech.edu/overview/Kepler-1416",
-      "publishedAt": "2026-09-20T00:17:27.138Z",
-      "tags": [
-        "Transit"
-      ]
-    },
-    {
-      "id": "04cde4b476a5",
-      "agency": "exo",
-      "ra": 293.3116962,
-      "dec": 46.0416516,
-      "source": "NASA Exoplanet Archive",
-      "title": "Kepler-1399 b — catalog entry updated",
-      "summary": "Orbits Kepler-1399: discovered via Transit, 2016, 1.25x Earth radius, 2.10x Earth mass, 1.6-day orbit.",
-      "url": "https://exoplanetarchive.ipac.caltech.edu/overview/Kepler-1399",
-      "publishedAt": "2026-09-20T00:17:27.138Z",
-      "tags": [
-        "Transit"
-      ]
-    },
-    {
-      "id": "6278be0166b1",
-      "agency": "exo",
-      "ra": 286.4904589,
-      "dec": 38.374872,
-      "source": "NASA Exoplanet Archive",
-      "title": "Kepler-770 b — catalog entry updated",
-      "summary": "Orbits Kepler-770: discovered via Transit, 2016, 2.30x Earth radius, 5.90x Earth mass, 18.9-day orbit.",
-      "url": "https://exoplanetarchive.ipac.caltech.edu/overview/Kepler-770",
-      "publishedAt": "2026-09-20T00:17:27.138Z",
-      "tags": [
-        "Transit"
-      ]
-    },
-    {
-      "id": "93299cc03446",
-      "agency": "exo",
-      "ra": 286.483626,
-      "dec": 46.7526182,
-      "source": "NASA Exoplanet Archive",
-      "title": "Kepler-1263 b — catalog entry updated",
-      "summary": "Orbits Kepler-1263: discovered via Transit, 2016, 1.14x Earth radius, 1.55x Earth mass, 4.6-day orbit.",
-      "url": "https://exoplanetarchive.ipac.caltech.edu/overview/Kepler-1263",
-      "publishedAt": "2026-09-20T00:17:27.138Z",
-      "tags": [
-        "Transit"
-      ]
-    },
-    {
-      "id": "153984674374",
-      "agency": "exo",
-      "ra": 284.8304434,
-      "dec": 44.6580932,
-      "source": "NASA Exoplanet Archive",
-      "title": "Kepler-723 b — catalog entry updated",
-      "summary": "Orbits Kepler-723: discovered via Transit, 2016, 12.19x Earth radius, 4.1-day orbit.",
-      "url": "https://exoplanetarchive.ipac.caltech.edu/overview/Kepler-723",
-      "publishedAt": "2026-09-20T00:17:27.138Z",
-      "tags": [
-        "Transit"
-      ]
-    },
-    {
-      "id": "d01d337a65cb",
-      "agency": "exo",
-      "ra": 285.7284757,
-      "dec": 42.6544651,
-      "source": "NASA Exoplanet Archive",
-      "title": "Kepler-1542 c — catalog entry updated",
-      "summary": "Orbits Kepler-1542: discovered via Transit, 2016, 0.65x Earth radius, 0.21x Earth mass, 2.9-day orbit.",
-      "url": "https://exoplanetarchive.ipac.caltech.edu/overview/Kepler-1542",
-      "publishedAt": "2026-09-20T00:17:27.138Z",
-      "tags": [
-        "Transit"
-      ]
-    },
-    {
-      "id": "24a51d62c59a",
-      "agency": "exo",
-      "ra": 59.464829,
-      "dec": 18.4649505,
-      "source": "NASA Exoplanet Archive",
-      "title": "K2-85 b — catalog entry updated",
-      "summary": "Orbits K2-85: discovered via Transit, 2016, 1.40x Earth radius, 3.20x Earth mass, 0.7-day orbit.",
-      "url": "https://exoplanetarchive.ipac.caltech.edu/overview/K2-85",
-      "publishedAt": "2026-09-20T00:17:27.138Z",
-      "tags": [
-        "Transit"
-      ]
-    },
-    {
-      "id": "0f4b3bafa9ca",
-      "agency": "exo",
-      "ra": 291.880018,
-      "dec": 45.3878419,
-      "source": "NASA Exoplanet Archive",
-      "title": "Kepler-368 c — catalog entry updated",
-      "summary": "Orbits Kepler-368: discovered via Transit, 2014, 3.88x Earth radius, 14.30x Earth mass, 72.4-day orbit.",
-      "url": "https://exoplanetarchive.ipac.caltech.edu/overview/Kepler-368",
-      "publishedAt": "2026-09-20T00:17:27.138Z",
-      "tags": [
-        "Transit"
-      ]
-    },
-    {
-      "id": "81193bfffcae",
-      "agency": "exo",
-      "ra": 343.0414932,
-      "dec": 35.4471778,
-      "source": "NASA Exoplanet Archive",
-      "title": "HAT-P-8 b — catalog entry updated",
-      "summary": "Orbits HAT-P-8: discovered via Transit, 2008, 15.69x Earth radius, 406.82x Earth mass, 3.1-day orbit.",
-      "url": "https://exoplanetarchive.ipac.caltech.edu/overview/HAT-P-8",
-      "publishedAt": "2026-09-20T00:17:27.138Z",
-      "tags": [
-        "Transit"
-      ]
-    },
     {
       "id": "c91aab725e37",
       "agency": "exo",
@@ -177,7 +23,7 @@
       "title": "HD 2039 b — catalog entry updated",
       "summary": "Orbits HD 2039: discovered via Radial Velocity, 2002, 12.70x Earth radius, 1999.15x Earth mass, 1120.0-day orbit.",
       "url": "https://exoplanetarchive.ipac.caltech.edu/overview/HD_2039",
-      "publishedAt": "2026-09-20T00:17:27.138Z",
+      "publishedAt": "2026-09-20T06:14:59.010Z",
       "tags": [
         "Radial Velocity"
       ]
@@ -191,7 +37,7 @@
       "title": "Kepler-1753 b — catalog entry updated",
       "summary": "Orbits Kepler-1753: discovered via Transit, 2021, 2.23x Earth radius, 5.59x Earth mass, 16.0-day orbit.",
       "url": "https://exoplanetarchive.ipac.caltech.edu/overview/Kepler-1753",
-      "publishedAt": "2026-09-20T00:17:27.137Z",
+      "publishedAt": "2026-09-20T06:14:59.009Z",
       "tags": [
         "Transit"
       ]
@@ -205,7 +51,7 @@
       "title": "K2-126 b — catalog entry updated",
       "summary": "Orbits K2-126: discovered via Transit, 2017, 1.97x Earth radius, 4.54x Earth mass, 7.4-day orbit.",
       "url": "https://exoplanetarchive.ipac.caltech.edu/overview/K2-126",
-      "publishedAt": "2026-09-20T00:17:27.137Z",
+      "publishedAt": "2026-09-20T06:14:59.009Z",
       "tags": [
         "Transit"
       ]
@@ -219,9 +65,175 @@
       "title": "K2-123 b — catalog entry updated",
       "summary": "Orbits K2-123: discovered via Transit, 2017, 2.76x Earth radius, 8.05x Earth mass, 31.0-day orbit.",
       "url": "https://exoplanetarchive.ipac.caltech.edu/overview/K2-123",
-      "publishedAt": "2026-09-20T00:17:27.137Z",
+      "publishedAt": "2026-09-20T06:14:59.009Z",
       "tags": [
         "Transit"
+      ]
+    },
+    {
+      "id": "71992d8ffc70",
+      "agency": "exo",
+      "ra": 297.919724,
+      "dec": 45.2742038,
+      "source": "NASA Exoplanet Archive",
+      "title": "Kepler-1176 b — catalog entry updated",
+      "summary": "Orbits Kepler-1176: discovered via Transit, 2016, 2.45x Earth radius, 6.57x Earth mass, 24.2-day orbit.",
+      "url": "https://exoplanetarchive.ipac.caltech.edu/overview/Kepler-1176",
+      "publishedAt": "2026-09-20T06:14:59.009Z",
+      "tags": [
+        "Transit"
+      ]
+    },
+    {
+      "id": "d1b50d5534a8",
+      "agency": "exo",
+      "ra": 169.117028,
+      "dec": -3.9754405,
+      "source": "NASA Exoplanet Archive",
+      "title": "K2-43 b — catalog entry updated",
+      "summary": "Orbits K2-43: discovered via Transit, 2016, 4.51x Earth radius, 18.50x Earth mass, 3.5-day orbit.",
+      "url": "https://exoplanetarchive.ipac.caltech.edu/overview/K2-43",
+      "publishedAt": "2026-09-20T06:14:59.009Z",
+      "tags": [
+        "Transit"
+      ]
+    },
+    {
+      "id": "0a1cf473e9b5",
+      "agency": "exo",
+      "ra": 298.6634624,
+      "dec": 43.8940593,
+      "source": "NASA Exoplanet Archive",
+      "title": "Kepler-1416 b — catalog entry updated",
+      "summary": "Orbits Kepler-1416: discovered via Transit, 2016, 0.88x Earth radius, 0.61x Earth mass, 1.5-day orbit.",
+      "url": "https://exoplanetarchive.ipac.caltech.edu/overview/Kepler-1416",
+      "publishedAt": "2026-09-20T06:14:59.009Z",
+      "tags": [
+        "Transit"
+      ]
+    },
+    {
+      "id": "04cde4b476a5",
+      "agency": "exo",
+      "ra": 293.3116962,
+      "dec": 46.0416516,
+      "source": "NASA Exoplanet Archive",
+      "title": "Kepler-1399 b — catalog entry updated",
+      "summary": "Orbits Kepler-1399: discovered via Transit, 2016, 1.25x Earth radius, 2.10x Earth mass, 1.6-day orbit.",
+      "url": "https://exoplanetarchive.ipac.caltech.edu/overview/Kepler-1399",
+      "publishedAt": "2026-09-20T06:14:59.009Z",
+      "tags": [
+        "Transit"
+      ]
+    },
+    {
+      "id": "6278be0166b1",
+      "agency": "exo",
+      "ra": 286.4904589,
+      "dec": 38.374872,
+      "source": "NASA Exoplanet Archive",
+      "title": "Kepler-770 b — catalog entry updated",
+      "summary": "Orbits Kepler-770: discovered via Transit, 2016, 2.30x Earth radius, 5.90x Earth mass, 18.9-day orbit.",
+      "url": "https://exoplanetarchive.ipac.caltech.edu/overview/Kepler-770",
+      "publishedAt": "2026-09-20T06:14:59.009Z",
+      "tags": [
+        "Transit"
+      ]
+    },
+    {
+      "id": "93299cc03446",
+      "agency": "exo",
+      "ra": 286.483626,
+      "dec": 46.7526182,
+      "source": "NASA Exoplanet Archive",
+      "title": "Kepler-1263 b — catalog entry updated",
+      "summary": "Orbits Kepler-1263: discovered via Transit, 2016, 1.14x Earth radius, 1.55x Earth mass, 4.6-day orbit.",
+      "url": "https://exoplanetarchive.ipac.caltech.edu/overview/Kepler-1263",
+      "publishedAt": "2026-09-20T06:14:59.009Z",
+      "tags": [
+        "Transit"
+      ]
+    },
+    {
+      "id": "153984674374",
+      "agency": "exo",
+      "ra": 284.8304434,
+      "dec": 44.6580932,
+      "source": "NASA Exoplanet Archive",
+      "title": "Kepler-723 b — catalog entry updated",
+      "summary": "Orbits Kepler-723: discovered via Transit, 2016, 12.19x Earth radius, 4.1-day orbit.",
+      "url": "https://exoplanetarchive.ipac.caltech.edu/overview/Kepler-723",
+      "publishedAt": "2026-09-20T06:14:59.009Z",
+      "tags": [
+        "Transit"
+      ]
+    },
+    {
+      "id": "d01d337a65cb",
+      "agency": "exo",
+      "ra": 285.7284757,
+      "dec": 42.6544651,
+      "source": "NASA Exoplanet Archive",
+      "title": "Kepler-1542 c — catalog entry updated",
+      "summary": "Orbits Kepler-1542: discovered via Transit, 2016, 0.65x Earth radius, 0.21x Earth mass, 2.9-day orbit.",
+      "url": "https://exoplanetarchive.ipac.caltech.edu/overview/Kepler-1542",
+      "publishedAt": "2026-09-20T06:14:59.009Z",
+      "tags": [
+        "Transit"
+      ]
+    },
+    {
+      "id": "24a51d62c59a",
+      "agency": "exo",
+      "ra": 59.464829,
+      "dec": 18.4649505,
+      "source": "NASA Exoplanet Archive",
+      "title": "K2-85 b — catalog entry updated",
+      "summary": "Orbits K2-85: discovered via Transit, 2016, 1.40x Earth radius, 3.20x Earth mass, 0.7-day orbit.",
+      "url": "https://exoplanetarchive.ipac.caltech.edu/overview/K2-85",
+      "publishedAt": "2026-09-20T06:14:59.009Z",
+      "tags": [
+        "Transit"
+      ]
+    },
+    {
+      "id": "0f4b3bafa9ca",
+      "agency": "exo",
+      "ra": 291.880018,
+      "dec": 45.3878419,
+      "source": "NASA Exoplanet Archive",
+      "title": "Kepler-368 c — catalog entry updated",
+      "summary": "Orbits Kepler-368: discovered via Transit, 2014, 3.88x Earth radius, 14.30x Earth mass, 72.4-day orbit.",
+      "url": "https://exoplanetarchive.ipac.caltech.edu/overview/Kepler-368",
+      "publishedAt": "2026-09-20T06:14:59.009Z",
+      "tags": [
+        "Transit"
+      ]
+    },
+    {
+      "id": "81193bfffcae",
+      "agency": "exo",
+      "ra": 343.0414932,
+      "dec": 35.4471778,
+      "source": "NASA Exoplanet Archive",
+      "title": "HAT-P-8 b — catalog entry updated",
+      "summary": "Orbits HAT-P-8: discovered via Transit, 2008, 15.69x Earth radius, 406.82x Earth mass, 3.1-day orbit.",
+      "url": "https://exoplanetarchive.ipac.caltech.edu/overview/HAT-P-8",
+      "publishedAt": "2026-09-20T06:14:59.009Z",
+      "tags": [
+        "Transit"
+      ]
+    },
+    {
+      "id": "8f953fa274c0",
+      "agency": "nasa",
+      "source": "NASA breaking news",
+      "title": "APOD: 2026 September 20 – Analemma over the Callanish Stones",
+      "summary": "APOD Science APOD APOD: 2026 September 20 –… Today’s APOD Archive Submissions Index Search Calendar RSS Education About Discuss APOD Astronomy Picture of the Day Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a professiona…",
+      "url": "https://science.nasa.gov/image-article/apod-2026-september-20-analemma-over-the-callanish-stones/",
+      "publishedAt": "2026-09-20T04:05:00.000Z",
+      "tags": [
+        "APOD"
       ]
     },
     {
@@ -527,18 +539,6 @@
       "url": "https://arxiv.org/abs/2609.20560v1",
       "publishedAt": "2026-09-17T15:23:47.000Z",
       "tags": []
-    },
-    {
-      "id": "e355d46591a2",
-      "agency": "nasa",
-      "source": "NASA breaking news",
-      "title": "NASA Unveils Enterprise, the First Space Shuttle",
-      "summary": "Fifty years ago, on Sept. 17, 1976—Constitution Day of America’s bicentennial year—NASA unveiled its first space shuttle orbiter, OV-101, to the public. NASA had originally planned to name the vehicle Constitution, but a letter-writing campaign changed the agency’s plans. Nearly 100,000 fans of the Star Trek television…",
-      "url": "https://www.nasa.gov/image-article/nasa-unveils-enterprise-the-first-space-shuttle/",
-      "publishedAt": "2026-09-17T15:22:42.000Z",
-      "tags": [
-        "Space Shuttle"
-      ]
     },
     {
       "id": "8234bae9bc75",
