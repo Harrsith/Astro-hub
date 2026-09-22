@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-22T12:15:47.125Z",
+  "generatedAt": "2026-09-22T18:15:21.368Z",
   "sourceCount": 5,
   "itemCount": 70,
   "errors": [],
@@ -15,62 +15,6 @@
   },
   "items": [
     {
-      "id": "9c09e70a540f",
-      "agency": "exo",
-      "ra": 288.236664,
-      "dec": 46.6058744,
-      "source": "NASA Exoplanet Archive",
-      "title": "Kepler-1753 b — catalog entry updated",
-      "summary": "Orbits Kepler-1753: discovered via Transit, 2021, 2.23x Earth radius, 5.59x Earth mass, 16.0-day orbit.",
-      "url": "https://exoplanetarchive.ipac.caltech.edu/overview/Kepler-1753",
-      "publishedAt": "2026-09-22T12:15:44.825Z",
-      "tags": [
-        "Transit"
-      ]
-    },
-    {
-      "id": "65fa97dfb2d6",
-      "agency": "exo",
-      "ra": 203.5467021,
-      "dec": -13.5769705,
-      "source": "NASA Exoplanet Archive",
-      "title": "K2-126 b — catalog entry updated",
-      "summary": "Orbits K2-126: discovered via Transit, 2017, 1.97x Earth radius, 4.54x Earth mass, 7.4-day orbit.",
-      "url": "https://exoplanetarchive.ipac.caltech.edu/overview/K2-126",
-      "publishedAt": "2026-09-22T12:15:44.825Z",
-      "tags": [
-        "Transit"
-      ]
-    },
-    {
-      "id": "9fd9c1e4ca18",
-      "agency": "exo",
-      "ra": 134.4441404,
-      "dec": 21.4532748,
-      "source": "NASA Exoplanet Archive",
-      "title": "K2-123 b — catalog entry updated",
-      "summary": "Orbits K2-123: discovered via Transit, 2017, 2.76x Earth radius, 8.05x Earth mass, 31.0-day orbit.",
-      "url": "https://exoplanetarchive.ipac.caltech.edu/overview/K2-123",
-      "publishedAt": "2026-09-22T12:15:44.825Z",
-      "tags": [
-        "Transit"
-      ]
-    },
-    {
-      "id": "71992d8ffc70",
-      "agency": "exo",
-      "ra": 297.919724,
-      "dec": 45.2742038,
-      "source": "NASA Exoplanet Archive",
-      "title": "Kepler-1176 b — catalog entry updated",
-      "summary": "Orbits Kepler-1176: discovered via Transit, 2016, 2.45x Earth radius, 6.57x Earth mass, 24.2-day orbit.",
-      "url": "https://exoplanetarchive.ipac.caltech.edu/overview/Kepler-1176",
-      "publishedAt": "2026-09-22T12:15:44.825Z",
-      "tags": [
-        "Transit"
-      ]
-    },
-    {
       "id": "d1b50d5534a8",
       "agency": "exo",
       "ra": 169.117028,
@@ -79,7 +23,7 @@
       "title": "K2-43 b — catalog entry updated",
       "summary": "Orbits K2-43: discovered via Transit, 2016, 4.51x Earth radius, 18.50x Earth mass, 3.5-day orbit.",
       "url": "https://exoplanetarchive.ipac.caltech.edu/overview/K2-43",
-      "publishedAt": "2026-09-22T12:15:44.825Z",
+      "publishedAt": "2026-09-22T18:15:21.004Z",
       "tags": [
         "Transit"
       ]
@@ -93,7 +37,7 @@
       "title": "Kepler-1416 b — catalog entry updated",
       "summary": "Orbits Kepler-1416: discovered via Transit, 2016, 0.88x Earth radius, 0.61x Earth mass, 1.5-day orbit.",
       "url": "https://exoplanetarchive.ipac.caltech.edu/overview/Kepler-1416",
-      "publishedAt": "2026-09-22T12:15:44.825Z",
+      "publishedAt": "2026-09-22T18:15:21.004Z",
       "tags": [
         "Transit"
       ]
@@ -107,7 +51,7 @@
       "title": "Kepler-1399 b — catalog entry updated",
       "summary": "Orbits Kepler-1399: discovered via Transit, 2016, 1.25x Earth radius, 2.10x Earth mass, 1.6-day orbit.",
       "url": "https://exoplanetarchive.ipac.caltech.edu/overview/Kepler-1399",
-      "publishedAt": "2026-09-22T12:15:44.825Z",
+      "publishedAt": "2026-09-22T18:15:21.004Z",
       "tags": [
         "Transit"
       ]
@@ -121,7 +65,7 @@
       "title": "Kepler-770 b — catalog entry updated",
       "summary": "Orbits Kepler-770: discovered via Transit, 2016, 2.30x Earth radius, 5.90x Earth mass, 18.9-day orbit.",
       "url": "https://exoplanetarchive.ipac.caltech.edu/overview/Kepler-770",
-      "publishedAt": "2026-09-22T12:15:44.825Z",
+      "publishedAt": "2026-09-22T18:15:21.004Z",
       "tags": [
         "Transit"
       ]
@@ -135,7 +79,7 @@
       "title": "Kepler-1263 b — catalog entry updated",
       "summary": "Orbits Kepler-1263: discovered via Transit, 2016, 1.14x Earth radius, 1.55x Earth mass, 4.6-day orbit.",
       "url": "https://exoplanetarchive.ipac.caltech.edu/overview/Kepler-1263",
-      "publishedAt": "2026-09-22T12:15:44.825Z",
+      "publishedAt": "2026-09-22T18:15:21.004Z",
       "tags": [
         "Transit"
       ]
@@ -149,7 +93,7 @@
       "title": "Kepler-723 b — catalog entry updated",
       "summary": "Orbits Kepler-723: discovered via Transit, 2016, 12.19x Earth radius, 4.1-day orbit.",
       "url": "https://exoplanetarchive.ipac.caltech.edu/overview/Kepler-723",
-      "publishedAt": "2026-09-22T12:15:44.825Z",
+      "publishedAt": "2026-09-22T18:15:21.004Z",
       "tags": [
         "Transit"
       ]
@@ -163,7 +107,7 @@
       "title": "Kepler-1542 c — catalog entry updated",
       "summary": "Orbits Kepler-1542: discovered via Transit, 2016, 0.65x Earth radius, 0.21x Earth mass, 2.9-day orbit.",
       "url": "https://exoplanetarchive.ipac.caltech.edu/overview/Kepler-1542",
-      "publishedAt": "2026-09-22T12:15:44.825Z",
+      "publishedAt": "2026-09-22T18:15:21.004Z",
       "tags": [
         "Transit"
       ]
@@ -177,7 +121,7 @@
       "title": "K2-85 b — catalog entry updated",
       "summary": "Orbits K2-85: discovered via Transit, 2016, 1.40x Earth radius, 3.20x Earth mass, 0.7-day orbit.",
       "url": "https://exoplanetarchive.ipac.caltech.edu/overview/K2-85",
-      "publishedAt": "2026-09-22T12:15:44.825Z",
+      "publishedAt": "2026-09-22T18:15:21.004Z",
       "tags": [
         "Transit"
       ]
@@ -191,7 +135,7 @@
       "title": "Kepler-368 c — catalog entry updated",
       "summary": "Orbits Kepler-368: discovered via Transit, 2014, 3.88x Earth radius, 14.30x Earth mass, 72.4-day orbit.",
       "url": "https://exoplanetarchive.ipac.caltech.edu/overview/Kepler-368",
-      "publishedAt": "2026-09-22T12:15:44.825Z",
+      "publishedAt": "2026-09-22T18:15:21.004Z",
       "tags": [
         "Transit"
       ]
@@ -205,7 +149,7 @@
       "title": "HAT-P-8 b — catalog entry updated",
       "summary": "Orbits HAT-P-8: discovered via Transit, 2008, 15.69x Earth radius, 406.82x Earth mass, 3.1-day orbit.",
       "url": "https://exoplanetarchive.ipac.caltech.edu/overview/HAT-P-8",
-      "publishedAt": "2026-09-22T12:15:44.825Z",
+      "publishedAt": "2026-09-22T18:15:21.004Z",
       "tags": [
         "Transit"
       ]
@@ -219,9 +163,120 @@
       "title": "HD 2039 b — catalog entry updated",
       "summary": "Orbits HD 2039: discovered via Radial Velocity, 2002, 12.70x Earth radius, 1999.15x Earth mass, 1120.0-day orbit.",
       "url": "https://exoplanetarchive.ipac.caltech.edu/overview/HD_2039",
-      "publishedAt": "2026-09-22T12:15:44.825Z",
+      "publishedAt": "2026-09-22T18:15:21.004Z",
       "tags": [
         "Radial Velocity"
+      ]
+    },
+    {
+      "id": "9c09e70a540f",
+      "agency": "exo",
+      "ra": 288.236664,
+      "dec": 46.6058744,
+      "source": "NASA Exoplanet Archive",
+      "title": "Kepler-1753 b — catalog entry updated",
+      "summary": "Orbits Kepler-1753: discovered via Transit, 2021, 2.23x Earth radius, 5.59x Earth mass, 16.0-day orbit.",
+      "url": "https://exoplanetarchive.ipac.caltech.edu/overview/Kepler-1753",
+      "publishedAt": "2026-09-22T18:15:21.003Z",
+      "tags": [
+        "Transit"
+      ]
+    },
+    {
+      "id": "65fa97dfb2d6",
+      "agency": "exo",
+      "ra": 203.5467021,
+      "dec": -13.5769705,
+      "source": "NASA Exoplanet Archive",
+      "title": "K2-126 b — catalog entry updated",
+      "summary": "Orbits K2-126: discovered via Transit, 2017, 1.97x Earth radius, 4.54x Earth mass, 7.4-day orbit.",
+      "url": "https://exoplanetarchive.ipac.caltech.edu/overview/K2-126",
+      "publishedAt": "2026-09-22T18:15:21.003Z",
+      "tags": [
+        "Transit"
+      ]
+    },
+    {
+      "id": "9fd9c1e4ca18",
+      "agency": "exo",
+      "ra": 134.4441404,
+      "dec": 21.4532748,
+      "source": "NASA Exoplanet Archive",
+      "title": "K2-123 b — catalog entry updated",
+      "summary": "Orbits K2-123: discovered via Transit, 2017, 2.76x Earth radius, 8.05x Earth mass, 31.0-day orbit.",
+      "url": "https://exoplanetarchive.ipac.caltech.edu/overview/K2-123",
+      "publishedAt": "2026-09-22T18:15:21.003Z",
+      "tags": [
+        "Transit"
+      ]
+    },
+    {
+      "id": "71992d8ffc70",
+      "agency": "exo",
+      "ra": 297.919724,
+      "dec": 45.2742038,
+      "source": "NASA Exoplanet Archive",
+      "title": "Kepler-1176 b — catalog entry updated",
+      "summary": "Orbits Kepler-1176: discovered via Transit, 2016, 2.45x Earth radius, 6.57x Earth mass, 24.2-day orbit.",
+      "url": "https://exoplanetarchive.ipac.caltech.edu/overview/Kepler-1176",
+      "publishedAt": "2026-09-22T18:15:21.003Z",
+      "tags": [
+        "Transit"
+      ]
+    },
+    {
+      "id": "777be909ff64",
+      "agency": "nasa",
+      "source": "NASA breaking news",
+      "title": "NASA-Funded Research Finds Complex Life Defying Record Heat",
+      "summary": "NASA-supported scientists have discovered an organism that lives at extreme temperatures previously thought impossible for complex life. High temperatures can cause the destruction of necessary cell components, which is a big problem for cells with complex parts like a nucleus encasing delicate genetic information. In…",
+      "url": "https://science.nasa.gov/earth/nasa-funded-research-finds-complex-life-defying-record-heat/",
+      "publishedAt": "2026-09-22T17:33:10.000Z",
+      "tags": [
+        "Astrobiology",
+        "Earth",
+        "Planetary Science"
+      ]
+    },
+    {
+      "id": "c4b4bc30a5aa",
+      "agency": "nasa",
+      "source": "NASA breaking news",
+      "title": "NASA’s Chandra Finds Unusual Objects in Pinwheel Galaxy",
+      "summary": "Using NASA’s Chandra X-ray Observatory, researchers found mysterious objects that give off unusually low-energy X-rays but intense levels of ultraviolet radiation. One of the galaxies they studied, M101, is pictured here in this image released on Sept. 9, 2026. Astronomers suggest these newly spotted objects in other g…",
+      "url": "https://www.nasa.gov/image-article/nasas-chandra-finds-unusual-objects-in-pinwheel-galaxy/",
+      "publishedAt": "2026-09-22T15:40:48.000Z",
+      "tags": [
+        "Galaxies"
+      ]
+    },
+    {
+      "id": "c37e03e6d91d",
+      "agency": "nasa",
+      "source": "NASA breaking news",
+      "title": "NASA Astronaut to Answer Questions from New Hampshire Students",
+      "summary": "Editor’s Note: This feature was updated Sept. 22, 2026, to note the time change for the in-flight call with students. Students in New Hampshire will hear from NASA astronaut Anil Menon as he answers prerecorded STEM questions while aboard the International Space Station. The Earth-to-space call will begin at 11:40 a.m.…",
+      "url": "https://www.nasa.gov/learning-resources/nasa-astronaut-to-answer-questions-from-new-hampshire-students/",
+      "publishedAt": "2026-09-22T13:38:53.000Z",
+      "tags": [
+        "Learning Resources",
+        "Humans in Space",
+        "In-flight Education Downlinks",
+        "International Space Station (ISS)",
+        "Johnson Space Center"
+      ]
+    },
+    {
+      "id": "e1b9320d5053",
+      "agency": "nasa",
+      "source": "NASA breaking news",
+      "title": "An Epic View of the Seasons",
+      "summary": "The tilt in Earth’s axis of rotation makes the apparent position of continents shift with the seasons in imagery from a NASA camera in deep space.",
+      "url": "https://science.nasa.gov/earth/earth-observatory/an-epic-view-of-the-seasons/",
+      "publishedAt": "2026-09-22T04:01:00.000Z",
+      "tags": [
+        "Deep Space Climate Observatory (DSCOVR)",
+        "Earth Observatory"
       ]
     },
     {
@@ -551,58 +606,6 @@
       "url": "https://arxiv.org/abs/2609.24723v1",
       "publishedAt": "2026-09-21T14:58:49.000Z",
       "tags": []
-    },
-    {
-      "id": "364bf04f1b02",
-      "agency": "nasa",
-      "source": "NASA breaking news",
-      "title": "Widely Attended Gatherings (WAGs) Determinations",
-      "summary": "2026 NAHF Enshrinement Ceremony 9.24.26.pdf An Evening with the Stars EWTS 9.16.26.pdf Maryland Space Business Roundtable 9.9.26 Virginia Aerospace Business Association (VASBA) Gala 9.24.26.pdf Roman Space Telescope Event 8.28.26.pdf The Planetary Society_Celebrating Viking 7.20.26.pdf Farnborough Airshow Events 7.18-1…",
-      "url": "https://www.nasa.gov/organizations/nasa-ethics-advice-for-widely-attended-gatherings-wags/",
-      "publishedAt": "2026-09-21T12:59:26.000Z",
-      "tags": [
-        "Organizations",
-        "Office of the General Counsel (OGC)"
-      ]
-    },
-    {
-      "id": "8594b0d7de6f",
-      "agency": "nasa",
-      "source": "NASA breaking news",
-      "title": "Johnson Space Center Sparks Curiosity at Houston’s 33rd Annual Japan Festival",
-      "summary": "On Sept. 12-13, NASA’s Johnson Space Center employees brought the excitement and wonder of space exploration to Houston’s Japan Festival at Hermann Park. For more than 30 years, the festival has immersed guests in traditional Japanese culture through food, dance, martial arts, music, and more, Johnson has supported the…",
-      "url": "https://www.nasa.gov/centers-and-facilities/johnson/johnson-space-center-sparks-curiosity-at-houstons-33rd-annual-japan-festival/",
-      "publishedAt": "2026-09-21T11:11:42.000Z",
-      "tags": [
-        "Johnson Space Center",
-        "Events"
-      ]
-    },
-    {
-      "id": "907d728ac596",
-      "agency": "nasa",
-      "source": "NASA breaking news",
-      "title": "APOD: 2026 September 21 – Cocoon Nebula Wide Field",
-      "summary": "APODScienceAPODAPOD: 2026 September 21 –…Today’s APODArchiveSubmissionsIndexSearchCalendarRSSEducationAboutDiscuss APOD Astronomy Picture of the Day Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a professional astronomer.…",
-      "url": "https://science.nasa.gov/image-article/apod-2026-september-21-cocoon-nebula-wide-field/",
-      "publishedAt": "2026-09-21T04:05:00.000Z",
-      "tags": [
-        "APOD"
-      ]
-    },
-    {
-      "id": "830d3c1eb1e2",
-      "agency": "nasa",
-      "source": "NASA breaking news",
-      "title": "Arctic Melt Season Length Levels Off",
-      "summary": "While the sea ice melt season has lengthened dramatically in most of the satellite era, the trend unexpectedly stabilized around 2010.",
-      "url": "https://science.nasa.gov/earth/earth-observatory/arctic-melt-season-length-levels-off/",
-      "publishedAt": "2026-09-21T04:00:00.000Z",
-      "tags": [
-        "Earth Observatory",
-        "Ice & Glaciers",
-        "Sea Ice"
-      ]
     },
     {
       "id": "a1872142f277",
