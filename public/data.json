@@ -1,8 +1,13 @@
 {
-  "generatedAt": "2026-09-23T06:16:05.035Z",
+  "generatedAt": "2026-09-23T18:15:38.906Z",
   "sourceCount": 5,
-  "itemCount": 70,
-  "errors": [],
+  "itemCount": 60,
+  "errors": [
+    {
+      "source": "NASA breaking news",
+      "message": "Status code 429"
+    }
+  ],
   "apod": {
     "date": "2026-09-23",
     "explanation": "A once-in-a-lifetime crater has appeared on the Moon! A comet or asteroid roughly the size of a humpback whale (approximately 10-20 meters, 30-60 feet) crashed into the Moon sometime between April and May of 2024. The Lunar Reconnaissance Orbiter (LRO), with its monthly monitoring of the Moon, captured today’s images of the lunar surface before and after the event. The resulting crater, named after Apollo-era lunar scientist McGetchin, is two soccer fields across. Craters of this size are only expected once every 132 years! Follow up thermal imaging revealed a large cold spot that surrounds the warm crater. Surface impacts will puff up the loose lunar sediment, or regolith, making it less dense and harder to retain heat. This event affected an area much larger than the visible crater, which will inform humanity’s understanding of surface impacts and the evolution of the Moon’s surface. It also reminds us all to be thankful for Earth's atmosphere.   APOD's email for image submissions has changed. Please see: APOD Submissions.  APOD's main NASA site is moving: From apod.nasa.gov to science.nasa.gov/apod",
@@ -14,6 +19,20 @@
   },
   "items": [
     {
+      "id": "9c09e70a540f",
+      "agency": "exo",
+      "ra": 288.236664,
+      "dec": 46.6058744,
+      "source": "NASA Exoplanet Archive",
+      "title": "Kepler-1753 b — catalog entry updated",
+      "summary": "Orbits Kepler-1753: discovered via Transit, 2021, 2.23x Earth radius, 5.59x Earth mass, 16.0-day orbit.",
+      "url": "https://exoplanetarchive.ipac.caltech.edu/overview/Kepler-1753",
+      "publishedAt": "2026-09-23T18:15:38.454Z",
+      "tags": [
+        "Transit"
+      ]
+    },
+    {
       "id": "65fa97dfb2d6",
       "agency": "exo",
       "ra": 203.5467021,
@@ -22,7 +41,7 @@
       "title": "K2-126 b — catalog entry updated",
       "summary": "Orbits K2-126: discovered via Transit, 2017, 1.97x Earth radius, 4.54x Earth mass, 7.4-day orbit.",
       "url": "https://exoplanetarchive.ipac.caltech.edu/overview/K2-126",
-      "publishedAt": "2026-09-23T06:16:02.603Z",
+      "publishedAt": "2026-09-23T18:15:38.454Z",
       "tags": [
         "Transit"
       ]
@@ -36,7 +55,7 @@
       "title": "K2-123 b — catalog entry updated",
       "summary": "Orbits K2-123: discovered via Transit, 2017, 2.76x Earth radius, 8.05x Earth mass, 31.0-day orbit.",
       "url": "https://exoplanetarchive.ipac.caltech.edu/overview/K2-123",
-      "publishedAt": "2026-09-23T06:16:02.603Z",
+      "publishedAt": "2026-09-23T18:15:38.454Z",
       "tags": [
         "Transit"
       ]
@@ -50,7 +69,7 @@
       "title": "Kepler-1176 b — catalog entry updated",
       "summary": "Orbits Kepler-1176: discovered via Transit, 2016, 2.45x Earth radius, 6.57x Earth mass, 24.2-day orbit.",
       "url": "https://exoplanetarchive.ipac.caltech.edu/overview/Kepler-1176",
-      "publishedAt": "2026-09-23T06:16:02.603Z",
+      "publishedAt": "2026-09-23T18:15:38.454Z",
       "tags": [
         "Transit"
       ]
@@ -64,7 +83,7 @@
       "title": "K2-43 b — catalog entry updated",
       "summary": "Orbits K2-43: discovered via Transit, 2016, 4.51x Earth radius, 18.50x Earth mass, 3.5-day orbit.",
       "url": "https://exoplanetarchive.ipac.caltech.edu/overview/K2-43",
-      "publishedAt": "2026-09-23T06:16:02.603Z",
+      "publishedAt": "2026-09-23T18:15:38.454Z",
       "tags": [
         "Transit"
       ]
@@ -78,7 +97,7 @@
       "title": "Kepler-1416 b — catalog entry updated",
       "summary": "Orbits Kepler-1416: discovered via Transit, 2016, 0.88x Earth radius, 0.61x Earth mass, 1.5-day orbit.",
       "url": "https://exoplanetarchive.ipac.caltech.edu/overview/Kepler-1416",
-      "publishedAt": "2026-09-23T06:16:02.603Z",
+      "publishedAt": "2026-09-23T18:15:38.454Z",
       "tags": [
         "Transit"
       ]
@@ -92,7 +111,7 @@
       "title": "Kepler-1399 b — catalog entry updated",
       "summary": "Orbits Kepler-1399: discovered via Transit, 2016, 1.25x Earth radius, 2.10x Earth mass, 1.6-day orbit.",
       "url": "https://exoplanetarchive.ipac.caltech.edu/overview/Kepler-1399",
-      "publishedAt": "2026-09-23T06:16:02.603Z",
+      "publishedAt": "2026-09-23T18:15:38.454Z",
       "tags": [
         "Transit"
       ]
@@ -106,7 +125,7 @@
       "title": "Kepler-770 b — catalog entry updated",
       "summary": "Orbits Kepler-770: discovered via Transit, 2016, 2.30x Earth radius, 5.90x Earth mass, 18.9-day orbit.",
       "url": "https://exoplanetarchive.ipac.caltech.edu/overview/Kepler-770",
-      "publishedAt": "2026-09-23T06:16:02.603Z",
+      "publishedAt": "2026-09-23T18:15:38.454Z",
       "tags": [
         "Transit"
       ]
@@ -120,7 +139,7 @@
       "title": "Kepler-1263 b — catalog entry updated",
       "summary": "Orbits Kepler-1263: discovered via Transit, 2016, 1.14x Earth radius, 1.55x Earth mass, 4.6-day orbit.",
       "url": "https://exoplanetarchive.ipac.caltech.edu/overview/Kepler-1263",
-      "publishedAt": "2026-09-23T06:16:02.603Z",
+      "publishedAt": "2026-09-23T18:15:38.454Z",
       "tags": [
         "Transit"
       ]
@@ -134,7 +153,7 @@
       "title": "Kepler-723 b — catalog entry updated",
       "summary": "Orbits Kepler-723: discovered via Transit, 2016, 12.19x Earth radius, 4.1-day orbit.",
       "url": "https://exoplanetarchive.ipac.caltech.edu/overview/Kepler-723",
-      "publishedAt": "2026-09-23T06:16:02.603Z",
+      "publishedAt": "2026-09-23T18:15:38.454Z",
       "tags": [
         "Transit"
       ]
@@ -148,7 +167,7 @@
       "title": "Kepler-1542 c — catalog entry updated",
       "summary": "Orbits Kepler-1542: discovered via Transit, 2016, 0.65x Earth radius, 0.21x Earth mass, 2.9-day orbit.",
       "url": "https://exoplanetarchive.ipac.caltech.edu/overview/Kepler-1542",
-      "publishedAt": "2026-09-23T06:16:02.603Z",
+      "publishedAt": "2026-09-23T18:15:38.454Z",
       "tags": [
         "Transit"
       ]
@@ -162,7 +181,7 @@
       "title": "K2-85 b — catalog entry updated",
       "summary": "Orbits K2-85: discovered via Transit, 2016, 1.40x Earth radius, 3.20x Earth mass, 0.7-day orbit.",
       "url": "https://exoplanetarchive.ipac.caltech.edu/overview/K2-85",
-      "publishedAt": "2026-09-23T06:16:02.603Z",
+      "publishedAt": "2026-09-23T18:15:38.454Z",
       "tags": [
         "Transit"
       ]
@@ -176,7 +195,7 @@
       "title": "Kepler-368 c — catalog entry updated",
       "summary": "Orbits Kepler-368: discovered via Transit, 2014, 3.88x Earth radius, 14.30x Earth mass, 72.4-day orbit.",
       "url": "https://exoplanetarchive.ipac.caltech.edu/overview/Kepler-368",
-      "publishedAt": "2026-09-23T06:16:02.603Z",
+      "publishedAt": "2026-09-23T18:15:38.454Z",
       "tags": [
         "Transit"
       ]
@@ -190,7 +209,7 @@
       "title": "HAT-P-8 b — catalog entry updated",
       "summary": "Orbits HAT-P-8: discovered via Transit, 2008, 15.69x Earth radius, 406.82x Earth mass, 3.1-day orbit.",
       "url": "https://exoplanetarchive.ipac.caltech.edu/overview/HAT-P-8",
-      "publishedAt": "2026-09-23T06:16:02.603Z",
+      "publishedAt": "2026-09-23T18:15:38.454Z",
       "tags": [
         "Transit"
       ]
@@ -204,77 +223,9 @@
       "title": "HD 2039 b — catalog entry updated",
       "summary": "Orbits HD 2039: discovered via Radial Velocity, 2002, 12.70x Earth radius, 1999.15x Earth mass, 1120.0-day orbit.",
       "url": "https://exoplanetarchive.ipac.caltech.edu/overview/HD_2039",
-      "publishedAt": "2026-09-23T06:16:02.603Z",
+      "publishedAt": "2026-09-23T18:15:38.454Z",
       "tags": [
         "Radial Velocity"
-      ]
-    },
-    {
-      "id": "9c09e70a540f",
-      "agency": "exo",
-      "ra": 288.236664,
-      "dec": 46.6058744,
-      "source": "NASA Exoplanet Archive",
-      "title": "Kepler-1753 b — catalog entry updated",
-      "summary": "Orbits Kepler-1753: discovered via Transit, 2021, 2.23x Earth radius, 5.59x Earth mass, 16.0-day orbit.",
-      "url": "https://exoplanetarchive.ipac.caltech.edu/overview/Kepler-1753",
-      "publishedAt": "2026-09-23T06:16:02.602Z",
-      "tags": [
-        "Transit"
-      ]
-    },
-    {
-      "id": "181acca69665",
-      "agency": "nasa",
-      "source": "NASA breaking news",
-      "title": "APOD: 2026 September 23 – A New Lunar Crater: McGetchin",
-      "summary": "APOD Science APOD APOD: 2026 September 23 – A… Today’s APOD Archive Submissions Index Search Calendar RSS Education About Discuss APOD Astronomy Picture of the Day Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a professio…",
-      "url": "https://science.nasa.gov/image-article/apod-2026-september-23-the-mcgetchin-crater/",
-      "publishedAt": "2026-09-23T04:05:00.000Z",
-      "tags": [
-        "APOD"
-      ]
-    },
-    {
-      "id": "83e0cc498bfc",
-      "agency": "nasa",
-      "source": "NASA breaking news",
-      "title": "Boom Year for Desert Blooms",
-      "summary": "Carpets of wildflowers burst from arid, ochre-colored land in Western Australia following winter rains.",
-      "url": "https://science.nasa.gov/earth/earth-observatory/boom-year-for-desert-blooms/",
-      "publishedAt": "2026-09-23T04:01:00.000Z",
-      "tags": [
-        "Earth Observatory",
-        "Landsat 8 / LDCM (Landsat Data Continuity Mission)",
-        "Vegetation"
-      ]
-    },
-    {
-      "id": "74c885e734e7",
-      "agency": "nasa",
-      "source": "NASA breaking news",
-      "title": "Curiosity Blog, Sols 5010-5015: Checking out the Bands",
-      "summary": "Catherine O’Connell-Cooper, APXS Strategic Planner and Payload Uplink/Downlink Lead, University New Brunswick, NB, Canada Earth planning date: Friday, Sept. 11, 2026 This week we had two planning days (Tuesday and Friday), as Monday was Labor Day in North America, where many of the Curiosity team are based. Labor Day (…",
-      "url": "https://science.nasa.gov/blog/curiosity-blog-sols-5010-5015-checking-out-the-bands/",
-      "publishedAt": "2026-09-23T00:40:16.000Z",
-      "tags": [
-        "Blogs"
-      ]
-    },
-    {
-      "id": "918f955a5b25",
-      "agency": "nasa",
-      "source": "NASA breaking news",
-      "title": "Risks of Decompression Sickness and Venous Thromboembolism during Spaceflight and Patent Foramen Ovale Implications",
-      "summary": "NASA’s Office of the Chief Health and Medical Officer formed a working group in August 2026 to review the most recent data related to extravehicular activity (EVA) prebreathe testing and decompression sickness (DCS) events, venous thromboembolism (VTE) in-flight occurrences, and patent foramen ovale (PFO) implication a…",
-      "url": "https://www.nasa.gov/organizations/ochmo/risks-of-decompression-sickness-and-venous-thromboembolism-during-spaceflight-and-patent-foramen-ovale-implications/",
-      "publishedAt": "2026-09-22T19:19:45.000Z",
-      "tags": [
-        "Office of the Chief Health and Medical Officer (OCHMO)",
-        "Astronauts",
-        "General",
-        "Humans in Space",
-        "International Space Station (ISS)"
       ]
     },
     {
@@ -336,20 +287,6 @@
       "url": "https://arxiv.org/abs/2609.26754v1",
       "publishedAt": "2026-09-22T17:36:21.000Z",
       "tags": []
-    },
-    {
-      "id": "4a34e8e7a382",
-      "agency": "nasa",
-      "source": "NASA breaking news",
-      "title": "NASA-Funded Research Finds Complex Life Defying Record Heat",
-      "summary": "Lee esta historia en español aquí. NASA-supported scientists have discovered an organism that lives at extreme temperatures previously thought impossible for complex life. High temperatures can cause the destruction of necessary cell components, which is a big problem for cells with complex parts like a nucleus encasin…",
-      "url": "https://science.nasa.gov/science-research/planetary-science/nasa-funded-research-finds-complex-life-defying-record-heat/",
-      "publishedAt": "2026-09-22T17:33:10.000Z",
-      "tags": [
-        "Astrobiology",
-        "Earth",
-        "Planetary Science"
-      ]
     },
     {
       "id": "326bf751a0a8",
@@ -430,18 +367,6 @@
       "url": "https://arxiv.org/abs/2609.26611v1",
       "publishedAt": "2026-09-22T15:48:01.000Z",
       "tags": []
-    },
-    {
-      "id": "c4b4bc30a5aa",
-      "agency": "nasa",
-      "source": "NASA breaking news",
-      "title": "NASA’s Chandra Finds Unusual Objects in Pinwheel Galaxy",
-      "summary": "Using NASA’s Chandra X-ray Observatory, researchers found mysterious objects that give off unusually low-energy X-rays but intense levels of ultraviolet radiation. One of the galaxies they studied, M101, is pictured here in this image released on Sept. 9, 2026. Astronomers suggest these newly spotted objects in other g…",
-      "url": "https://www.nasa.gov/image-article/nasas-chandra-finds-unusual-objects-in-pinwheel-galaxy/",
-      "publishedAt": "2026-09-22T15:40:48.000Z",
-      "tags": [
-        "Galaxies"
-      ]
     },
     {
       "id": "ac0a989e2833",
@@ -554,59 +479,6 @@
       "tags": []
     },
     {
-      "id": "c37e03e6d91d",
-      "agency": "nasa",
-      "source": "NASA breaking news",
-      "title": "NASA Astronaut to Answer Questions from New Hampshire Students",
-      "summary": "Editor’s Note: This feature was updated Sept. 22, 2026, to note the time change for the in-flight call with students. Students in New Hampshire will hear from NASA astronaut Anil Menon as he answers prerecorded STEM questions while aboard the International Space Station. The Earth-to-space call will begin at 11:40 a.m.…",
-      "url": "https://www.nasa.gov/learning-resources/nasa-astronaut-to-answer-questions-from-new-hampshire-students/",
-      "publishedAt": "2026-09-22T13:38:53.000Z",
-      "tags": [
-        "Learning Resources",
-        "Humans in Space",
-        "In-flight Education Downlinks",
-        "International Space Station (ISS)",
-        "Johnson Space Center"
-      ]
-    },
-    {
-      "id": "1124158bf744",
-      "agency": "nasa",
-      "source": "NASA breaking news",
-      "title": "APOD: 2026 September 22 – Chance Triple Alignment: Plane, Space Station, Sun",
-      "summary": "APOD Science APOD APOD: 2026 September 22 –… Today’s APOD Archive Submissions Index Search Calendar RSS Education About Discuss APOD Astronomy Picture of the Day Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a professiona…",
-      "url": "https://science.nasa.gov/image-article/apod-2026-september-22-chance-triple-alignment-plane-space-station-sun/",
-      "publishedAt": "2026-09-22T04:05:00.000Z",
-      "tags": [
-        "APOD"
-      ]
-    },
-    {
-      "id": "e1b9320d5053",
-      "agency": "nasa",
-      "source": "NASA breaking news",
-      "title": "An Epic View of the Seasons",
-      "summary": "The tilt in Earth’s axis of rotation makes the apparent position of continents shift with the seasons in imagery from a NASA camera in deep space.",
-      "url": "https://science.nasa.gov/earth/earth-observatory/an-epic-view-of-the-seasons/",
-      "publishedAt": "2026-09-22T04:01:00.000Z",
-      "tags": [
-        "Deep Space Climate Observatory (DSCOVR)",
-        "Earth Observatory"
-      ]
-    },
-    {
-      "id": "14180aa172f2",
-      "agency": "nasa",
-      "source": "NASA breaking news",
-      "title": "Embracing the Equinox",
-      "summary": "Depending on your locale, equinoxes can be seen as harbingers of longer nights and gloomy weather, or promising beacons of nicer temperatures and more sunlight. Observing and predicting equinoxes is one of the earliest skills in humanity’s astronomical toolkit. Many ancient observatories around the world observed equin…",
-      "url": "https://science.nasa.gov/solar-system/skywatching/night-sky-network/embracing-the-equinox/",
-      "publishedAt": "2026-09-21T21:55:40.000Z",
-      "tags": [
-        "Night Sky Network"
-      ]
-    },
-    {
       "id": "a1872142f277",
       "agency": "esa",
       "source": "ESA/Hubble news",
@@ -704,6 +576,106 @@
       "summary": "Astronomers using the NASA/ESA Hubble Space Telescope have found something they never expected: ultraviolet light from a galaxy that existed just 1.4 billion years after the Big Bang. That galaxy contains tightly clustered young stars that produce ionising light capable of transforming the opaque, neutral gas within an…",
       "url": "https://esahubble.org/news/heic2609/",
       "publishedAt": "2026-06-23T14:00:00.000Z",
+      "tags": []
+    },
+    {
+      "id": "9f660dbedd4a",
+      "agency": "eso",
+      "source": "ESO press releases",
+      "title": "Strange winds reveal strongest hints yet of magnetic activity in exoplanets",
+      "summary": "A team of astronomers has found the strongest evidence yet that some planets outside our Solar System may be magnetic. Using the European Southern Observatory’s Very Large Telescope (ESO's VLT) and the Gemini North telescope, the researchers measured wind speeds on seven very hot, Jupiter-like exoplanets. The observati…",
+      "url": "https://www.eso.org/public/news/eso2606/",
+      "publishedAt": "2026-06-02T09:00:00.000Z",
+      "tags": []
+    },
+    {
+      "id": "fcf903c5aba3",
+      "agency": "esa",
+      "source": "ESA/Hubble news",
+      "title": "Photo Release: Hubble dazzles with young stars in Trifid Nebula for 36th anniversary",
+      "summary": "The NASA/ESA Hubble Space Telescope looked at a scene it first captured in 1997 in honour of its 36th anniversary: a small portion of a star-forming region about 5000 light-years away in the constellation Sagittarius, known as the Trifid Nebula. The image shows changes over incredibly short timescales and instills a se…",
+      "url": "https://esahubble.org/news/heic2608/",
+      "publishedAt": "2026-04-20T14:00:00.000Z",
+      "tags": []
+    },
+    {
+      "id": "bcf281fe44ca",
+      "agency": "eso",
+      "source": "ESO press releases",
+      "title": "First light for PoET: shining (sun)light on exoplanet research",
+      "summary": "The Paranal solar ESPRESSO Telescope (PoET), installed at the European Southern Observatory's (ESO's) Paranal site in Chile, has made its first observations. The telescope will work with ESO's ESPRESSO instrument to study the Sun in detail. Described as a solar telescope for planet hunters, PoET aims to understand how…",
+      "url": "https://www.eso.org/public/news/eso2605/",
+      "publishedAt": "2026-04-09T12:00:00.000Z",
+      "tags": []
+    },
+    {
+      "id": "87a307bff2f3",
+      "agency": "eso",
+      "source": "ESO press releases",
+      "title": "A Solar System in the making? Two planets spotted forming in disc around young star",
+      "summary": "Astronomers have observed two planets forming in the disc around a young star named WISPIT 2. Having previously detected one planet, the team have now employed European Southern Observatory (ESO) telescopes to confirm the presence of another. These observations, and the unique structure of the disc around the star, ind…",
+      "url": "https://www.eso.org/public/news/eso2604/",
+      "publishedAt": "2026-03-24T13:00:00.000Z",
+      "tags": []
+    },
+    {
+      "id": "1d1bf1aaa4be",
+      "agency": "esa",
+      "source": "ESA/Hubble news",
+      "title": "Photo Release: Hubble revisits Crab Nebula to track 25 years of expansion",
+      "summary": "Nearly a millennium ago, astronomers witnessed a brilliant new star blazing in the sky — a supernova so bright it was visible in daylight for weeks. Today, its expanding remnant, the Crab Nebula, continues to evolve 6,500 light-years away. First linked to historical records by Edwin Hubble, the nebula has since been st…",
+      "url": "https://esahubble.org/news/heic2607/",
+      "publishedAt": "2026-03-23T14:00:00.000Z",
+      "tags": []
+    },
+    {
+      "id": "fc6f29c600b1",
+      "agency": "esa",
+      "source": "ESA/Hubble news",
+      "title": "Science Release: Hubble unexpectedly catches comet breaking up",
+      "summary": "Comet K1, whose full name is Comet C/2025 K1 (ATLAS), had just passed its closest approach to the Sun and was heading out of the Solar System. Though it had been intact just days before, K1 fragmented into at least four pieces while the NASA/ESA Hubble Space Telescope was watching. The odds of that happening while Hubb…",
+      "url": "https://esahubble.org/news/heic2606/",
+      "publishedAt": "2026-03-18T14:00:00.000Z",
+      "tags": []
+    },
+    {
+      "id": "c53f78557e24",
+      "agency": "eso",
+      "source": "ESO press releases",
+      "title": "Largest image of its kind shows hidden chemistry at the heart of the Milky Way",
+      "summary": "Astronomers have captured the central region of our Milky Way in a striking new image, unveiling a complex network of filaments of cosmic gas in unprecedented detail. Obtained with the Atacama Large Millimeter/submillimeter Array (ALMA), this rich dataset — the largest ALMA image to date — will allow astronomers to pro…",
+      "url": "https://www.eso.org/public/news/eso2603/",
+      "publishedAt": "2026-02-25T13:00:00.000Z",
+      "tags": []
+    },
+    {
+      "id": "67b2e29862d2",
+      "agency": "esa",
+      "source": "ESA/Hubble news",
+      "title": "Science Release: Hubble identifies one of darkest known galaxies",
+      "summary": "Most galaxies in the nearby Universe are quite luminous, but some are so faint they’re nearly invisible. Astronomers, using the NASA/ESA Hubble Space Telescope in combination with other observatories, identified a galaxy that appears to be almost entirely dominated by dark matter with only a smattering of stars. The ga…",
+      "url": "https://esahubble.org/news/heic2605/",
+      "publishedAt": "2026-02-18T15:00:00.000Z",
+      "tags": []
+    },
+    {
+      "id": "ae5ccc01bf63",
+      "agency": "esa",
+      "source": "ESA/Hubble news",
+      "title": "Photo Release: Hubble captures light show around rapidly dying star",
+      "summary": "This stunning image from the NASA/ESA Hubble Space Telescope reveals a dramatic interplay of light and shadow in the Egg Nebula, sculpted by freshly ejected stardust. Located approximately 1,000 light-years away in the constellation Cygnus, the Egg Nebula features a central star obscured by a dense cloud of dust. Only…",
+      "url": "https://esahubble.org/news/heic2604/",
+      "publishedAt": "2026-02-10T15:00:00.000Z",
+      "tags": []
+    },
+    {
+      "id": "db31f371b721",
+      "agency": "esa",
+      "source": "ESA/Hubble news",
+      "title": "Science Release: Researchers discover hundreds of cosmic anomalies with help from AI",
+      "summary": "A team of astronomers have used a new AI-assisted method to search for rare astronomical objects in the Hubble Legacy Archive. The team sifted through nearly 100 million image cutouts in just two and a half days, uncovering nearly 1400 anomalous objects, more than 800 of which had never been documented before.",
+      "url": "https://esahubble.org/news/heic2603/",
+      "publishedAt": "2026-01-27T15:00:00.000Z",
       "tags": []
     }
   ]
