@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-24T12:15:44.098Z",
+  "generatedAt": "2026-09-24T18:15:00.335Z",
   "sourceCount": 5,
   "itemCount": 70,
   "errors": [],
@@ -23,7 +23,7 @@
       "title": "Kepler-1753 b — catalog entry updated",
       "summary": "Orbits Kepler-1753: discovered via Transit, 2021, 2.23x Earth radius, 5.59x Earth mass, 16.0-day orbit.",
       "url": "https://exoplanetarchive.ipac.caltech.edu/overview/Kepler-1753",
-      "publishedAt": "2026-09-24T12:15:13.559Z",
+      "publishedAt": "2026-09-24T18:15:00.047Z",
       "tags": [
         "Transit"
       ]
@@ -37,7 +37,7 @@
       "title": "K2-126 b — catalog entry updated",
       "summary": "Orbits K2-126: discovered via Transit, 2017, 1.97x Earth radius, 4.54x Earth mass, 7.4-day orbit.",
       "url": "https://exoplanetarchive.ipac.caltech.edu/overview/K2-126",
-      "publishedAt": "2026-09-24T12:15:13.559Z",
+      "publishedAt": "2026-09-24T18:15:00.047Z",
       "tags": [
         "Transit"
       ]
@@ -51,7 +51,7 @@
       "title": "K2-123 b — catalog entry updated",
       "summary": "Orbits K2-123: discovered via Transit, 2017, 2.76x Earth radius, 8.05x Earth mass, 31.0-day orbit.",
       "url": "https://exoplanetarchive.ipac.caltech.edu/overview/K2-123",
-      "publishedAt": "2026-09-24T12:15:13.559Z",
+      "publishedAt": "2026-09-24T18:15:00.047Z",
       "tags": [
         "Transit"
       ]
@@ -65,7 +65,7 @@
       "title": "Kepler-1176 b — catalog entry updated",
       "summary": "Orbits Kepler-1176: discovered via Transit, 2016, 2.45x Earth radius, 6.57x Earth mass, 24.2-day orbit.",
       "url": "https://exoplanetarchive.ipac.caltech.edu/overview/Kepler-1176",
-      "publishedAt": "2026-09-24T12:15:13.559Z",
+      "publishedAt": "2026-09-24T18:15:00.047Z",
       "tags": [
         "Transit"
       ]
@@ -79,7 +79,7 @@
       "title": "K2-43 b — catalog entry updated",
       "summary": "Orbits K2-43: discovered via Transit, 2016, 4.51x Earth radius, 18.50x Earth mass, 3.5-day orbit.",
       "url": "https://exoplanetarchive.ipac.caltech.edu/overview/K2-43",
-      "publishedAt": "2026-09-24T12:15:13.559Z",
+      "publishedAt": "2026-09-24T18:15:00.047Z",
       "tags": [
         "Transit"
       ]
@@ -93,7 +93,7 @@
       "title": "Kepler-1416 b — catalog entry updated",
       "summary": "Orbits Kepler-1416: discovered via Transit, 2016, 0.88x Earth radius, 0.61x Earth mass, 1.5-day orbit.",
       "url": "https://exoplanetarchive.ipac.caltech.edu/overview/Kepler-1416",
-      "publishedAt": "2026-09-24T12:15:13.559Z",
+      "publishedAt": "2026-09-24T18:15:00.047Z",
       "tags": [
         "Transit"
       ]
@@ -107,7 +107,7 @@
       "title": "Kepler-1399 b — catalog entry updated",
       "summary": "Orbits Kepler-1399: discovered via Transit, 2016, 1.25x Earth radius, 2.10x Earth mass, 1.6-day orbit.",
       "url": "https://exoplanetarchive.ipac.caltech.edu/overview/Kepler-1399",
-      "publishedAt": "2026-09-24T12:15:13.559Z",
+      "publishedAt": "2026-09-24T18:15:00.047Z",
       "tags": [
         "Transit"
       ]
@@ -121,7 +121,7 @@
       "title": "Kepler-770 b — catalog entry updated",
       "summary": "Orbits Kepler-770: discovered via Transit, 2016, 2.30x Earth radius, 5.90x Earth mass, 18.9-day orbit.",
       "url": "https://exoplanetarchive.ipac.caltech.edu/overview/Kepler-770",
-      "publishedAt": "2026-09-24T12:15:13.559Z",
+      "publishedAt": "2026-09-24T18:15:00.047Z",
       "tags": [
         "Transit"
       ]
@@ -135,7 +135,7 @@
       "title": "Kepler-1263 b — catalog entry updated",
       "summary": "Orbits Kepler-1263: discovered via Transit, 2016, 1.14x Earth radius, 1.55x Earth mass, 4.6-day orbit.",
       "url": "https://exoplanetarchive.ipac.caltech.edu/overview/Kepler-1263",
-      "publishedAt": "2026-09-24T12:15:13.559Z",
+      "publishedAt": "2026-09-24T18:15:00.047Z",
       "tags": [
         "Transit"
       ]
@@ -149,7 +149,7 @@
       "title": "Kepler-723 b — catalog entry updated",
       "summary": "Orbits Kepler-723: discovered via Transit, 2016, 12.19x Earth radius, 4.1-day orbit.",
       "url": "https://exoplanetarchive.ipac.caltech.edu/overview/Kepler-723",
-      "publishedAt": "2026-09-24T12:15:13.559Z",
+      "publishedAt": "2026-09-24T18:15:00.047Z",
       "tags": [
         "Transit"
       ]
@@ -163,7 +163,7 @@
       "title": "Kepler-1542 c — catalog entry updated",
       "summary": "Orbits Kepler-1542: discovered via Transit, 2016, 0.65x Earth radius, 0.21x Earth mass, 2.9-day orbit.",
       "url": "https://exoplanetarchive.ipac.caltech.edu/overview/Kepler-1542",
-      "publishedAt": "2026-09-24T12:15:13.559Z",
+      "publishedAt": "2026-09-24T18:15:00.047Z",
       "tags": [
         "Transit"
       ]
@@ -177,7 +177,7 @@
       "title": "K2-85 b — catalog entry updated",
       "summary": "Orbits K2-85: discovered via Transit, 2016, 1.40x Earth radius, 3.20x Earth mass, 0.7-day orbit.",
       "url": "https://exoplanetarchive.ipac.caltech.edu/overview/K2-85",
-      "publishedAt": "2026-09-24T12:15:13.559Z",
+      "publishedAt": "2026-09-24T18:15:00.047Z",
       "tags": [
         "Transit"
       ]
@@ -191,7 +191,7 @@
       "title": "Kepler-368 c — catalog entry updated",
       "summary": "Orbits Kepler-368: discovered via Transit, 2014, 3.88x Earth radius, 14.30x Earth mass, 72.4-day orbit.",
       "url": "https://exoplanetarchive.ipac.caltech.edu/overview/Kepler-368",
-      "publishedAt": "2026-09-24T12:15:13.559Z",
+      "publishedAt": "2026-09-24T18:15:00.047Z",
       "tags": [
         "Transit"
       ]
@@ -205,7 +205,7 @@
       "title": "HAT-P-8 b — catalog entry updated",
       "summary": "Orbits HAT-P-8: discovered via Transit, 2008, 15.69x Earth radius, 406.82x Earth mass, 3.1-day orbit.",
       "url": "https://exoplanetarchive.ipac.caltech.edu/overview/HAT-P-8",
-      "publishedAt": "2026-09-24T12:15:13.559Z",
+      "publishedAt": "2026-09-24T18:15:00.047Z",
       "tags": [
         "Transit"
       ]
@@ -219,9 +219,63 @@
       "title": "HD 2039 b — catalog entry updated",
       "summary": "Orbits HD 2039: discovered via Radial Velocity, 2002, 12.70x Earth radius, 1999.15x Earth mass, 1120.0-day orbit.",
       "url": "https://exoplanetarchive.ipac.caltech.edu/overview/HD_2039",
-      "publishedAt": "2026-09-24T12:15:13.559Z",
+      "publishedAt": "2026-09-24T18:15:00.047Z",
       "tags": [
         "Radial Velocity"
+      ]
+    },
+    {
+      "id": "183c698c5788",
+      "agency": "nasa",
+      "source": "NASA breaking news",
+      "title": "NASA’s Machines for Mars Make Beer Bubbly",
+      "summary": "Carbon-capture technology repurposed for breweries spreads and finds new applications",
+      "url": "https://www.nasa.gov/technology/tech-transfer-spinoffs/nasas-machines-for-mars-make-beer-bubbly/",
+      "publishedAt": "2026-09-24T16:41:01.000Z",
+      "tags": [
+        "Technology Transfer & Spinoffs",
+        "Spinoffs",
+        "Technology Transfer"
+      ]
+    },
+    {
+      "id": "1e48f935d48c",
+      "agency": "nasa",
+      "source": "NASA breaking news",
+      "title": "Practicing for Safe Landings on the Moon and Beyond",
+      "summary": "In this Aug. 27, 2026, image, an Alta-X drone flies an advanced guidance and navigation system known as the Safe and Precise Landing – Integrated Capabilities Evolution (SPLICE) experiment near NASA’s Armstrong Flight Research Center in Edwards, California. Researchers at NASA’s Johnson Space Center in Houston develope…",
+      "url": "https://www.nasa.gov/image-article/practicing-for-safe-landings-on-the-moon-and-beyond/",
+      "publishedAt": "2026-09-24T16:29:19.000Z",
+      "tags": []
+    },
+    {
+      "id": "40ff2a8bf519",
+      "agency": "nasa",
+      "source": "NASA breaking news",
+      "title": "US-India Satellite Captures Time-lapse Video of Volcanic Eruption",
+      "summary": "Like tendrils on a vine, lava spreads out from the northern crater of Krasheninnikov, a volcano pair on the Pacific coast of Russia’s Kamchatka Peninsula. On July 30, 2025, an 8.8-magnitude earthquake had struck in the nearby ocean, apparently jolting one of the two volcanoes awake. A few days later, for the first time…",
+      "url": "https://www.nasa.gov/missions/nisar/us-india-satellite-captures-time-lapse-video-of-volcanic-eruption/",
+      "publishedAt": "2026-09-24T15:47:17.000Z",
+      "tags": [
+        "NISAR (NASA-ISRO Synthetic Aperture Radar)",
+        "Earth",
+        "Earth Science",
+        "Earth Science Division",
+        "Jet Propulsion Laboratory",
+        "Volcanoes"
+      ]
+    },
+    {
+      "id": "d3282ce7f179",
+      "agency": "nasa",
+      "source": "NASA breaking news",
+      "title": "NASA to Study Human Health, Performance During Crew-13 Mission",
+      "summary": "During NASA’s SpaceX Crew‑13 mission aboard the International Space Station, astronauts will support a series of biomedical and human performance investigations, including a new collaborative effort to study how spaceflight affects blood flow and clotting. NASA also is testing crew members’ manual piloting skills, eval…",
+      "url": "https://www.nasa.gov/humans-in-space/nasa-to-study-human-health-performance-during-crew-13-mission/",
+      "publishedAt": "2026-09-24T13:53:48.000Z",
+      "tags": [
+        "Humans in Space",
+        "Human Research Program"
       ]
     },
     {
@@ -312,16 +366,6 @@
       ]
     },
     {
-      "id": "e08052bff00d",
-      "agency": "nasa",
-      "source": "NASA breaking news",
-      "title": "NASA’s Hubble Telescope Reaches Milestone, Looks for Elusive Supernova",
-      "summary": "NASA’s Hubble Space Telescope captured this image of massive galaxy cluster MACS J0417 (left of center) on Sept. 19, 2026. This galaxy cluster acts as a gravitational lens, bending and magnifying light from objects far behind it. Supernova Athena, discovered by NASA’s James Webb Space Telescope in 2025, is predicted to…",
-      "url": "https://www.nasa.gov/image-article/nasas-hubble-telescope-reaches-milestone-looks-for-elusive-supernova/",
-      "publishedAt": "2026-09-23T18:43:43.000Z",
-      "tags": []
-    },
-    {
       "id": "305d286d729a",
       "agency": "arxiv",
       "source": "arXiv astro-ph (new submissions)",
@@ -402,20 +446,6 @@
       "tags": []
     },
     {
-      "id": "dd40960b15bc",
-      "agency": "nasa",
-      "source": "NASA breaking news",
-      "title": "Arctic Sea Ice Reaches 2026 Annual Minimum Extent",
-      "summary": "Arctic sea ice reached its annual minimum extent on Sept. 12, according to NASA and the National Snow and Ice Data Center (NSIDC) at the University of Colorado Boulder. The ice covered an estimated 1.78 million square miles (4.6 million square kilometers), tying 2008, 2010, and 2025 for the 10th-lowest minimum in the s…",
-      "url": "https://science.nasa.gov/science-research/earth-science/climate-science/sea-ice/arctic-sea-ice-2026-min/",
-      "publishedAt": "2026-09-23T17:15:32.000Z",
-      "tags": [
-        "Earth",
-        "Sea Ice",
-        "Uncategorized"
-      ]
-    },
-    {
       "id": "273c1757e69f",
       "agency": "arxiv",
       "source": "arXiv astro-ph (new submissions)",
@@ -476,21 +506,6 @@
       "tags": []
     },
     {
-      "id": "bf977c84e133",
-      "agency": "nasa",
-      "source": "NASA breaking news",
-      "title": "Shannon Lucid’s Record-Setting Mission Aboard Mir",
-      "summary": "Shannon Lucid’s Record-Setting Mission Aboard Mir Three days before returning to Earth, Shannon W. Lucid—who joined NASA in 1978 as one of its first six female astronauts—checked in on wheat growing in the Svet greenhouse aboard the Russian space station Mir. For six months, Lucid lived and worked alongside two Russian…",
-      "url": "https://www.nasa.gov/image-article/shannon-lucids-record-setting-mission-aboard-mir/",
-      "publishedAt": "2026-09-23T16:03:37.000Z",
-      "tags": [
-        "NASA History",
-        "Shannon W. Lucid",
-        "Shuttle-Mir",
-        "STS-79"
-      ]
-    },
-    {
       "id": "d1e8e106a2f3",
       "agency": "arxiv",
       "source": "arXiv astro-ph (new submissions)",
@@ -518,16 +533,6 @@
       "summary": "Luminous young galaxies have been uncovered with relative ease by JWST, extending to z=14.5, so it is puzzling that deeper spectroscopy of fainter candidates now finds only interlopers. This redshift `ìmpasse\" is underscored by the measured stellar ages of these high-z galaxies, which we show converge to zero by z=15,…",
       "url": "https://arxiv.org/abs/2609.28257v1",
       "publishedAt": "2026-09-23T15:19:43.000Z",
-      "tags": []
-    },
-    {
-      "id": "dd651bf833ff",
-      "agency": "nasa",
-      "source": "NASA breaking news",
-      "title": "FFA 2026 Hyperwall Schedule",
-      "summary": "FFA 2026 Hyperwall Schedule",
-      "url": "https://science.nasa.gov/earth/ffa-2026-hyperwall-schedule/",
-      "publishedAt": "2026-09-23T14:58:13.000Z",
       "tags": []
     },
     {
