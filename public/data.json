@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-25T18:14:10.671Z",
+  "generatedAt": "2026-09-26T00:15:57.313Z",
   "sourceCount": 5,
   "itemCount": 70,
   "errors": [],
@@ -15,90 +15,6 @@
   },
   "items": [
     {
-      "id": "9c09e70a540f",
-      "agency": "exo",
-      "ra": 288.236664,
-      "dec": 46.6058744,
-      "source": "NASA Exoplanet Archive",
-      "title": "Kepler-1753 b — catalog entry updated",
-      "summary": "Orbits Kepler-1753: discovered via Transit, 2021, 2.23x Earth radius, 5.59x Earth mass, 16.0-day orbit.",
-      "url": "https://exoplanetarchive.ipac.caltech.edu/overview/Kepler-1753",
-      "publishedAt": "2026-09-25T18:13:40.246Z",
-      "tags": [
-        "Transit"
-      ]
-    },
-    {
-      "id": "65fa97dfb2d6",
-      "agency": "exo",
-      "ra": 203.5467021,
-      "dec": -13.5769705,
-      "source": "NASA Exoplanet Archive",
-      "title": "K2-126 b — catalog entry updated",
-      "summary": "Orbits K2-126: discovered via Transit, 2017, 1.97x Earth radius, 4.54x Earth mass, 7.4-day orbit.",
-      "url": "https://exoplanetarchive.ipac.caltech.edu/overview/K2-126",
-      "publishedAt": "2026-09-25T18:13:40.246Z",
-      "tags": [
-        "Transit"
-      ]
-    },
-    {
-      "id": "9fd9c1e4ca18",
-      "agency": "exo",
-      "ra": 134.4441404,
-      "dec": 21.4532748,
-      "source": "NASA Exoplanet Archive",
-      "title": "K2-123 b — catalog entry updated",
-      "summary": "Orbits K2-123: discovered via Transit, 2017, 2.76x Earth radius, 8.05x Earth mass, 31.0-day orbit.",
-      "url": "https://exoplanetarchive.ipac.caltech.edu/overview/K2-123",
-      "publishedAt": "2026-09-25T18:13:40.246Z",
-      "tags": [
-        "Transit"
-      ]
-    },
-    {
-      "id": "71992d8ffc70",
-      "agency": "exo",
-      "ra": 297.919724,
-      "dec": 45.2742038,
-      "source": "NASA Exoplanet Archive",
-      "title": "Kepler-1176 b — catalog entry updated",
-      "summary": "Orbits Kepler-1176: discovered via Transit, 2016, 2.45x Earth radius, 6.57x Earth mass, 24.2-day orbit.",
-      "url": "https://exoplanetarchive.ipac.caltech.edu/overview/Kepler-1176",
-      "publishedAt": "2026-09-25T18:13:40.246Z",
-      "tags": [
-        "Transit"
-      ]
-    },
-    {
-      "id": "d1b50d5534a8",
-      "agency": "exo",
-      "ra": 169.117028,
-      "dec": -3.9754405,
-      "source": "NASA Exoplanet Archive",
-      "title": "K2-43 b — catalog entry updated",
-      "summary": "Orbits K2-43: discovered via Transit, 2016, 4.51x Earth radius, 18.50x Earth mass, 3.5-day orbit.",
-      "url": "https://exoplanetarchive.ipac.caltech.edu/overview/K2-43",
-      "publishedAt": "2026-09-25T18:13:40.246Z",
-      "tags": [
-        "Transit"
-      ]
-    },
-    {
-      "id": "0a1cf473e9b5",
-      "agency": "exo",
-      "ra": 298.6634624,
-      "dec": 43.8940593,
-      "source": "NASA Exoplanet Archive",
-      "title": "Kepler-1416 b — catalog entry updated",
-      "summary": "Orbits Kepler-1416: discovered via Transit, 2016, 0.88x Earth radius, 0.61x Earth mass, 1.5-day orbit.",
-      "url": "https://exoplanetarchive.ipac.caltech.edu/overview/Kepler-1416",
-      "publishedAt": "2026-09-25T18:13:40.246Z",
-      "tags": [
-        "Transit"
-      ]
-    },
-    {
       "id": "04cde4b476a5",
       "agency": "exo",
       "ra": 293.3116962,
@@ -107,7 +23,7 @@
       "title": "Kepler-1399 b — catalog entry updated",
       "summary": "Orbits Kepler-1399: discovered via Transit, 2016, 1.25x Earth radius, 2.10x Earth mass, 1.6-day orbit.",
       "url": "https://exoplanetarchive.ipac.caltech.edu/overview/Kepler-1399",
-      "publishedAt": "2026-09-25T18:13:40.246Z",
+      "publishedAt": "2026-09-26T00:15:56.920Z",
       "tags": [
         "Transit"
       ]
@@ -121,7 +37,7 @@
       "title": "Kepler-770 b — catalog entry updated",
       "summary": "Orbits Kepler-770: discovered via Transit, 2016, 2.30x Earth radius, 5.90x Earth mass, 18.9-day orbit.",
       "url": "https://exoplanetarchive.ipac.caltech.edu/overview/Kepler-770",
-      "publishedAt": "2026-09-25T18:13:40.246Z",
+      "publishedAt": "2026-09-26T00:15:56.920Z",
       "tags": [
         "Transit"
       ]
@@ -135,7 +51,7 @@
       "title": "Kepler-1263 b — catalog entry updated",
       "summary": "Orbits Kepler-1263: discovered via Transit, 2016, 1.14x Earth radius, 1.55x Earth mass, 4.6-day orbit.",
       "url": "https://exoplanetarchive.ipac.caltech.edu/overview/Kepler-1263",
-      "publishedAt": "2026-09-25T18:13:40.246Z",
+      "publishedAt": "2026-09-26T00:15:56.920Z",
       "tags": [
         "Transit"
       ]
@@ -149,7 +65,7 @@
       "title": "Kepler-723 b — catalog entry updated",
       "summary": "Orbits Kepler-723: discovered via Transit, 2016, 12.19x Earth radius, 4.1-day orbit.",
       "url": "https://exoplanetarchive.ipac.caltech.edu/overview/Kepler-723",
-      "publishedAt": "2026-09-25T18:13:40.246Z",
+      "publishedAt": "2026-09-26T00:15:56.920Z",
       "tags": [
         "Transit"
       ]
@@ -163,7 +79,7 @@
       "title": "Kepler-1542 c — catalog entry updated",
       "summary": "Orbits Kepler-1542: discovered via Transit, 2016, 0.65x Earth radius, 0.21x Earth mass, 2.9-day orbit.",
       "url": "https://exoplanetarchive.ipac.caltech.edu/overview/Kepler-1542",
-      "publishedAt": "2026-09-25T18:13:40.246Z",
+      "publishedAt": "2026-09-26T00:15:56.920Z",
       "tags": [
         "Transit"
       ]
@@ -177,7 +93,7 @@
       "title": "K2-85 b — catalog entry updated",
       "summary": "Orbits K2-85: discovered via Transit, 2016, 1.40x Earth radius, 3.20x Earth mass, 0.7-day orbit.",
       "url": "https://exoplanetarchive.ipac.caltech.edu/overview/K2-85",
-      "publishedAt": "2026-09-25T18:13:40.246Z",
+      "publishedAt": "2026-09-26T00:15:56.920Z",
       "tags": [
         "Transit"
       ]
@@ -191,7 +107,7 @@
       "title": "Kepler-368 c — catalog entry updated",
       "summary": "Orbits Kepler-368: discovered via Transit, 2014, 3.88x Earth radius, 14.30x Earth mass, 72.4-day orbit.",
       "url": "https://exoplanetarchive.ipac.caltech.edu/overview/Kepler-368",
-      "publishedAt": "2026-09-25T18:13:40.246Z",
+      "publishedAt": "2026-09-26T00:15:56.920Z",
       "tags": [
         "Transit"
       ]
@@ -205,7 +121,7 @@
       "title": "HAT-P-8 b — catalog entry updated",
       "summary": "Orbits HAT-P-8: discovered via Transit, 2008, 15.69x Earth radius, 406.82x Earth mass, 3.1-day orbit.",
       "url": "https://exoplanetarchive.ipac.caltech.edu/overview/HAT-P-8",
-      "publishedAt": "2026-09-25T18:13:40.246Z",
+      "publishedAt": "2026-09-26T00:15:56.920Z",
       "tags": [
         "Transit"
       ]
@@ -219,9 +135,134 @@
       "title": "HD 2039 b — catalog entry updated",
       "summary": "Orbits HD 2039: discovered via Radial Velocity, 2002, 12.70x Earth radius, 1999.15x Earth mass, 1120.0-day orbit.",
       "url": "https://exoplanetarchive.ipac.caltech.edu/overview/HD_2039",
-      "publishedAt": "2026-09-25T18:13:40.246Z",
+      "publishedAt": "2026-09-26T00:15:56.920Z",
       "tags": [
         "Radial Velocity"
+      ]
+    },
+    {
+      "id": "9c09e70a540f",
+      "agency": "exo",
+      "ra": 288.236664,
+      "dec": 46.6058744,
+      "source": "NASA Exoplanet Archive",
+      "title": "Kepler-1753 b — catalog entry updated",
+      "summary": "Orbits Kepler-1753: discovered via Transit, 2021, 2.23x Earth radius, 5.59x Earth mass, 16.0-day orbit.",
+      "url": "https://exoplanetarchive.ipac.caltech.edu/overview/Kepler-1753",
+      "publishedAt": "2026-09-26T00:15:56.919Z",
+      "tags": [
+        "Transit"
+      ]
+    },
+    {
+      "id": "65fa97dfb2d6",
+      "agency": "exo",
+      "ra": 203.5467021,
+      "dec": -13.5769705,
+      "source": "NASA Exoplanet Archive",
+      "title": "K2-126 b — catalog entry updated",
+      "summary": "Orbits K2-126: discovered via Transit, 2017, 1.97x Earth radius, 4.54x Earth mass, 7.4-day orbit.",
+      "url": "https://exoplanetarchive.ipac.caltech.edu/overview/K2-126",
+      "publishedAt": "2026-09-26T00:15:56.919Z",
+      "tags": [
+        "Transit"
+      ]
+    },
+    {
+      "id": "9fd9c1e4ca18",
+      "agency": "exo",
+      "ra": 134.4441404,
+      "dec": 21.4532748,
+      "source": "NASA Exoplanet Archive",
+      "title": "K2-123 b — catalog entry updated",
+      "summary": "Orbits K2-123: discovered via Transit, 2017, 2.76x Earth radius, 8.05x Earth mass, 31.0-day orbit.",
+      "url": "https://exoplanetarchive.ipac.caltech.edu/overview/K2-123",
+      "publishedAt": "2026-09-26T00:15:56.919Z",
+      "tags": [
+        "Transit"
+      ]
+    },
+    {
+      "id": "71992d8ffc70",
+      "agency": "exo",
+      "ra": 297.919724,
+      "dec": 45.2742038,
+      "source": "NASA Exoplanet Archive",
+      "title": "Kepler-1176 b — catalog entry updated",
+      "summary": "Orbits Kepler-1176: discovered via Transit, 2016, 2.45x Earth radius, 6.57x Earth mass, 24.2-day orbit.",
+      "url": "https://exoplanetarchive.ipac.caltech.edu/overview/Kepler-1176",
+      "publishedAt": "2026-09-26T00:15:56.919Z",
+      "tags": [
+        "Transit"
+      ]
+    },
+    {
+      "id": "d1b50d5534a8",
+      "agency": "exo",
+      "ra": 169.117028,
+      "dec": -3.9754405,
+      "source": "NASA Exoplanet Archive",
+      "title": "K2-43 b — catalog entry updated",
+      "summary": "Orbits K2-43: discovered via Transit, 2016, 4.51x Earth radius, 18.50x Earth mass, 3.5-day orbit.",
+      "url": "https://exoplanetarchive.ipac.caltech.edu/overview/K2-43",
+      "publishedAt": "2026-09-26T00:15:56.919Z",
+      "tags": [
+        "Transit"
+      ]
+    },
+    {
+      "id": "0a1cf473e9b5",
+      "agency": "exo",
+      "ra": 298.6634624,
+      "dec": 43.8940593,
+      "source": "NASA Exoplanet Archive",
+      "title": "Kepler-1416 b — catalog entry updated",
+      "summary": "Orbits Kepler-1416: discovered via Transit, 2016, 0.88x Earth radius, 0.61x Earth mass, 1.5-day orbit.",
+      "url": "https://exoplanetarchive.ipac.caltech.edu/overview/Kepler-1416",
+      "publishedAt": "2026-09-26T00:15:56.919Z",
+      "tags": [
+        "Transit"
+      ]
+    },
+    {
+      "id": "921a6132650e",
+      "agency": "nasa",
+      "source": "NASA breaking news",
+      "title": "NASA, Boeing to Provide Update on Starliner Development",
+      "summary": "During a news conference at 3 p.m. EDT on Monday, Sept. 28, NASA and Boeing leadership will discuss Starliner’s development and plans for regular crew flights to and from the International Space Station. Learn where to watch online: https://www.nasa.gov/live The briefing participants include: Media already credentialed…",
+      "url": "https://www.nasa.gov/news-release/nasa-boeing-to-provide-update-on-starliner-development/",
+      "publishedAt": "2026-09-25T22:06:50.000Z",
+      "tags": [
+        "International Space Station (ISS)",
+        "Commercial Space",
+        "Low Earth Orbit Economy"
+      ]
+    },
+    {
+      "id": "96c79d5a5b20",
+      "agency": "nasa",
+      "source": "NASA breaking news",
+      "title": "NASA Welcomes San Marino Signing the Artemis Accords",
+      "summary": "The Republic of San Marino became the 76th signatory to the Artemis Accords during a ceremony in the city of Rimini on Friday with NASA and U.S. Department of State officials present. “San Marino joins a growing coalition of like-minded nations committed to the peaceful, transparent, and responsible exploration of spac…",
+      "url": "https://www.nasa.gov/organizations/oiir/nasa-welcomes-san-marino-signing-the-artemis-accords/",
+      "publishedAt": "2026-09-25T19:53:03.000Z",
+      "tags": [
+        "Office of International and Interagency Relations (OIIR)",
+        "Artemis Accords"
+      ]
+    },
+    {
+      "id": "780c6143b0af",
+      "agency": "nasa",
+      "source": "NASA breaking news",
+      "title": "NASA Tests Dual Mode Propulsion CubeSat Ahead of Launch",
+      "summary": "Spacecraft propulsion traditionally relies on volatile fuels and separate, bulky systems for different types of maneuvering in space. NASA is working to change that paradigm. Engineers at NASA’s Marshall Space Flight Center in Huntsville, Alabama, recently completed a rigorous series of environmental and physical tests…",
+      "url": "https://www.nasa.gov/directorates/rtmd/nasa-tests-dual-mode-propulsion-cubesat-ahead-of-launch/",
+      "publishedAt": "2026-09-25T19:36:10.000Z",
+      "tags": [
+        "Research and Technology Mission Directorate",
+        "CubeSats",
+        "Marshall Space Flight Center"
       ]
     },
     {
@@ -310,48 +351,6 @@
       "tags": [
         "Office of International and Interagency Relations (OIIR)",
         "Artemis Accords"
-      ]
-    },
-    {
-      "id": "01e376305f02",
-      "agency": "nasa",
-      "source": "NASA breaking news",
-      "title": "NASA Shares SpaceX Crew-14 Assignments for Space Station Mission",
-      "summary": "Four crew members from three space agencies will launch to the International Space Station no earlier than spring 2027 for a long-duration science expedition as part of NASA’s SpaceX Crew-14 mission. NASA astronauts Kayla Barron and Chris Birch will serve as spacecraft commander and pilot, with JAXA (Japan Aerospace Ex…",
-      "url": "https://www.nasa.gov/news-release/nasa-shares-spacex-crew-14-assignments-for-space-station-mission/",
-      "publishedAt": "2026-09-24T21:15:46.000Z",
-      "tags": [
-        "Humans in Space",
-        "International Space Station (ISS)",
-        "Missions"
-      ]
-    },
-    {
-      "id": "509df50bc51a",
-      "agency": "nasa",
-      "source": "NASA breaking news",
-      "title": "Travel",
-      "summary": "The NSSC provides travel reimbursement services for all authorized Agency travel including: domestic, foreign, local, ETDY, and Change of Station (COS). References Federal Travel Regulations (FTR) Traveler Extended TDY and Taxes Domestic Per Diem Rates Foreign Per Diem Rates Change of Station NSSC Travel now has anothe…",
-      "url": "https://www.nasa.gov/centers-and-facilities/nssc/travel/",
-      "publishedAt": "2026-09-24T18:06:14.000Z",
-      "tags": [
-        "NASA Shared Services Center"
-      ]
-    },
-    {
-      "id": "5743bf15222a",
-      "agency": "nasa",
-      "source": "NASA breaking news",
-      "title": "NASA Unveils Winning Designs for Mars Space Food Systems Challenge",
-      "summary": "NASA announced the winners of the Deep Space Food Challenge: Mars to Table Thursday, with the top $300,000 prize being awarded to Chinyere Ukeje of Philadelphia, Pa. for the Adaptive Nourishment Infrastructure (ANI) food system concept. This competition challenged solvers to explore innovative solutions for integrated…",
-      "url": "https://www.nasa.gov/directorates/stmd/prizes-challenges-crowdsourcing-program/centennial-challenges/nasa-unveils-winning-designs-for-mars-space-food-systems-challenge/",
-      "publishedAt": "2026-09-24T18:01:45.000Z",
-      "tags": [
-        "Centennial Challenges",
-        "Centennial Challenges News",
-        "Marshall Space Flight Center",
-        "Prizes, Challenges, and Crowdsourcing Program",
-        "Research and Technology Mission Directorate"
       ]
     },
     {
