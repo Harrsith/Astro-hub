@@ -1,145 +1,19 @@
 {
-  "generatedAt": "2026-09-26T00:15:57.313Z",
+  "generatedAt": "2026-09-26T06:15:30.297Z",
   "sourceCount": 5,
   "itemCount": 70,
   "errors": [],
   "apod": {
-    "copyright": "Javier O. Cadenas Parra",
-    "date": "2026-09-25",
-    "explanation": "Globular star cluster Omega Centauri packs about 10 million stars much older than the Sun into a volume some 150 light-years in diameter. Also known as NGC 5139, at a distance of 15,000 light-years it's the largest and brightest of 200 or so known globular clusters that roam the halo of our Milky Way galaxy. Though most star clusters consist of stars with the same age and composition, the enigmatic Omega Cen exhibits the presence of different stellar populations with a spread of ages and chemical abundances. In fact, Omega Cen may be the remnant core of a small galaxy merging with the Milky Way. With a yellowish hue, Omega Centauri's red giant stars are easy to pick out in this sharp telescopic view.  A two-decade-long exploration of the dense star cluster with the Hubble Space Telescope has revealed evidence for a massive black hole near the center of Omega Centauri.  APOD's email for image submissions has changed. Please see: APOD Submissions. APOD's main NASA site is moving: From apod.nasa.gov to science.nasa.gov/apod",
-    "hdurl": "https://apod.nasa.gov/apod/image/2609/NGC5139CadenasParra.jpg",
+    "copyright": "Jeff Dai",
+    "date": "2026-09-26",
+    "explanation": "On August 15, this perseid meteor streaked through night skies over the Observatorio del Roque de los Muchachos at La Palma, Canary Islands, Spain. The bright and colorful meteor trail was captured next to the central Milky Way, whose dark interstellar dust clouds and luminous starlight reach above the horizon. In the foreground of this tantalizing celestial scene is the 23 meter diameter mirror of the prototype Large-Sized Telescope (LST-1). LST-1 is the first telescope constructed at the northern hemisphere site of the innovative Cherenkov Telescope Array Observatory. With 198 hexagonal mirror segments and a large, high-efficiency, pixelized camera, LST-1 is designed to detect extremely brief, atmospheric visible light flashes. Lasting about a billionth of a second, the visible light flashes are triggered by energetic gamma-rays from cosmic sources such as distant active galaxies and gamma-ray bursts. Of course, on that night some individual mirror segments of LST-1 also reflected the atmospheric flash of the bright perseid meteor.  APOD's email for image submissions has changed. Please see: APOD Submissions. APOD's main NASA site is moving: From apod.nasa.gov to science.nasa.gov/apod",
+    "hdurl": "https://apod.nasa.gov/apod/image/2609/MilkyWayMeteorLSTJeffDai.jpg",
     "media_type": "image",
     "service_version": "v1",
-    "title": "Globular Cluster Omega Centauri",
-    "url": "https://apod.nasa.gov/apod/image/2609/NGC5139CadenasParra1024.jpg"
+    "title": "Mirrored Meteor and Milky Way",
+    "url": "https://apod.nasa.gov/apod/image/2609/MilkyWayMeteorLSTJeffDai1024.jpg"
   },
   "items": [
-    {
-      "id": "04cde4b476a5",
-      "agency": "exo",
-      "ra": 293.3116962,
-      "dec": 46.0416516,
-      "source": "NASA Exoplanet Archive",
-      "title": "Kepler-1399 b — catalog entry updated",
-      "summary": "Orbits Kepler-1399: discovered via Transit, 2016, 1.25x Earth radius, 2.10x Earth mass, 1.6-day orbit.",
-      "url": "https://exoplanetarchive.ipac.caltech.edu/overview/Kepler-1399",
-      "publishedAt": "2026-09-26T00:15:56.920Z",
-      "tags": [
-        "Transit"
-      ]
-    },
-    {
-      "id": "6278be0166b1",
-      "agency": "exo",
-      "ra": 286.4904589,
-      "dec": 38.374872,
-      "source": "NASA Exoplanet Archive",
-      "title": "Kepler-770 b — catalog entry updated",
-      "summary": "Orbits Kepler-770: discovered via Transit, 2016, 2.30x Earth radius, 5.90x Earth mass, 18.9-day orbit.",
-      "url": "https://exoplanetarchive.ipac.caltech.edu/overview/Kepler-770",
-      "publishedAt": "2026-09-26T00:15:56.920Z",
-      "tags": [
-        "Transit"
-      ]
-    },
-    {
-      "id": "93299cc03446",
-      "agency": "exo",
-      "ra": 286.483626,
-      "dec": 46.7526182,
-      "source": "NASA Exoplanet Archive",
-      "title": "Kepler-1263 b — catalog entry updated",
-      "summary": "Orbits Kepler-1263: discovered via Transit, 2016, 1.14x Earth radius, 1.55x Earth mass, 4.6-day orbit.",
-      "url": "https://exoplanetarchive.ipac.caltech.edu/overview/Kepler-1263",
-      "publishedAt": "2026-09-26T00:15:56.920Z",
-      "tags": [
-        "Transit"
-      ]
-    },
-    {
-      "id": "153984674374",
-      "agency": "exo",
-      "ra": 284.8304434,
-      "dec": 44.6580932,
-      "source": "NASA Exoplanet Archive",
-      "title": "Kepler-723 b — catalog entry updated",
-      "summary": "Orbits Kepler-723: discovered via Transit, 2016, 12.19x Earth radius, 4.1-day orbit.",
-      "url": "https://exoplanetarchive.ipac.caltech.edu/overview/Kepler-723",
-      "publishedAt": "2026-09-26T00:15:56.920Z",
-      "tags": [
-        "Transit"
-      ]
-    },
-    {
-      "id": "d01d337a65cb",
-      "agency": "exo",
-      "ra": 285.7284757,
-      "dec": 42.6544651,
-      "source": "NASA Exoplanet Archive",
-      "title": "Kepler-1542 c — catalog entry updated",
-      "summary": "Orbits Kepler-1542: discovered via Transit, 2016, 0.65x Earth radius, 0.21x Earth mass, 2.9-day orbit.",
-      "url": "https://exoplanetarchive.ipac.caltech.edu/overview/Kepler-1542",
-      "publishedAt": "2026-09-26T00:15:56.920Z",
-      "tags": [
-        "Transit"
-      ]
-    },
-    {
-      "id": "24a51d62c59a",
-      "agency": "exo",
-      "ra": 59.464829,
-      "dec": 18.4649505,
-      "source": "NASA Exoplanet Archive",
-      "title": "K2-85 b — catalog entry updated",
-      "summary": "Orbits K2-85: discovered via Transit, 2016, 1.40x Earth radius, 3.20x Earth mass, 0.7-day orbit.",
-      "url": "https://exoplanetarchive.ipac.caltech.edu/overview/K2-85",
-      "publishedAt": "2026-09-26T00:15:56.920Z",
-      "tags": [
-        "Transit"
-      ]
-    },
-    {
-      "id": "0f4b3bafa9ca",
-      "agency": "exo",
-      "ra": 291.880018,
-      "dec": 45.3878419,
-      "source": "NASA Exoplanet Archive",
-      "title": "Kepler-368 c — catalog entry updated",
-      "summary": "Orbits Kepler-368: discovered via Transit, 2014, 3.88x Earth radius, 14.30x Earth mass, 72.4-day orbit.",
-      "url": "https://exoplanetarchive.ipac.caltech.edu/overview/Kepler-368",
-      "publishedAt": "2026-09-26T00:15:56.920Z",
-      "tags": [
-        "Transit"
-      ]
-    },
-    {
-      "id": "81193bfffcae",
-      "agency": "exo",
-      "ra": 343.0414932,
-      "dec": 35.4471778,
-      "source": "NASA Exoplanet Archive",
-      "title": "HAT-P-8 b — catalog entry updated",
-      "summary": "Orbits HAT-P-8: discovered via Transit, 2008, 15.69x Earth radius, 406.82x Earth mass, 3.1-day orbit.",
-      "url": "https://exoplanetarchive.ipac.caltech.edu/overview/HAT-P-8",
-      "publishedAt": "2026-09-26T00:15:56.920Z",
-      "tags": [
-        "Transit"
-      ]
-    },
-    {
-      "id": "c91aab725e37",
-      "agency": "exo",
-      "ra": 6.0851069,
-      "dec": -56.649988,
-      "source": "NASA Exoplanet Archive",
-      "title": "HD 2039 b — catalog entry updated",
-      "summary": "Orbits HD 2039: discovered via Radial Velocity, 2002, 12.70x Earth radius, 1999.15x Earth mass, 1120.0-day orbit.",
-      "url": "https://exoplanetarchive.ipac.caltech.edu/overview/HD_2039",
-      "publishedAt": "2026-09-26T00:15:56.920Z",
-      "tags": [
-        "Radial Velocity"
-      ]
-    },
     {
       "id": "9c09e70a540f",
       "agency": "exo",
@@ -149,7 +23,7 @@
       "title": "Kepler-1753 b — catalog entry updated",
       "summary": "Orbits Kepler-1753: discovered via Transit, 2021, 2.23x Earth radius, 5.59x Earth mass, 16.0-day orbit.",
       "url": "https://exoplanetarchive.ipac.caltech.edu/overview/Kepler-1753",
-      "publishedAt": "2026-09-26T00:15:56.919Z",
+      "publishedAt": "2026-09-26T06:15:29.832Z",
       "tags": [
         "Transit"
       ]
@@ -163,7 +37,7 @@
       "title": "K2-126 b — catalog entry updated",
       "summary": "Orbits K2-126: discovered via Transit, 2017, 1.97x Earth radius, 4.54x Earth mass, 7.4-day orbit.",
       "url": "https://exoplanetarchive.ipac.caltech.edu/overview/K2-126",
-      "publishedAt": "2026-09-26T00:15:56.919Z",
+      "publishedAt": "2026-09-26T06:15:29.832Z",
       "tags": [
         "Transit"
       ]
@@ -177,7 +51,7 @@
       "title": "K2-123 b — catalog entry updated",
       "summary": "Orbits K2-123: discovered via Transit, 2017, 2.76x Earth radius, 8.05x Earth mass, 31.0-day orbit.",
       "url": "https://exoplanetarchive.ipac.caltech.edu/overview/K2-123",
-      "publishedAt": "2026-09-26T00:15:56.919Z",
+      "publishedAt": "2026-09-26T06:15:29.832Z",
       "tags": [
         "Transit"
       ]
@@ -191,7 +65,7 @@
       "title": "Kepler-1176 b — catalog entry updated",
       "summary": "Orbits Kepler-1176: discovered via Transit, 2016, 2.45x Earth radius, 6.57x Earth mass, 24.2-day orbit.",
       "url": "https://exoplanetarchive.ipac.caltech.edu/overview/Kepler-1176",
-      "publishedAt": "2026-09-26T00:15:56.919Z",
+      "publishedAt": "2026-09-26T06:15:29.832Z",
       "tags": [
         "Transit"
       ]
@@ -205,7 +79,7 @@
       "title": "K2-43 b — catalog entry updated",
       "summary": "Orbits K2-43: discovered via Transit, 2016, 4.51x Earth radius, 18.50x Earth mass, 3.5-day orbit.",
       "url": "https://exoplanetarchive.ipac.caltech.edu/overview/K2-43",
-      "publishedAt": "2026-09-26T00:15:56.919Z",
+      "publishedAt": "2026-09-26T06:15:29.832Z",
       "tags": [
         "Transit"
       ]
@@ -219,9 +93,147 @@
       "title": "Kepler-1416 b — catalog entry updated",
       "summary": "Orbits Kepler-1416: discovered via Transit, 2016, 0.88x Earth radius, 0.61x Earth mass, 1.5-day orbit.",
       "url": "https://exoplanetarchive.ipac.caltech.edu/overview/Kepler-1416",
-      "publishedAt": "2026-09-26T00:15:56.919Z",
+      "publishedAt": "2026-09-26T06:15:29.832Z",
       "tags": [
         "Transit"
+      ]
+    },
+    {
+      "id": "04cde4b476a5",
+      "agency": "exo",
+      "ra": 293.3116962,
+      "dec": 46.0416516,
+      "source": "NASA Exoplanet Archive",
+      "title": "Kepler-1399 b — catalog entry updated",
+      "summary": "Orbits Kepler-1399: discovered via Transit, 2016, 1.25x Earth radius, 2.10x Earth mass, 1.6-day orbit.",
+      "url": "https://exoplanetarchive.ipac.caltech.edu/overview/Kepler-1399",
+      "publishedAt": "2026-09-26T06:15:29.832Z",
+      "tags": [
+        "Transit"
+      ]
+    },
+    {
+      "id": "6278be0166b1",
+      "agency": "exo",
+      "ra": 286.4904589,
+      "dec": 38.374872,
+      "source": "NASA Exoplanet Archive",
+      "title": "Kepler-770 b — catalog entry updated",
+      "summary": "Orbits Kepler-770: discovered via Transit, 2016, 2.30x Earth radius, 5.90x Earth mass, 18.9-day orbit.",
+      "url": "https://exoplanetarchive.ipac.caltech.edu/overview/Kepler-770",
+      "publishedAt": "2026-09-26T06:15:29.832Z",
+      "tags": [
+        "Transit"
+      ]
+    },
+    {
+      "id": "93299cc03446",
+      "agency": "exo",
+      "ra": 286.483626,
+      "dec": 46.7526182,
+      "source": "NASA Exoplanet Archive",
+      "title": "Kepler-1263 b — catalog entry updated",
+      "summary": "Orbits Kepler-1263: discovered via Transit, 2016, 1.14x Earth radius, 1.55x Earth mass, 4.6-day orbit.",
+      "url": "https://exoplanetarchive.ipac.caltech.edu/overview/Kepler-1263",
+      "publishedAt": "2026-09-26T06:15:29.832Z",
+      "tags": [
+        "Transit"
+      ]
+    },
+    {
+      "id": "153984674374",
+      "agency": "exo",
+      "ra": 284.8304434,
+      "dec": 44.6580932,
+      "source": "NASA Exoplanet Archive",
+      "title": "Kepler-723 b — catalog entry updated",
+      "summary": "Orbits Kepler-723: discovered via Transit, 2016, 12.19x Earth radius, 4.1-day orbit.",
+      "url": "https://exoplanetarchive.ipac.caltech.edu/overview/Kepler-723",
+      "publishedAt": "2026-09-26T06:15:29.832Z",
+      "tags": [
+        "Transit"
+      ]
+    },
+    {
+      "id": "d01d337a65cb",
+      "agency": "exo",
+      "ra": 285.7284757,
+      "dec": 42.6544651,
+      "source": "NASA Exoplanet Archive",
+      "title": "Kepler-1542 c — catalog entry updated",
+      "summary": "Orbits Kepler-1542: discovered via Transit, 2016, 0.65x Earth radius, 0.21x Earth mass, 2.9-day orbit.",
+      "url": "https://exoplanetarchive.ipac.caltech.edu/overview/Kepler-1542",
+      "publishedAt": "2026-09-26T06:15:29.832Z",
+      "tags": [
+        "Transit"
+      ]
+    },
+    {
+      "id": "24a51d62c59a",
+      "agency": "exo",
+      "ra": 59.464829,
+      "dec": 18.4649505,
+      "source": "NASA Exoplanet Archive",
+      "title": "K2-85 b — catalog entry updated",
+      "summary": "Orbits K2-85: discovered via Transit, 2016, 1.40x Earth radius, 3.20x Earth mass, 0.7-day orbit.",
+      "url": "https://exoplanetarchive.ipac.caltech.edu/overview/K2-85",
+      "publishedAt": "2026-09-26T06:15:29.832Z",
+      "tags": [
+        "Transit"
+      ]
+    },
+    {
+      "id": "0f4b3bafa9ca",
+      "agency": "exo",
+      "ra": 291.880018,
+      "dec": 45.3878419,
+      "source": "NASA Exoplanet Archive",
+      "title": "Kepler-368 c — catalog entry updated",
+      "summary": "Orbits Kepler-368: discovered via Transit, 2014, 3.88x Earth radius, 14.30x Earth mass, 72.4-day orbit.",
+      "url": "https://exoplanetarchive.ipac.caltech.edu/overview/Kepler-368",
+      "publishedAt": "2026-09-26T06:15:29.832Z",
+      "tags": [
+        "Transit"
+      ]
+    },
+    {
+      "id": "81193bfffcae",
+      "agency": "exo",
+      "ra": 343.0414932,
+      "dec": 35.4471778,
+      "source": "NASA Exoplanet Archive",
+      "title": "HAT-P-8 b — catalog entry updated",
+      "summary": "Orbits HAT-P-8: discovered via Transit, 2008, 15.69x Earth radius, 406.82x Earth mass, 3.1-day orbit.",
+      "url": "https://exoplanetarchive.ipac.caltech.edu/overview/HAT-P-8",
+      "publishedAt": "2026-09-26T06:15:29.832Z",
+      "tags": [
+        "Transit"
+      ]
+    },
+    {
+      "id": "c91aab725e37",
+      "agency": "exo",
+      "ra": 6.0851069,
+      "dec": -56.649988,
+      "source": "NASA Exoplanet Archive",
+      "title": "HD 2039 b — catalog entry updated",
+      "summary": "Orbits HD 2039: discovered via Radial Velocity, 2002, 12.70x Earth radius, 1999.15x Earth mass, 1120.0-day orbit.",
+      "url": "https://exoplanetarchive.ipac.caltech.edu/overview/HD_2039",
+      "publishedAt": "2026-09-26T06:15:29.832Z",
+      "tags": [
+        "Radial Velocity"
+      ]
+    },
+    {
+      "id": "b163499b7471",
+      "agency": "nasa",
+      "source": "NASA breaking news",
+      "title": "APOD: 2026 September 26 – Mirrored Meteor and Milky Way",
+      "summary": "APOD Science APOD APOD: 2026 September 26 –… Today’s APOD Archive Submissions Index Search Calendar RSS Education About Discuss APOD Astronomy Picture of the Day Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a professiona…",
+      "url": "https://science.nasa.gov/image-article/apod-2026-september-26-mirrored-meteor-and-milky-way/",
+      "publishedAt": "2026-09-26T04:05:00.000Z",
+      "tags": [
+        "APOD"
       ]
     },
     {
@@ -338,19 +350,6 @@
         "Earth Observatory",
         "Hurricanes & Typhoons",
         "Moderate Resolution Imaging Spectroradiometer (MODIS)"
-      ]
-    },
-    {
-      "id": "fd034b5d2541",
-      "agency": "nasa",
-      "source": "NASA breaking news",
-      "title": "NASA Welcomes Côte d’Ivoire as Newest Artemis Accords Signatory",
-      "summary": "Côte d’Ivoire signed the Artemis Accords on Thursday, becoming the 75th signatory and marking a major milestone for this growing coalition. With the signing ceremony in the nation’s largest city, Abidjan, Côte d’Ivoire joined other like-minded nations and committed to the peaceful, transparent, and responsible explorat…",
-      "url": "https://www.nasa.gov/organizations/oiir/nasa-welcomes-cote-divoire-as-newest-artemis-accords-signatory/",
-      "publishedAt": "2026-09-24T21:27:17.000Z",
-      "tags": [
-        "Office of International and Interagency Relations (OIIR)",
-        "Artemis Accords"
       ]
     },
     {
