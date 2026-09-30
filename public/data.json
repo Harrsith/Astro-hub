@@ -1,61 +1,18 @@
 {
-  "generatedAt": "2026-09-30T06:18:09.477Z",
+  "generatedAt": "2026-09-30T21:57:47.006Z",
   "sourceCount": 5,
   "itemCount": 70,
   "errors": [],
   "apod": {
-    "copyright": "Pawel Piechnik",
-    "date": "2026-09-29",
-    "explanation": "What causes the swirl in the Shrimp Nebula? Its high speed is likely.  What is sure is that Sh2-188 is one of the larger planetary nebulas on the night sky, by angular size, spanning about half the diameter of the Moon.  Moreover, the white-dwarf core -- leftover from the Sun-like star that shed its outer atmosphere -- is moving unusually fast through interstellar space, creating a bow shock most visible on the upper left that is similar to a boat plowing through water.  Although faint, the  Shrimp Nebula glows also by compressing and brightening gas on its leading edge.  The featured image was taken in the light of hydrogen, sulfur, and oxygen by a backyard telescope in Krakow, Poland and then digitally adjusted to approximate the nebula's true colors.    APOD's email for image submissions has changed. Please see: APOD Submissions  APOD's main NASA site has moved: From apod.nasa.gov to science.nasa.gov/apod",
-    "hdurl": "https://apod.nasa.gov/apod/image/2609/Shrimp_Pawel_2048.jpg",
+    "date": "2026-09-30",
+    "explanation": "Peculiar spiral galaxy Arp 78 is found within the boundaries of the head strong constellation Aries. Some 100 million light-years beyond the stars and nebulae of our Milky Way galaxy, the island universe is an enormous 200,000 light-years across. Also known as NGC 772, it sports a prominent, outer spiral arm in this detailed cosmic portrait. Tracking along sweeping dust lanes and lined with young blue star clusters, Arp 78's overdeveloped spiral arm is pumped-up by galactic-scale gravitational tides. Interactions with its brightest companion galaxy, the more compact NGC 770 seen directly below the larger spiral, are likely responsible. Embedded in faint star streams revealed in the deep telescopic exposure, NGC 770's fuzzy, elliptical appearance contrasts nicely with spiky foreground Milky Way stars.APOD's email for image submissions has changed. Please see: APOD Submissions.Tomorrow's picture: a harvest\t\t\t\t\t\t",
+    "hdurl": "https://science.nasa.gov/wp-content/themes/nasa-child/assets/images/nasa-logo@2x.png",
     "media_type": "image",
     "service_version": "v1",
-    "title": "Sh2-188: The Shrimp Nebula",
-    "url": "https://apod.nasa.gov/apod/image/2609/Shrimp_Pawel_960.jpg"
+    "title": "NASA Science",
+    "url": "https://science.nasa.gov/wp-content/themes/nasa-child/assets/images/nasa-logo@2x.png"
   },
   "items": [
-    {
-      "id": "9c09e70a540f",
-      "agency": "exo",
-      "ra": 288.236664,
-      "dec": 46.6058744,
-      "source": "NASA Exoplanet Archive",
-      "title": "Kepler-1753 b — catalog entry updated",
-      "summary": "Orbits Kepler-1753: discovered via Transit, 2021, 2.23x Earth radius, 5.59x Earth mass, 16.0-day orbit.",
-      "url": "https://exoplanetarchive.ipac.caltech.edu/overview/Kepler-1753",
-      "publishedAt": "2026-09-30T06:16:26.252Z",
-      "tags": [
-        "Transit"
-      ]
-    },
-    {
-      "id": "65fa97dfb2d6",
-      "agency": "exo",
-      "ra": 203.5467021,
-      "dec": -13.5769705,
-      "source": "NASA Exoplanet Archive",
-      "title": "K2-126 b — catalog entry updated",
-      "summary": "Orbits K2-126: discovered via Transit, 2017, 1.97x Earth radius, 4.54x Earth mass, 7.4-day orbit.",
-      "url": "https://exoplanetarchive.ipac.caltech.edu/overview/K2-126",
-      "publishedAt": "2026-09-30T06:16:26.252Z",
-      "tags": [
-        "Transit"
-      ]
-    },
-    {
-      "id": "9fd9c1e4ca18",
-      "agency": "exo",
-      "ra": 134.4441404,
-      "dec": 21.4532748,
-      "source": "NASA Exoplanet Archive",
-      "title": "K2-123 b — catalog entry updated",
-      "summary": "Orbits K2-123: discovered via Transit, 2017, 2.76x Earth radius, 8.05x Earth mass, 31.0-day orbit.",
-      "url": "https://exoplanetarchive.ipac.caltech.edu/overview/K2-123",
-      "publishedAt": "2026-09-30T06:16:26.252Z",
-      "tags": [
-        "Transit"
-      ]
-    },
     {
       "id": "71992d8ffc70",
       "agency": "exo",
@@ -65,7 +22,7 @@
       "title": "Kepler-1176 b — catalog entry updated",
       "summary": "Orbits Kepler-1176: discovered via Transit, 2016, 2.45x Earth radius, 6.57x Earth mass, 24.2-day orbit.",
       "url": "https://exoplanetarchive.ipac.caltech.edu/overview/Kepler-1176",
-      "publishedAt": "2026-09-30T06:16:26.252Z",
+      "publishedAt": "2026-09-30T21:57:28.658Z",
       "tags": [
         "Transit"
       ]
@@ -79,7 +36,7 @@
       "title": "K2-43 b — catalog entry updated",
       "summary": "Orbits K2-43: discovered via Transit, 2016, 4.51x Earth radius, 18.50x Earth mass, 3.5-day orbit.",
       "url": "https://exoplanetarchive.ipac.caltech.edu/overview/K2-43",
-      "publishedAt": "2026-09-30T06:16:26.252Z",
+      "publishedAt": "2026-09-30T21:57:28.658Z",
       "tags": [
         "Transit"
       ]
@@ -93,7 +50,7 @@
       "title": "Kepler-1416 b — catalog entry updated",
       "summary": "Orbits Kepler-1416: discovered via Transit, 2016, 0.88x Earth radius, 0.61x Earth mass, 1.5-day orbit.",
       "url": "https://exoplanetarchive.ipac.caltech.edu/overview/Kepler-1416",
-      "publishedAt": "2026-09-30T06:16:26.252Z",
+      "publishedAt": "2026-09-30T21:57:28.658Z",
       "tags": [
         "Transit"
       ]
@@ -107,7 +64,7 @@
       "title": "Kepler-1399 b — catalog entry updated",
       "summary": "Orbits Kepler-1399: discovered via Transit, 2016, 1.25x Earth radius, 2.10x Earth mass, 1.6-day orbit.",
       "url": "https://exoplanetarchive.ipac.caltech.edu/overview/Kepler-1399",
-      "publishedAt": "2026-09-30T06:16:26.252Z",
+      "publishedAt": "2026-09-30T21:57:28.658Z",
       "tags": [
         "Transit"
       ]
@@ -121,7 +78,7 @@
       "title": "Kepler-770 b — catalog entry updated",
       "summary": "Orbits Kepler-770: discovered via Transit, 2016, 2.30x Earth radius, 5.90x Earth mass, 18.9-day orbit.",
       "url": "https://exoplanetarchive.ipac.caltech.edu/overview/Kepler-770",
-      "publishedAt": "2026-09-30T06:16:26.252Z",
+      "publishedAt": "2026-09-30T21:57:28.658Z",
       "tags": [
         "Transit"
       ]
@@ -135,7 +92,7 @@
       "title": "Kepler-1263 b — catalog entry updated",
       "summary": "Orbits Kepler-1263: discovered via Transit, 2016, 1.14x Earth radius, 1.55x Earth mass, 4.6-day orbit.",
       "url": "https://exoplanetarchive.ipac.caltech.edu/overview/Kepler-1263",
-      "publishedAt": "2026-09-30T06:16:26.252Z",
+      "publishedAt": "2026-09-30T21:57:28.658Z",
       "tags": [
         "Transit"
       ]
@@ -149,7 +106,7 @@
       "title": "Kepler-723 b — catalog entry updated",
       "summary": "Orbits Kepler-723: discovered via Transit, 2016, 12.19x Earth radius, 4.1-day orbit.",
       "url": "https://exoplanetarchive.ipac.caltech.edu/overview/Kepler-723",
-      "publishedAt": "2026-09-30T06:16:26.252Z",
+      "publishedAt": "2026-09-30T21:57:28.658Z",
       "tags": [
         "Transit"
       ]
@@ -163,7 +120,7 @@
       "title": "Kepler-1542 c — catalog entry updated",
       "summary": "Orbits Kepler-1542: discovered via Transit, 2016, 0.65x Earth radius, 0.21x Earth mass, 2.9-day orbit.",
       "url": "https://exoplanetarchive.ipac.caltech.edu/overview/Kepler-1542",
-      "publishedAt": "2026-09-30T06:16:26.252Z",
+      "publishedAt": "2026-09-30T21:57:28.658Z",
       "tags": [
         "Transit"
       ]
@@ -177,7 +134,7 @@
       "title": "K2-85 b — catalog entry updated",
       "summary": "Orbits K2-85: discovered via Transit, 2016, 1.40x Earth radius, 3.20x Earth mass, 0.7-day orbit.",
       "url": "https://exoplanetarchive.ipac.caltech.edu/overview/K2-85",
-      "publishedAt": "2026-09-30T06:16:26.252Z",
+      "publishedAt": "2026-09-30T21:57:28.658Z",
       "tags": [
         "Transit"
       ]
@@ -191,7 +148,7 @@
       "title": "Kepler-368 c — catalog entry updated",
       "summary": "Orbits Kepler-368: discovered via Transit, 2014, 3.88x Earth radius, 14.30x Earth mass, 72.4-day orbit.",
       "url": "https://exoplanetarchive.ipac.caltech.edu/overview/Kepler-368",
-      "publishedAt": "2026-09-30T06:16:26.252Z",
+      "publishedAt": "2026-09-30T21:57:28.658Z",
       "tags": [
         "Transit"
       ]
@@ -205,7 +162,7 @@
       "title": "HAT-P-8 b — catalog entry updated",
       "summary": "Orbits HAT-P-8: discovered via Transit, 2008, 15.69x Earth radius, 406.82x Earth mass, 3.1-day orbit.",
       "url": "https://exoplanetarchive.ipac.caltech.edu/overview/HAT-P-8",
-      "publishedAt": "2026-09-30T06:16:26.252Z",
+      "publishedAt": "2026-09-30T21:57:28.658Z",
       "tags": [
         "Transit"
       ]
@@ -219,9 +176,104 @@
       "title": "HD 2039 b — catalog entry updated",
       "summary": "Orbits HD 2039: discovered via Radial Velocity, 2002, 12.70x Earth radius, 1999.15x Earth mass, 1120.0-day orbit.",
       "url": "https://exoplanetarchive.ipac.caltech.edu/overview/HD_2039",
-      "publishedAt": "2026-09-30T06:16:26.252Z",
+      "publishedAt": "2026-09-30T21:57:28.658Z",
       "tags": [
         "Radial Velocity"
+      ]
+    },
+    {
+      "id": "9c09e70a540f",
+      "agency": "exo",
+      "ra": 288.236664,
+      "dec": 46.6058744,
+      "source": "NASA Exoplanet Archive",
+      "title": "Kepler-1753 b — catalog entry updated",
+      "summary": "Orbits Kepler-1753: discovered via Transit, 2021, 2.23x Earth radius, 5.59x Earth mass, 16.0-day orbit.",
+      "url": "https://exoplanetarchive.ipac.caltech.edu/overview/Kepler-1753",
+      "publishedAt": "2026-09-30T21:57:28.657Z",
+      "tags": [
+        "Transit"
+      ]
+    },
+    {
+      "id": "65fa97dfb2d6",
+      "agency": "exo",
+      "ra": 203.5467021,
+      "dec": -13.5769705,
+      "source": "NASA Exoplanet Archive",
+      "title": "K2-126 b — catalog entry updated",
+      "summary": "Orbits K2-126: discovered via Transit, 2017, 1.97x Earth radius, 4.54x Earth mass, 7.4-day orbit.",
+      "url": "https://exoplanetarchive.ipac.caltech.edu/overview/K2-126",
+      "publishedAt": "2026-09-30T21:57:28.657Z",
+      "tags": [
+        "Transit"
+      ]
+    },
+    {
+      "id": "9fd9c1e4ca18",
+      "agency": "exo",
+      "ra": 134.4441404,
+      "dec": 21.4532748,
+      "source": "NASA Exoplanet Archive",
+      "title": "K2-123 b — catalog entry updated",
+      "summary": "Orbits K2-123: discovered via Transit, 2017, 2.76x Earth radius, 8.05x Earth mass, 31.0-day orbit.",
+      "url": "https://exoplanetarchive.ipac.caltech.edu/overview/K2-123",
+      "publishedAt": "2026-09-30T21:57:28.657Z",
+      "tags": [
+        "Transit"
+      ]
+    },
+    {
+      "id": "a2c974f2ab73",
+      "agency": "nasa",
+      "source": "NASA breaking news",
+      "title": "NASA Adds New Science Investigations for Moon Base",
+      "summary": "NASA selected three new scientific investigations and their payload suites to advance our knowledge of the Moon and help pave the way for building humanity’s first lunar outpost, Moon Base. The suite of science instruments and technologies was selected through NASA’s Payloads and Research Investigations on the Surface…",
+      "url": "https://www.nasa.gov/news-release/nasa-adds-new-science-investigations-for-moon-base/",
+      "publishedAt": "2026-09-30T21:11:23.000Z",
+      "tags": [
+        "Moon Base",
+        "Commercial Lunar Payload Services (CLPS)",
+        "Missions"
+      ]
+    },
+    {
+      "id": "a1e6dcc2b963",
+      "agency": "nasa",
+      "source": "NASA breaking news",
+      "title": "NASA Awards Contract to Develop 5G Communications for Moon",
+      "summary": "NASA has awarded Modulate Space Corporation a contract to develop key elements of a 5G communications system for use on the lunar surface with built-in Wi-Fi 6, for NASA’s Glenn Research Center in Cleveland. This accelerated effort is organized into two primary work areas that together will develop a scalable, standard…",
+      "url": "https://www.nasa.gov/news-release/nasa-awards-contract-to-develop-5g-communications-for-moon/",
+      "publishedAt": "2026-09-30T20:41:26.000Z",
+      "tags": [
+        "NASA Headquarters",
+        "Glenn Research Center"
+      ]
+    },
+    {
+      "id": "1b47f97ab55e",
+      "agency": "nasa",
+      "source": "NASA breaking news",
+      "title": "NASA, International Partners Advance Work on Space Crops",
+      "summary": "NASA, CSA (Canadian Space Agency), and the German Aerospace Center signed a joint statement of intent to begin coordinated, preparatory work toward an Earth-based demonstrator to learn how to grow crops on the Moon.",
+      "url": "https://science.nasa.gov/science-research/biological-physical-sciences/nasa-international-partners-advance-work-on-space-crops/",
+      "publishedAt": "2026-09-30T18:38:20.000Z",
+      "tags": [
+        "Biological & Physical Sciences",
+        "Science & Research",
+        "Science Mission Directorate"
+      ]
+    },
+    {
+      "id": "4b263304b207",
+      "agency": "nasa",
+      "source": "NASA breaking news",
+      "title": "Star Trails",
+      "summary": "This long-duration image shows star trails above Earth and the blue lights of fishing boats and the yellow lights of Indonesian cities stretching below the International Space Station as it orbited 258 miles above the Banda Sea on Sept. 20, 2026. Image credit: NASA/Anil Menon",
+      "url": "https://www.nasa.gov/image-article/star-trails/",
+      "publishedAt": "2026-09-30T17:50:50.000Z",
+      "tags": [
+        "International Space Station (ISS)"
       ]
     },
     {
@@ -307,20 +359,6 @@
       "tags": [
         "Kennedy Space Center",
         "Launch Services Program"
-      ]
-    },
-    {
-      "id": "1a6de0550330",
-      "agency": "nasa",
-      "source": "NASA breaking news",
-      "title": "NASA Sets Crew-13 Launch, Docking Coverage",
-      "summary": "NASA will provide live coverage of prelaunch, launch, and docking activities for the agency’s SpaceX Crew‑13 mission to the International Space Station. Live coverage will stream through a variety of platforms. Learn where to watch online: https://www.nasa.gov/live Crew‑13 is scheduled to launch at 11:10 a.m. EDT, Thur…",
-      "url": "https://www.nasa.gov/news-release/nasa-sets-crew-13-launch-docking-coverage/",
-      "publishedAt": "2026-09-29T18:57:14.000Z",
-      "tags": [
-        "Humans in Space",
-        "Commercial Crew",
-        "International Space Station (ISS)"
       ]
     },
     {
@@ -524,16 +562,6 @@
       "tags": []
     },
     {
-      "id": "76de28b5f938",
-      "agency": "nasa",
-      "source": "NASA breaking news",
-      "title": "Crew-13 Rocket and Spacecraft at Launch Pad",
-      "summary": "Ahead of NASA’s SpaceX Crew-13 mission launch, a SpaceX Falcon 9 rocket and Dragon spacecraft are vertical at the launch pad of Space Launch Complex 40 at Cape Canaveral Space Force Station in Florida in this Sept. 27, 2026, photo. NASA astronauts Jessica Watkins and Luke Delaney, CSA (Canadian Space Agency) astronaut…",
-      "url": "https://www.nasa.gov/image-article/crew-13-rocket-and-spacecraft-at-launch-pad/",
-      "publishedAt": "2026-09-29T15:31:56.000Z",
-      "tags": []
-    },
-    {
       "id": "3c6e3755bfe5",
       "agency": "arxiv",
       "source": "arXiv astro-ph (new submissions)",
@@ -574,22 +602,6 @@
       "tags": []
     },
     {
-      "id": "01ef4f12ed52",
-      "agency": "nasa",
-      "source": "NASA breaking news",
-      "title": "NASA Opens Applications for Second Season of ORBIT Student Challenge",
-      "summary": "Following a successful inaugural year of ingenuity and career building, NASA ORBIT (Opportunities in Research, Business, Innovation, and Technology) has officially returned for a second season to bring university and college student innovation to the forefront of Earth technology development and deep-space exploration.…",
-      "url": "https://www.nasa.gov/learning-resources/research-program-for-students/",
-      "publishedAt": "2026-09-29T15:11:15.000Z",
-      "tags": [
-        "Learning Resources",
-        "For Colleges & Universities",
-        "Prizes, Challenges, & Crowdsourcing News",
-        "Prizes, Challenges, and Crowdsourcing Program",
-        "Research and Technology Mission Directorate"
-      ]
-    },
-    {
       "id": "aed129dc808a",
       "agency": "arxiv",
       "source": "arXiv astro-ph (new submissions)",
@@ -598,18 +610,6 @@
       "url": "https://arxiv.org/abs/2609.37765v1",
       "publishedAt": "2026-09-29T15:07:19.000Z",
       "tags": []
-    },
-    {
-      "id": "7a72459dea37",
-      "agency": "nasa",
-      "source": "NASA breaking news",
-      "title": "NSTGRO 2026",
-      "summary": "NSTGRO Homepage Omar AlyousefUniversity Of MemphisPolycatenated Architected Materials (PAM) for Origami-Inspired Space Docking Ports Cade ArmstrongUniversity Of Texas at AustinIntelligent Multi-Agent Constellations for Cooperative Cislunar Operations Laurel BarnettHarvard UniversityPhotonic SNSPD Readout and Feed Forwa…",
-      "url": "https://www.nasa.gov/directorates/stmd/space-tech-research-grants/nstgro/nstgro-2026/",
-      "publishedAt": "2026-09-29T14:20:08.000Z",
-      "tags": [
-        "NASA Space Technology Graduate Research Opportunities (NSTGRO)"
-      ]
     },
     {
       "id": "a1872142f277",
