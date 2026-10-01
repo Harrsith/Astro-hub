@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-01T12:37:38.424Z",
+  "generatedAt": "2026-10-01T22:25:38.297Z",
   "sourceCount": 5,
   "itemCount": 70,
   "errors": [],
@@ -22,7 +22,7 @@
       "title": "Kepler-1753 b — catalog entry updated",
       "summary": "Orbits Kepler-1753: discovered via Transit, 2021, 2.23x Earth radius, 5.59x Earth mass, 16.0-day orbit.",
       "url": "https://exoplanetarchive.ipac.caltech.edu/overview/Kepler-1753",
-      "publishedAt": "2026-10-01T12:37:31.927Z",
+      "publishedAt": "2026-10-01T22:25:37.787Z",
       "tags": [
         "Transit"
       ]
@@ -36,7 +36,7 @@
       "title": "K2-126 b — catalog entry updated",
       "summary": "Orbits K2-126: discovered via Transit, 2017, 1.97x Earth radius, 4.54x Earth mass, 7.4-day orbit.",
       "url": "https://exoplanetarchive.ipac.caltech.edu/overview/K2-126",
-      "publishedAt": "2026-10-01T12:37:31.927Z",
+      "publishedAt": "2026-10-01T22:25:37.787Z",
       "tags": [
         "Transit"
       ]
@@ -50,7 +50,7 @@
       "title": "K2-123 b — catalog entry updated",
       "summary": "Orbits K2-123: discovered via Transit, 2017, 2.76x Earth radius, 8.05x Earth mass, 31.0-day orbit.",
       "url": "https://exoplanetarchive.ipac.caltech.edu/overview/K2-123",
-      "publishedAt": "2026-10-01T12:37:31.927Z",
+      "publishedAt": "2026-10-01T22:25:37.787Z",
       "tags": [
         "Transit"
       ]
@@ -64,7 +64,7 @@
       "title": "Kepler-1176 b — catalog entry updated",
       "summary": "Orbits Kepler-1176: discovered via Transit, 2016, 2.45x Earth radius, 6.57x Earth mass, 24.2-day orbit.",
       "url": "https://exoplanetarchive.ipac.caltech.edu/overview/Kepler-1176",
-      "publishedAt": "2026-10-01T12:37:31.927Z",
+      "publishedAt": "2026-10-01T22:25:37.787Z",
       "tags": [
         "Transit"
       ]
@@ -78,7 +78,7 @@
       "title": "K2-43 b — catalog entry updated",
       "summary": "Orbits K2-43: discovered via Transit, 2016, 4.51x Earth radius, 18.50x Earth mass, 3.5-day orbit.",
       "url": "https://exoplanetarchive.ipac.caltech.edu/overview/K2-43",
-      "publishedAt": "2026-10-01T12:37:31.927Z",
+      "publishedAt": "2026-10-01T22:25:37.787Z",
       "tags": [
         "Transit"
       ]
@@ -92,7 +92,7 @@
       "title": "Kepler-1416 b — catalog entry updated",
       "summary": "Orbits Kepler-1416: discovered via Transit, 2016, 0.88x Earth radius, 0.61x Earth mass, 1.5-day orbit.",
       "url": "https://exoplanetarchive.ipac.caltech.edu/overview/Kepler-1416",
-      "publishedAt": "2026-10-01T12:37:31.927Z",
+      "publishedAt": "2026-10-01T22:25:37.787Z",
       "tags": [
         "Transit"
       ]
@@ -106,7 +106,7 @@
       "title": "Kepler-1399 b — catalog entry updated",
       "summary": "Orbits Kepler-1399: discovered via Transit, 2016, 1.25x Earth radius, 2.10x Earth mass, 1.6-day orbit.",
       "url": "https://exoplanetarchive.ipac.caltech.edu/overview/Kepler-1399",
-      "publishedAt": "2026-10-01T12:37:31.927Z",
+      "publishedAt": "2026-10-01T22:25:37.787Z",
       "tags": [
         "Transit"
       ]
@@ -120,7 +120,7 @@
       "title": "Kepler-770 b — catalog entry updated",
       "summary": "Orbits Kepler-770: discovered via Transit, 2016, 2.30x Earth radius, 5.90x Earth mass, 18.9-day orbit.",
       "url": "https://exoplanetarchive.ipac.caltech.edu/overview/Kepler-770",
-      "publishedAt": "2026-10-01T12:37:31.927Z",
+      "publishedAt": "2026-10-01T22:25:37.787Z",
       "tags": [
         "Transit"
       ]
@@ -134,7 +134,7 @@
       "title": "Kepler-1263 b — catalog entry updated",
       "summary": "Orbits Kepler-1263: discovered via Transit, 2016, 1.14x Earth radius, 1.55x Earth mass, 4.6-day orbit.",
       "url": "https://exoplanetarchive.ipac.caltech.edu/overview/Kepler-1263",
-      "publishedAt": "2026-10-01T12:37:31.927Z",
+      "publishedAt": "2026-10-01T22:25:37.787Z",
       "tags": [
         "Transit"
       ]
@@ -148,7 +148,7 @@
       "title": "Kepler-723 b — catalog entry updated",
       "summary": "Orbits Kepler-723: discovered via Transit, 2016, 12.19x Earth radius, 4.1-day orbit.",
       "url": "https://exoplanetarchive.ipac.caltech.edu/overview/Kepler-723",
-      "publishedAt": "2026-10-01T12:37:31.927Z",
+      "publishedAt": "2026-10-01T22:25:37.787Z",
       "tags": [
         "Transit"
       ]
@@ -162,7 +162,7 @@
       "title": "Kepler-1542 c — catalog entry updated",
       "summary": "Orbits Kepler-1542: discovered via Transit, 2016, 0.65x Earth radius, 0.21x Earth mass, 2.9-day orbit.",
       "url": "https://exoplanetarchive.ipac.caltech.edu/overview/Kepler-1542",
-      "publishedAt": "2026-10-01T12:37:31.927Z",
+      "publishedAt": "2026-10-01T22:25:37.787Z",
       "tags": [
         "Transit"
       ]
@@ -176,7 +176,7 @@
       "title": "K2-85 b — catalog entry updated",
       "summary": "Orbits K2-85: discovered via Transit, 2016, 1.40x Earth radius, 3.20x Earth mass, 0.7-day orbit.",
       "url": "https://exoplanetarchive.ipac.caltech.edu/overview/K2-85",
-      "publishedAt": "2026-10-01T12:37:31.927Z",
+      "publishedAt": "2026-10-01T22:25:37.787Z",
       "tags": [
         "Transit"
       ]
@@ -190,7 +190,7 @@
       "title": "Kepler-368 c — catalog entry updated",
       "summary": "Orbits Kepler-368: discovered via Transit, 2014, 3.88x Earth radius, 14.30x Earth mass, 72.4-day orbit.",
       "url": "https://exoplanetarchive.ipac.caltech.edu/overview/Kepler-368",
-      "publishedAt": "2026-10-01T12:37:31.927Z",
+      "publishedAt": "2026-10-01T22:25:37.787Z",
       "tags": [
         "Transit"
       ]
@@ -204,7 +204,7 @@
       "title": "HAT-P-8 b — catalog entry updated",
       "summary": "Orbits HAT-P-8: discovered via Transit, 2008, 15.69x Earth radius, 406.82x Earth mass, 3.1-day orbit.",
       "url": "https://exoplanetarchive.ipac.caltech.edu/overview/HAT-P-8",
-      "publishedAt": "2026-10-01T12:37:31.927Z",
+      "publishedAt": "2026-10-01T22:25:37.787Z",
       "tags": [
         "Transit"
       ]
@@ -218,9 +218,77 @@
       "title": "HD 2039 b — catalog entry updated",
       "summary": "Orbits HD 2039: discovered via Radial Velocity, 2002, 12.70x Earth radius, 1999.15x Earth mass, 1120.0-day orbit.",
       "url": "https://exoplanetarchive.ipac.caltech.edu/overview/HD_2039",
-      "publishedAt": "2026-10-01T12:37:31.927Z",
+      "publishedAt": "2026-10-01T22:25:37.787Z",
       "tags": [
         "Radial Velocity"
+      ]
+    },
+    {
+      "id": "a8534d5d6b14",
+      "agency": "nasa",
+      "source": "NASA breaking news",
+      "title": "NASA Awards Enterprise Logistics Support Services Agreements",
+      "summary": "NASA selected 16 companies to provide Enterprise Logistics Support Services under new agreements that will standardize requirements, improve reporting, and streamline the management of costs and resources. The $1.4 billion blanket purchase agreements will support equipment and property management, transportation, dispo…",
+      "url": "https://www.nasa.gov/news-release/nasa-awards-enterprise-logistics-support-services-agreements/",
+      "publishedAt": "2026-10-01T20:34:27.000Z",
+      "tags": [
+        "NASA Shared Services Center",
+        "Stennis Space Center"
+      ]
+    },
+    {
+      "id": "a1b7f85b461e",
+      "agency": "nasa",
+      "source": "NASA breaking news",
+      "title": "NASA’s SpaceX Crew-13 Launches",
+      "summary": "In this Oct. 1, 2026, photo, a SpaceX Falcon 9 rocket and Dragon spacecraft launch from Space Launch Complex 40 at Cape Canaveral Space Force Station in Florida. The spacecraft is carrying NASA astronauts Jessica Watkins and Luke Delaney, CSA (Canadian Space Agency) astronaut Joshua Kutryk, and Roscosmos cosmonaut Serg…",
+      "url": "https://www.nasa.gov/image-article/nasas-spacex-crew-13-launches/",
+      "publishedAt": "2026-10-01T18:05:38.000Z",
+      "tags": [
+        "Commercial Crew"
+      ]
+    },
+    {
+      "id": "178dd50ba63f",
+      "agency": "nasa",
+      "source": "NASA breaking news",
+      "title": "What’s Up: October 2026 Skywatching Tips from NASA",
+      "summary": "A Meteor Shower and the Moon Near the Pleiades See Saturn at opposition, catch the Orionid meteor shower, and watch the Moon pass close to the Pleiades, also known as the Seven Sisters. Skywatching Highlights Transcript Saturn takes center stage, a meteor shower lights up the sky, and the Moon visits the Seven Sisters.…",
+      "url": "https://science.nasa.gov/solar-system/skywatching/whats-up-october-2026-skywatching-tips-from-nasa/",
+      "publishedAt": "2026-10-01T16:58:10.000Z",
+      "tags": []
+    },
+    {
+      "id": "2469d029ec5b",
+      "agency": "nasa",
+      "source": "NASA breaking news",
+      "title": "NASA’s SpaceX Crew-13 Launches to International Space Station",
+      "summary": "Four crew members of NASA’s SpaceX Crew-13 mission launched at 11:10 a.m. EDT Thursday from Space Launch Complex 40 at Cape Canaveral Space Force Station in Florida for a science expedition aboard the International Space Station. “Crew-13 is another demonstration of America’s unmatched capability in human spaceflight a…",
+      "url": "https://www.nasa.gov/news-release/nasas-spacex-crew-13-launches-to-international-space-station/",
+      "publishedAt": "2026-10-01T15:59:24.000Z",
+      "tags": [
+        "Humans in Space",
+        "International Space Station (ISS)",
+        "Johnson Space Center",
+        "Kennedy Space Center",
+        "Missions"
+      ]
+    },
+    {
+      "id": "bde0ccdaf4ff",
+      "agency": "nasa",
+      "source": "NASA breaking news",
+      "title": "NASA’s Webb Provides Crash Course on Planet-Shattering Collisions",
+      "summary": "In the early history of our solar system, scientists theorize that a Mars-sized object called Theia smashed into the infant Earth, vaporizing massive amounts of rock and blasting it into space. Some of that material coalesced into the Moon, where NASA’s Artemis program is returning humans, preparing for Mars, and shapi…",
+      "url": "https://science.nasa.gov/missions/webb/nasas-webb-provides-crash-course-on-planet-shattering-collisions/",
+      "publishedAt": "2026-10-01T14:00:00.000Z",
+      "tags": [
+        "Astrophysics",
+        "Astrophysics Division",
+        "Goddard Space Flight Center",
+        "James Webb Space Telescope (JWST)",
+        "Science & Research",
+        "The Universe"
       ]
     },
     {
@@ -287,33 +355,6 @@
       ]
     },
     {
-      "id": "a1e6dcc2b963",
-      "agency": "nasa",
-      "source": "NASA breaking news",
-      "title": "NASA Awards Contract to Develop 5G Communications for Moon",
-      "summary": "NASA has awarded Modulate Space Corporation a contract to develop key elements of a 5G communications system for use on the lunar surface with built-in Wi-Fi 6, for NASA’s Glenn Research Center in Cleveland. This accelerated effort is organized into two primary work areas that together will develop a scalable, standard…",
-      "url": "https://www.nasa.gov/news-release/nasa-awards-contract-to-develop-5g-communications-for-moon/",
-      "publishedAt": "2026-09-30T20:41:26.000Z",
-      "tags": [
-        "NASA Headquarters",
-        "Glenn Research Center"
-      ]
-    },
-    {
-      "id": "1b47f97ab55e",
-      "agency": "nasa",
-      "source": "NASA breaking news",
-      "title": "NASA, International Partners Advance Work on Space Crops",
-      "summary": "NASA, CSA (Canadian Space Agency), and the German Aerospace Center signed a joint statement of intent to begin coordinated, preparatory work toward an Earth-based demonstrator to learn how to grow crops on the Moon.",
-      "url": "https://science.nasa.gov/science-research/biological-physical-sciences/nasa-international-partners-advance-work-on-space-crops/",
-      "publishedAt": "2026-09-30T18:38:20.000Z",
-      "tags": [
-        "Biological & Physical Sciences",
-        "Science & Research",
-        "Science Mission Directorate"
-      ]
-    },
-    {
       "id": "d233ffd4d249",
       "agency": "arxiv",
       "source": "arXiv astro-ph (new submissions)",
@@ -322,18 +363,6 @@
       "url": "https://arxiv.org/abs/2609.40363v1",
       "publishedAt": "2026-09-30T17:59:59.000Z",
       "tags": []
-    },
-    {
-      "id": "4b263304b207",
-      "agency": "nasa",
-      "source": "NASA breaking news",
-      "title": "Star Trails",
-      "summary": "This long-duration image shows star trails above Earth and the blue lights of fishing boats and the yellow lights of Indonesian cities stretching below the International Space Station as it orbited 258 miles above the Banda Sea on Sept. 20, 2026. Image credit: NASA/Anil Menon",
-      "url": "https://www.nasa.gov/image-article/star-trails/",
-      "publishedAt": "2026-09-30T17:50:50.000Z",
-      "tags": [
-        "International Space Station (ISS)"
-      ]
     },
     {
       "id": "5c716494e9d0",
@@ -574,33 +603,6 @@
       "url": "https://arxiv.org/abs/2609.39775v1",
       "publishedAt": "2026-09-30T14:02:04.000Z",
       "tags": []
-    },
-    {
-      "id": "54875e750e66",
-      "agency": "nasa",
-      "source": "NASA breaking news",
-      "title": "APOD: 2026 September 30 – Arp 78: Peculiar Galaxy in Aries",
-      "summary": "APOD Science APOD APOD: 2026 September 30 –… Today’s APOD Archive Submissions Index Search Calendar RSS Education About Discuss APOD Astronomy Picture of the Day Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a professiona…",
-      "url": "https://science.nasa.gov/image-article/apod-2026-september-30-arp-78-peculiar-galaxy-in-aries/",
-      "publishedAt": "2026-09-30T04:05:00.000Z",
-      "tags": [
-        "APOD"
-      ]
-    },
-    {
-      "id": "be7fb074b965",
-      "agency": "nasa",
-      "source": "NASA breaking news",
-      "title": "Powerful Storms Continue to Prowl the Pacific",
-      "summary": "Hurricanes Polo and Nolo sent destructive effects ashore amid an active season in the northeastern and central Pacific.",
-      "url": "https://science.nasa.gov/earth/earth-observatory/powerful-storms-continue-to-prowl-the-pacific/",
-      "publishedAt": "2026-09-30T04:01:00.000Z",
-      "tags": [
-        "Deep Space Climate Observatory (DSCOVR)",
-        "Earth Observatory",
-        "Hurricanes & Typhoons",
-        "Visible Infrared Imaging Radiometer Suite (VIIRS)"
-      ]
     },
     {
       "id": "a1872142f277",
