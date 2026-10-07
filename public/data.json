@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-07T12:49:29.222Z",
+  "generatedAt": "2026-10-07T22:50:53.517Z",
   "sourceCount": 5,
   "itemCount": 70,
   "errors": [],
@@ -22,7 +22,7 @@
       "title": "Kepler-1753 b — catalog entry updated",
       "summary": "Orbits Kepler-1753: discovered via Transit, 2021, 2.23x Earth radius, 5.59x Earth mass, 16.0-day orbit.",
       "url": "https://exoplanetarchive.ipac.caltech.edu/overview/Kepler-1753",
-      "publishedAt": "2026-10-07T12:49:28.356Z",
+      "publishedAt": "2026-10-07T22:50:37.666Z",
       "tags": [
         "Transit"
       ]
@@ -36,7 +36,7 @@
       "title": "K2-126 b — catalog entry updated",
       "summary": "Orbits K2-126: discovered via Transit, 2017, 1.97x Earth radius, 4.54x Earth mass, 7.4-day orbit.",
       "url": "https://exoplanetarchive.ipac.caltech.edu/overview/K2-126",
-      "publishedAt": "2026-10-07T12:49:28.356Z",
+      "publishedAt": "2026-10-07T22:50:37.666Z",
       "tags": [
         "Transit"
       ]
@@ -50,7 +50,7 @@
       "title": "K2-123 b — catalog entry updated",
       "summary": "Orbits K2-123: discovered via Transit, 2017, 2.76x Earth radius, 8.05x Earth mass, 31.0-day orbit.",
       "url": "https://exoplanetarchive.ipac.caltech.edu/overview/K2-123",
-      "publishedAt": "2026-10-07T12:49:28.356Z",
+      "publishedAt": "2026-10-07T22:50:37.666Z",
       "tags": [
         "Transit"
       ]
@@ -64,7 +64,7 @@
       "title": "Kepler-1176 b — catalog entry updated",
       "summary": "Orbits Kepler-1176: discovered via Transit, 2016, 2.45x Earth radius, 6.57x Earth mass, 24.2-day orbit.",
       "url": "https://exoplanetarchive.ipac.caltech.edu/overview/Kepler-1176",
-      "publishedAt": "2026-10-07T12:49:28.356Z",
+      "publishedAt": "2026-10-07T22:50:37.666Z",
       "tags": [
         "Transit"
       ]
@@ -78,7 +78,7 @@
       "title": "K2-43 b — catalog entry updated",
       "summary": "Orbits K2-43: discovered via Transit, 2016, 4.51x Earth radius, 18.50x Earth mass, 3.5-day orbit.",
       "url": "https://exoplanetarchive.ipac.caltech.edu/overview/K2-43",
-      "publishedAt": "2026-10-07T12:49:28.356Z",
+      "publishedAt": "2026-10-07T22:50:37.666Z",
       "tags": [
         "Transit"
       ]
@@ -92,7 +92,7 @@
       "title": "Kepler-1416 b — catalog entry updated",
       "summary": "Orbits Kepler-1416: discovered via Transit, 2016, 0.88x Earth radius, 0.61x Earth mass, 1.5-day orbit.",
       "url": "https://exoplanetarchive.ipac.caltech.edu/overview/Kepler-1416",
-      "publishedAt": "2026-10-07T12:49:28.356Z",
+      "publishedAt": "2026-10-07T22:50:37.666Z",
       "tags": [
         "Transit"
       ]
@@ -106,7 +106,7 @@
       "title": "Kepler-1399 b — catalog entry updated",
       "summary": "Orbits Kepler-1399: discovered via Transit, 2016, 1.25x Earth radius, 2.10x Earth mass, 1.6-day orbit.",
       "url": "https://exoplanetarchive.ipac.caltech.edu/overview/Kepler-1399",
-      "publishedAt": "2026-10-07T12:49:28.356Z",
+      "publishedAt": "2026-10-07T22:50:37.666Z",
       "tags": [
         "Transit"
       ]
@@ -120,7 +120,7 @@
       "title": "Kepler-770 b — catalog entry updated",
       "summary": "Orbits Kepler-770: discovered via Transit, 2016, 2.30x Earth radius, 5.90x Earth mass, 18.9-day orbit.",
       "url": "https://exoplanetarchive.ipac.caltech.edu/overview/Kepler-770",
-      "publishedAt": "2026-10-07T12:49:28.356Z",
+      "publishedAt": "2026-10-07T22:50:37.666Z",
       "tags": [
         "Transit"
       ]
@@ -134,7 +134,7 @@
       "title": "Kepler-1263 b — catalog entry updated",
       "summary": "Orbits Kepler-1263: discovered via Transit, 2016, 1.14x Earth radius, 1.55x Earth mass, 4.6-day orbit.",
       "url": "https://exoplanetarchive.ipac.caltech.edu/overview/Kepler-1263",
-      "publishedAt": "2026-10-07T12:49:28.356Z",
+      "publishedAt": "2026-10-07T22:50:37.666Z",
       "tags": [
         "Transit"
       ]
@@ -148,7 +148,7 @@
       "title": "Kepler-723 b — catalog entry updated",
       "summary": "Orbits Kepler-723: discovered via Transit, 2016, 12.19x Earth radius, 4.1-day orbit.",
       "url": "https://exoplanetarchive.ipac.caltech.edu/overview/Kepler-723",
-      "publishedAt": "2026-10-07T12:49:28.356Z",
+      "publishedAt": "2026-10-07T22:50:37.666Z",
       "tags": [
         "Transit"
       ]
@@ -162,7 +162,7 @@
       "title": "Kepler-1542 c — catalog entry updated",
       "summary": "Orbits Kepler-1542: discovered via Transit, 2016, 0.65x Earth radius, 0.21x Earth mass, 2.9-day orbit.",
       "url": "https://exoplanetarchive.ipac.caltech.edu/overview/Kepler-1542",
-      "publishedAt": "2026-10-07T12:49:28.356Z",
+      "publishedAt": "2026-10-07T22:50:37.666Z",
       "tags": [
         "Transit"
       ]
@@ -176,7 +176,7 @@
       "title": "K2-85 b — catalog entry updated",
       "summary": "Orbits K2-85: discovered via Transit, 2016, 1.40x Earth radius, 3.20x Earth mass, 0.7-day orbit.",
       "url": "https://exoplanetarchive.ipac.caltech.edu/overview/K2-85",
-      "publishedAt": "2026-10-07T12:49:28.356Z",
+      "publishedAt": "2026-10-07T22:50:37.666Z",
       "tags": [
         "Transit"
       ]
@@ -190,7 +190,7 @@
       "title": "Kepler-368 c — catalog entry updated",
       "summary": "Orbits Kepler-368: discovered via Transit, 2014, 3.88x Earth radius, 14.30x Earth mass, 72.4-day orbit.",
       "url": "https://exoplanetarchive.ipac.caltech.edu/overview/Kepler-368",
-      "publishedAt": "2026-10-07T12:49:28.356Z",
+      "publishedAt": "2026-10-07T22:50:37.666Z",
       "tags": [
         "Transit"
       ]
@@ -204,7 +204,7 @@
       "title": "HAT-P-8 b — catalog entry updated",
       "summary": "Orbits HAT-P-8: discovered via Transit, 2008, 15.69x Earth radius, 406.82x Earth mass, 3.1-day orbit.",
       "url": "https://exoplanetarchive.ipac.caltech.edu/overview/HAT-P-8",
-      "publishedAt": "2026-10-07T12:49:28.356Z",
+      "publishedAt": "2026-10-07T22:50:37.666Z",
       "tags": [
         "Transit"
       ]
@@ -218,9 +218,90 @@
       "title": "HD 2039 b — catalog entry updated",
       "summary": "Orbits HD 2039: discovered via Radial Velocity, 2002, 12.70x Earth radius, 1999.15x Earth mass, 1120.0-day orbit.",
       "url": "https://exoplanetarchive.ipac.caltech.edu/overview/HD_2039",
-      "publishedAt": "2026-10-07T12:49:28.356Z",
+      "publishedAt": "2026-10-07T22:50:37.666Z",
       "tags": [
         "Radial Velocity"
+      ]
+    },
+    {
+      "id": "2d1ff4fb2acc",
+      "agency": "nasa",
+      "source": "NASA breaking news",
+      "title": "NASA Sets Coverage for SpaceX 35th Station Resupply Launch, Arrival",
+      "summary": "NASA and SpaceX are targeting 6:33 a.m. EDT, Tuesday, Oct. 13, for the next launch to deliver science investigations, supplies, and equipment, including the final set of International Space Station Roll-Out Solar Arrays, to the space station. This is the 35th SpaceX commercial resupply services mission to the orbital c…",
+      "url": "https://www.nasa.gov/news-release/nasa-sets-coverage-for-spacex-35th-station-resupply-launch-arrival/",
+      "publishedAt": "2026-10-07T21:16:42.000Z",
+      "tags": [
+        "International Space Station (ISS)",
+        "Commercial Resupply",
+        "Johnson Space Center",
+        "Kennedy Space Center",
+        "Missions"
+      ]
+    },
+    {
+      "id": "1b712041278c",
+      "agency": "nasa",
+      "source": "NASA breaking news",
+      "title": "NASA’s SpaceX 35th Commercial Resupply Mission Overview",
+      "summary": "NASA and SpaceX are targeting no earlier than Tuesday, Oct. 13 to launch scientific investigations, supplies, and equipment to the International Space Station.",
+      "url": "https://www.nasa.gov/general/nasas-spacex-35th-commercial-resupply-mission-overview/",
+      "publishedAt": "2026-10-07T20:17:16.000Z",
+      "tags": [
+        "General",
+        "Commercial Resupply",
+        "International Space Station (ISS)",
+        "SpaceX Commercial Resupply"
+      ]
+    },
+    {
+      "id": "d3b6ceee5e59",
+      "agency": "nasa",
+      "source": "NASA breaking news",
+      "title": "NASA’s PRIMA Spacecraft (Artist’s Concept)",
+      "summary": "Description This artist’s concept depicts the proposed design for NASA’s PRobe far-Infrared Mission for Astrophysics (PRIMA), which was selected by the agency in September 2026. The PRIMA observatory is the first in a new class of NASA astrophysics missions, called Probe Explorers, within the agency’s longstanding Expl…",
+      "url": "https://science.nasa.gov/photojournal/nasas-prima-spacecraft-artists-concept/",
+      "publishedAt": "2026-10-07T20:15:49.000Z",
+      "tags": [
+        "Photojournal"
+      ]
+    },
+    {
+      "id": "df31cd8fdce5",
+      "agency": "nasa",
+      "source": "NASA breaking news",
+      "title": "NASA’s Curiosity Looks Back After Reaching Elevation Milestone",
+      "summary": "Description NASA’s Curiosity Mars rover captured this view looking back at the floor of Gale Crater, with the crater’s rim visible in the distance, on Sept. 5, 2026, the 5,006th Martian day, or sol, of the mission. Just nine days prior, on Aug. 26 (Sol 4,996), Curiosity set a mission milestone by reaching 1 kilometer […",
+      "url": "https://science.nasa.gov/photojournal/nasas-curiosity-looks-back-after-reaching-elevation-milestone/",
+      "publishedAt": "2026-10-07T17:00:47.000Z",
+      "tags": [
+        "Mars Science Laboratory (MSL)",
+        "Photojournal"
+      ]
+    },
+    {
+      "id": "909b46ae5689",
+      "agency": "nasa",
+      "source": "NASA breaking news",
+      "title": "NASA’s Curiosity Captures Dawn Breaking on Wind-Carved Cliffs",
+      "summary": "Description NASA’s Curiosity Mars rover captured this panorama of sunrise illuminating distant, wind-carved features called yardangs on Aug. 11, 2026, the 4,982nd Martian day, or sol, of the mission. Scientists are eager to learn more about how the yardang layer formed. Figure A is a crop zooming in on the distant yard…",
+      "url": "https://science.nasa.gov/photojournal/nasas-curiosity-captures-dawn-breaking-on-wind-carved-cliffs/",
+      "publishedAt": "2026-10-07T16:49:50.000Z",
+      "tags": [
+        "Mars Science Laboratory (MSL)",
+        "Photojournal"
+      ]
+    },
+    {
+      "id": "2dc282f1df7a",
+      "agency": "nasa",
+      "source": "NASA breaking news",
+      "title": "Artemis II Crew Moon Photo Annotations",
+      "summary": "A visualization of a dark Moon eclipsing the Sun is marked with handwritten notes in this April 6, 2026, screenshot from an Artemis II crew member’s tablet. NASA astronauts Reid Wiseman (in blue) and Victor “Ike” Glover (in green) and CSA (Canadian Space Agency) Jeremy Hansen (in red) observed impact flashes and their…",
+      "url": "https://www.nasa.gov/image-article/artemis-ii-crew-moon-photo-annotations/",
+      "publishedAt": "2026-10-07T15:44:59.000Z",
+      "tags": [
+        "Artemis 2"
       ]
     },
     {
@@ -277,36 +358,6 @@
       "publishedAt": "2026-10-06T18:27:38.000Z",
       "tags": [
         "Earth Observatory"
-      ]
-    },
-    {
-      "id": "201cc542a702",
-      "agency": "nasa",
-      "source": "NASA breaking news",
-      "title": "Lunar Grounding Challenge",
-      "summary": "As an astronaut traverses the lunar South Pole, tribocharging from walking on the lunar surface and plasma charging from the ambient plasma generate electric charge on the spacesuit. This problem is severely compounded when entering lunar shadows and Permanently Shadowed Regions (PSRs). In these dark zones, the spacesu…",
-      "url": "https://www.nasa.gov/directorates/stmd/prizes-challenges-crowdsourcing-program/center-of-excellence-for-collaborative-innovation-coeci/lunar-grounding-challenge/",
-      "publishedAt": "2026-10-06T18:22:24.000Z",
-      "tags": [
-        "Center of Excellence for Collaborative Innovation (CoECI)",
-        "CoECI News",
-        "Get Involved",
-        "Opportunities to Contribute to NASA Missions & Get Involved",
-        "Prizes, Challenges, & Crowdsourcing News",
-        "Prizes, Challenges, and Crowdsourcing Program"
-      ]
-    },
-    {
-      "id": "cd794c561e86",
-      "agency": "nasa",
-      "source": "NASA breaking news",
-      "title": "NASA Glenn Invites Phase 1 Proposals for Aerospace Power Systems Laboratory",
-      "summary": "NASA’s Glenn Research Center in Cleveland is seeking Phase 1 proposals for the design and construction of the Aerospace Power Systems Laboratory. The principal purpose of this procurement is to deliver a laboratory facility to support the testing and development of power systems, with associated site work, infrastructu…",
-      "url": "https://www.nasa.gov/news-release/nasa-glenn-invites-phase-1-proposals-for-aerospace-power-systems-laboratory/",
-      "publishedAt": "2026-10-06T17:55:52.000Z",
-      "tags": [
-        "Glenn Research Center",
-        "NASA Centers & Facilities"
       ]
     },
     {
@@ -420,16 +471,6 @@
       "tags": []
     },
     {
-      "id": "a827110b18c9",
-      "agency": "nasa",
-      "source": "NASA breaking news",
-      "title": "Astronomers Solve Cosmic Cold Case with NASA Hubble Data",
-      "summary": "Diligent sleuthing by astronomers uncovered a surprising chemical clue that indicates the white dwarf star HS 0209+0832 may host a second-generation planet. This artist’s concept released on Oct. 5, 2026, depicts that possible explanation. The white dwarf is the “dead” core of a star that burned through all of its nucl…",
-      "url": "https://www.nasa.gov/image-article/astronomers-solve-cosmic-cold-case-with-nasa-hubble-data/",
-      "publishedAt": "2026-10-06T16:09:13.000Z",
-      "tags": []
-    },
-    {
       "id": "c636ec3eae1e",
       "agency": "arxiv",
       "source": "arXiv astro-ph (new submissions)",
@@ -468,22 +509,6 @@
       "url": "https://arxiv.org/abs/2610.08546v1",
       "publishedAt": "2026-10-06T15:35:14.000Z",
       "tags": []
-    },
-    {
-      "id": "7d66475c1dea",
-      "agency": "nasa",
-      "source": "NASA breaking news",
-      "title": "NASA’s Curiosity Rover Catches Stunning Martian Dawn",
-      "summary": "A newly released panorama captured by NASA’s Curiosity rover offers the most detailed view yet of distant, wind-carved Martian cliffs, highlighting features the mission’s scientists have long been waiting to see up close. The scene was snapped at 8:30 a.m. local Mars time, showing striking blue hues in the foreground a…",
-      "url": "https://www.nasa.gov/missions/mars-science-laboratory/curiosity-rover/nasas-curiosity-rover-catches-stunning-martian-dawn/",
-      "publishedAt": "2026-10-06T15:30:07.000Z",
-      "tags": [
-        "Curiosity (Rover)",
-        "Jet Propulsion Laboratory",
-        "Mars",
-        "Mars Science Laboratory (MSL)",
-        "Planetary Science"
-      ]
     },
     {
       "id": "aa41e11bf0ab",
@@ -584,36 +609,6 @@
       "url": "https://arxiv.org/abs/2610.08436v1",
       "publishedAt": "2026-10-06T14:32:43.000Z",
       "tags": []
-    },
-    {
-      "id": "9023d7b9f473",
-      "agency": "nasa",
-      "source": "NASA breaking news",
-      "title": "NASA’s Webb Captures Commotion From Nebula’s Stellar Jets",
-      "summary": "A cauldron of cosmic creation is being revealed in a new image from NASA’s James Webb Space Telescope. Webb has unveiled numerous stars formerly hidden by clouds of dust in a stellar nursery known as NGC 7129, which resides about 3,300 light-years from Earth. Stars, the engines of elemental creation, have life cycles t…",
-      "url": "https://science.nasa.gov/missions/webb/nasas-webb-captures-commotion-from-nebulas-stellar-jets/",
-      "publishedAt": "2026-10-06T13:00:00.000Z",
-      "tags": [
-        "Astrophysics",
-        "Astrophysics Division",
-        "Goddard Space Flight Center",
-        "James Webb Space Telescope (JWST)",
-        "Science & Research",
-        "Stars",
-        "The Universe"
-      ]
-    },
-    {
-      "id": "8b6dbe38dc8a",
-      "agency": "nasa",
-      "source": "NASA breaking news",
-      "title": "APOD: 2026 October 6 – A Complete Auroral Oval from SMILE",
-      "summary": "APODScienceAPODAPOD: 2026 October 6 – A…Today’s APODArchiveSubmissionsIndexSearchCalendarRSSEducationAboutDiscuss APOD Astronomy Picture of the Day Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a professional astronomer.…",
-      "url": "https://science.nasa.gov/image-article/apod-2026-october-6-a-complete-auroral-oval-from-smile/",
-      "publishedAt": "2026-10-06T04:05:00.000Z",
-      "tags": [
-        "APOD"
-      ]
     },
     {
       "id": "9e261d64e102",
