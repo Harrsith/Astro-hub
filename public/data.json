@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-10-13T22:23:01.044Z",
+  "generatedAt": "2026-10-14T03:55:11.484Z",
   "sourceCount": 5,
-  "itemCount": 60,
+  "itemCount": 45,
   "errors": [
     {
-      "source": "NASA breaking news",
+      "source": "arXiv astro-ph (new submissions)",
       "message": "Status code 429"
     }
   ],
@@ -19,90 +19,6 @@
   },
   "items": [
     {
-      "id": "153984674374",
-      "agency": "exo",
-      "ra": 284.8304434,
-      "dec": 44.6580932,
-      "source": "NASA Exoplanet Archive",
-      "title": "Kepler-723 b — catalog entry updated",
-      "summary": "Orbits Kepler-723: discovered via Transit, 2016, 12.19x Earth radius, 4.1-day orbit.",
-      "url": "https://exoplanetarchive.ipac.caltech.edu/overview/Kepler-723",
-      "publishedAt": "2026-10-13T22:23:00.166Z",
-      "tags": [
-        "Transit"
-      ]
-    },
-    {
-      "id": "d01d337a65cb",
-      "agency": "exo",
-      "ra": 285.7284757,
-      "dec": 42.6544651,
-      "source": "NASA Exoplanet Archive",
-      "title": "Kepler-1542 c — catalog entry updated",
-      "summary": "Orbits Kepler-1542: discovered via Transit, 2016, 0.65x Earth radius, 0.21x Earth mass, 2.9-day orbit.",
-      "url": "https://exoplanetarchive.ipac.caltech.edu/overview/Kepler-1542",
-      "publishedAt": "2026-10-13T22:23:00.166Z",
-      "tags": [
-        "Transit"
-      ]
-    },
-    {
-      "id": "24a51d62c59a",
-      "agency": "exo",
-      "ra": 59.464829,
-      "dec": 18.4649505,
-      "source": "NASA Exoplanet Archive",
-      "title": "K2-85 b — catalog entry updated",
-      "summary": "Orbits K2-85: discovered via Transit, 2016, 1.40x Earth radius, 3.20x Earth mass, 0.7-day orbit.",
-      "url": "https://exoplanetarchive.ipac.caltech.edu/overview/K2-85",
-      "publishedAt": "2026-10-13T22:23:00.166Z",
-      "tags": [
-        "Transit"
-      ]
-    },
-    {
-      "id": "0f4b3bafa9ca",
-      "agency": "exo",
-      "ra": 291.880018,
-      "dec": 45.3878419,
-      "source": "NASA Exoplanet Archive",
-      "title": "Kepler-368 c — catalog entry updated",
-      "summary": "Orbits Kepler-368: discovered via Transit, 2014, 3.88x Earth radius, 14.30x Earth mass, 72.4-day orbit.",
-      "url": "https://exoplanetarchive.ipac.caltech.edu/overview/Kepler-368",
-      "publishedAt": "2026-10-13T22:23:00.166Z",
-      "tags": [
-        "Transit"
-      ]
-    },
-    {
-      "id": "81193bfffcae",
-      "agency": "exo",
-      "ra": 343.0414932,
-      "dec": 35.4471778,
-      "source": "NASA Exoplanet Archive",
-      "title": "HAT-P-8 b — catalog entry updated",
-      "summary": "Orbits HAT-P-8: discovered via Transit, 2008, 15.69x Earth radius, 406.82x Earth mass, 3.1-day orbit.",
-      "url": "https://exoplanetarchive.ipac.caltech.edu/overview/HAT-P-8",
-      "publishedAt": "2026-10-13T22:23:00.166Z",
-      "tags": [
-        "Transit"
-      ]
-    },
-    {
-      "id": "c91aab725e37",
-      "agency": "exo",
-      "ra": 6.0851069,
-      "dec": -56.649988,
-      "source": "NASA Exoplanet Archive",
-      "title": "HD 2039 b — catalog entry updated",
-      "summary": "Orbits HD 2039: discovered via Radial Velocity, 2002, 12.70x Earth radius, 1999.15x Earth mass, 1120.0-day orbit.",
-      "url": "https://exoplanetarchive.ipac.caltech.edu/overview/HD_2039",
-      "publishedAt": "2026-10-13T22:23:00.166Z",
-      "tags": [
-        "Radial Velocity"
-      ]
-    },
-    {
       "id": "9c09e70a540f",
       "agency": "exo",
       "ra": 288.236664,
@@ -111,7 +27,7 @@
       "title": "Kepler-1753 b — catalog entry updated",
       "summary": "Orbits Kepler-1753: discovered via Transit, 2021, 2.23x Earth radius, 5.59x Earth mass, 16.0-day orbit.",
       "url": "https://exoplanetarchive.ipac.caltech.edu/overview/Kepler-1753",
-      "publishedAt": "2026-10-13T22:23:00.165Z",
+      "publishedAt": "2026-10-14T03:55:06.703Z",
       "tags": [
         "Transit"
       ]
@@ -125,7 +41,7 @@
       "title": "K2-126 b — catalog entry updated",
       "summary": "Orbits K2-126: discovered via Transit, 2017, 1.97x Earth radius, 4.54x Earth mass, 7.4-day orbit.",
       "url": "https://exoplanetarchive.ipac.caltech.edu/overview/K2-126",
-      "publishedAt": "2026-10-13T22:23:00.165Z",
+      "publishedAt": "2026-10-14T03:55:06.703Z",
       "tags": [
         "Transit"
       ]
@@ -139,7 +55,7 @@
       "title": "K2-123 b — catalog entry updated",
       "summary": "Orbits K2-123: discovered via Transit, 2017, 2.76x Earth radius, 8.05x Earth mass, 31.0-day orbit.",
       "url": "https://exoplanetarchive.ipac.caltech.edu/overview/K2-123",
-      "publishedAt": "2026-10-13T22:23:00.165Z",
+      "publishedAt": "2026-10-14T03:55:06.703Z",
       "tags": [
         "Transit"
       ]
@@ -153,7 +69,7 @@
       "title": "Kepler-1176 b — catalog entry updated",
       "summary": "Orbits Kepler-1176: discovered via Transit, 2016, 2.45x Earth radius, 6.57x Earth mass, 24.2-day orbit.",
       "url": "https://exoplanetarchive.ipac.caltech.edu/overview/Kepler-1176",
-      "publishedAt": "2026-10-13T22:23:00.165Z",
+      "publishedAt": "2026-10-14T03:55:06.703Z",
       "tags": [
         "Transit"
       ]
@@ -167,7 +83,7 @@
       "title": "K2-43 b — catalog entry updated",
       "summary": "Orbits K2-43: discovered via Transit, 2016, 4.51x Earth radius, 18.50x Earth mass, 3.5-day orbit.",
       "url": "https://exoplanetarchive.ipac.caltech.edu/overview/K2-43",
-      "publishedAt": "2026-10-13T22:23:00.165Z",
+      "publishedAt": "2026-10-14T03:55:06.703Z",
       "tags": [
         "Transit"
       ]
@@ -181,7 +97,7 @@
       "title": "Kepler-1416 b — catalog entry updated",
       "summary": "Orbits Kepler-1416: discovered via Transit, 2016, 0.88x Earth radius, 0.61x Earth mass, 1.5-day orbit.",
       "url": "https://exoplanetarchive.ipac.caltech.edu/overview/Kepler-1416",
-      "publishedAt": "2026-10-13T22:23:00.165Z",
+      "publishedAt": "2026-10-14T03:55:06.703Z",
       "tags": [
         "Transit"
       ]
@@ -195,7 +111,7 @@
       "title": "Kepler-1399 b — catalog entry updated",
       "summary": "Orbits Kepler-1399: discovered via Transit, 2016, 1.25x Earth radius, 2.10x Earth mass, 1.6-day orbit.",
       "url": "https://exoplanetarchive.ipac.caltech.edu/overview/Kepler-1399",
-      "publishedAt": "2026-10-13T22:23:00.165Z",
+      "publishedAt": "2026-10-14T03:55:06.703Z",
       "tags": [
         "Transit"
       ]
@@ -209,7 +125,7 @@
       "title": "Kepler-770 b — catalog entry updated",
       "summary": "Orbits Kepler-770: discovered via Transit, 2016, 2.30x Earth radius, 5.90x Earth mass, 18.9-day orbit.",
       "url": "https://exoplanetarchive.ipac.caltech.edu/overview/Kepler-770",
-      "publishedAt": "2026-10-13T22:23:00.165Z",
+      "publishedAt": "2026-10-14T03:55:06.703Z",
       "tags": [
         "Transit"
       ]
@@ -223,260 +139,227 @@
       "title": "Kepler-1263 b — catalog entry updated",
       "summary": "Orbits Kepler-1263: discovered via Transit, 2016, 1.14x Earth radius, 1.55x Earth mass, 4.6-day orbit.",
       "url": "https://exoplanetarchive.ipac.caltech.edu/overview/Kepler-1263",
-      "publishedAt": "2026-10-13T22:23:00.165Z",
+      "publishedAt": "2026-10-14T03:55:06.703Z",
       "tags": [
         "Transit"
       ]
     },
     {
-      "id": "8d71ff51312d",
-      "agency": "arxiv",
-      "source": "arXiv astro-ph (new submissions)",
-      "title": "OGLE-2016-BLG-0523: A Low-mass Brown Dwarf or super-Jupiter in a $>100$ au Orbit",
-      "summary": "To search for very wide-orbit binary-lens events, we cross-match microlensing events detected by OGLE-IV and KMTNet between 2011 and 2024. After removing contaminants from variable stars, we identify OGLE-2016-BLG-0523 as a microlensing event showing two short-lived bumps in its light curve, with the two separated by 8…",
-      "url": "https://arxiv.org/abs/2610.13942v1",
-      "publishedAt": "2026-10-09T17:58:27.000Z",
+      "id": "153984674374",
+      "agency": "exo",
+      "ra": 284.8304434,
+      "dec": 44.6580932,
+      "source": "NASA Exoplanet Archive",
+      "title": "Kepler-723 b — catalog entry updated",
+      "summary": "Orbits Kepler-723: discovered via Transit, 2016, 12.19x Earth radius, 4.1-day orbit.",
+      "url": "https://exoplanetarchive.ipac.caltech.edu/overview/Kepler-723",
+      "publishedAt": "2026-10-14T03:55:06.703Z",
+      "tags": [
+        "Transit"
+      ]
+    },
+    {
+      "id": "d01d337a65cb",
+      "agency": "exo",
+      "ra": 285.7284757,
+      "dec": 42.6544651,
+      "source": "NASA Exoplanet Archive",
+      "title": "Kepler-1542 c — catalog entry updated",
+      "summary": "Orbits Kepler-1542: discovered via Transit, 2016, 0.65x Earth radius, 0.21x Earth mass, 2.9-day orbit.",
+      "url": "https://exoplanetarchive.ipac.caltech.edu/overview/Kepler-1542",
+      "publishedAt": "2026-10-14T03:55:06.703Z",
+      "tags": [
+        "Transit"
+      ]
+    },
+    {
+      "id": "24a51d62c59a",
+      "agency": "exo",
+      "ra": 59.464829,
+      "dec": 18.4649505,
+      "source": "NASA Exoplanet Archive",
+      "title": "K2-85 b — catalog entry updated",
+      "summary": "Orbits K2-85: discovered via Transit, 2016, 1.40x Earth radius, 3.20x Earth mass, 0.7-day orbit.",
+      "url": "https://exoplanetarchive.ipac.caltech.edu/overview/K2-85",
+      "publishedAt": "2026-10-14T03:55:06.703Z",
+      "tags": [
+        "Transit"
+      ]
+    },
+    {
+      "id": "0f4b3bafa9ca",
+      "agency": "exo",
+      "ra": 291.880018,
+      "dec": 45.3878419,
+      "source": "NASA Exoplanet Archive",
+      "title": "Kepler-368 c — catalog entry updated",
+      "summary": "Orbits Kepler-368: discovered via Transit, 2014, 3.88x Earth radius, 14.30x Earth mass, 72.4-day orbit.",
+      "url": "https://exoplanetarchive.ipac.caltech.edu/overview/Kepler-368",
+      "publishedAt": "2026-10-14T03:55:06.703Z",
+      "tags": [
+        "Transit"
+      ]
+    },
+    {
+      "id": "81193bfffcae",
+      "agency": "exo",
+      "ra": 343.0414932,
+      "dec": 35.4471778,
+      "source": "NASA Exoplanet Archive",
+      "title": "HAT-P-8 b — catalog entry updated",
+      "summary": "Orbits HAT-P-8: discovered via Transit, 2008, 15.69x Earth radius, 406.82x Earth mass, 3.1-day orbit.",
+      "url": "https://exoplanetarchive.ipac.caltech.edu/overview/HAT-P-8",
+      "publishedAt": "2026-10-14T03:55:06.703Z",
+      "tags": [
+        "Transit"
+      ]
+    },
+    {
+      "id": "c91aab725e37",
+      "agency": "exo",
+      "ra": 6.0851069,
+      "dec": -56.649988,
+      "source": "NASA Exoplanet Archive",
+      "title": "HD 2039 b — catalog entry updated",
+      "summary": "Orbits HD 2039: discovered via Radial Velocity, 2002, 12.70x Earth radius, 1999.15x Earth mass, 1120.0-day orbit.",
+      "url": "https://exoplanetarchive.ipac.caltech.edu/overview/HD_2039",
+      "publishedAt": "2026-10-14T03:55:06.703Z",
+      "tags": [
+        "Radial Velocity"
+      ]
+    },
+    {
+      "id": "f95cdff65aaa",
+      "agency": "nasa",
+      "source": "NASA breaking news",
+      "title": "NASA Names Astronaut Christina Koch Acting Deputy Chief Engineer",
+      "summary": "NASA engineer and astronaut Christina Koch will serve as the agency’s acting deputy chief engineer beginning on Sunday, Nov. 1, following the retirement of Katherine Van Hooser, who will conclude more than 35 years of distinguished service to the agency on Wednesday, Oct. 21. In her new role, Koch will help lead NASA’s…",
+      "url": "https://www.nasa.gov/news-release/nasa-names-astronaut-christina-koch-acting-deputy-chief-engineer/",
+      "publishedAt": "2026-10-13T20:41:11.000Z",
+      "tags": [
+        "Christina H. Koch",
+        "Astronauts",
+        "Leadership",
+        "NASA Headquarters"
+      ]
+    },
+    {
+      "id": "ef40d95db1a8",
+      "agency": "nasa",
+      "source": "NASA breaking news",
+      "title": "Comparing Off-World Rover Driving Distances",
+      "summary": "Description This infographic illustrates the distances driven by various rovers on the surface of Earth’s Moon and Mars. Of the vehicles shown, the NASA Mars rovers Perseverance and Curiosity are still operational and moving across the surface; the figures shown for those two are distances driven as of Oct. 11, 2026. A…",
+      "url": "https://science.nasa.gov/photojournal/comparing-off-world-rover-driving-distances/",
+      "publishedAt": "2026-10-13T17:56:08.000Z",
+      "tags": [
+        "Photojournal"
+      ]
+    },
+    {
+      "id": "973e4df371b0",
+      "agency": "nasa",
+      "source": "NASA breaking news",
+      "title": "NASA’s Record-Setting Perseverance Rover Team",
+      "summary": "Description Members of NASA’s Perseverance Mars mission team gather in the Mars Yard at the agency’s Jet Propulsion Laboratory in Southern California with a certificate from Guinness World Records marking the rover distance record on the Red Planet. Positioned in front of the team is OPTIMISM (Operational Perseverance…",
+      "url": "https://science.nasa.gov/photojournal/nasas-record-setting-perseverance-rover-team/",
+      "publishedAt": "2026-10-13T17:48:46.000Z",
+      "tags": [
+        "Mars 2020",
+        "Photojournal"
+      ]
+    },
+    {
+      "id": "41da0fb47da3",
+      "agency": "nasa",
+      "source": "NASA breaking news",
+      "title": "Perseverance Navcam Image Marks Record Drive",
+      "summary": "Description Rover tracks and a rocky Martian landscape are shown in this image captured by one of the navigation cameras (navcams) aboard NASA’s Perseverance Mars rover on Oct. 11, 2026, the 2,006th Martian day, or sol, of the mission. During that sol’s drive, spanning 299.6 feet (91.31 meters), the mission passed a ma…",
+      "url": "https://science.nasa.gov/photojournal/perseverance-navcam-image-marks-record-drive/",
+      "publishedAt": "2026-10-13T17:42:51.000Z",
+      "tags": [
+        "Mars 2020",
+        "Photojournal"
+      ]
+    },
+    {
+      "id": "6a00ffb3befe",
+      "agency": "nasa",
+      "source": "NASA breaking news",
+      "title": "Transporter-18 SmallSats Encapsulation",
+      "summary": "Three NASA-supported small spacecraft, along with many commercial payloads, are shown before being encapsulated in a SpaceX Falcon 9 ahead of launch on Oct. 1, 2026. The ASCENT Propulsion Dual Mode CubeSat, the Supernova Remnants and Proxies for ReIonization Testbed Experiment (SPRITE) CubeSat, and the Small Spacecraft…",
+      "url": "https://www.nasa.gov/image-article/transporter-18-smallsats-encapsulation/",
+      "publishedAt": "2026-10-13T17:38:37.000Z",
       "tags": []
     },
     {
-      "id": "ad8f9d91db0b",
-      "agency": "arxiv",
-      "source": "arXiv astro-ph (new submissions)",
-      "title": "Adiabatic evolution of hadronic neutron stars",
-      "summary": "In this paper we compute several structural properties of static and rotating neutron stars, considering both rigid and differential rotation. To this end, we use a finite-temperature beta-stable equation of state (EOS) extending the zero-temperature hadronic EOS derived by Fortin et al. (2017). We account for the form…",
-      "url": "https://arxiv.org/abs/2610.13926v1",
-      "publishedAt": "2026-10-09T17:54:56.000Z",
-      "tags": []
+      "id": "85b514f1422c",
+      "agency": "nasa",
+      "source": "NASA breaking news",
+      "title": "JOB OPPORTUNITIES: NASA OFFICE OF THE GENERAL COUNSEL",
+      "summary": "",
+      "url": "https://www.nasa.gov/organizations/ogc/job-opportunities-nasa-office-of-the-general-counsel/",
+      "publishedAt": "2026-10-13T17:16:00.000Z",
+      "tags": [
+        "Office of the General Counsel (OGC)"
+      ]
     },
     {
-      "id": "be59a324279a",
-      "agency": "arxiv",
-      "source": "arXiv astro-ph (new submissions)",
-      "title": "A Comprehensive JWST Slitless Spectroscopic Census of $\\sim$12,000 Emission-Line Galaxies at Redshift $0\\sim9$ in COSMOS",
-      "summary": "Emission-line galaxies provide key diagnostics of star formation, chemical enrichment, and AGN activity across cosmic time. We present a systematic census of emission-line sources using JWST/NIRCam wide-field slitless spectroscopy (WFSS) from the COSMOS-3D program, which covers a large contiguous area of 0.33 deg$^2$ a…",
-      "url": "https://arxiv.org/abs/2610.13920v1",
-      "publishedAt": "2026-10-09T17:53:18.000Z",
-      "tags": []
+      "id": "5dc96407ff26",
+      "agency": "nasa",
+      "source": "NASA breaking news",
+      "title": "Voyager Technologies’ Griffin-1 Completes Environmental Testing at NASA JPL",
+      "summary": "Description A lunar lander from Voyager Technologies completed nearly three months of environmental testing at NASA’s Jet Propulsion Laboratory in Southern California in late September 2026. The tests demonstrate that the spacecraft is prepared to face the harsh conditions of launch, its journey to the Moon, and landin…",
+      "url": "https://science.nasa.gov/photojournal/voyager-technologies-griffin-1-completes-environmental-testing-at-nasa-jpl/",
+      "publishedAt": "2026-10-13T17:11:11.000Z",
+      "tags": [
+        "Photojournal"
+      ]
     },
     {
-      "id": "9a4e51e313c9",
-      "agency": "arxiv",
-      "source": "arXiv astro-ph (new submissions)",
-      "title": "Unifying spherical convolutions through lifting",
-      "summary": "We develop a unified description of convolution on the sphere by lifting to the rotation group. A number of definitions of spherical convolution have been proposed, differing in whether the kernel is axisymmetric or directional, whether the output is on the sphere or the rotation group, whether the signals carry spin,…",
-      "url": "https://arxiv.org/abs/2610.13892v1",
-      "publishedAt": "2026-10-09T17:39:02.000Z",
-      "tags": []
+      "id": "7fc21eddbfc4",
+      "agency": "nasa",
+      "source": "NASA breaking news",
+      "title": "TB 26-08 Complex Modes in Lightly Damped Structural Systems: A Two-Mode Interaction Perspective",
+      "summary": "For more information, contact Joel W. Sills, Langley Research Center, joel.w.sills@nasa.gov Download the PDF version Complex mode shapes can emerge in a linear structure even when overall damping is low. This behavior can occur when two structural modes are closely spaced in frequency and are coupled through nonproport…",
+      "url": "https://www.nasa.gov/centers-and-facilities/nesc/tb-26-08-complex-modes-in-lightly-damped-structural-systemsa-two-mode-interaction-perspective/",
+      "publishedAt": "2026-10-13T15:02:21.000Z",
+      "tags": [
+        "NASA Engineering and Safety Center"
+      ]
     },
     {
-      "id": "4bbc0da6e899",
-      "agency": "arxiv",
-      "source": "arXiv astro-ph (new submissions)",
-      "title": "Impact of ab initio E1 strength on neutron capture rates along the nickel isotopic chain",
-      "summary": "Nucleosynthesis simulations of the r-process require neutron capture rates for neutron-rich nuclei, many of which lie beyond experimental reach. Predicting these rates relies on theoretical calculations of the low-energy electric dipole (E1) strength near the neutron threshold. We present the first ab initio computatio…",
-      "url": "https://arxiv.org/abs/2610.13868v1",
-      "publishedAt": "2026-10-09T17:18:37.000Z",
-      "tags": []
+      "id": "b9bfb014cb61",
+      "agency": "nasa",
+      "source": "NASA breaking news",
+      "title": "NASA JPL Testing Readies Voyager Technologies Lander for Moon Mission",
+      "summary": "A commercial lander that will be at the forefront of NASA’s efforts to establish a Moon Base, humanity’s first lunar outpost, has passed a series of critical tests at the agency’s Jet Propulsion Laboratory in Southern California. The tests simulated the extreme temperatures and vacuum of space, as well as the intense s…",
+      "url": "https://www.nasa.gov/missions/moon-base/nasa-jpl-testing-readies-voyager-technologies-lander-for-moon-mission/",
+      "publishedAt": "2026-10-13T13:00:00.000Z",
+      "tags": [
+        "Moon Base",
+        "Commercial Lunar Payload Services (CLPS)",
+        "Earth's Moon",
+        "Jet Propulsion Laboratory",
+        "Missions"
+      ]
     },
     {
-      "id": "72adc1c16d45",
-      "agency": "arxiv",
-      "source": "arXiv astro-ph (new submissions)",
-      "title": "The Redshift-Space Galaxy Power Spectrum at Two-Loop Order",
-      "summary": "Contemporary large-scale structure analyses center around the galaxy power spectrum, modeled with one-loop perturbation theory. This description naturally breaks down at large wavenumbers, prohibiting the extraction of cosmological information from small-scale clustering. In this work, we present a complete model for t…",
-      "url": "https://arxiv.org/abs/2610.13867v1",
-      "publishedAt": "2026-10-09T17:15:53.000Z",
-      "tags": []
-    },
-    {
-      "id": "14d380fcaeff",
-      "agency": "arxiv",
-      "source": "arXiv astro-ph (new submissions)",
-      "title": "Perpendicular transport in isotropic magnetic turbulence. The role of stochastic drifts",
-      "summary": "In cosmic ray propagation through turbulent magnetic fields, transport perpendicular to the mean field plays an important role in various astrophysical environments. Numerical simulations have shown that parallel and perpendicular diffusion coefficients exhibit different energy scalings, causing their ratio to increase…",
-      "url": "https://arxiv.org/abs/2610.13865v1",
-      "publishedAt": "2026-10-09T17:14:44.000Z",
-      "tags": []
-    },
-    {
-      "id": "39fc6a7e0e4e",
-      "agency": "arxiv",
-      "source": "arXiv astro-ph (new submissions)",
-      "title": "Insights from the stability of methanol maser flare properties I: G9.62+0.20E",
-      "summary": "The brightest 6.7 GHz methanol maser in the Galaxy is associated with the high-mass star-forming region (HMSFR) G009.62+0.20E. Additionally, this methanol maser shows periodic flaring observed at 6.7 and 12.2 GHz. Several models have been hypothesized to explain the periodicity, including periodic accretion, spiral sho…",
-      "url": "https://arxiv.org/abs/2610.13774v1",
-      "publishedAt": "2026-10-09T15:58:01.000Z",
-      "tags": []
-    },
-    {
-      "id": "6577c5eff1cf",
-      "agency": "arxiv",
-      "source": "arXiv astro-ph (new submissions)",
-      "title": "TeV Gamma-Ray Emission in the DA 495 Region from HAWC Observations of J1952+2924, J1954+2837, and J1958+2848",
-      "summary": "Previous observations of the DA 495 region, which contains the pulsar wind nebula (PWN) DA 495 and other very-high-energy (VHE; $>100~\\textrm{GeV}$) gamma-ray emitters, showed inconsistent results across different VHE experiments, including differences in the measured flux of DA 495 and in the number of reported source…",
-      "url": "https://arxiv.org/abs/2610.13771v1",
-      "publishedAt": "2026-10-09T15:53:43.000Z",
-      "tags": []
-    },
-    {
-      "id": "d879cef2bff4",
-      "agency": "arxiv",
-      "source": "arXiv astro-ph (new submissions)",
-      "title": "The origin of the large heavy element contents of warm Jupiters",
-      "summary": "Planet interior models have revealed that warm Jupiters should harbor large heavy element masses (up to 30-40% of the planetary mass). Within the pebble drift and evaporation scenario, inward drifting pebbles can evaporate and enrich the inner disc with vapor to super-stellar values, accreteable by giant planets. As H$…",
-      "url": "https://arxiv.org/abs/2610.13762v1",
-      "publishedAt": "2026-10-09T15:48:51.000Z",
-      "tags": []
-    },
-    {
-      "id": "346ef510d09f",
-      "agency": "arxiv",
-      "source": "arXiv astro-ph (new submissions)",
-      "title": "A dust-reddened quasar in a [C II]-luminous host at z=6.55",
-      "summary": "Most known quasars at $z>6$ were selected through their rest-frame UV emission. Only a small number of reddened quasars have been identified at these redshifts, leaving their nuclear and host-galaxy properties poorly constrained. We present JWST/NIRSpec spectroscopy and ALMA band 6 observations of the quasar J1440+0019…",
-      "url": "https://arxiv.org/abs/2610.13758v1",
-      "publishedAt": "2026-10-09T15:43:58.000Z",
-      "tags": []
-    },
-    {
-      "id": "16ab741717be",
-      "agency": "arxiv",
-      "source": "arXiv astro-ph (new submissions)",
-      "title": "A strategy for astrometric quasar selection with Gaia DR3 and its application to discover new luminous $z>2$ quasars",
-      "summary": "We aim to provide a cookbook for purely astrometric selection of quasars with Gaia DR3 and to provide an example of its use for the identification of very luminous $z>2$ quasars. We analyse the Gaia DR3 astrometry of confirmed quasars and stationary sources. We show that the proper motion signal to noise $μ/σ_μ$ follow…",
-      "url": "https://arxiv.org/abs/2610.13742v1",
-      "publishedAt": "2026-10-09T15:34:51.000Z",
-      "tags": []
-    },
-    {
-      "id": "0580c8fb5398",
-      "agency": "arxiv",
-      "source": "arXiv astro-ph (new submissions)",
-      "title": "Relaxation Dark Energy: Compositional Dynamics and the Future of Cosmic Acceleration",
-      "summary": "If cosmic acceleration is driven by a positive cosmological constant, the universe approaches an eternally accelerating de Sitter state, whose interpretation in quantum gravity remains elusive. We develop a framework in which acceleration is instead a transient stage of dark-sector relaxation towards compositional equi…",
-      "url": "https://arxiv.org/abs/2610.13739v1",
-      "publishedAt": "2026-10-09T15:33:40.000Z",
-      "tags": []
-    },
-    {
-      "id": "71c6835941b6",
-      "agency": "arxiv",
-      "source": "arXiv astro-ph (new submissions)",
-      "title": "Turbulence modes in molecular clouds in M33: a challenging test of the Brunt-Federrath framework",
-      "summary": "Understanding the turbulent structure of molecular clouds is essential for linking galactic environment to the regulation of star formation. Although Galactic molecular clouds have been studied extensively, extending turbulence-mode analysis beyond the Milky Way remains challenging because of the limited spatial resolu…",
-      "url": "https://arxiv.org/abs/2610.13726v1",
-      "publishedAt": "2026-10-09T15:22:51.000Z",
-      "tags": []
-    },
-    {
-      "id": "01534e169500",
-      "agency": "arxiv",
-      "source": "arXiv astro-ph (new submissions)",
-      "title": "High Resolution Spectro-Polarimetric Observations of the Optical Filaments surrounding NGC 1275 with ESPaDOnS",
-      "summary": "We analyze archival high spectral resolution ESPaDOnS spectropolarimetric observations (R = $λ/Δλ$ = 68000) of three targeted locations within the filamentary nebula surrounding NGC 1275. We present here the analysis of the main filaments emission lines, namely: [NII]$\\lambda6584$, H$α$, and [NII]$\\lambda6548$, across…",
-      "url": "https://arxiv.org/abs/2610.13719v1",
-      "publishedAt": "2026-10-09T15:18:30.000Z",
-      "tags": []
-    },
-    {
-      "id": "45fae5ecb9d5",
-      "agency": "arxiv",
-      "source": "arXiv astro-ph (new submissions)",
-      "title": "Assessing PLATO's Discovery Potential across Different Observing Strategies",
-      "summary": "The PLATO mission, planned to launch in spring 2027, will observe a fixed Southern field, LOPS2, for at least 2 years with the goal of discovering and deriving precise parameters for planets as small as Earth around FGK dwarfs and sub-giants. Afterwards, PLATO could continue to monitor the same field or move to a North…",
-      "url": "https://arxiv.org/abs/2610.13686v1",
-      "publishedAt": "2026-10-09T14:51:19.000Z",
-      "tags": []
-    },
-    {
-      "id": "e021630e07a9",
-      "agency": "arxiv",
-      "source": "arXiv astro-ph (new submissions)",
-      "title": "How long could volcanic plumes persist in the Venus atmosphere?",
-      "summary": "Resolving the ambiguity surrounding current Venusian volcanism is a primary objective for upcoming missions like EnVision and VERITAS. This study uses the Venus Planetary Climate Model to simulate the dispersal and detectability of volcanic plumes containing water vapour (H2O), hydrogen chloride (HCl), carbon monoxide…",
-      "url": "https://arxiv.org/abs/2610.13641v1",
-      "publishedAt": "2026-10-09T14:19:57.000Z",
-      "tags": []
-    },
-    {
-      "id": "01db0ac32b33",
-      "agency": "arxiv",
-      "source": "arXiv astro-ph (new submissions)",
-      "title": "Magnetic connectivity from the Sun to the Earth with MHD models II. Impact of input magnetic maps",
-      "summary": "Connectivity estimation needs to be fast and thus usually relies on semi-empirical models. We previously established that optimised magnetohydrodynamics (MHD) models can also be used to derive magnetic connectivity, yielding good results, especially for complex configurations. However, the modelling is not the only fac…",
-      "url": "https://arxiv.org/abs/2610.13620v1",
-      "publishedAt": "2026-10-09T14:02:32.000Z",
-      "tags": []
-    },
-    {
-      "id": "b463b0a348ca",
-      "agency": "arxiv",
-      "source": "arXiv astro-ph (new submissions)",
-      "title": "X-Shooter view of planetary nebulae microstructures I: The case of NGC 7009 knots",
-      "summary": "The properties of NGC 7009 knots are investigated by employing UV-to-near-infrared data from the X-Shooter spectrograph. These structures belong to the category of low-ionization structures (LISs), which are characterized by enhanced emission from low-ionization species and whose origin remains enigmatic. Our main goal…",
-      "url": "https://arxiv.org/abs/2610.13587v1",
-      "publishedAt": "2026-10-09T13:38:35.000Z",
-      "tags": []
-    },
-    {
-      "id": "beafe3f2b3ca",
-      "agency": "arxiv",
-      "source": "arXiv astro-ph (new submissions)",
-      "title": "First Experimental Results of Space Object Detection Using the InteRFeX Array",
-      "summary": "This paper presents the first experimental validation of InteRFeX, a non-uniform receive only (passive) array located at the Nova Systems Space Precinct in Peterborough, Australia, designed for space domain awareness applications. It operates over a frequency range of 70 to 300 MHz and is capable of functioning in a ra…",
-      "url": "https://arxiv.org/abs/2610.13537v1",
-      "publishedAt": "2026-10-09T12:55:57.000Z",
-      "tags": []
-    },
-    {
-      "id": "124aee05babd",
-      "agency": "arxiv",
-      "source": "arXiv astro-ph (new submissions)",
-      "title": "The Hydrological Cycle and Circulation of Tidally-Locked Planets with a Finite Moisture Inventory",
-      "summary": "Tidally-locked planets express a range of climate regimes distinct from those found in our solar system. Their atmospheres are often dominated by planetary-wide overturning circulations and super- rotating jets. In this paper we explore the hydrological cycle of such planets and how it might depend on the total invento…",
-      "url": "https://arxiv.org/abs/2610.13517v1",
-      "publishedAt": "2026-10-09T12:38:42.000Z",
-      "tags": []
-    },
-    {
-      "id": "df8f1d37dfab",
-      "agency": "arxiv",
-      "source": "arXiv astro-ph (new submissions)",
-      "title": "The School on Gravity: from motion to commotion",
-      "summary": "Understanding the gravitational interaction is one of the great scientific endeavors of the 21st century. The Nobel Prize-winning discovery of gravitational waves in 2015, and subsequent detections by the LIGO-Virgo-KAGRA Collaboration, have marked a revolutionary step forward in physics and astrophysics by opening an…",
-      "url": "https://arxiv.org/abs/2610.13514v1",
-      "publishedAt": "2026-10-09T12:38:18.000Z",
-      "tags": []
-    },
-    {
-      "id": "21a1ff175b7e",
-      "agency": "arxiv",
-      "source": "arXiv astro-ph (new submissions)",
-      "title": "An empirical calibration of the spectral resolution of JWST NIRSpec PRISM",
-      "summary": "We present an empirical calibration of the effective spectral resolution of the JWST NIRSpec PRISM disperser based on a large sample of galaxies drawn from archival observations. Our sample spans a wide redshift range, $0.5 \\lesssim z \\lesssim 10$, enabling a wavelength-dependent characterization of the PRISM resolving…",
-      "url": "https://arxiv.org/abs/2610.13492v1",
-      "publishedAt": "2026-10-09T12:24:38.000Z",
-      "tags": []
-    },
-    {
-      "id": "a404707bd910",
-      "agency": "arxiv",
-      "source": "arXiv astro-ph (new submissions)",
-      "title": "Fermentation heterotrophy can reproduce Enceladus's H2 and CH4 under limited serpentiniaztion",
-      "summary": "Saturn's icy moon Enceladus is a prime target in the search for life beyond Earth. Abundant H2 and CH4 in Enceladus's south-polar plume have been shown to be consistent with hydrogenotrophic methanogens feeding on products of long-lived serpentinization. However, thermo-permeability models make sustained core-wide H2 p…",
-      "url": "https://arxiv.org/abs/2610.13434v1",
-      "publishedAt": "2026-10-09T11:34:44.000Z",
-      "tags": []
-    },
-    {
-      "id": "c80c0f1401a5",
-      "agency": "arxiv",
-      "source": "arXiv astro-ph (new submissions)",
-      "title": "Detecting redshift space distortions with forthcoming 21cm intensity maps from MeerKLASS",
-      "summary": "Redshift space distortions (RSD) provide a powerful measurement of structure formation in modern cosmology. In this work, we explore the potential of 21cm intensity mapping with the MeerKAT Large Area Synoptic Survey (MeerKLASS) to detect RSD and probe gravity within the redshift range of MeerKAT's UHF band ($0.4<z<1.4…",
-      "url": "https://arxiv.org/abs/2610.13393v1",
-      "publishedAt": "2026-10-09T11:09:31.000Z",
-      "tags": []
+      "id": "80affb859dfd",
+      "agency": "nasa",
+      "source": "NASA breaking news",
+      "title": "NASA Science, Cargo Launch on 35th SpaceX Resupply Mission to Station",
+      "summary": "NASA’s SpaceX 35th commercial resupply mission lifted off at 6:33 a.m. EDT Tuesday aboard a Falcon 9 rocket from Space Launch Complex 40 at Cape Canaveral Space Force Station in Florida, carrying more than 6,300 pounds of supplies and hardware, bound for the International Space Station. Following its successful launch,…",
+      "url": "https://www.nasa.gov/news-release/nasa-science-cargo-launch-on-35th-spacex-resupply-mission-to-station/",
+      "publishedAt": "2026-10-13T11:12:18.000Z",
+      "tags": [
+        "Commercial Resupply",
+        "Commercial Space",
+        "International Space Station (ISS)",
+        "ISS Research",
+        "Johnson Space Center",
+        "Kennedy Space Center",
+        "SpaceX Commercial Resupply"
+      ]
     },
     {
       "id": "9e261d64e102",
