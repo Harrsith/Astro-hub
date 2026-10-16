@@ -1,11 +1,11 @@
 {
-  "generatedAt": "2026-10-16T16:17:06.561Z",
+  "generatedAt": "2026-10-16T20:37:02.360Z",
   "sourceCount": 5,
   "itemCount": 70,
   "errors": [],
   "apod": {
-    "date": "2026-10-15",
-    "explanation": "The city lights outshine the stars in the City That Never Sleeps. Who would have thought that the Milky Way could be visible in this sky? This image was taken with a filter that blocks most visible light, capturing instead only light in the near-infrared region of the electromagnetic spectrum (with lower energy than visible light). The astrophotographer's clever setup blocks most of the light pollution from the city: old incandescent light bulbs and some neon lights are still bright in the near-infrared, but fluorescent and LED light bulbs are not. Of course, stars are also bright in the near-infrared! This image is a reminder that we all live under the same sky, and astronomy allows all of us to learn more about humanity's place in the Cosmos.",
+    "date": "2026-10-16",
+    "explanation": "To view this video please enable JavaScript, and consider upgrading to a web browser that \t\t\t\t\tsupports HTML5 vide",
     "hdurl": "https://science.nasa.gov/wp-content/themes/nasa-child/assets/images/nasa-logo@2x.png",
     "media_type": "image",
     "service_version": "v1",
@@ -22,7 +22,7 @@
       "title": "HAT-P-17 c — catalog entry updated",
       "summary": "Orbits HAT-P-17: discovered via Radial Velocity, 2012, 13.10x Earth radius, 1080.60x Earth mass, 5584.0-day orbit.",
       "url": "https://exoplanetarchive.ipac.caltech.edu/overview/HAT-P-17",
-      "publishedAt": "2026-10-16T16:14:03.584Z",
+      "publishedAt": "2026-10-16T20:36:57.412Z",
       "tags": [
         "Radial Velocity"
       ]
@@ -36,7 +36,7 @@
       "title": "HAT-P-17 b — catalog entry updated",
       "summary": "Orbits HAT-P-17: discovered via Transit, 2012, 11.77x Earth radius, 184.34x Earth mass, 10.3-day orbit.",
       "url": "https://exoplanetarchive.ipac.caltech.edu/overview/HAT-P-17",
-      "publishedAt": "2026-10-16T16:14:03.584Z",
+      "publishedAt": "2026-10-16T20:36:57.412Z",
       "tags": [
         "Transit"
       ]
@@ -50,7 +50,7 @@
       "title": "HAT-P-18 b — catalog entry updated",
       "summary": "Orbits HAT-P-18: discovered via Transit, 2010, 10.70x Earth radius, 55.52x Earth mass, 5.5-day orbit.",
       "url": "https://exoplanetarchive.ipac.caltech.edu/overview/HAT-P-18",
-      "publishedAt": "2026-10-16T16:14:03.584Z",
+      "publishedAt": "2026-10-16T20:36:57.412Z",
       "tags": [
         "Transit"
       ]
@@ -64,7 +64,7 @@
       "title": "HAT-P-14 b — catalog entry updated",
       "summary": "Orbits HAT-P-14: discovered via Transit, 2010, 15.92x Earth radius, 1093.34x Earth mass, 4.6-day orbit.",
       "url": "https://exoplanetarchive.ipac.caltech.edu/overview/HAT-P-14",
-      "publishedAt": "2026-10-16T16:14:03.584Z",
+      "publishedAt": "2026-10-16T20:36:57.412Z",
       "tags": [
         "Transit"
       ]
@@ -78,7 +78,7 @@
       "title": "HAT-P-12 b — catalog entry updated",
       "summary": "Orbits HAT-P-12: discovered via Transit, 2009, 10.75x Earth radius, 67.06x Earth mass, 3.2-day orbit.",
       "url": "https://exoplanetarchive.ipac.caltech.edu/overview/HAT-P-12",
-      "publishedAt": "2026-10-16T16:14:03.584Z",
+      "publishedAt": "2026-10-16T20:36:57.412Z",
       "tags": [
         "Transit"
       ]
@@ -92,7 +92,7 @@
       "title": "HAT-P-13 c — catalog entry updated",
       "summary": "Orbits HAT-P-13: discovered via Radial Velocity, 2009, 12.30x Earth radius, 4538.42x Earth mass, 446.3-day orbit.",
       "url": "https://exoplanetarchive.ipac.caltech.edu/overview/HAT-P-13",
-      "publishedAt": "2026-10-16T16:14:03.584Z",
+      "publishedAt": "2026-10-16T20:36:57.412Z",
       "tags": [
         "Radial Velocity"
       ]
@@ -106,7 +106,7 @@
       "title": "HAT-P-13 b — catalog entry updated",
       "summary": "Orbits HAT-P-13: discovered via Transit, 2009, 14.26x Earth radius, 270.46x Earth mass, 2.9-day orbit.",
       "url": "https://exoplanetarchive.ipac.caltech.edu/overview/HAT-P-13",
-      "publishedAt": "2026-10-16T16:14:03.584Z",
+      "publishedAt": "2026-10-16T20:36:57.412Z",
       "tags": [
         "Transit"
       ]
@@ -120,7 +120,7 @@
       "title": "GJ 1214 b — catalog entry updated",
       "summary": "Orbits GJ 1214: discovered via Transit, 2009, 2.73x Earth radius, 8.41x Earth mass, 1.6-day orbit.",
       "url": "https://exoplanetarchive.ipac.caltech.edu/overview/GJ_1214",
-      "publishedAt": "2026-10-16T16:14:03.584Z",
+      "publishedAt": "2026-10-16T20:36:57.412Z",
       "tags": [
         "Transit"
       ]
@@ -134,7 +134,7 @@
       "title": "55 Cnc f — catalog entry updated",
       "summary": "Orbits 55 Cnc: discovered via Radial Velocity, 2007, 7.59x Earth radius, 44.81x Earth mass, 260.6-day orbit.",
       "url": "https://exoplanetarchive.ipac.caltech.edu/overview/55_Cnc",
-      "publishedAt": "2026-10-16T16:14:03.584Z",
+      "publishedAt": "2026-10-16T20:36:57.412Z",
       "tags": [
         "Radial Velocity"
       ]
@@ -148,7 +148,7 @@
       "title": "HAT-P-1 b — catalog entry updated",
       "summary": "Orbits HAT-P-1: discovered via Transit, 2006, 14.78x Earth radius, 166.86x Earth mass, 4.5-day orbit.",
       "url": "https://exoplanetarchive.ipac.caltech.edu/overview/HAT-P-1",
-      "publishedAt": "2026-10-16T16:14:03.584Z",
+      "publishedAt": "2026-10-16T20:36:57.412Z",
       "tags": [
         "Transit"
       ]
@@ -162,7 +162,7 @@
       "title": "55 Cnc c — catalog entry updated",
       "summary": "Orbits 55 Cnc: discovered via Radial Velocity, 2004, 8.51x Earth radius, 54.47x Earth mass, 44.4-day orbit.",
       "url": "https://exoplanetarchive.ipac.caltech.edu/overview/55_Cnc",
-      "publishedAt": "2026-10-16T16:14:03.584Z",
+      "publishedAt": "2026-10-16T20:36:57.412Z",
       "tags": [
         "Radial Velocity"
       ]
@@ -176,7 +176,7 @@
       "title": "55 Cnc e — catalog entry updated",
       "summary": "Orbits 55 Cnc: discovered via Radial Velocity, 2004, 1.88x Earth radius, 7.99x Earth mass, 0.7-day orbit.",
       "url": "https://exoplanetarchive.ipac.caltech.edu/overview/55_Cnc",
-      "publishedAt": "2026-10-16T16:14:03.584Z",
+      "publishedAt": "2026-10-16T20:36:57.412Z",
       "tags": [
         "Radial Velocity"
       ]
@@ -190,7 +190,7 @@
       "title": "GJ 436 b — catalog entry updated",
       "summary": "Orbits GJ 436: discovered via Radial Velocity, 2004, 4.17x Earth radius, 22.10x Earth mass, 2.6-day orbit.",
       "url": "https://exoplanetarchive.ipac.caltech.edu/overview/GJ_436",
-      "publishedAt": "2026-10-16T16:14:03.584Z",
+      "publishedAt": "2026-10-16T20:36:57.412Z",
       "tags": [
         "Radial Velocity"
       ]
@@ -204,7 +204,7 @@
       "title": "55 Cnc d — catalog entry updated",
       "summary": "Orbits 55 Cnc: discovered via Radial Velocity, 2002, 13.00x Earth radius, 1232.49x Earth mass, 4799.0-day orbit.",
       "url": "https://exoplanetarchive.ipac.caltech.edu/overview/55_Cnc",
-      "publishedAt": "2026-10-16T16:14:03.584Z",
+      "publishedAt": "2026-10-16T20:36:57.412Z",
       "tags": [
         "Radial Velocity"
       ]
@@ -218,9 +218,35 @@
       "title": "55 Cnc b — catalog entry updated",
       "summary": "Orbits 55 Cnc: discovered via Radial Velocity, 1996, 13.90x Earth radius, 263.98x Earth mass, 14.7-day orbit.",
       "url": "https://exoplanetarchive.ipac.caltech.edu/overview/55_Cnc",
-      "publishedAt": "2026-10-16T16:14:03.584Z",
+      "publishedAt": "2026-10-16T20:36:57.412Z",
       "tags": [
         "Radial Velocity"
+      ]
+    },
+    {
+      "id": "628aec087c4d",
+      "agency": "nasa",
+      "source": "NASA breaking news",
+      "title": "NASA Names Stephen Cash Marshall Space Flight Center Director",
+      "summary": "NASA Administrator Jared Isaacman has named Stephen Cash director of the agency’s Marshall Space Flight Center in Huntsville, Alabama, effective Monday, Oct. 19. Cash, a veteran NASA engineer and aerospace executive, returns to lead the center where he began his career more than four decades ago. “Marshall contribution…",
+      "url": "https://www.nasa.gov/news-release/nasa-names-stephen-cash-marshall-space-flight-center-director/",
+      "publishedAt": "2026-10-16T20:14:39.000Z",
+      "tags": [
+        "Leadership",
+        "Marshall Space Flight Center",
+        "NASA Headquarters"
+      ]
+    },
+    {
+      "id": "1484a996e772",
+      "agency": "nasa",
+      "source": "NASA breaking news",
+      "title": "Artemis II Heat Shield After Splashdown",
+      "summary": "Shortly after NASA’s Artemis II mission splashed down on April 10, 2026, U.S. Navy divers captured underwater imagery of the Orion spacecraft’s heat shield. In the months after, the agency measured whether the thermal protection system effectively safeguarded the crew and Orion systems as the spacecraft reentered Earth…",
+      "url": "https://www.nasa.gov/image-article/artemis-ii-heat-shield-after-splashdown/",
+      "publishedAt": "2026-10-16T16:28:01.000Z",
+      "tags": [
+        "Artemis 2"
       ]
     },
     {
@@ -522,22 +548,6 @@
       "tags": []
     },
     {
-      "id": "dc6871739892",
-      "agency": "nasa",
-      "source": "NASA breaking news",
-      "title": "NASA Welcomes All Ages, Experience Levels for Space Apps Challenge",
-      "summary": "Registration is open for the 2026 NASA Space Apps Challenge, a two-day global event on Saturday, Nov. 14 and Sunday, Nov. 15, where teams work to create solutions inspired by NASA’s most ambitious exploration goals and making use of the agency’s free and open data. The annual challenge, often called a hackathon, is an…",
-      "url": "https://science.nasa.gov/universe/nasa-welcomes-all-ages-experience-levels-for-space-apps-challenge/",
-      "publishedAt": "2026-10-15T16:13:08.000Z",
-      "tags": [
-        "Astrophysics Division",
-        "Open Science",
-        "Planetary Science Division",
-        "Science Mission Directorate",
-        "The Universe"
-      ]
-    },
-    {
       "id": "00ef9f30e7e4",
       "agency": "arxiv",
       "source": "arXiv astro-ph (new submissions)",
@@ -556,20 +566,6 @@
       "url": "https://arxiv.org/abs/2610.22118v1",
       "publishedAt": "2026-10-15T15:58:42.000Z",
       "tags": []
-    },
-    {
-      "id": "69c31d25c65c",
-      "agency": "nasa",
-      "source": "NASA breaking news",
-      "title": "NASA Awards Enable Research, Technology to Build Future Workforce",
-      "summary": "NASA has selected 12 U.S. institutions to receive $12 million to accelerate academic research and technology development in support of the agency’s priorities for exploring the Moon, Mars, and deep space. Through NASA’s Minority University Research and Education Project (MUREP) Space Technology Artemis Research (M‑STAR…",
-      "url": "https://www.nasa.gov/learning-resources/nasa-awards-enable-research-technology-to-build-future-workforce/",
-      "publishedAt": "2026-10-15T15:57:47.000Z",
-      "tags": [
-        "Learning Resources",
-        "For Colleges & Universities",
-        "MUREP"
-      ]
     },
     {
       "id": "56c33692c552",
