@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-19T12:25:57.023Z",
+  "generatedAt": "2026-10-19T22:04:53.929Z",
   "sourceCount": 5,
   "itemCount": 70,
   "errors": [],
@@ -22,7 +22,7 @@
       "title": "HAT-P-12 b — catalog entry updated",
       "summary": "Orbits HAT-P-12: discovered via Transit, 2009, 10.75x Earth radius, 67.06x Earth mass, 3.2-day orbit.",
       "url": "https://exoplanetarchive.ipac.caltech.edu/overview/HAT-P-12",
-      "publishedAt": "2026-10-19T12:25:09.880Z",
+      "publishedAt": "2026-10-19T22:04:50.324Z",
       "tags": [
         "Transit"
       ]
@@ -36,7 +36,7 @@
       "title": "HAT-P-13 c — catalog entry updated",
       "summary": "Orbits HAT-P-13: discovered via Radial Velocity, 2009, 12.30x Earth radius, 4538.42x Earth mass, 446.3-day orbit.",
       "url": "https://exoplanetarchive.ipac.caltech.edu/overview/HAT-P-13",
-      "publishedAt": "2026-10-19T12:25:09.880Z",
+      "publishedAt": "2026-10-19T22:04:50.324Z",
       "tags": [
         "Radial Velocity"
       ]
@@ -50,7 +50,7 @@
       "title": "HAT-P-13 b — catalog entry updated",
       "summary": "Orbits HAT-P-13: discovered via Transit, 2009, 14.26x Earth radius, 270.46x Earth mass, 2.9-day orbit.",
       "url": "https://exoplanetarchive.ipac.caltech.edu/overview/HAT-P-13",
-      "publishedAt": "2026-10-19T12:25:09.880Z",
+      "publishedAt": "2026-10-19T22:04:50.324Z",
       "tags": [
         "Transit"
       ]
@@ -64,7 +64,7 @@
       "title": "GJ 1214 b — catalog entry updated",
       "summary": "Orbits GJ 1214: discovered via Transit, 2009, 2.73x Earth radius, 8.41x Earth mass, 1.6-day orbit.",
       "url": "https://exoplanetarchive.ipac.caltech.edu/overview/GJ_1214",
-      "publishedAt": "2026-10-19T12:25:09.880Z",
+      "publishedAt": "2026-10-19T22:04:50.324Z",
       "tags": [
         "Transit"
       ]
@@ -78,7 +78,7 @@
       "title": "55 Cnc f — catalog entry updated",
       "summary": "Orbits 55 Cnc: discovered via Radial Velocity, 2007, 7.59x Earth radius, 44.81x Earth mass, 260.6-day orbit.",
       "url": "https://exoplanetarchive.ipac.caltech.edu/overview/55_Cnc",
-      "publishedAt": "2026-10-19T12:25:09.880Z",
+      "publishedAt": "2026-10-19T22:04:50.324Z",
       "tags": [
         "Radial Velocity"
       ]
@@ -92,7 +92,7 @@
       "title": "HAT-P-1 b — catalog entry updated",
       "summary": "Orbits HAT-P-1: discovered via Transit, 2006, 14.78x Earth radius, 166.86x Earth mass, 4.5-day orbit.",
       "url": "https://exoplanetarchive.ipac.caltech.edu/overview/HAT-P-1",
-      "publishedAt": "2026-10-19T12:25:09.880Z",
+      "publishedAt": "2026-10-19T22:04:50.324Z",
       "tags": [
         "Transit"
       ]
@@ -106,7 +106,7 @@
       "title": "55 Cnc c — catalog entry updated",
       "summary": "Orbits 55 Cnc: discovered via Radial Velocity, 2004, 8.51x Earth radius, 54.47x Earth mass, 44.4-day orbit.",
       "url": "https://exoplanetarchive.ipac.caltech.edu/overview/55_Cnc",
-      "publishedAt": "2026-10-19T12:25:09.880Z",
+      "publishedAt": "2026-10-19T22:04:50.324Z",
       "tags": [
         "Radial Velocity"
       ]
@@ -120,7 +120,7 @@
       "title": "55 Cnc e — catalog entry updated",
       "summary": "Orbits 55 Cnc: discovered via Radial Velocity, 2004, 1.88x Earth radius, 7.99x Earth mass, 0.7-day orbit.",
       "url": "https://exoplanetarchive.ipac.caltech.edu/overview/55_Cnc",
-      "publishedAt": "2026-10-19T12:25:09.880Z",
+      "publishedAt": "2026-10-19T22:04:50.324Z",
       "tags": [
         "Radial Velocity"
       ]
@@ -134,7 +134,7 @@
       "title": "GJ 436 b — catalog entry updated",
       "summary": "Orbits GJ 436: discovered via Radial Velocity, 2004, 4.17x Earth radius, 22.10x Earth mass, 2.6-day orbit.",
       "url": "https://exoplanetarchive.ipac.caltech.edu/overview/GJ_436",
-      "publishedAt": "2026-10-19T12:25:09.880Z",
+      "publishedAt": "2026-10-19T22:04:50.324Z",
       "tags": [
         "Radial Velocity"
       ]
@@ -148,7 +148,7 @@
       "title": "55 Cnc d — catalog entry updated",
       "summary": "Orbits 55 Cnc: discovered via Radial Velocity, 2002, 13.00x Earth radius, 1232.49x Earth mass, 4799.0-day orbit.",
       "url": "https://exoplanetarchive.ipac.caltech.edu/overview/55_Cnc",
-      "publishedAt": "2026-10-19T12:25:09.880Z",
+      "publishedAt": "2026-10-19T22:04:50.324Z",
       "tags": [
         "Radial Velocity"
       ]
@@ -162,7 +162,7 @@
       "title": "55 Cnc b — catalog entry updated",
       "summary": "Orbits 55 Cnc: discovered via Radial Velocity, 1996, 13.90x Earth radius, 263.98x Earth mass, 14.7-day orbit.",
       "url": "https://exoplanetarchive.ipac.caltech.edu/overview/55_Cnc",
-      "publishedAt": "2026-10-19T12:25:09.880Z",
+      "publishedAt": "2026-10-19T22:04:50.324Z",
       "tags": [
         "Radial Velocity"
       ]
@@ -176,7 +176,7 @@
       "title": "HAT-P-17 c — catalog entry updated",
       "summary": "Orbits HAT-P-17: discovered via Radial Velocity, 2012, 13.10x Earth radius, 1080.60x Earth mass, 5584.0-day orbit.",
       "url": "https://exoplanetarchive.ipac.caltech.edu/overview/HAT-P-17",
-      "publishedAt": "2026-10-19T12:25:09.879Z",
+      "publishedAt": "2026-10-19T22:04:50.323Z",
       "tags": [
         "Radial Velocity"
       ]
@@ -190,7 +190,7 @@
       "title": "HAT-P-17 b — catalog entry updated",
       "summary": "Orbits HAT-P-17: discovered via Transit, 2012, 11.77x Earth radius, 184.34x Earth mass, 10.3-day orbit.",
       "url": "https://exoplanetarchive.ipac.caltech.edu/overview/HAT-P-17",
-      "publishedAt": "2026-10-19T12:25:09.879Z",
+      "publishedAt": "2026-10-19T22:04:50.323Z",
       "tags": [
         "Transit"
       ]
@@ -204,7 +204,7 @@
       "title": "HAT-P-18 b — catalog entry updated",
       "summary": "Orbits HAT-P-18: discovered via Transit, 2010, 10.70x Earth radius, 55.52x Earth mass, 5.5-day orbit.",
       "url": "https://exoplanetarchive.ipac.caltech.edu/overview/HAT-P-18",
-      "publishedAt": "2026-10-19T12:25:09.879Z",
+      "publishedAt": "2026-10-19T22:04:50.323Z",
       "tags": [
         "Transit"
       ]
@@ -218,17 +218,99 @@
       "title": "HAT-P-14 b — catalog entry updated",
       "summary": "Orbits HAT-P-14: discovered via Transit, 2010, 15.92x Earth radius, 1093.34x Earth mass, 4.6-day orbit.",
       "url": "https://exoplanetarchive.ipac.caltech.edu/overview/HAT-P-14",
-      "publishedAt": "2026-10-19T12:25:09.879Z",
+      "publishedAt": "2026-10-19T22:04:50.323Z",
       "tags": [
         "Transit"
       ]
+    },
+    {
+      "id": "c4df2f137fe1",
+      "agency": "nasa",
+      "source": "NASA breaking news",
+      "title": "NASA Improves Shock, Vibration Analysis",
+      "summary": "Rockets vibrate, shake, and flex intensely as they climb into space, and spacecraft packed with delicate scientific instruments must survive those forces. Before any rocket leaves the ground, NASA engineers work to predict how those stresses will affect every part of a spacecraft. To do that, engineers in the Dynamic E…",
+      "url": "https://www.nasa.gov/centers-and-facilities/kennedy/nasa-improves-shock-vibration-analysis/",
+      "publishedAt": "2026-10-19T19:28:32.000Z",
+      "tags": [
+        "Kennedy Space Center",
+        "Launch Services Office",
+        "Launch Services Program",
+        "NASA Directorates"
+      ]
+    },
+    {
+      "id": "66ed15b5ccaa",
+      "agency": "nasa",
+      "source": "NASA breaking news",
+      "title": "Software",
+      "summary": "Research teams at NASA’s Glenn Research Center are involved in developing theory and software to predict the noise from aircraft engines. This software helps engineers to design and analyze new and improved aircraft propulsion systems. Copies of our software can be requested from NASA’s Software Catalog. JeNo Developme…",
+      "url": "https://www.nasa.gov/centers-and-facilities/glenn/acoustics-software/",
+      "publishedAt": "2026-10-19T18:11:40.000Z",
+      "tags": [
+        "Glenn Research Center",
+        "Aeronautics",
+        "Aeronautics Research"
+      ]
+    },
+    {
+      "id": "ff1f34b4a523",
+      "agency": "nasa",
+      "source": "NASA breaking news",
+      "title": "Experimental Facilities",
+      "summary": "Research teams at the NASA Glenn Research Center perform experiments in world-class facilities such as the 9- by 15-Foot Low-Speed Wind Tunnel (9 x15 LSWT), the Aero-Acoustic Propulsion Laboratory (AAPL), the Small Hot Jet Acoustic Rig (SHJAR), the Nozzle Acoustic Test Rig (NATR), the DGEN AeroPropulsion Research Turbo…",
+      "url": "https://www.nasa.gov/centers-and-facilities/glenn/acoustics-experimental-facilities/",
+      "publishedAt": "2026-10-19T18:08:52.000Z",
+      "tags": [
+        "Glenn Research Center",
+        "Aeronautics",
+        "Science & Research"
+      ]
+    },
+    {
+      "id": "e5a6a9cb3da6",
+      "agency": "nasa",
+      "source": "NASA breaking news",
+      "title": "NASA’s Simulated Mars Crew Marks One Year Inside Habitat",
+      "summary": "The four crew members in NASA’s simulated Mars mission have spent the past year living and working in isolation in a confined habitat at NASA’s Johnson Space Center in Houston.",
+      "url": "https://www.nasa.gov/humans-in-space/nasas-simulated-mars-crew-marks-one-year-inside-habitat/",
+      "publishedAt": "2026-10-19T18:01:51.000Z",
+      "tags": [
+        "Humans in Space",
+        "CHAPEA Mission 2",
+        "Crew Health and Performance Exploration Analog (CHAPEA)",
+        "Human Research Program"
+      ]
+    },
+    {
+      "id": "ed6a8c89d801",
+      "agency": "nasa",
+      "source": "NASA breaking news",
+      "title": "Instrumentation",
+      "summary": "To measure airflow and sound, research teams at the NASA Glenn Research Center use special instrumentation like particle image velocimetry, hot wire anemometry, Raman spectroscopy, microphones in phased arrays or continuously rotating rakes. The global aviation noise reduction community relies on data from NASA GRC exp…",
+      "url": "https://www.nasa.gov/centers-and-facilities/glenn/acoustics-instrumentation/",
+      "publishedAt": "2026-10-19T16:37:45.000Z",
+      "tags": [
+        "Glenn Research Center",
+        "Aeronautics",
+        "Aeronautics Research"
+      ]
+    },
+    {
+      "id": "a09ad7f6aaf6",
+      "agency": "nasa",
+      "source": "NASA breaking news",
+      "title": "Martian Dawn",
+      "summary": "NASA’s Curiosity captures the dawn on Mars – as well as elongated ridges formed by wind erosion, or yardangs – in this close-up from a panorama released on Oct. 6, 2026. This is the most detailed view yet of distant, wind-carved Martian cliffs, highlighting features the mission’s scientists have long been waiting to se…",
+      "url": "https://www.nasa.gov/image-article/martian-dawn/",
+      "publishedAt": "2026-10-19T16:03:51.000Z",
+      "tags": []
     },
     {
       "id": "1f57bc99b3eb",
       "agency": "nasa",
       "source": "NASA breaking news",
       "title": "APOD: 2026 October 19 – Treble Clef: Unusual X-ray Hot Radio Source",
-      "summary": "APOD Science APOD APOD: 2026 October 19 –… Today’s APOD Archive Submissions Index Search Calendar RSS Education About Discuss APOD Astronomy Picture of the Day Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a professional…",
+      "summary": "APODScienceAPODAPOD: 2026 October 19 –…Today’s APODArchiveSubmissionsIndexSearchCalendarRSSEducationAboutDiscuss APOD Astronomy Picture of the Day Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a professional astronomer. T…",
       "url": "https://science.nasa.gov/image-article/apod-2026-october-19-treble-clef-unusual-x-ray-hot-radio-source/",
       "publishedAt": "2026-10-19T04:05:00.000Z",
       "tags": [
@@ -255,7 +337,7 @@
       "agency": "nasa",
       "source": "NASA breaking news",
       "title": "APOD: 2026 October 18 – Sonified: Eagle Nebula Pillars",
-      "summary": "APOD Science APOD APOD: 2026 October 18 –… Today’s APOD Archive Submissions Index Search Calendar RSS Education About Discuss APOD Astronomy Picture of the Day Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a professional…",
+      "summary": "APODScienceAPODAPOD: 2026 October 18 –…Today’s APODArchiveSubmissionsIndexSearchCalendarRSSEducationAboutDiscuss APOD Astronomy Picture of the Day Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a professional astronomer. S…",
       "url": "https://science.nasa.gov/image-article/apod-2026-october-18-sonified-eagle-nebula-pillars/",
       "publishedAt": "2026-10-18T04:05:00.000Z",
       "tags": [
@@ -267,25 +349,11 @@
       "agency": "nasa",
       "source": "NASA breaking news",
       "title": "APOD: 2026 October 17 – 3D 67P",
-      "summary": "APOD Science APOD APOD: 2026 October 17… Today’s APOD Archive Submissions Index Search Calendar RSS Education About Discuss APOD Astronomy Picture of the Day Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a professional as…",
+      "summary": "APODScienceAPODAPOD: 2026 October 17…Today’s APODArchiveSubmissionsIndexSearchCalendarRSSEducationAboutDiscuss APOD Astronomy Picture of the Day Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a professional astronomer. 3D…",
       "url": "https://science.nasa.gov/image-article/apod-2026-october-17-3d-67p/",
       "publishedAt": "2026-10-17T04:05:00.000Z",
       "tags": [
         "APOD"
-      ]
-    },
-    {
-      "id": "628aec087c4d",
-      "agency": "nasa",
-      "source": "NASA breaking news",
-      "title": "NASA Names Stephen Cash Marshall Space Flight Center Director",
-      "summary": "NASA Administrator Jared Isaacman has named Stephen Cash director of the agency’s Marshall Space Flight Center in Huntsville, Alabama, effective Monday, Oct. 19. Cash, a veteran NASA engineer and aerospace executive, returns to lead the center where he began his career more than four decades ago. “Marshall contribution…",
-      "url": "https://www.nasa.gov/news-release/nasa-names-stephen-cash-marshall-space-flight-center-director/",
-      "publishedAt": "2026-10-16T20:14:39.000Z",
-      "tags": [
-        "Leadership",
-        "Marshall Space Flight Center",
-        "NASA Headquarters"
       ]
     },
     {
@@ -399,18 +467,6 @@
       "tags": []
     },
     {
-      "id": "1484a996e772",
-      "agency": "nasa",
-      "source": "NASA breaking news",
-      "title": "Artemis II Heat Shield After Splashdown",
-      "summary": "Shortly after NASA’s Artemis II mission splashed down on April 10, 2026, U.S. Navy divers captured underwater imagery of the Orion spacecraft’s heat shield. In the months after, the agency measured whether the thermal protection system effectively safeguarded the crew and Orion systems as the spacecraft reentered Earth…",
-      "url": "https://www.nasa.gov/image-article/artemis-ii-heat-shield-after-splashdown/",
-      "publishedAt": "2026-10-16T16:28:01.000Z",
-      "tags": [
-        "Artemis 2"
-      ]
-    },
-    {
       "id": "8323cd4e91e3",
       "agency": "arxiv",
       "source": "arXiv astro-ph (new submissions)",
@@ -511,25 +567,6 @@
       "tags": []
     },
     {
-      "id": "f1d3f2b84f64",
-      "agency": "nasa",
-      "source": "NASA breaking news",
-      "title": "I Am Artemis: Allison Mjoen",
-      "summary": "As the supercooled propellant flowed into the core stage, and NASA’s SLS (Space Launch System) rocket roared to life, Allison Mjoen and her family watched with awe and pride. Mjoen, NASA’s operations manager for the agency’s Exploration Ground Systems Program, helped shape the systems and ground operations that will on…",
-      "url": "https://www.nasa.gov/missions/station/i-am-artemis-allison-mjoen/",
-      "publishedAt": "2026-10-16T14:24:29.000Z",
-      "tags": [
-        "International Space Station (ISS)",
-        "Artemis",
-        "Exploration Ground Systems",
-        "I Am Artemis",
-        "Kennedy Space Center",
-        "Orion Multi-Purpose Crew Vehicle",
-        "Space Launch System (SLS)",
-        "Space Shuttle"
-      ]
-    },
-    {
       "id": "c85471c5d592",
       "agency": "arxiv",
       "source": "arXiv astro-ph (new submissions)",
@@ -568,51 +605,6 @@
       "url": "https://arxiv.org/abs/2610.23425v1",
       "publishedAt": "2026-10-16T13:11:25.000Z",
       "tags": []
-    },
-    {
-      "id": "b1fc4be8b8b4",
-      "agency": "nasa",
-      "source": "NASA breaking news",
-      "title": "NASA’s Hubble Spies Spiral’s Edge",
-      "summary": "This NASA Hubble Space Telescope image features the edge-on, intermediate spiral galaxy NGC 1827, located roughly 37 million light-years away in the constellation Columba, the Dove.",
-      "url": "https://science.nasa.gov/missions/hubble/nasas-hubble-spies-spirals-edge/",
-      "publishedAt": "2026-10-16T12:42:08.000Z",
-      "tags": [
-        "Astrophysics",
-        "Astrophysics Division",
-        "Galaxies",
-        "Goddard Space Flight Center",
-        "Hubble Space Telescope",
-        "Spiral Galaxies"
-      ]
-    },
-    {
-      "id": "97599037ffe3",
-      "agency": "nasa",
-      "source": "NASA breaking news",
-      "title": "APOD: 2026 October 16 – Chasing the International Space Station",
-      "summary": "APOD Science APOD APOD: 2026 October 16 –… Today’s APOD Archive Submissions Index Search Calendar RSS Education About Discuss APOD Astronomy Picture of the Day Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a professional…",
-      "url": "https://science.nasa.gov/image-article/apod-2026-october-16-chasing-the-international-space-station/",
-      "publishedAt": "2026-10-16T04:05:00.000Z",
-      "tags": [
-        "APOD"
-      ]
-    },
-    {
-      "id": "2e25e9d5212e",
-      "agency": "nasa",
-      "source": "NASA breaking news",
-      "title": "Isaias Dims the Gulf Coast",
-      "summary": "High-definition images of nighttime lights show where the hurricane knocked out power along the Florida Panhandle and how quickly the lights came back.",
-      "url": "https://science.nasa.gov/earth/earth-observatory/isaias-dims-the-gulf-coast/",
-      "publishedAt": "2026-10-16T04:00:00.000Z",
-      "tags": [
-        "Earth Observatory",
-        "Extreme Weather Events",
-        "Goddard Space Flight Center",
-        "Landsat 9",
-        "NOAA-20 (JPSS-1)"
-      ]
     },
     {
       "id": "9e261d64e102",
