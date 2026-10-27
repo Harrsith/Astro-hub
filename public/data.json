@@ -1,16 +1,16 @@
 {
-  "generatedAt": "2026-10-27T04:04:12.425Z",
+  "generatedAt": "2026-10-27T11:44:24.925Z",
   "sourceCount": 5,
-  "itemCount": 45,
+  "itemCount": 60,
   "errors": [
     {
-      "source": "arXiv astro-ph (new submissions)",
+      "source": "NASA breaking news",
       "message": "Status code 429"
     }
   ],
   "apod": {
-    "date": "2026-10-25",
-    "explanation": "Is our universe haunted? It might look that way on this dark matter map. The gravity of unseen dark matter is the leading explanation for why galaxies rotate so fast, why galaxies orbit clusters so fast, why gravitational lenses so strongly deflect light, and how visible matter is distributed. The featured image from the American Museum of Natural History's Hayden Planetarium Space Show, Dark Universe, highlights one example of how pervasive dark matter might haunt our universe. In this frame from a detailed computer simulation, complex filaments of dark matter, shown in black, are strewn about the universe like spider webs, while the relatively rare clumps of familiar baryonic matter are colored orange. These simulations are good statistical matches to astronomical observations. In what is perhaps a scarier turn of events, dark matter -- although quite strange and in an unknown form -- is no longer thought to be the strangest source of gravity in the universe. That honor now falls to dark energy, a more uniform source of repulsive gravity that seems to now dominate the expansion of the entire universe.Tomorrow's picture: Orion the Great\t\t\t\t\t\t",
+    "date": "2026-10-27",
+    "explanation": " Sometimes it's night on the ground but day in the air. As the Earth rotates to eclipse the Sun, sunset rises upfrom the ground. Therefore, at sunset on the ground, sunlight still shines on clouds above. Under usual circumstances, a pretty sunset might be visible, but unusual noctilucent clouds float so high up they can be seen well after dark. Normally too dim to be seen, they may become visible just after sunset during the summer when illuminated by sunlight from below the horizon. Noctilucent clouds are the highest clouds and are known more technically as polar mesospheric clouds. Featured here as they appeared in early August, a network of blue noctilucent clouds was captured in the distant sky above a field of green grass near Linköping, Sweden, with trees in stark silhouette across the horizon. Much about noctilucent clouds has been discovered only in the past two decades, while how they form and evolve remains a topic of active research.Tomorrow's picture: round and round\t\t\t\t\t\t",
     "hdurl": "https://science.nasa.gov/wp-content/themes/nasa-child/assets/images/nasa-logo@2x.png",
     "media_type": "image",
     "service_version": "v1",
@@ -18,90 +18,6 @@
     "url": "https://science.nasa.gov/wp-content/themes/nasa-child/assets/images/nasa-logo@2x.png"
   },
   "items": [
-    {
-      "id": "c4e4feba44b6",
-      "agency": "exo",
-      "ra": 344.4453632,
-      "dec": 38.674919,
-      "source": "NASA Exoplanet Archive",
-      "title": "HAT-P-1 b — catalog entry updated",
-      "summary": "Orbits HAT-P-1: discovered via Transit, 2006, 14.78x Earth radius, 166.86x Earth mass, 4.5-day orbit.",
-      "url": "https://exoplanetarchive.ipac.caltech.edu/overview/HAT-P-1",
-      "publishedAt": "2026-10-27T04:04:11.609Z",
-      "tags": [
-        "Transit"
-      ]
-    },
-    {
-      "id": "6f58f09f6809",
-      "agency": "exo",
-      "ra": 133.1468373,
-      "dec": 28.3298154,
-      "source": "NASA Exoplanet Archive",
-      "title": "55 Cnc c — catalog entry updated",
-      "summary": "Orbits 55 Cnc: discovered via Radial Velocity, 2004, 8.51x Earth radius, 54.47x Earth mass, 44.4-day orbit.",
-      "url": "https://exoplanetarchive.ipac.caltech.edu/overview/55_Cnc",
-      "publishedAt": "2026-10-27T04:04:11.609Z",
-      "tags": [
-        "Radial Velocity"
-      ]
-    },
-    {
-      "id": "d8da153a2b81",
-      "agency": "exo",
-      "ra": 133.1468373,
-      "dec": 28.3298154,
-      "source": "NASA Exoplanet Archive",
-      "title": "55 Cnc e — catalog entry updated",
-      "summary": "Orbits 55 Cnc: discovered via Radial Velocity, 2004, 1.88x Earth radius, 7.99x Earth mass, 0.7-day orbit.",
-      "url": "https://exoplanetarchive.ipac.caltech.edu/overview/55_Cnc",
-      "publishedAt": "2026-10-27T04:04:11.609Z",
-      "tags": [
-        "Radial Velocity"
-      ]
-    },
-    {
-      "id": "3cc942711811",
-      "agency": "exo",
-      "ra": 175.5505363,
-      "dec": 26.7030669,
-      "source": "NASA Exoplanet Archive",
-      "title": "GJ 436 b — catalog entry updated",
-      "summary": "Orbits GJ 436: discovered via Radial Velocity, 2004, 4.17x Earth radius, 22.10x Earth mass, 2.6-day orbit.",
-      "url": "https://exoplanetarchive.ipac.caltech.edu/overview/GJ_436",
-      "publishedAt": "2026-10-27T04:04:11.609Z",
-      "tags": [
-        "Radial Velocity"
-      ]
-    },
-    {
-      "id": "e8c8ff90baad",
-      "agency": "exo",
-      "ra": 133.1468373,
-      "dec": 28.3298154,
-      "source": "NASA Exoplanet Archive",
-      "title": "55 Cnc d — catalog entry updated",
-      "summary": "Orbits 55 Cnc: discovered via Radial Velocity, 2002, 13.00x Earth radius, 1232.49x Earth mass, 4799.0-day orbit.",
-      "url": "https://exoplanetarchive.ipac.caltech.edu/overview/55_Cnc",
-      "publishedAt": "2026-10-27T04:04:11.609Z",
-      "tags": [
-        "Radial Velocity"
-      ]
-    },
-    {
-      "id": "9460cb64b3d0",
-      "agency": "exo",
-      "ra": 133.1468373,
-      "dec": 28.3298154,
-      "source": "NASA Exoplanet Archive",
-      "title": "55 Cnc b — catalog entry updated",
-      "summary": "Orbits 55 Cnc: discovered via Radial Velocity, 1996, 13.90x Earth radius, 263.98x Earth mass, 14.7-day orbit.",
-      "url": "https://exoplanetarchive.ipac.caltech.edu/overview/55_Cnc",
-      "publishedAt": "2026-10-27T04:04:11.609Z",
-      "tags": [
-        "Radial Velocity"
-      ]
-    },
     {
       "id": "32360c9fffbd",
       "agency": "exo",
@@ -111,7 +27,7 @@
       "title": "HAT-P-17 c — catalog entry updated",
       "summary": "Orbits HAT-P-17: discovered via Radial Velocity, 2012, 13.10x Earth radius, 1080.60x Earth mass, 5584.0-day orbit.",
       "url": "https://exoplanetarchive.ipac.caltech.edu/overview/HAT-P-17",
-      "publishedAt": "2026-10-27T04:04:11.608Z",
+      "publishedAt": "2026-10-27T11:44:21.169Z",
       "tags": [
         "Radial Velocity"
       ]
@@ -125,7 +41,7 @@
       "title": "HAT-P-17 b — catalog entry updated",
       "summary": "Orbits HAT-P-17: discovered via Transit, 2012, 11.77x Earth radius, 184.34x Earth mass, 10.3-day orbit.",
       "url": "https://exoplanetarchive.ipac.caltech.edu/overview/HAT-P-17",
-      "publishedAt": "2026-10-27T04:04:11.608Z",
+      "publishedAt": "2026-10-27T11:44:21.169Z",
       "tags": [
         "Transit"
       ]
@@ -139,7 +55,7 @@
       "title": "HAT-P-18 b — catalog entry updated",
       "summary": "Orbits HAT-P-18: discovered via Transit, 2010, 10.70x Earth radius, 55.52x Earth mass, 5.5-day orbit.",
       "url": "https://exoplanetarchive.ipac.caltech.edu/overview/HAT-P-18",
-      "publishedAt": "2026-10-27T04:04:11.608Z",
+      "publishedAt": "2026-10-27T11:44:21.169Z",
       "tags": [
         "Transit"
       ]
@@ -153,7 +69,7 @@
       "title": "HAT-P-14 b — catalog entry updated",
       "summary": "Orbits HAT-P-14: discovered via Transit, 2010, 15.92x Earth radius, 1093.34x Earth mass, 4.6-day orbit.",
       "url": "https://exoplanetarchive.ipac.caltech.edu/overview/HAT-P-14",
-      "publishedAt": "2026-10-27T04:04:11.608Z",
+      "publishedAt": "2026-10-27T11:44:21.169Z",
       "tags": [
         "Transit"
       ]
@@ -167,7 +83,7 @@
       "title": "HAT-P-12 b — catalog entry updated",
       "summary": "Orbits HAT-P-12: discovered via Transit, 2009, 10.75x Earth radius, 67.06x Earth mass, 3.2-day orbit.",
       "url": "https://exoplanetarchive.ipac.caltech.edu/overview/HAT-P-12",
-      "publishedAt": "2026-10-27T04:04:11.608Z",
+      "publishedAt": "2026-10-27T11:44:21.169Z",
       "tags": [
         "Transit"
       ]
@@ -181,7 +97,7 @@
       "title": "HAT-P-13 c — catalog entry updated",
       "summary": "Orbits HAT-P-13: discovered via Radial Velocity, 2009, 12.30x Earth radius, 4538.42x Earth mass, 446.3-day orbit.",
       "url": "https://exoplanetarchive.ipac.caltech.edu/overview/HAT-P-13",
-      "publishedAt": "2026-10-27T04:04:11.608Z",
+      "publishedAt": "2026-10-27T11:44:21.169Z",
       "tags": [
         "Radial Velocity"
       ]
@@ -195,7 +111,7 @@
       "title": "HAT-P-13 b — catalog entry updated",
       "summary": "Orbits HAT-P-13: discovered via Transit, 2009, 14.26x Earth radius, 270.46x Earth mass, 2.9-day orbit.",
       "url": "https://exoplanetarchive.ipac.caltech.edu/overview/HAT-P-13",
-      "publishedAt": "2026-10-27T04:04:11.608Z",
+      "publishedAt": "2026-10-27T11:44:21.169Z",
       "tags": [
         "Transit"
       ]
@@ -209,7 +125,7 @@
       "title": "GJ 1214 b — catalog entry updated",
       "summary": "Orbits GJ 1214: discovered via Transit, 2009, 2.73x Earth radius, 8.41x Earth mass, 1.6-day orbit.",
       "url": "https://exoplanetarchive.ipac.caltech.edu/overview/GJ_1214",
-      "publishedAt": "2026-10-27T04:04:11.608Z",
+      "publishedAt": "2026-10-27T11:44:21.169Z",
       "tags": [
         "Transit"
       ]
@@ -223,140 +139,344 @@
       "title": "55 Cnc f — catalog entry updated",
       "summary": "Orbits 55 Cnc: discovered via Radial Velocity, 2007, 7.59x Earth radius, 44.81x Earth mass, 260.6-day orbit.",
       "url": "https://exoplanetarchive.ipac.caltech.edu/overview/55_Cnc",
-      "publishedAt": "2026-10-27T04:04:11.608Z",
+      "publishedAt": "2026-10-27T11:44:21.169Z",
       "tags": [
         "Radial Velocity"
       ]
     },
     {
-      "id": "abf236ae8eb6",
-      "agency": "nasa",
-      "source": "NASA breaking news",
-      "title": "NASA’s Perseverance Views Dust at Neretva Vallis",
-      "summary": "Description This 360-degree look at Neretva Vallis within Mars’ Jezero Crater was stitched together using 217 images acquired by the rover’s Mastcam-Z on May 20, 2024, the 1,155th Martian day, or sol, of the mission. While it is a wind-swept dusty vista today, billions of years ago it was home to a river channel that f…",
-      "url": "https://science.nasa.gov/photojournal/nasas-perseverance-views-dust-at-neretva-vallis/",
-      "publishedAt": "2026-10-26T22:48:12.000Z",
+      "id": "c4e4feba44b6",
+      "agency": "exo",
+      "ra": 344.4453632,
+      "dec": 38.674919,
+      "source": "NASA Exoplanet Archive",
+      "title": "HAT-P-1 b — catalog entry updated",
+      "summary": "Orbits HAT-P-1: discovered via Transit, 2006, 14.78x Earth radius, 166.86x Earth mass, 4.5-day orbit.",
+      "url": "https://exoplanetarchive.ipac.caltech.edu/overview/HAT-P-1",
+      "publishedAt": "2026-10-27T11:44:21.169Z",
       "tags": [
-        "Mars 2020",
-        "Photojournal"
+        "Transit"
       ]
     },
     {
-      "id": "d481264fb552",
-      "agency": "nasa",
-      "source": "NASA breaking news",
-      "title": "NASA’s Perseverance Offers Clues to Protect Crews From Mars Dust",
-      "summary": "Over 1,645 Martian days, NASA’s Perseverance Mars rover measured the fine and ultrafine Martian dust particles found clinging to samples of spacesuit materials that are carried aboard the rover, including some that are small enough to penetrate the lungs and enter the bloodstream. The findings will be published Tuesday…",
-      "url": "https://www.nasa.gov/missions/mars-2020-perseverance/nasas-perseverance-offers-clues-to-protect-crews-from-mars-dust/",
-      "publishedAt": "2026-10-26T21:07:28.000Z",
+      "id": "6f58f09f6809",
+      "agency": "exo",
+      "ra": 133.1468373,
+      "dec": 28.3298154,
+      "source": "NASA Exoplanet Archive",
+      "title": "55 Cnc c — catalog entry updated",
+      "summary": "Orbits 55 Cnc: discovered via Radial Velocity, 2004, 8.51x Earth radius, 54.47x Earth mass, 44.4-day orbit.",
+      "url": "https://exoplanetarchive.ipac.caltech.edu/overview/55_Cnc",
+      "publishedAt": "2026-10-27T11:44:21.169Z",
       "tags": [
-        "Mars 2020",
-        "General",
-        "Jet Propulsion Laboratory",
-        "Mars",
-        "Perseverance (Rover)",
-        "Planetary Science Division"
+        "Radial Velocity"
       ]
     },
     {
-      "id": "653a518b11e8",
-      "agency": "nasa",
-      "source": "NASA breaking news",
-      "title": "NEO Surveyor’s Sunshade Gets Inspected",
-      "summary": "Description The large sunshade of NASA’s Near-Earth Object (NEO) Surveyor is mounted on an assembly ring during inspections in a clean room at BAE Systems Space & Mission Systems in Boulder, Colorado, in July 2026. The sunshade structure stands 20 feet (6 meters) tall and measures 8 feet (2.4 meters) wide at its base.…",
-      "url": "https://science.nasa.gov/photojournal/neo-surveyors-sunshade-gets-inspected/",
-      "publishedAt": "2026-10-26T20:53:13.000Z",
+      "id": "d8da153a2b81",
+      "agency": "exo",
+      "ra": 133.1468373,
+      "dec": 28.3298154,
+      "source": "NASA Exoplanet Archive",
+      "title": "55 Cnc e — catalog entry updated",
+      "summary": "Orbits 55 Cnc: discovered via Radial Velocity, 2004, 1.88x Earth radius, 7.99x Earth mass, 0.7-day orbit.",
+      "url": "https://exoplanetarchive.ipac.caltech.edu/overview/55_Cnc",
+      "publishedAt": "2026-10-27T11:44:21.169Z",
       "tags": [
-        "NEO Surveyor (Near-Earth Object Surveyor Space Telescope)",
-        "Photojournal"
+        "Radial Velocity"
       ]
     },
     {
-      "id": "a827506fd0dd",
-      "agency": "nasa",
-      "source": "NASA breaking news",
-      "title": "Solar Cells Inspected on NASA’s NEO Surveyor",
-      "summary": "Description The large sunshade of NASA’s Near-Earth Object (NEO) Surveyor mission is inspected by a technician at BAE Systems Space & Mission Systems in Boulder, Colorado, in late July. Built by Applied Aerospace in Stockton, California, the sunshade structure was outfitted with its solar cells by SolAero Technologies…",
-      "url": "https://science.nasa.gov/photojournal/solar-cells-inspected-on-nasas-neo-surveyor/",
-      "publishedAt": "2026-10-26T20:52:24.000Z",
+      "id": "3cc942711811",
+      "agency": "exo",
+      "ra": 175.5505363,
+      "dec": 26.7030669,
+      "source": "NASA Exoplanet Archive",
+      "title": "GJ 436 b — catalog entry updated",
+      "summary": "Orbits GJ 436: discovered via Radial Velocity, 2004, 4.17x Earth radius, 22.10x Earth mass, 2.6-day orbit.",
+      "url": "https://exoplanetarchive.ipac.caltech.edu/overview/GJ_436",
+      "publishedAt": "2026-10-27T11:44:21.169Z",
       "tags": [
-        "NEO Surveyor (Near-Earth Object Surveyor Space Telescope)",
-        "Photojournal"
+        "Radial Velocity"
       ]
     },
     {
-      "id": "f4efc119ed8c",
-      "agency": "nasa",
-      "source": "NASA breaking news",
-      "title": "NASA SEES Interns Tackle Real-World Challenges in Lunar Exploration",
-      "summary": "The NASA STEM (Science, Technology, Engineering, and Mathematics) Enhancement in Earth Science (SEES) Internship Program at the University of Texas Center for Space Research places high school students on small, mission-focused research teams mentored by NASA, academic, and industry experts. During summer 2026, the SEE…",
-      "url": "https://science.nasa.gov/learning-resources/science-activation/nasa-sees-interns-tackle-real-world-challenges-in-lunar-exploration/",
-      "publishedAt": "2026-10-26T19:28:08.000Z",
+      "id": "e8c8ff90baad",
+      "agency": "exo",
+      "ra": 133.1468373,
+      "dec": 28.3298154,
+      "source": "NASA Exoplanet Archive",
+      "title": "55 Cnc d — catalog entry updated",
+      "summary": "Orbits 55 Cnc: discovered via Radial Velocity, 2002, 13.00x Earth radius, 1232.49x Earth mass, 4799.0-day orbit.",
+      "url": "https://exoplanetarchive.ipac.caltech.edu/overview/55_Cnc",
+      "publishedAt": "2026-10-27T11:44:21.169Z",
       "tags": [
-        "Science Activation"
+        "Radial Velocity"
       ]
     },
     {
-      "id": "31859a849501",
-      "agency": "nasa",
-      "source": "NASA breaking news",
-      "title": "NASA Invites Media to Moon Landing Simulation Experience in California",
-      "summary": "Members of the media are invited to tour a new lunar landing simulator at NASA’s Ames Research Center in California's Silicon Valley on Thursday, Oct. 29, and Friday, Oct. 30.",
-      "url": "https://www.nasa.gov/news-release/nasa-invites-media-to-moon-landing-simulation-experience-in-california/",
-      "publishedAt": "2026-10-26T17:13:44.000Z",
+      "id": "9460cb64b3d0",
+      "agency": "exo",
+      "ra": 133.1468373,
+      "dec": 28.3298154,
+      "source": "NASA Exoplanet Archive",
+      "title": "55 Cnc b — catalog entry updated",
+      "summary": "Orbits 55 Cnc: discovered via Radial Velocity, 1996, 13.90x Earth radius, 263.98x Earth mass, 14.7-day orbit.",
+      "url": "https://exoplanetarchive.ipac.caltech.edu/overview/55_Cnc",
+      "publishedAt": "2026-10-27T11:44:21.169Z",
       "tags": [
-        "Ames Research Center",
-        "Artemis"
+        "Radial Velocity"
       ]
     },
     {
-      "id": "b43ae5b52b3b",
-      "agency": "nasa",
-      "source": "NASA breaking news",
-      "title": "NASA’s X-59 Aircraft and Test Pilot",
-      "summary": "NASA test pilot Mike Lippert poses for a photo ahead of his first time flying the agency’s X-59 quiet supersonic research aircraft on Oct. 21, 2026. The X-59 has flown numerous times since its inaugural flight in November 2025; its first supersonic flight was on June 5, 2026. Lippert took off from NASA’s Armstrong Flig…",
-      "url": "https://www.nasa.gov/image-article/nasas-x-59-aircraft-and-test-pilot/",
-      "publishedAt": "2026-10-26T15:25:47.000Z",
+      "id": "53932e940ab3",
+      "agency": "arxiv",
+      "source": "arXiv astro-ph (new submissions)",
+      "title": "Direct measurement of the ${}^{23}\\mathrm{Mg}(p, γ){}^{24}\\mathrm{Al}$ reaction using the DRAGON recoil separator and a hybrid array of $γ$-ray detectors",
+      "summary": "Background: The $^{23}$Mg$(p,γ)^{24}$Al reaction plays a key role in nova nucleosynthesis, serving as a bridge between the Ne-Na and Mg-Al cycles and impacting synthesis of a wide variety of nuclides. It is crucial that the rate of this reaction be well constrained by experimental data, in particular the properties of…",
+      "url": "https://arxiv.org/abs/2610.35860v1",
+      "publishedAt": "2026-10-26T17:59:02.000Z",
       "tags": []
     },
     {
-      "id": "c071b14c9efc",
-      "agency": "nasa",
-      "source": "NASA breaking news",
-      "title": "NASA, USDA Sign Agreement Advancing Earth Science, Agriculture",
-      "summary": "NASA and the U.S. Department of Agriculture (USDA) have signed a Memorandum of Understanding expanding cooperation in Earth observation, geospatial analytics, and advanced data technologies, supporting USDA’s data modernization plan for United States agriculture. “NASA develops some of the most advanced sensing, comput…",
-      "url": "https://www.nasa.gov/news-release/nasa-usda-sign-agreement-advancing-earth-science-agriculture/",
-      "publishedAt": "2026-10-26T13:54:25.000Z",
-      "tags": [
-        "Earth Science Division",
-        "Science Mission Directorate"
-      ]
+      "id": "1e2a7abb6628",
+      "agency": "arxiv",
+      "source": "arXiv astro-ph (new submissions)",
+      "title": "Interaction of Strong X-mode Waves with Magnetized Pair Plasmas",
+      "summary": "The interaction of strong ($a_0>1$), superluminal X-mode electromagnetic waves with magnetized pair plasma falls into two regimes set by $\\varepsilon_{\\rm B}\\equiv a_0ω_{\\rm B}/ω_0$, the ratio of the wave strength parameter to its frequency, in units of cyclotron frequency. For $\\varepsilon_{\\rm B}\\varepsilon_{\\rm B}>1…",
+      "url": "https://arxiv.org/abs/2610.35849v1",
+      "publishedAt": "2026-10-26T17:57:04.000Z",
+      "tags": []
     },
     {
-      "id": "1867de242b8f",
-      "agency": "nasa",
-      "source": "NASA breaking news",
-      "title": "APOD: 2026 October 26 – M42: The Great Nebula in Orion",
-      "summary": "APOD Science APOD APOD: 2026 October 26 – M42:… Today’s APOD Archive Submissions Index Search Calendar RSS Education About Discuss APOD Astronomy Picture of the Day Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a professi…",
-      "url": "https://science.nasa.gov/image-article/apod/2026-october-26-m42-the-great-nebula-in-orion/",
-      "publishedAt": "2026-10-26T04:05:00.000Z",
-      "tags": [
-        "APOD"
-      ]
+      "id": "92caba996733",
+      "agency": "arxiv",
+      "source": "arXiv astro-ph (new submissions)",
+      "title": "Spectroscopic Survey of Small Solar System Bodies with Ariel",
+      "summary": "The small Solar System bodies (SSSBs) preserve records of the formation and evolution of the Solar System. In particular, the near-infrared wavelength region around 3 $μ$m provides crucial insights into the origin and transport of hydrated materials and organics, although it is difficult to observe from the ground beca…",
+      "url": "https://arxiv.org/abs/2610.35825v1",
+      "publishedAt": "2026-10-26T17:48:19.000Z",
+      "tags": []
     },
     {
-      "id": "1a80a05275bb",
-      "agency": "nasa",
-      "source": "NASA breaking news",
-      "title": "Hunting Red Leaves with Satellites",
-      "summary": "A modern satellite makes it possible to pursue the ancient tradition of leaf-peeping in a whole new way.",
-      "url": "https://science.nasa.gov/earth/earth-observatory/hunting-red-leaves-with-satellites/",
-      "publishedAt": "2026-10-26T04:01:00.000Z",
-      "tags": [
-        "Earth Observatory",
-        "PACE (Plankton, Aerosol, Cloud, Ocean Ecosystem)",
-        "Vegetation"
-      ]
+      "id": "5d012519a90b",
+      "agency": "arxiv",
+      "source": "arXiv astro-ph (new submissions)",
+      "title": "The Impact of Flyby Interactions on the Rotation of Open Clusters",
+      "summary": "The Gaia astrometric mission has provided the first evidence for the bulk rotation of open clusters. While this rotation may arise from residual spin inherited from a cluster's parent molecular cloud, it is unclear whether this explanation always suffices, as angular momentum is carried away by escaping stars on the ti…",
+      "url": "https://arxiv.org/abs/2610.35805v1",
+      "publishedAt": "2026-10-26T17:36:46.000Z",
+      "tags": []
+    },
+    {
+      "id": "300ee7d3328f",
+      "agency": "arxiv",
+      "source": "arXiv astro-ph (new submissions)",
+      "title": "Tidal contributions to neutron star orbital precession around Sgr $A^*$",
+      "summary": "We investigate tidal contributions to the orbital precession of neutron stars around the supermassive black hole Sgr A*, using stellar configurations described by the Tolman - Oppenheimer - Volkoff equations. We examine the dependence of tidal precession on stellar compactness, pericentre distance, and the quadrupolar…",
+      "url": "https://arxiv.org/abs/2610.35776v1",
+      "publishedAt": "2026-10-26T17:16:52.000Z",
+      "tags": []
+    },
+    {
+      "id": "3759bc99cbad",
+      "agency": "arxiv",
+      "source": "arXiv astro-ph (new submissions)",
+      "title": "Post-DART impact ejecta re-accumulation on Dimorphos and implications for Hera gravity measurements",
+      "summary": "Context. The DART impact might have substantially modified the surface and near-surface structure of Dimorphos, affecting the morphology and gravity field that is to be measured by ESA's Hera mission. Aims. We investigate the post-impact redistribution of ejecta and its dependence on the assumed internal structure of D…",
+      "url": "https://arxiv.org/abs/2610.35718v1",
+      "publishedAt": "2026-10-26T16:38:51.000Z",
+      "tags": []
+    },
+    {
+      "id": "25fd43371377",
+      "agency": "arxiv",
+      "source": "arXiv astro-ph (new submissions)",
+      "title": "Mapping the Milky Way with SDSS-V: Galactic Genesis Selection Function and Mock Catalog",
+      "summary": "Robust chemodynamic mapping of the Milky Way requires accounting for the selection function of the survey used, the probability that a given star is included in the final catalog as a function of its observable properties. We derive the empirical selection function of the SDSS-V Galactic Genesis survey, the largest Mil…",
+      "url": "https://arxiv.org/abs/2610.35713v1",
+      "publishedAt": "2026-10-26T16:34:24.000Z",
+      "tags": []
+    },
+    {
+      "id": "688cdc8d17f5",
+      "agency": "arxiv",
+      "source": "arXiv astro-ph (new submissions)",
+      "title": "pbhalo: computing primordial black hole and minihalo populations from a single primordial perturbation spectrum",
+      "summary": "An enhancement of the primordial curvature power spectrum on small scales can give rise to two populations of compact objects: primordial black holes (PBHs), which form during radiation domination, and dark matter minihalos, including ultracompact minihalos (UCMHs), which form from the same modes during matter dominati…",
+      "url": "https://arxiv.org/abs/2610.35703v1",
+      "publishedAt": "2026-10-26T16:29:05.000Z",
+      "tags": []
+    },
+    {
+      "id": "467d32ed179d",
+      "agency": "arxiv",
+      "source": "arXiv astro-ph (new submissions)",
+      "title": "Connectivity rewiring and filament formation by active region emergence observed with Solar Orbiter",
+      "summary": "Using an 11-day dataset from Solar Orbiter, combining EUV imaging, H$α$ observations, vector magnetograms and nonlinear force-free field extrapolations, we track the evolution from the emergence of a new active region to the reconfiguration of coronal connectivity. We find that the restructuring proceeds through a sequ…",
+      "url": "https://arxiv.org/abs/2610.35677v1",
+      "publishedAt": "2026-10-26T16:17:25.000Z",
+      "tags": []
+    },
+    {
+      "id": "113b16beca51",
+      "agency": "arxiv",
+      "source": "arXiv astro-ph (new submissions)",
+      "title": "The design and flight of the Payload for Ultrahigh Energy Observations (PUEO)",
+      "summary": "Sources of cosmic rays at ultrahigh energies (UHE, $\\gtrsim$ 1 EeV) are anticipated to give rise to neutrinos at similar energies by production via propagation interactions either within the source region or on cosmological scales. Measurements of the neutrino flux, flavor, and energy provide significant insight into t…",
+      "url": "https://arxiv.org/abs/2610.35675v1",
+      "publishedAt": "2026-10-26T16:16:39.000Z",
+      "tags": []
+    },
+    {
+      "id": "4e1b21989a0f",
+      "agency": "arxiv",
+      "source": "arXiv astro-ph (new submissions)",
+      "title": "Constraining Supermassive Black Hole Seeding and Accretion via Occupation Fractions and Mass-Weighted Distributions",
+      "summary": "The formation of supermassive black holes (SMBHs) is a key open problem in galaxy evolution, with light- and heavy-seeding models predicting distinct black hole occupation fractions (BHOFs). Using multiwavelength observations from the LSST Deep Drilling Fields, we measure the AGN fraction and estimate the BHOF across $…",
+      "url": "https://arxiv.org/abs/2610.35673v1",
+      "publishedAt": "2026-10-26T16:14:58.000Z",
+      "tags": []
+    },
+    {
+      "id": "af6446b526ce",
+      "agency": "arxiv",
+      "source": "arXiv astro-ph (new submissions)",
+      "title": "The long-term evolution of a black hole accretion torus: a comparison between GRMHD simulations and relativistic thin disk theory",
+      "summary": "In this paper we analyse the long-term evolution of a black hole accretion torus using novel GRMHD simulations which, for the first time, have been run out to extremely large evolutionary times $t_{\\rm max} = 10^7 GM_\\bullet/c^3$. This allows for detailed comparisons between the gross evolution of this GRMHD simulation…",
+      "url": "https://arxiv.org/abs/2610.35648v1",
+      "publishedAt": "2026-10-26T15:55:32.000Z",
+      "tags": []
+    },
+    {
+      "id": "22fa14902e85",
+      "agency": "arxiv",
+      "source": "arXiv astro-ph (new submissions)",
+      "title": "Indication of Electron Antineutrinos from the Diffuse Supernova Neutrino Background",
+      "summary": "We report an indication of $\\barν_e$ from the diffuse supernova neutrino background (DSNB) based on a spectral fit analysis of a 5003.0-day dataset in Super-Kamiokande. Key improvements over previous searches include enhanced rejection of atmospheric $ν$ backgrounds, updated evaluations of systematic uncertainties, and…",
+      "url": "https://arxiv.org/abs/2610.35619v1",
+      "publishedAt": "2026-10-26T15:35:48.000Z",
+      "tags": []
+    },
+    {
+      "id": "a35654cf9558",
+      "agency": "arxiv",
+      "source": "arXiv astro-ph (new submissions)",
+      "title": "Distilling neural networks into equations to predict planetary instability",
+      "summary": "The problem of predicting when a multi-planet system will become dynamically unstable has defied analytical progress over the past three hundred years. Recent machine learning advances achieve high predictive performance of instability dynamics, but as black-box systems cannot be interpreted to connect to existing scie…",
+      "url": "https://arxiv.org/abs/2610.35617v1",
+      "publishedAt": "2026-10-26T15:34:46.000Z",
+      "tags": []
+    },
+    {
+      "id": "934367589edf",
+      "agency": "arxiv",
+      "source": "arXiv astro-ph (new submissions)",
+      "title": "Nonlinear Tides of Binary Neutron Stars",
+      "summary": "Nonlinear tides couple stellar oscillations and reshape the gravitational wave (GW) signal from inspiralling binaries. We present hydrodynamic simulations of nonlinear tides in inspiralling neutron-star binaries and, within a mode-coupling model, derive a semi-analytic quadrupolar fundamental mode-frequency shift throu…",
+      "url": "https://arxiv.org/abs/2610.35602v1",
+      "publishedAt": "2026-10-26T15:26:08.000Z",
+      "tags": []
+    },
+    {
+      "id": "b6034de64d14",
+      "agency": "arxiv",
+      "source": "arXiv astro-ph (new submissions)",
+      "title": "Gravitationally Induced Polarization-Angle Rotation in Pulsar-Black Hole Binaries",
+      "summary": "Radio pulsars emit highly polarized radiation whose polarization properties are commonly described by the Rotating Vector Model (RVM). In this work, we investigate the effects of gravitational light bending and parallel transport on the polarization profile of a pulsar in a hypothetical binary system with a black hole…",
+      "url": "https://arxiv.org/abs/2610.35589v1",
+      "publishedAt": "2026-10-26T15:17:44.000Z",
+      "tags": []
+    },
+    {
+      "id": "592ec988822d",
+      "agency": "arxiv",
+      "source": "arXiv astro-ph (new submissions)",
+      "title": "Classification of Fermi Blazars of Uncertain Type Using Positive-Unlabelled Machine Learning",
+      "summary": "We apply positive-unlabelled (PU) machine learning to the 1623 blazars of uncertain type (BCUs) in the Fermi Large Area Telescope Fourth Source Catalogue, Data Release 4 (4FGL-DR4). Five PU classifiers are trained on seven gamma-ray features, once with the 820 flat-spectrum radio quasars (FSRQs) and once with the 1490…",
+      "url": "https://arxiv.org/abs/2610.35573v1",
+      "publishedAt": "2026-10-26T15:09:04.000Z",
+      "tags": []
+    },
+    {
+      "id": "737cb87c80d4",
+      "agency": "arxiv",
+      "source": "arXiv astro-ph (new submissions)",
+      "title": "SPAM: Survey Overview and JWST/NIRCam Multi-Band Photometry Catalog",
+      "summary": "We present the Star-formation from Photometry through the Addition of Medium-bands (SPAM) survey, a 62.9 hr JWST/NIRCam imaging program to add ten new filters, nine medium-band filters, and one broad-band filter to the CEERS legacy dataset. We describe the observation strategy, present the data, and detail the data-red…",
+      "url": "https://arxiv.org/abs/2610.35570v1",
+      "publishedAt": "2026-10-26T15:07:36.000Z",
+      "tags": []
+    },
+    {
+      "id": "64e6df5bc2b9",
+      "agency": "arxiv",
+      "source": "arXiv astro-ph (new submissions)",
+      "title": "The mass discrepancy problem in massive stars: an inferential perspective",
+      "summary": "Bayesian inference has become a standard tool for inferring stellar parameters from stellar evolution models. However, comparatively little attention has been paid to how alternative Bayesian likelihood formulations influence inferred stellar parameters, and the resulting evolutionary mass discrepancy for massive main…",
+      "url": "https://arxiv.org/abs/2610.35552v1",
+      "publishedAt": "2026-10-26T14:55:54.000Z",
+      "tags": []
+    },
+    {
+      "id": "7771ece92edb",
+      "agency": "arxiv",
+      "source": "arXiv astro-ph (new submissions)",
+      "title": "Explainable Prediction of High-Speed Solar Wind Streams driven by Coronal Holes via Topological Data Analysis",
+      "summary": "High-speed solar wind streams (HSSs) originating from coronal holes (CHs) are an important driver of recurrent geomagnetic activity. Since HSSs are associated to coronal structures visible in extreme-ultraviolet observations, this provides a natural basis for forecasting several days in advance. In this work, we invest…",
+      "url": "https://arxiv.org/abs/2610.35549v1",
+      "publishedAt": "2026-10-26T14:55:12.000Z",
+      "tags": []
+    },
+    {
+      "id": "b1a7c4ddfc49",
+      "agency": "arxiv",
+      "source": "arXiv astro-ph (new submissions)",
+      "title": "A Warped Dust Ring in the CQ Tau Disk",
+      "summary": "The diversity of planetary orbital architectures calls for observational constraints on radial variations in disk-plane orientation, or warps, yet such variations in dust disks remain poorly characterized. CQ Tau is a promising target because its misaligned inner disk and candidate gas warp suggest a radially extended…",
+      "url": "https://arxiv.org/abs/2610.35548v1",
+      "publishedAt": "2026-10-26T14:54:26.000Z",
+      "tags": []
+    },
+    {
+      "id": "6bc109d56c04",
+      "agency": "arxiv",
+      "source": "arXiv astro-ph (new submissions)",
+      "title": "An Intermediate Mass Stripped Star in a 4.2-hour Orbit around a Compact Object",
+      "summary": "From their discovery as radio pulsars to landmark multi-messenger observations of their mergers, double neutron stars have transformed our understanding of the extreme Universe and the formation of heavy elements (Drout et al. 2017; Abbott et al. 2017). Yet, uncertainties in their formation result in predicted merger r…",
+      "url": "https://arxiv.org/abs/2610.35539v1",
+      "publishedAt": "2026-10-26T14:52:19.000Z",
+      "tags": []
+    },
+    {
+      "id": "6fab38f6e26f",
+      "agency": "arxiv",
+      "source": "arXiv astro-ph (new submissions)",
+      "title": "Physical assumptions versus nature: the shape of the heliosphere",
+      "summary": "Context. The Interstellar Probe study describes a mission concept with a launch window beginning in 2036, aiming to reach several hundred astronomical units beyond the heliopause within a time frame of at least 50 years. One of the fundamental questions related to this mission is where the boundaries of the heliosphere…",
+      "url": "https://arxiv.org/abs/2610.35525v1",
+      "publishedAt": "2026-10-26T14:42:15.000Z",
+      "tags": []
+    },
+    {
+      "id": "8a9a895f4ad9",
+      "agency": "arxiv",
+      "source": "arXiv astro-ph (new submissions)",
+      "title": "Delayed maximum energy solar energetic particle events: Statistical analysis from Solar Orbiter",
+      "summary": "Investigations of solar energetic particles (SEPs) have long utilized the dispersive nature of onset times, as in, the earlier arrival of higher-energy particles compared to lower-energy particles, to infer information such as the path length to the acceleration site at the time of initial particle release. However, re…",
+      "url": "https://arxiv.org/abs/2610.35520v1",
+      "publishedAt": "2026-10-26T14:40:23.000Z",
+      "tags": []
+    },
+    {
+      "id": "003cef62de19",
+      "agency": "arxiv",
+      "source": "arXiv astro-ph (new submissions)",
+      "title": "A living catalog of stream interaction regions in the Parker Solar Probe era",
+      "summary": "Stream interaction regions (SIRs) and corotating interaction regions (CIRs) are important phenomena in heliospheric physics. These large-scale structures vary temporally and spatially, both in latitude and with radial distance. The additions of Parker Solar Probe (PSP) and Solar Orbiter have allowed for investigations…",
+      "url": "https://arxiv.org/abs/2610.35506v1",
+      "publishedAt": "2026-10-26T14:32:56.000Z",
+      "tags": []
     },
     {
       "id": "9e261d64e102",
