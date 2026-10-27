@@ -1,13 +1,8 @@
 {
-  "generatedAt": "2026-10-27T17:38:21.978Z",
+  "generatedAt": "2026-10-27T21:53:51.448Z",
   "sourceCount": 5,
-  "itemCount": 60,
-  "errors": [
-    {
-      "source": "NASA breaking news",
-      "message": "Status code 429"
-    }
-  ],
+  "itemCount": 70,
+  "errors": [],
   "apod": {
     "date": "2026-10-27",
     "explanation": " Sometimes it's night on the ground but day in the air. As the Earth rotates to eclipse the Sun, sunset rises upfrom the ground. Therefore, at sunset on the ground, sunlight still shines on clouds above. Under usual circumstances, a pretty sunset might be visible, but unusual noctilucent clouds float so high up they can be seen well after dark. Normally too dim to be seen, they may become visible just after sunset during the summer when illuminated by sunlight from below the horizon. Noctilucent clouds are the highest clouds and are known more technically as polar mesospheric clouds. Featured here as they appeared in early August, a network of blue noctilucent clouds was captured in the distant sky above a field of green grass near Linköping, Sweden, with trees in stark silhouette across the horizon. Much about noctilucent clouds has been discovered only in the past two decades, while how they form and evolve remains a topic of active research.Tomorrow's picture: round and round\t\t\t\t\t\t",
@@ -19,6 +14,20 @@
   },
   "items": [
     {
+      "id": "32360c9fffbd",
+      "agency": "exo",
+      "ra": 324.5359781,
+      "dec": 30.4881882,
+      "source": "NASA Exoplanet Archive",
+      "title": "HAT-P-17 c — catalog entry updated",
+      "summary": "Orbits HAT-P-17: discovered via Radial Velocity, 2012, 13.10x Earth radius, 1080.60x Earth mass, 5584.0-day orbit.",
+      "url": "https://exoplanetarchive.ipac.caltech.edu/overview/HAT-P-17",
+      "publishedAt": "2026-10-27T21:53:41.632Z",
+      "tags": [
+        "Radial Velocity"
+      ]
+    },
+    {
       "id": "93f7623c7c52",
       "agency": "exo",
       "ra": 324.5359781,
@@ -27,7 +36,7 @@
       "title": "HAT-P-17 b — catalog entry updated",
       "summary": "Orbits HAT-P-17: discovered via Transit, 2012, 11.77x Earth radius, 184.34x Earth mass, 10.3-day orbit.",
       "url": "https://exoplanetarchive.ipac.caltech.edu/overview/HAT-P-17",
-      "publishedAt": "2026-10-27T17:37:26.826Z",
+      "publishedAt": "2026-10-27T21:53:41.632Z",
       "tags": [
         "Transit"
       ]
@@ -41,7 +50,7 @@
       "title": "HAT-P-18 b — catalog entry updated",
       "summary": "Orbits HAT-P-18: discovered via Transit, 2010, 10.70x Earth radius, 55.52x Earth mass, 5.5-day orbit.",
       "url": "https://exoplanetarchive.ipac.caltech.edu/overview/HAT-P-18",
-      "publishedAt": "2026-10-27T17:37:26.826Z",
+      "publishedAt": "2026-10-27T21:53:41.632Z",
       "tags": [
         "Transit"
       ]
@@ -55,7 +64,7 @@
       "title": "HAT-P-14 b — catalog entry updated",
       "summary": "Orbits HAT-P-14: discovered via Transit, 2010, 15.92x Earth radius, 1093.34x Earth mass, 4.6-day orbit.",
       "url": "https://exoplanetarchive.ipac.caltech.edu/overview/HAT-P-14",
-      "publishedAt": "2026-10-27T17:37:26.826Z",
+      "publishedAt": "2026-10-27T21:53:41.632Z",
       "tags": [
         "Transit"
       ]
@@ -69,7 +78,7 @@
       "title": "HAT-P-12 b — catalog entry updated",
       "summary": "Orbits HAT-P-12: discovered via Transit, 2009, 10.75x Earth radius, 67.06x Earth mass, 3.2-day orbit.",
       "url": "https://exoplanetarchive.ipac.caltech.edu/overview/HAT-P-12",
-      "publishedAt": "2026-10-27T17:37:26.826Z",
+      "publishedAt": "2026-10-27T21:53:41.632Z",
       "tags": [
         "Transit"
       ]
@@ -83,7 +92,7 @@
       "title": "HAT-P-13 c — catalog entry updated",
       "summary": "Orbits HAT-P-13: discovered via Radial Velocity, 2009, 12.30x Earth radius, 4538.42x Earth mass, 446.3-day orbit.",
       "url": "https://exoplanetarchive.ipac.caltech.edu/overview/HAT-P-13",
-      "publishedAt": "2026-10-27T17:37:26.826Z",
+      "publishedAt": "2026-10-27T21:53:41.632Z",
       "tags": [
         "Radial Velocity"
       ]
@@ -97,7 +106,7 @@
       "title": "HAT-P-13 b — catalog entry updated",
       "summary": "Orbits HAT-P-13: discovered via Transit, 2009, 14.26x Earth radius, 270.46x Earth mass, 2.9-day orbit.",
       "url": "https://exoplanetarchive.ipac.caltech.edu/overview/HAT-P-13",
-      "publishedAt": "2026-10-27T17:37:26.826Z",
+      "publishedAt": "2026-10-27T21:53:41.632Z",
       "tags": [
         "Transit"
       ]
@@ -111,7 +120,7 @@
       "title": "GJ 1214 b — catalog entry updated",
       "summary": "Orbits GJ 1214: discovered via Transit, 2009, 2.73x Earth radius, 8.41x Earth mass, 1.6-day orbit.",
       "url": "https://exoplanetarchive.ipac.caltech.edu/overview/GJ_1214",
-      "publishedAt": "2026-10-27T17:37:26.826Z",
+      "publishedAt": "2026-10-27T21:53:41.632Z",
       "tags": [
         "Transit"
       ]
@@ -125,7 +134,7 @@
       "title": "55 Cnc f — catalog entry updated",
       "summary": "Orbits 55 Cnc: discovered via Radial Velocity, 2007, 7.59x Earth radius, 44.81x Earth mass, 260.6-day orbit.",
       "url": "https://exoplanetarchive.ipac.caltech.edu/overview/55_Cnc",
-      "publishedAt": "2026-10-27T17:37:26.826Z",
+      "publishedAt": "2026-10-27T21:53:41.632Z",
       "tags": [
         "Radial Velocity"
       ]
@@ -139,7 +148,7 @@
       "title": "HAT-P-1 b — catalog entry updated",
       "summary": "Orbits HAT-P-1: discovered via Transit, 2006, 14.78x Earth radius, 166.86x Earth mass, 4.5-day orbit.",
       "url": "https://exoplanetarchive.ipac.caltech.edu/overview/HAT-P-1",
-      "publishedAt": "2026-10-27T17:37:26.826Z",
+      "publishedAt": "2026-10-27T21:53:41.632Z",
       "tags": [
         "Transit"
       ]
@@ -153,7 +162,7 @@
       "title": "55 Cnc c — catalog entry updated",
       "summary": "Orbits 55 Cnc: discovered via Radial Velocity, 2004, 8.51x Earth radius, 54.47x Earth mass, 44.4-day orbit.",
       "url": "https://exoplanetarchive.ipac.caltech.edu/overview/55_Cnc",
-      "publishedAt": "2026-10-27T17:37:26.826Z",
+      "publishedAt": "2026-10-27T21:53:41.632Z",
       "tags": [
         "Radial Velocity"
       ]
@@ -167,7 +176,7 @@
       "title": "55 Cnc e — catalog entry updated",
       "summary": "Orbits 55 Cnc: discovered via Radial Velocity, 2004, 1.88x Earth radius, 7.99x Earth mass, 0.7-day orbit.",
       "url": "https://exoplanetarchive.ipac.caltech.edu/overview/55_Cnc",
-      "publishedAt": "2026-10-27T17:37:26.826Z",
+      "publishedAt": "2026-10-27T21:53:41.632Z",
       "tags": [
         "Radial Velocity"
       ]
@@ -181,7 +190,7 @@
       "title": "GJ 436 b — catalog entry updated",
       "summary": "Orbits GJ 436: discovered via Radial Velocity, 2004, 4.17x Earth radius, 22.10x Earth mass, 2.6-day orbit.",
       "url": "https://exoplanetarchive.ipac.caltech.edu/overview/GJ_436",
-      "publishedAt": "2026-10-27T17:37:26.826Z",
+      "publishedAt": "2026-10-27T21:53:41.632Z",
       "tags": [
         "Radial Velocity"
       ]
@@ -195,7 +204,7 @@
       "title": "55 Cnc d — catalog entry updated",
       "summary": "Orbits 55 Cnc: discovered via Radial Velocity, 2002, 13.00x Earth radius, 1232.49x Earth mass, 4799.0-day orbit.",
       "url": "https://exoplanetarchive.ipac.caltech.edu/overview/55_Cnc",
-      "publishedAt": "2026-10-27T17:37:26.826Z",
+      "publishedAt": "2026-10-27T21:53:41.632Z",
       "tags": [
         "Radial Velocity"
       ]
@@ -209,23 +218,143 @@
       "title": "55 Cnc b — catalog entry updated",
       "summary": "Orbits 55 Cnc: discovered via Radial Velocity, 1996, 13.90x Earth radius, 263.98x Earth mass, 14.7-day orbit.",
       "url": "https://exoplanetarchive.ipac.caltech.edu/overview/55_Cnc",
-      "publishedAt": "2026-10-27T17:37:26.826Z",
+      "publishedAt": "2026-10-27T21:53:41.632Z",
       "tags": [
         "Radial Velocity"
       ]
     },
     {
-      "id": "32360c9fffbd",
-      "agency": "exo",
-      "ra": 324.5359781,
-      "dec": 30.4881882,
-      "source": "NASA Exoplanet Archive",
-      "title": "HAT-P-17 c — catalog entry updated",
-      "summary": "Orbits HAT-P-17: discovered via Radial Velocity, 2012, 13.10x Earth radius, 1080.60x Earth mass, 5584.0-day orbit.",
-      "url": "https://exoplanetarchive.ipac.caltech.edu/overview/HAT-P-17",
-      "publishedAt": "2026-10-27T17:37:26.825Z",
+      "id": "2a05fc2547e0",
+      "agency": "nasa",
+      "source": "NASA breaking news",
+      "title": "NASA Invites Media to Crew Completion of Yearlong Mars Simulation",
+      "summary": "The four volunteers who lived and worked in a simulated NASA Mars mission for more than a year will exit their habitat on Saturday, Oct. 31, after 378 days of isolation in a facility at the agency’s Johnson Space Center in Houston. Health and performance data collected from the simulation can help NASA develop methods…",
+      "url": "https://www.nasa.gov/news-release/nasa-invites-media-to-crew-completion-of-yearlong-mars-simulation/",
+      "publishedAt": "2026-10-27T19:27:22.000Z",
       "tags": [
-        "Radial Velocity"
+        "CHAPEA Mission 2",
+        "Crew Health and Performance Exploration Analog (CHAPEA)",
+        "Human Research Program",
+        "Johnson Space Center",
+        "Missions"
+      ]
+    },
+    {
+      "id": "a8e684ce560e",
+      "agency": "nasa",
+      "source": "NASA breaking news",
+      "title": "NASA’s Neo Surveyor Sunshade",
+      "summary": "A technician inspects the large sunshade of NASA’s Near-Earth Object (NEO) Surveyor mission in this image released on Oct. 26, 2026. The sunshade structure, which stands 20 feet (6 meters) tall and measures 8 feet (2.4 meters) wide at its base, will keep the infrared space telescope cool as it searches for near-Earth a…",
+      "url": "https://www.nasa.gov/image-article/nasas-neo-surveyor-sunshade/",
+      "publishedAt": "2026-10-27T17:58:57.000Z",
+      "tags": []
+    },
+    {
+      "id": "ba39248fe626",
+      "agency": "nasa",
+      "source": "NASA breaking news",
+      "title": "How a Johnson Mentor Shapes the Next Generation of NASA Talent",
+      "summary": "When Rice University student Malvika Bhardwaj asked her mentor Daniel Cohen, a Guidance, Navigation & Control (GN&C) engineer at NASA’s Johnson Space Center, whether he had time to keep teaching interns with his busy workload, he answered, “You decide what’s important.” In honor of National Mentoring Day on Oct. 27, Bh…",
+      "url": "https://www.nasa.gov/general/how-a-johnson-mentor-shapes-the-next-generation-of-nasa-talent/",
+      "publishedAt": "2026-10-27T07:07:51.000Z",
+      "tags": [
+        "General"
+      ]
+    },
+    {
+      "id": "71c246cb8a67",
+      "agency": "nasa",
+      "source": "NASA breaking news",
+      "title": "APOD: 2026 October 27 – Noctilucent Clouds over Sweden",
+      "summary": "APOD Science APOD APOD: 2026 October 27 –… Today’s APOD Archive Submissions Index Search Calendar RSS Education About Discuss APOD Astronomy Picture of the Day Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a professional…",
+      "url": "https://science.nasa.gov/image-article/apod-2026-october-27-noctilucent-clouds-over-sweden/",
+      "publishedAt": "2026-10-27T04:05:00.000Z",
+      "tags": [
+        "APOD"
+      ]
+    },
+    {
+      "id": "bdcea22402e1",
+      "agency": "nasa",
+      "source": "NASA breaking news",
+      "title": "A-81 Reaches South Georgia",
+      "summary": "The Antarctic iceberg made a relatively quick exit from the Weddell Sea, only to slow at the edge of a remote island’s underwater shelf.",
+      "url": "https://science.nasa.gov/earth/earth-observatory/a-81-reaches-south-georgia/",
+      "publishedAt": "2026-10-27T04:00:00.000Z",
+      "tags": [
+        "Earth Observatory",
+        "Ice & Glaciers",
+        "Terra"
+      ]
+    },
+    {
+      "id": "abf236ae8eb6",
+      "agency": "nasa",
+      "source": "NASA breaking news",
+      "title": "NASA’s Perseverance Views Dust at Neretva Vallis",
+      "summary": "Description This 360-degree look at Neretva Vallis within Mars’ Jezero Crater was stitched together using 217 images acquired by the rover’s Mastcam-Z on May 20, 2024, the 1,155th Martian day, or sol, of the mission. While it is a wind-swept dusty vista today, billions of years ago it was home to a river channel that f…",
+      "url": "https://science.nasa.gov/photojournal/nasas-perseverance-views-dust-at-neretva-vallis/",
+      "publishedAt": "2026-10-26T22:48:12.000Z",
+      "tags": [
+        "Mars 2020",
+        "Photojournal"
+      ]
+    },
+    {
+      "id": "d481264fb552",
+      "agency": "nasa",
+      "source": "NASA breaking news",
+      "title": "NASA’s Perseverance Offers Clues to Protect Crews From Mars Dust",
+      "summary": "Over 1,645 Martian days, NASA’s Perseverance Mars rover measured the fine and ultrafine Martian dust particles found clinging to samples of spacesuit materials that are carried aboard the rover, including some that are small enough to penetrate the lungs and enter the bloodstream. The findings will be published Tuesday…",
+      "url": "https://www.nasa.gov/missions/mars-2020-perseverance/nasas-perseverance-offers-clues-to-protect-crews-from-mars-dust/",
+      "publishedAt": "2026-10-26T21:07:28.000Z",
+      "tags": [
+        "Mars 2020",
+        "General",
+        "Jet Propulsion Laboratory",
+        "Mars",
+        "Perseverance (Rover)",
+        "Planetary Science Division"
+      ]
+    },
+    {
+      "id": "653a518b11e8",
+      "agency": "nasa",
+      "source": "NASA breaking news",
+      "title": "NEO Surveyor’s Sunshade Gets Inspected",
+      "summary": "Description The large sunshade of NASA’s Near-Earth Object (NEO) Surveyor is mounted on an assembly ring during inspections in a clean room at BAE Systems Space & Mission Systems in Boulder, Colorado, in July 2026. The sunshade structure stands 20 feet (6 meters) tall and measures 8 feet (2.4 meters) wide at its base.…",
+      "url": "https://science.nasa.gov/photojournal/neo-surveyors-sunshade-gets-inspected/",
+      "publishedAt": "2026-10-26T20:53:13.000Z",
+      "tags": [
+        "NEO Surveyor (Near-Earth Object Surveyor Space Telescope)",
+        "Photojournal"
+      ]
+    },
+    {
+      "id": "a827506fd0dd",
+      "agency": "nasa",
+      "source": "NASA breaking news",
+      "title": "Solar Cells Inspected on NASA’s NEO Surveyor",
+      "summary": "Description The large sunshade of NASA’s Near-Earth Object (NEO) Surveyor mission is inspected by a technician at BAE Systems Space & Mission Systems in Boulder, Colorado, in late July. Built by Applied Aerospace in Stockton, California, the sunshade structure was outfitted with its solar cells by SolAero Technologies…",
+      "url": "https://science.nasa.gov/photojournal/solar-cells-inspected-on-nasas-neo-surveyor/",
+      "publishedAt": "2026-10-26T20:52:24.000Z",
+      "tags": [
+        "NEO Surveyor (Near-Earth Object Surveyor Space Telescope)",
+        "Photojournal"
+      ]
+    },
+    {
+      "id": "f4efc119ed8c",
+      "agency": "nasa",
+      "source": "NASA breaking news",
+      "title": "NASA SEES Interns Tackle Real-World Challenges in Lunar Exploration",
+      "summary": "The NASA STEM (Science, Technology, Engineering, and Mathematics) Enhancement in Earth Science (SEES) Internship Program at the University of Texas Center for Space Research places high school students on small, mission-focused research teams mentored by NASA, academic, and industry experts. During summer 2026, the SEE…",
+      "url": "https://science.nasa.gov/learning-resources/science-activation/nasa-sees-interns-tackle-real-world-challenges-in-lunar-exploration/",
+      "publishedAt": "2026-10-26T19:28:08.000Z",
+      "tags": [
+        "Internships",
+        "Lunar Science",
+        "Science Activation"
       ]
     },
     {
@@ -576,106 +705,6 @@
       "summary": "A new European Southern Observatory (ESO) study has found that current proposals to launch over 1.7 million satellites into orbit, including extremely bright ones, would have “devastating consequences for astronomy.” According to the study, no more than 100 000 faint satellites, below naked eye visibility, should orbit…",
       "url": "https://www.eso.org/public/news/eso2607/",
       "publishedAt": "2026-07-01T12:00:00.000Z",
-      "tags": []
-    },
-    {
-      "id": "4aa41f616de8",
-      "agency": "esa",
-      "source": "ESA/Hubble news",
-      "title": "Science Release: Hubble details early galaxy transforming neighbourhood",
-      "summary": "Astronomers using the NASA/ESA Hubble Space Telescope have found something they never expected: ultraviolet light from a galaxy that existed just 1.4 billion years after the Big Bang. That galaxy contains tightly clustered young stars that produce ionising light capable of transforming the opaque, neutral gas within an…",
-      "url": "https://esahubble.org/news/heic2609/",
-      "publishedAt": "2026-06-23T14:00:00.000Z",
-      "tags": []
-    },
-    {
-      "id": "9f660dbedd4a",
-      "agency": "eso",
-      "source": "ESO press releases",
-      "title": "Strange winds reveal strongest hints yet of magnetic activity in exoplanets",
-      "summary": "A team of astronomers has found the strongest evidence yet that some planets outside our Solar System may be magnetic. Using the European Southern Observatory’s Very Large Telescope (ESO's VLT) and the Gemini North telescope, the researchers measured wind speeds on seven very hot, Jupiter-like exoplanets. The observati…",
-      "url": "https://www.eso.org/public/news/eso2606/",
-      "publishedAt": "2026-06-02T09:00:00.000Z",
-      "tags": []
-    },
-    {
-      "id": "fcf903c5aba3",
-      "agency": "esa",
-      "source": "ESA/Hubble news",
-      "title": "Photo Release: Hubble dazzles with young stars in Trifid Nebula for 36th anniversary",
-      "summary": "The NASA/ESA Hubble Space Telescope looked at a scene it first captured in 1997 in honour of its 36th anniversary: a small portion of a star-forming region about 5000 light-years away in the constellation Sagittarius, known as the Trifid Nebula. The image shows changes over incredibly short timescales and instills a se…",
-      "url": "https://esahubble.org/news/heic2608/",
-      "publishedAt": "2026-04-20T14:00:00.000Z",
-      "tags": []
-    },
-    {
-      "id": "bcf281fe44ca",
-      "agency": "eso",
-      "source": "ESO press releases",
-      "title": "First light for PoET: shining (sun)light on exoplanet research",
-      "summary": "The Paranal solar ESPRESSO Telescope (PoET), installed at the European Southern Observatory's (ESO's) Paranal site in Chile, has made its first observations. The telescope will work with ESO's ESPRESSO instrument to study the Sun in detail. Described as a solar telescope for planet hunters, PoET aims to understand how…",
-      "url": "https://www.eso.org/public/news/eso2605/",
-      "publishedAt": "2026-04-09T12:00:00.000Z",
-      "tags": []
-    },
-    {
-      "id": "87a307bff2f3",
-      "agency": "eso",
-      "source": "ESO press releases",
-      "title": "A Solar System in the making? Two planets spotted forming in disc around young star",
-      "summary": "Astronomers have observed two planets forming in the disc around a young star named WISPIT 2. Having previously detected one planet, the team have now employed European Southern Observatory (ESO) telescopes to confirm the presence of another. These observations, and the unique structure of the disc around the star, ind…",
-      "url": "https://www.eso.org/public/news/eso2604/",
-      "publishedAt": "2026-03-24T13:00:00.000Z",
-      "tags": []
-    },
-    {
-      "id": "1d1bf1aaa4be",
-      "agency": "esa",
-      "source": "ESA/Hubble news",
-      "title": "Photo Release: Hubble revisits Crab Nebula to track 25 years of expansion",
-      "summary": "Nearly a millennium ago, astronomers witnessed a brilliant new star blazing in the sky — a supernova so bright it was visible in daylight for weeks. Today, its expanding remnant, the Crab Nebula, continues to evolve 6,500 light-years away. First linked to historical records by Edwin Hubble, the nebula has since been st…",
-      "url": "https://esahubble.org/news/heic2607/",
-      "publishedAt": "2026-03-23T14:00:00.000Z",
-      "tags": []
-    },
-    {
-      "id": "fc6f29c600b1",
-      "agency": "esa",
-      "source": "ESA/Hubble news",
-      "title": "Science Release: Hubble unexpectedly catches comet breaking up",
-      "summary": "Comet K1, whose full name is Comet C/2025 K1 (ATLAS), had just passed its closest approach to the Sun and was heading out of the Solar System. Though it had been intact just days before, K1 fragmented into at least four pieces while the NASA/ESA Hubble Space Telescope was watching. The odds of that happening while Hubb…",
-      "url": "https://esahubble.org/news/heic2606/",
-      "publishedAt": "2026-03-18T14:00:00.000Z",
-      "tags": []
-    },
-    {
-      "id": "c53f78557e24",
-      "agency": "eso",
-      "source": "ESO press releases",
-      "title": "Largest image of its kind shows hidden chemistry at the heart of the Milky Way",
-      "summary": "Astronomers have captured the central region of our Milky Way in a striking new image, unveiling a complex network of filaments of cosmic gas in unprecedented detail. Obtained with the Atacama Large Millimeter/submillimeter Array (ALMA), this rich dataset — the largest ALMA image to date — will allow astronomers to pro…",
-      "url": "https://www.eso.org/public/news/eso2603/",
-      "publishedAt": "2026-02-25T13:00:00.000Z",
-      "tags": []
-    },
-    {
-      "id": "67b2e29862d2",
-      "agency": "esa",
-      "source": "ESA/Hubble news",
-      "title": "Science Release: Hubble identifies one of darkest known galaxies",
-      "summary": "Most galaxies in the nearby Universe are quite luminous, but some are so faint they’re nearly invisible. Astronomers, using the NASA/ESA Hubble Space Telescope in combination with other observatories, identified a galaxy that appears to be almost entirely dominated by dark matter with only a smattering of stars. The ga…",
-      "url": "https://esahubble.org/news/heic2605/",
-      "publishedAt": "2026-02-18T15:00:00.000Z",
-      "tags": []
-    },
-    {
-      "id": "ae5ccc01bf63",
-      "agency": "esa",
-      "source": "ESA/Hubble news",
-      "title": "Photo Release: Hubble captures light show around rapidly dying star",
-      "summary": "This stunning image from the NASA/ESA Hubble Space Telescope reveals a dramatic interplay of light and shadow in the Egg Nebula, sculpted by freshly ejected stardust. Located approximately 1,000 light-years away in the constellation Cygnus, the Egg Nebula features a central star obscured by a dense cloud of dust. Only…",
-      "url": "https://esahubble.org/news/heic2604/",
-      "publishedAt": "2026-02-10T15:00:00.000Z",
       "tags": []
     }
   ]
