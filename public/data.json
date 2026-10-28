@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-28T12:17:06.405Z",
+  "generatedAt": "2026-10-28T22:18:04.308Z",
   "sourceCount": 5,
   "itemCount": 70,
   "errors": [],
@@ -14,20 +14,6 @@
   },
   "items": [
     {
-      "id": "32360c9fffbd",
-      "agency": "exo",
-      "ra": 324.5359781,
-      "dec": 30.4881882,
-      "source": "NASA Exoplanet Archive",
-      "title": "HAT-P-17 c — catalog entry updated",
-      "summary": "Orbits HAT-P-17: discovered via Radial Velocity, 2012, 13.10x Earth radius, 1080.60x Earth mass, 5584.0-day orbit.",
-      "url": "https://exoplanetarchive.ipac.caltech.edu/overview/HAT-P-17",
-      "publishedAt": "2026-10-28T12:17:05.599Z",
-      "tags": [
-        "Radial Velocity"
-      ]
-    },
-    {
       "id": "93f7623c7c52",
       "agency": "exo",
       "ra": 324.5359781,
@@ -36,7 +22,7 @@
       "title": "HAT-P-17 b — catalog entry updated",
       "summary": "Orbits HAT-P-17: discovered via Transit, 2012, 11.77x Earth radius, 184.34x Earth mass, 10.3-day orbit.",
       "url": "https://exoplanetarchive.ipac.caltech.edu/overview/HAT-P-17",
-      "publishedAt": "2026-10-28T12:17:05.599Z",
+      "publishedAt": "2026-10-28T22:17:48.646Z",
       "tags": [
         "Transit"
       ]
@@ -50,7 +36,7 @@
       "title": "HAT-P-18 b — catalog entry updated",
       "summary": "Orbits HAT-P-18: discovered via Transit, 2010, 10.70x Earth radius, 55.52x Earth mass, 5.5-day orbit.",
       "url": "https://exoplanetarchive.ipac.caltech.edu/overview/HAT-P-18",
-      "publishedAt": "2026-10-28T12:17:05.599Z",
+      "publishedAt": "2026-10-28T22:17:48.646Z",
       "tags": [
         "Transit"
       ]
@@ -64,7 +50,7 @@
       "title": "HAT-P-14 b — catalog entry updated",
       "summary": "Orbits HAT-P-14: discovered via Transit, 2010, 15.92x Earth radius, 1093.34x Earth mass, 4.6-day orbit.",
       "url": "https://exoplanetarchive.ipac.caltech.edu/overview/HAT-P-14",
-      "publishedAt": "2026-10-28T12:17:05.599Z",
+      "publishedAt": "2026-10-28T22:17:48.646Z",
       "tags": [
         "Transit"
       ]
@@ -78,7 +64,7 @@
       "title": "HAT-P-12 b — catalog entry updated",
       "summary": "Orbits HAT-P-12: discovered via Transit, 2009, 10.75x Earth radius, 67.06x Earth mass, 3.2-day orbit.",
       "url": "https://exoplanetarchive.ipac.caltech.edu/overview/HAT-P-12",
-      "publishedAt": "2026-10-28T12:17:05.599Z",
+      "publishedAt": "2026-10-28T22:17:48.646Z",
       "tags": [
         "Transit"
       ]
@@ -92,7 +78,7 @@
       "title": "HAT-P-13 c — catalog entry updated",
       "summary": "Orbits HAT-P-13: discovered via Radial Velocity, 2009, 12.30x Earth radius, 4538.42x Earth mass, 446.3-day orbit.",
       "url": "https://exoplanetarchive.ipac.caltech.edu/overview/HAT-P-13",
-      "publishedAt": "2026-10-28T12:17:05.599Z",
+      "publishedAt": "2026-10-28T22:17:48.646Z",
       "tags": [
         "Radial Velocity"
       ]
@@ -106,7 +92,7 @@
       "title": "HAT-P-13 b — catalog entry updated",
       "summary": "Orbits HAT-P-13: discovered via Transit, 2009, 14.26x Earth radius, 270.46x Earth mass, 2.9-day orbit.",
       "url": "https://exoplanetarchive.ipac.caltech.edu/overview/HAT-P-13",
-      "publishedAt": "2026-10-28T12:17:05.599Z",
+      "publishedAt": "2026-10-28T22:17:48.646Z",
       "tags": [
         "Transit"
       ]
@@ -120,7 +106,7 @@
       "title": "GJ 1214 b — catalog entry updated",
       "summary": "Orbits GJ 1214: discovered via Transit, 2009, 2.73x Earth radius, 8.41x Earth mass, 1.6-day orbit.",
       "url": "https://exoplanetarchive.ipac.caltech.edu/overview/GJ_1214",
-      "publishedAt": "2026-10-28T12:17:05.599Z",
+      "publishedAt": "2026-10-28T22:17:48.646Z",
       "tags": [
         "Transit"
       ]
@@ -134,7 +120,7 @@
       "title": "55 Cnc f — catalog entry updated",
       "summary": "Orbits 55 Cnc: discovered via Radial Velocity, 2007, 7.59x Earth radius, 44.81x Earth mass, 260.6-day orbit.",
       "url": "https://exoplanetarchive.ipac.caltech.edu/overview/55_Cnc",
-      "publishedAt": "2026-10-28T12:17:05.599Z",
+      "publishedAt": "2026-10-28T22:17:48.646Z",
       "tags": [
         "Radial Velocity"
       ]
@@ -148,7 +134,7 @@
       "title": "HAT-P-1 b — catalog entry updated",
       "summary": "Orbits HAT-P-1: discovered via Transit, 2006, 14.78x Earth radius, 166.86x Earth mass, 4.5-day orbit.",
       "url": "https://exoplanetarchive.ipac.caltech.edu/overview/HAT-P-1",
-      "publishedAt": "2026-10-28T12:17:05.599Z",
+      "publishedAt": "2026-10-28T22:17:48.646Z",
       "tags": [
         "Transit"
       ]
@@ -162,7 +148,7 @@
       "title": "55 Cnc c — catalog entry updated",
       "summary": "Orbits 55 Cnc: discovered via Radial Velocity, 2004, 8.51x Earth radius, 54.47x Earth mass, 44.4-day orbit.",
       "url": "https://exoplanetarchive.ipac.caltech.edu/overview/55_Cnc",
-      "publishedAt": "2026-10-28T12:17:05.599Z",
+      "publishedAt": "2026-10-28T22:17:48.646Z",
       "tags": [
         "Radial Velocity"
       ]
@@ -176,7 +162,7 @@
       "title": "55 Cnc e — catalog entry updated",
       "summary": "Orbits 55 Cnc: discovered via Radial Velocity, 2004, 1.88x Earth radius, 7.99x Earth mass, 0.7-day orbit.",
       "url": "https://exoplanetarchive.ipac.caltech.edu/overview/55_Cnc",
-      "publishedAt": "2026-10-28T12:17:05.599Z",
+      "publishedAt": "2026-10-28T22:17:48.646Z",
       "tags": [
         "Radial Velocity"
       ]
@@ -190,7 +176,7 @@
       "title": "GJ 436 b — catalog entry updated",
       "summary": "Orbits GJ 436: discovered via Radial Velocity, 2004, 4.17x Earth radius, 22.10x Earth mass, 2.6-day orbit.",
       "url": "https://exoplanetarchive.ipac.caltech.edu/overview/GJ_436",
-      "publishedAt": "2026-10-28T12:17:05.599Z",
+      "publishedAt": "2026-10-28T22:17:48.646Z",
       "tags": [
         "Radial Velocity"
       ]
@@ -204,7 +190,7 @@
       "title": "55 Cnc d — catalog entry updated",
       "summary": "Orbits 55 Cnc: discovered via Radial Velocity, 2002, 13.00x Earth radius, 1232.49x Earth mass, 4799.0-day orbit.",
       "url": "https://exoplanetarchive.ipac.caltech.edu/overview/55_Cnc",
-      "publishedAt": "2026-10-28T12:17:05.599Z",
+      "publishedAt": "2026-10-28T22:17:48.646Z",
       "tags": [
         "Radial Velocity"
       ]
@@ -218,10 +204,93 @@
       "title": "55 Cnc b — catalog entry updated",
       "summary": "Orbits 55 Cnc: discovered via Radial Velocity, 1996, 13.90x Earth radius, 263.98x Earth mass, 14.7-day orbit.",
       "url": "https://exoplanetarchive.ipac.caltech.edu/overview/55_Cnc",
-      "publishedAt": "2026-10-28T12:17:05.599Z",
+      "publishedAt": "2026-10-28T22:17:48.646Z",
       "tags": [
         "Radial Velocity"
       ]
+    },
+    {
+      "id": "32360c9fffbd",
+      "agency": "exo",
+      "ra": 324.5359781,
+      "dec": 30.4881882,
+      "source": "NASA Exoplanet Archive",
+      "title": "HAT-P-17 c — catalog entry updated",
+      "summary": "Orbits HAT-P-17: discovered via Radial Velocity, 2012, 13.10x Earth radius, 1080.60x Earth mass, 5584.0-day orbit.",
+      "url": "https://exoplanetarchive.ipac.caltech.edu/overview/HAT-P-17",
+      "publishedAt": "2026-10-28T22:17:48.645Z",
+      "tags": [
+        "Radial Velocity"
+      ]
+    },
+    {
+      "id": "af53f1e2976f",
+      "agency": "nasa",
+      "source": "NASA breaking news",
+      "title": "NASA Welcomes Vietnam as Newest Artemis Accords Signatory",
+      "summary": "The Socialist Republic of Vietnam became the 78th nation to sign the Artemis Accords, joining a growing coalition of like-minded nations committed to the peaceful, transparent, and responsible exploration of space. “Vietnam is joining at an important point in the development of its own space program,” said NASA Deputy…",
+      "url": "https://www.nasa.gov/organizations/oiir/nasa-welcomes-vietnam-as-newest-artemis-accords-signatory/",
+      "publishedAt": "2026-10-28T21:50:01.000Z",
+      "tags": [
+        "Office of International and Interagency Relations (OIIR)",
+        "Artemis Accords"
+      ]
+    },
+    {
+      "id": "a70a0f7a37cd",
+      "agency": "nasa",
+      "source": "NASA breaking news",
+      "title": "Artemis III SLS Core Stage Joins Boosters at Kennedy",
+      "summary": "NASA’s Artemis III SLS (Space Launch System) core stage is integrated alongside the twin solid rocket boosters on Oct. 28 inside the Vehicle Assembly Building’s High Bay 3 at NASA’s Kennedy Space Center in Florida. Technicians lifted the 212-foot rocket stage from the facility’s High Bay 2 using a one-of-a kind lifting…",
+      "url": "https://www.nasa.gov/image-article/artemis-iii-sls-core-stage-joins-boosters-at-kennedy/",
+      "publishedAt": "2026-10-28T18:59:44.000Z",
+      "tags": [
+        "Andre Douglas",
+        "Artemis",
+        "Artemis 3",
+        "Exploration Ground Systems",
+        "Frank Rubio",
+        "Kennedy Space Center",
+        "Randolph J. Bresnik",
+        "Space Launch System (SLS)"
+      ]
+    },
+    {
+      "id": "6b410a9fdd53",
+      "agency": "nasa",
+      "source": "NASA breaking news",
+      "title": "NASA University Challenge Ignites Trajectory of Drone Entrepreneur",
+      "summary": "Five years ago, Gavin Gardner was a Michigan State University engineering student researching next-generation drone technology as part of a NASA grant. Garder expected the research to be demanding – but he was surprised that navigating the financial side of the work presented an even greater challenge. Although Gardner…",
+      "url": "https://www.nasa.gov/aeronautics/nasa-challenge-drone-entrepreneur/",
+      "publishedAt": "2026-10-28T18:00:28.000Z",
+      "tags": [
+        "Aeronautics",
+        "Aeronautics Research Mission Directorate",
+        "Research and Technology Mission Directorate",
+        "Transformative Aeronautics Concepts Program",
+        "University Innovation",
+        "University Student Research Challenge"
+      ]
+    },
+    {
+      "id": "d72684dc43e2",
+      "agency": "nasa",
+      "source": "NASA breaking news",
+      "title": "NASA Selects 19 New Citizen Science Proposals in 2026",
+      "summary": "So far, 2026 has seen a flood of successes for volunteers who do NASA science, exemplifying NASA’s commitment to gold-standard science—transparent, reproducible and intrinsically collaborative. The Backyard Worlds: Planet 9 project announced that their project volunteers have now discovered most of the known brown dwar…",
+      "url": "https://science.nasa.gov/get-involved/citizen-science/nasa-selects-19-new-citizen-science-proposals-in-2026/",
+      "publishedAt": "2026-10-28T16:25:29.000Z",
+      "tags": []
+    },
+    {
+      "id": "d518830cd5d6",
+      "agency": "nasa",
+      "source": "NASA breaking news",
+      "title": "Webb Sees Turbulent Star Nursery",
+      "summary": "In this Webb image released on Oct. 22, 2026, we see a turbulent cauldron of star formation filled with dense clumps of gas. This region is named N159 and is located 161,000 light-years away in the Large Magellanic Cloud, one of the satellite galaxies orbiting the Milky Way galaxy. This region has a lower metallicity […",
+      "url": "https://www.nasa.gov/image-article/webb-sees-turbulent-star-nursery/",
+      "publishedAt": "2026-10-28T15:33:10.000Z",
+      "tags": []
     },
     {
       "id": "61bae4d50665",
@@ -240,7 +309,7 @@
       "agency": "nasa",
       "source": "NASA breaking news",
       "title": "APOD: 2026 October 28 – The Mutual Occultation of Ganymede and Io",
-      "summary": "APOD Science APOD APOD: 2026 October 28 – The… Today’s APOD Archive Submissions Index Search Calendar RSS Education About Discuss APOD Astronomy Picture of the Day Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a professio…",
+      "summary": "APODScienceAPODAPOD: 2026 October 28 – The…Today’s APODArchiveSubmissionsIndexSearchCalendarRSSEducationAboutDiscuss APOD Astronomy Picture of the Day Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a professional astronome…",
       "url": "https://science.nasa.gov/image-article/apod-2026-october-28-the-mutual-occultation-of-ganymede-and-io/",
       "publishedAt": "2026-10-28T04:05:00.000Z",
       "tags": [
@@ -536,74 +605,6 @@
       "url": "https://arxiv.org/abs/2610.37414v1",
       "publishedAt": "2026-10-27T15:31:52.000Z",
       "tags": []
-    },
-    {
-      "id": "ba39248fe626",
-      "agency": "nasa",
-      "source": "NASA breaking news",
-      "title": "How a Johnson Mentor Shapes the Next Generation of NASA Talent",
-      "summary": "When Rice University student Malvika Bhardwaj asked her mentor Daniel Cohen, a Guidance, Navigation & Control (GN&C) engineer at NASA’s Johnson Space Center, whether he had time to keep teaching interns with his busy workload, he answered, “You decide what’s important.” In honor of National Mentoring Day on Oct. 27, Bh…",
-      "url": "https://www.nasa.gov/general/how-a-johnson-mentor-shapes-the-next-generation-of-nasa-talent/",
-      "publishedAt": "2026-10-27T07:07:51.000Z",
-      "tags": [
-        "General"
-      ]
-    },
-    {
-      "id": "71c246cb8a67",
-      "agency": "nasa",
-      "source": "NASA breaking news",
-      "title": "APOD: 2026 October 27 – Noctilucent Clouds over Sweden",
-      "summary": "APOD Science APOD APOD: 2026 October 27 –… Today’s APOD Archive Submissions Index Search Calendar RSS Education About Discuss APOD Astronomy Picture of the Day Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a professional…",
-      "url": "https://science.nasa.gov/image-article/apod-2026-october-27-noctilucent-clouds-over-sweden/",
-      "publishedAt": "2026-10-27T04:05:00.000Z",
-      "tags": [
-        "APOD"
-      ]
-    },
-    {
-      "id": "bdcea22402e1",
-      "agency": "nasa",
-      "source": "NASA breaking news",
-      "title": "A-81 Reaches South Georgia",
-      "summary": "The Antarctic iceberg made a relatively quick exit from the Weddell Sea, only to slow at the edge of a remote island’s underwater shelf.",
-      "url": "https://science.nasa.gov/earth/earth-observatory/a-81-reaches-south-georgia/",
-      "publishedAt": "2026-10-27T04:00:00.000Z",
-      "tags": [
-        "Earth Observatory",
-        "Ice & Glaciers",
-        "Terra"
-      ]
-    },
-    {
-      "id": "abf236ae8eb6",
-      "agency": "nasa",
-      "source": "NASA breaking news",
-      "title": "NASA’s Perseverance Views Dust at Neretva Vallis",
-      "summary": "Description This 360-degree look at Neretva Vallis within Mars’ Jezero Crater was stitched together using 217 images acquired by the rover’s Mastcam-Z on May 20, 2024, the 1,155th Martian day, or sol, of the mission. While it is a wind-swept dusty vista today, billions of years ago it was home to a river channel that f…",
-      "url": "https://science.nasa.gov/photojournal/nasas-perseverance-views-dust-at-neretva-vallis/",
-      "publishedAt": "2026-10-26T22:48:12.000Z",
-      "tags": [
-        "Mars 2020",
-        "Photojournal"
-      ]
-    },
-    {
-      "id": "d481264fb552",
-      "agency": "nasa",
-      "source": "NASA breaking news",
-      "title": "NASA’s Perseverance Offers Clues to Protect Crews From Mars Dust",
-      "summary": "Over 1,645 Martian days, NASA’s Perseverance Mars rover measured the fine and ultrafine Martian dust particles found clinging to samples of spacesuit materials that are carried aboard the rover, including some that are small enough to penetrate the lungs and enter the bloodstream. The findings will be published Tuesday…",
-      "url": "https://www.nasa.gov/missions/mars-2020-perseverance/nasas-perseverance-offers-clues-to-protect-crews-from-mars-dust/",
-      "publishedAt": "2026-10-26T21:07:28.000Z",
-      "tags": [
-        "Mars 2020",
-        "General",
-        "Jet Propulsion Laboratory",
-        "Mars",
-        "Perseverance (Rover)",
-        "Planetary Science Division"
-      ]
     },
     {
       "id": "9e261d64e102",
