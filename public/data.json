@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-28T04:30:54.901Z",
+  "generatedAt": "2026-10-28T12:17:06.405Z",
   "sourceCount": 5,
   "itemCount": 70,
   "errors": [],
@@ -22,7 +22,7 @@
       "title": "HAT-P-17 c — catalog entry updated",
       "summary": "Orbits HAT-P-17: discovered via Radial Velocity, 2012, 13.10x Earth radius, 1080.60x Earth mass, 5584.0-day orbit.",
       "url": "https://exoplanetarchive.ipac.caltech.edu/overview/HAT-P-17",
-      "publishedAt": "2026-10-28T04:30:54.627Z",
+      "publishedAt": "2026-10-28T12:17:05.599Z",
       "tags": [
         "Radial Velocity"
       ]
@@ -36,7 +36,7 @@
       "title": "HAT-P-17 b — catalog entry updated",
       "summary": "Orbits HAT-P-17: discovered via Transit, 2012, 11.77x Earth radius, 184.34x Earth mass, 10.3-day orbit.",
       "url": "https://exoplanetarchive.ipac.caltech.edu/overview/HAT-P-17",
-      "publishedAt": "2026-10-28T04:30:54.627Z",
+      "publishedAt": "2026-10-28T12:17:05.599Z",
       "tags": [
         "Transit"
       ]
@@ -50,7 +50,7 @@
       "title": "HAT-P-18 b — catalog entry updated",
       "summary": "Orbits HAT-P-18: discovered via Transit, 2010, 10.70x Earth radius, 55.52x Earth mass, 5.5-day orbit.",
       "url": "https://exoplanetarchive.ipac.caltech.edu/overview/HAT-P-18",
-      "publishedAt": "2026-10-28T04:30:54.627Z",
+      "publishedAt": "2026-10-28T12:17:05.599Z",
       "tags": [
         "Transit"
       ]
@@ -64,7 +64,7 @@
       "title": "HAT-P-14 b — catalog entry updated",
       "summary": "Orbits HAT-P-14: discovered via Transit, 2010, 15.92x Earth radius, 1093.34x Earth mass, 4.6-day orbit.",
       "url": "https://exoplanetarchive.ipac.caltech.edu/overview/HAT-P-14",
-      "publishedAt": "2026-10-28T04:30:54.627Z",
+      "publishedAt": "2026-10-28T12:17:05.599Z",
       "tags": [
         "Transit"
       ]
@@ -78,7 +78,7 @@
       "title": "HAT-P-12 b — catalog entry updated",
       "summary": "Orbits HAT-P-12: discovered via Transit, 2009, 10.75x Earth radius, 67.06x Earth mass, 3.2-day orbit.",
       "url": "https://exoplanetarchive.ipac.caltech.edu/overview/HAT-P-12",
-      "publishedAt": "2026-10-28T04:30:54.627Z",
+      "publishedAt": "2026-10-28T12:17:05.599Z",
       "tags": [
         "Transit"
       ]
@@ -92,7 +92,7 @@
       "title": "HAT-P-13 c — catalog entry updated",
       "summary": "Orbits HAT-P-13: discovered via Radial Velocity, 2009, 12.30x Earth radius, 4538.42x Earth mass, 446.3-day orbit.",
       "url": "https://exoplanetarchive.ipac.caltech.edu/overview/HAT-P-13",
-      "publishedAt": "2026-10-28T04:30:54.627Z",
+      "publishedAt": "2026-10-28T12:17:05.599Z",
       "tags": [
         "Radial Velocity"
       ]
@@ -106,7 +106,7 @@
       "title": "HAT-P-13 b — catalog entry updated",
       "summary": "Orbits HAT-P-13: discovered via Transit, 2009, 14.26x Earth radius, 270.46x Earth mass, 2.9-day orbit.",
       "url": "https://exoplanetarchive.ipac.caltech.edu/overview/HAT-P-13",
-      "publishedAt": "2026-10-28T04:30:54.627Z",
+      "publishedAt": "2026-10-28T12:17:05.599Z",
       "tags": [
         "Transit"
       ]
@@ -120,7 +120,7 @@
       "title": "GJ 1214 b — catalog entry updated",
       "summary": "Orbits GJ 1214: discovered via Transit, 2009, 2.73x Earth radius, 8.41x Earth mass, 1.6-day orbit.",
       "url": "https://exoplanetarchive.ipac.caltech.edu/overview/GJ_1214",
-      "publishedAt": "2026-10-28T04:30:54.627Z",
+      "publishedAt": "2026-10-28T12:17:05.599Z",
       "tags": [
         "Transit"
       ]
@@ -134,7 +134,7 @@
       "title": "55 Cnc f — catalog entry updated",
       "summary": "Orbits 55 Cnc: discovered via Radial Velocity, 2007, 7.59x Earth radius, 44.81x Earth mass, 260.6-day orbit.",
       "url": "https://exoplanetarchive.ipac.caltech.edu/overview/55_Cnc",
-      "publishedAt": "2026-10-28T04:30:54.627Z",
+      "publishedAt": "2026-10-28T12:17:05.599Z",
       "tags": [
         "Radial Velocity"
       ]
@@ -148,7 +148,7 @@
       "title": "HAT-P-1 b — catalog entry updated",
       "summary": "Orbits HAT-P-1: discovered via Transit, 2006, 14.78x Earth radius, 166.86x Earth mass, 4.5-day orbit.",
       "url": "https://exoplanetarchive.ipac.caltech.edu/overview/HAT-P-1",
-      "publishedAt": "2026-10-28T04:30:54.627Z",
+      "publishedAt": "2026-10-28T12:17:05.599Z",
       "tags": [
         "Transit"
       ]
@@ -162,7 +162,7 @@
       "title": "55 Cnc c — catalog entry updated",
       "summary": "Orbits 55 Cnc: discovered via Radial Velocity, 2004, 8.51x Earth radius, 54.47x Earth mass, 44.4-day orbit.",
       "url": "https://exoplanetarchive.ipac.caltech.edu/overview/55_Cnc",
-      "publishedAt": "2026-10-28T04:30:54.627Z",
+      "publishedAt": "2026-10-28T12:17:05.599Z",
       "tags": [
         "Radial Velocity"
       ]
@@ -176,7 +176,7 @@
       "title": "55 Cnc e — catalog entry updated",
       "summary": "Orbits 55 Cnc: discovered via Radial Velocity, 2004, 1.88x Earth radius, 7.99x Earth mass, 0.7-day orbit.",
       "url": "https://exoplanetarchive.ipac.caltech.edu/overview/55_Cnc",
-      "publishedAt": "2026-10-28T04:30:54.627Z",
+      "publishedAt": "2026-10-28T12:17:05.599Z",
       "tags": [
         "Radial Velocity"
       ]
@@ -190,7 +190,7 @@
       "title": "GJ 436 b — catalog entry updated",
       "summary": "Orbits GJ 436: discovered via Radial Velocity, 2004, 4.17x Earth radius, 22.10x Earth mass, 2.6-day orbit.",
       "url": "https://exoplanetarchive.ipac.caltech.edu/overview/GJ_436",
-      "publishedAt": "2026-10-28T04:30:54.627Z",
+      "publishedAt": "2026-10-28T12:17:05.599Z",
       "tags": [
         "Radial Velocity"
       ]
@@ -204,7 +204,7 @@
       "title": "55 Cnc d — catalog entry updated",
       "summary": "Orbits 55 Cnc: discovered via Radial Velocity, 2002, 13.00x Earth radius, 1232.49x Earth mass, 4799.0-day orbit.",
       "url": "https://exoplanetarchive.ipac.caltech.edu/overview/55_Cnc",
-      "publishedAt": "2026-10-28T04:30:54.627Z",
+      "publishedAt": "2026-10-28T12:17:05.599Z",
       "tags": [
         "Radial Velocity"
       ]
@@ -218,9 +218,47 @@
       "title": "55 Cnc b — catalog entry updated",
       "summary": "Orbits 55 Cnc: discovered via Radial Velocity, 1996, 13.90x Earth radius, 263.98x Earth mass, 14.7-day orbit.",
       "url": "https://exoplanetarchive.ipac.caltech.edu/overview/55_Cnc",
-      "publishedAt": "2026-10-28T04:30:54.627Z",
+      "publishedAt": "2026-10-28T12:17:05.599Z",
       "tags": [
         "Radial Velocity"
+      ]
+    },
+    {
+      "id": "61bae4d50665",
+      "agency": "nasa",
+      "source": "NASA breaking news",
+      "title": "Curiosity Blog, Sols 5043-5049: Preparing to Drill at ‘Nazca’",
+      "summary": "Written by Lucy Lim, Planetary Scientist at NASA’s Goddard Space Flight Center Earth planning date: Friday, Oct. 16, 2026 Following the Basque Lakes drill campaign, Curiosity has returned to a spot just a few meters away from the “Chiu Chiu” block to conduct our next drill campaign. “Chiu Chiu” itself wasn’t a good can…",
+      "url": "https://science.nasa.gov/blog/curiosity-blog-sols-5043-5049-preparing-to-drill-at-nazca/",
+      "publishedAt": "2026-10-28T05:39:46.000Z",
+      "tags": [
+        "Blogs"
+      ]
+    },
+    {
+      "id": "42d7a3e217ca",
+      "agency": "nasa",
+      "source": "NASA breaking news",
+      "title": "APOD: 2026 October 28 – The Mutual Occultation of Ganymede and Io",
+      "summary": "APOD Science APOD APOD: 2026 October 28 – The… Today’s APOD Archive Submissions Index Search Calendar RSS Education About Discuss APOD Astronomy Picture of the Day Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a professio…",
+      "url": "https://science.nasa.gov/image-article/apod-2026-october-28-the-mutual-occultation-of-ganymede-and-io/",
+      "publishedAt": "2026-10-28T04:05:00.000Z",
+      "tags": [
+        "APOD"
+      ]
+    },
+    {
+      "id": "bba4470f1d39",
+      "agency": "nasa",
+      "source": "NASA breaking news",
+      "title": "The Land of the Standing-Up Rocks",
+      "summary": "A national monument since the 1920s, Chiricahua is America’s newest national park.",
+      "url": "https://science.nasa.gov/earth/earth-observatory/the-land-of-the-standing-up-rocks/",
+      "publishedAt": "2026-10-28T04:01:00.000Z",
+      "tags": [
+        "Earth Observatory",
+        "Landsat 9",
+        "Topography"
       ]
     },
     {
@@ -565,46 +603,6 @@
         "Mars",
         "Perseverance (Rover)",
         "Planetary Science Division"
-      ]
-    },
-    {
-      "id": "653a518b11e8",
-      "agency": "nasa",
-      "source": "NASA breaking news",
-      "title": "NEO Surveyor’s Sunshade Gets Inspected",
-      "summary": "Description The large sunshade of NASA’s Near-Earth Object (NEO) Surveyor is mounted on an assembly ring during inspections in a clean room at BAE Systems Space & Mission Systems in Boulder, Colorado, in July 2026. The sunshade structure stands 20 feet (6 meters) tall and measures 8 feet (2.4 meters) wide at its base.…",
-      "url": "https://science.nasa.gov/photojournal/neo-surveyors-sunshade-gets-inspected/",
-      "publishedAt": "2026-10-26T20:53:13.000Z",
-      "tags": [
-        "NEO Surveyor (Near-Earth Object Surveyor Space Telescope)",
-        "Photojournal"
-      ]
-    },
-    {
-      "id": "a827506fd0dd",
-      "agency": "nasa",
-      "source": "NASA breaking news",
-      "title": "Solar Cells Inspected on NASA’s NEO Surveyor",
-      "summary": "Description The large sunshade of NASA’s Near-Earth Object (NEO) Surveyor mission is inspected by a technician at BAE Systems Space & Mission Systems in Boulder, Colorado, in late July. Built by Applied Aerospace in Stockton, California, the sunshade structure was outfitted with its solar cells by SolAero Technologies…",
-      "url": "https://science.nasa.gov/photojournal/solar-cells-inspected-on-nasas-neo-surveyor/",
-      "publishedAt": "2026-10-26T20:52:24.000Z",
-      "tags": [
-        "NEO Surveyor (Near-Earth Object Surveyor Space Telescope)",
-        "Photojournal"
-      ]
-    },
-    {
-      "id": "f4efc119ed8c",
-      "agency": "nasa",
-      "source": "NASA breaking news",
-      "title": "NASA SEES Interns Tackle Real-World Challenges in Lunar Exploration",
-      "summary": "The NASA STEM (Science, Technology, Engineering, and Mathematics) Enhancement in Earth Science (SEES) Internship Program at the University of Texas Center for Space Research places high school students on small, mission-focused research teams mentored by NASA, academic, and industry experts. During summer 2026, the SEE…",
-      "url": "https://science.nasa.gov/learning-resources/science-activation/nasa-sees-interns-tackle-real-world-challenges-in-lunar-exploration/",
-      "publishedAt": "2026-10-26T19:28:08.000Z",
-      "tags": [
-        "Internships",
-        "Lunar Science",
-        "Science Activation"
       ]
     },
     {
