@@ -1,11 +1,11 @@
 {
-  "generatedAt": "2026-10-27T21:53:51.448Z",
+  "generatedAt": "2026-10-28T04:30:54.901Z",
   "sourceCount": 5,
   "itemCount": 70,
   "errors": [],
   "apod": {
-    "date": "2026-10-27",
-    "explanation": " Sometimes it's night on the ground but day in the air. As the Earth rotates to eclipse the Sun, sunset rises upfrom the ground. Therefore, at sunset on the ground, sunlight still shines on clouds above. Under usual circumstances, a pretty sunset might be visible, but unusual noctilucent clouds float so high up they can be seen well after dark. Normally too dim to be seen, they may become visible just after sunset during the summer when illuminated by sunlight from below the horizon. Noctilucent clouds are the highest clouds and are known more technically as polar mesospheric clouds. Featured here as they appeared in early August, a network of blue noctilucent clouds was captured in the distant sky above a field of green grass near Linköping, Sweden, with trees in stark silhouette across the horizon. Much about noctilucent clouds has been discovered only in the past two decades, while how they form and evolve remains a topic of active research.Tomorrow's picture: round and round\t\t\t\t\t\t",
+    "date": "2026-10-28",
+    "explanation": "To view this video please enable JavaScript, and consider upgrading to a web browser that \t\t\t\t\tsupports HTML5 vide",
     "hdurl": "https://science.nasa.gov/wp-content/themes/nasa-child/assets/images/nasa-logo@2x.png",
     "media_type": "image",
     "service_version": "v1",
@@ -22,7 +22,7 @@
       "title": "HAT-P-17 c — catalog entry updated",
       "summary": "Orbits HAT-P-17: discovered via Radial Velocity, 2012, 13.10x Earth radius, 1080.60x Earth mass, 5584.0-day orbit.",
       "url": "https://exoplanetarchive.ipac.caltech.edu/overview/HAT-P-17",
-      "publishedAt": "2026-10-27T21:53:41.632Z",
+      "publishedAt": "2026-10-28T04:30:54.627Z",
       "tags": [
         "Radial Velocity"
       ]
@@ -36,7 +36,7 @@
       "title": "HAT-P-17 b — catalog entry updated",
       "summary": "Orbits HAT-P-17: discovered via Transit, 2012, 11.77x Earth radius, 184.34x Earth mass, 10.3-day orbit.",
       "url": "https://exoplanetarchive.ipac.caltech.edu/overview/HAT-P-17",
-      "publishedAt": "2026-10-27T21:53:41.632Z",
+      "publishedAt": "2026-10-28T04:30:54.627Z",
       "tags": [
         "Transit"
       ]
@@ -50,7 +50,7 @@
       "title": "HAT-P-18 b — catalog entry updated",
       "summary": "Orbits HAT-P-18: discovered via Transit, 2010, 10.70x Earth radius, 55.52x Earth mass, 5.5-day orbit.",
       "url": "https://exoplanetarchive.ipac.caltech.edu/overview/HAT-P-18",
-      "publishedAt": "2026-10-27T21:53:41.632Z",
+      "publishedAt": "2026-10-28T04:30:54.627Z",
       "tags": [
         "Transit"
       ]
@@ -64,7 +64,7 @@
       "title": "HAT-P-14 b — catalog entry updated",
       "summary": "Orbits HAT-P-14: discovered via Transit, 2010, 15.92x Earth radius, 1093.34x Earth mass, 4.6-day orbit.",
       "url": "https://exoplanetarchive.ipac.caltech.edu/overview/HAT-P-14",
-      "publishedAt": "2026-10-27T21:53:41.632Z",
+      "publishedAt": "2026-10-28T04:30:54.627Z",
       "tags": [
         "Transit"
       ]
@@ -78,7 +78,7 @@
       "title": "HAT-P-12 b — catalog entry updated",
       "summary": "Orbits HAT-P-12: discovered via Transit, 2009, 10.75x Earth radius, 67.06x Earth mass, 3.2-day orbit.",
       "url": "https://exoplanetarchive.ipac.caltech.edu/overview/HAT-P-12",
-      "publishedAt": "2026-10-27T21:53:41.632Z",
+      "publishedAt": "2026-10-28T04:30:54.627Z",
       "tags": [
         "Transit"
       ]
@@ -92,7 +92,7 @@
       "title": "HAT-P-13 c — catalog entry updated",
       "summary": "Orbits HAT-P-13: discovered via Radial Velocity, 2009, 12.30x Earth radius, 4538.42x Earth mass, 446.3-day orbit.",
       "url": "https://exoplanetarchive.ipac.caltech.edu/overview/HAT-P-13",
-      "publishedAt": "2026-10-27T21:53:41.632Z",
+      "publishedAt": "2026-10-28T04:30:54.627Z",
       "tags": [
         "Radial Velocity"
       ]
@@ -106,7 +106,7 @@
       "title": "HAT-P-13 b — catalog entry updated",
       "summary": "Orbits HAT-P-13: discovered via Transit, 2009, 14.26x Earth radius, 270.46x Earth mass, 2.9-day orbit.",
       "url": "https://exoplanetarchive.ipac.caltech.edu/overview/HAT-P-13",
-      "publishedAt": "2026-10-27T21:53:41.632Z",
+      "publishedAt": "2026-10-28T04:30:54.627Z",
       "tags": [
         "Transit"
       ]
@@ -120,7 +120,7 @@
       "title": "GJ 1214 b — catalog entry updated",
       "summary": "Orbits GJ 1214: discovered via Transit, 2009, 2.73x Earth radius, 8.41x Earth mass, 1.6-day orbit.",
       "url": "https://exoplanetarchive.ipac.caltech.edu/overview/GJ_1214",
-      "publishedAt": "2026-10-27T21:53:41.632Z",
+      "publishedAt": "2026-10-28T04:30:54.627Z",
       "tags": [
         "Transit"
       ]
@@ -134,7 +134,7 @@
       "title": "55 Cnc f — catalog entry updated",
       "summary": "Orbits 55 Cnc: discovered via Radial Velocity, 2007, 7.59x Earth radius, 44.81x Earth mass, 260.6-day orbit.",
       "url": "https://exoplanetarchive.ipac.caltech.edu/overview/55_Cnc",
-      "publishedAt": "2026-10-27T21:53:41.632Z",
+      "publishedAt": "2026-10-28T04:30:54.627Z",
       "tags": [
         "Radial Velocity"
       ]
@@ -148,7 +148,7 @@
       "title": "HAT-P-1 b — catalog entry updated",
       "summary": "Orbits HAT-P-1: discovered via Transit, 2006, 14.78x Earth radius, 166.86x Earth mass, 4.5-day orbit.",
       "url": "https://exoplanetarchive.ipac.caltech.edu/overview/HAT-P-1",
-      "publishedAt": "2026-10-27T21:53:41.632Z",
+      "publishedAt": "2026-10-28T04:30:54.627Z",
       "tags": [
         "Transit"
       ]
@@ -162,7 +162,7 @@
       "title": "55 Cnc c — catalog entry updated",
       "summary": "Orbits 55 Cnc: discovered via Radial Velocity, 2004, 8.51x Earth radius, 54.47x Earth mass, 44.4-day orbit.",
       "url": "https://exoplanetarchive.ipac.caltech.edu/overview/55_Cnc",
-      "publishedAt": "2026-10-27T21:53:41.632Z",
+      "publishedAt": "2026-10-28T04:30:54.627Z",
       "tags": [
         "Radial Velocity"
       ]
@@ -176,7 +176,7 @@
       "title": "55 Cnc e — catalog entry updated",
       "summary": "Orbits 55 Cnc: discovered via Radial Velocity, 2004, 1.88x Earth radius, 7.99x Earth mass, 0.7-day orbit.",
       "url": "https://exoplanetarchive.ipac.caltech.edu/overview/55_Cnc",
-      "publishedAt": "2026-10-27T21:53:41.632Z",
+      "publishedAt": "2026-10-28T04:30:54.627Z",
       "tags": [
         "Radial Velocity"
       ]
@@ -190,7 +190,7 @@
       "title": "GJ 436 b — catalog entry updated",
       "summary": "Orbits GJ 436: discovered via Radial Velocity, 2004, 4.17x Earth radius, 22.10x Earth mass, 2.6-day orbit.",
       "url": "https://exoplanetarchive.ipac.caltech.edu/overview/GJ_436",
-      "publishedAt": "2026-10-27T21:53:41.632Z",
+      "publishedAt": "2026-10-28T04:30:54.627Z",
       "tags": [
         "Radial Velocity"
       ]
@@ -204,7 +204,7 @@
       "title": "55 Cnc d — catalog entry updated",
       "summary": "Orbits 55 Cnc: discovered via Radial Velocity, 2002, 13.00x Earth radius, 1232.49x Earth mass, 4799.0-day orbit.",
       "url": "https://exoplanetarchive.ipac.caltech.edu/overview/55_Cnc",
-      "publishedAt": "2026-10-27T21:53:41.632Z",
+      "publishedAt": "2026-10-28T04:30:54.627Z",
       "tags": [
         "Radial Velocity"
       ]
@@ -218,7 +218,7 @@
       "title": "55 Cnc b — catalog entry updated",
       "summary": "Orbits 55 Cnc: discovered via Radial Velocity, 1996, 13.90x Earth radius, 263.98x Earth mass, 14.7-day orbit.",
       "url": "https://exoplanetarchive.ipac.caltech.edu/overview/55_Cnc",
-      "publishedAt": "2026-10-27T21:53:41.632Z",
+      "publishedAt": "2026-10-28T04:30:54.627Z",
       "tags": [
         "Radial Velocity"
       ]
@@ -240,6 +240,26 @@
       ]
     },
     {
+      "id": "3bd861ccae86",
+      "agency": "arxiv",
+      "source": "arXiv astro-ph (new submissions)",
+      "title": "Improving cosmological distance measurements at high redshift using Lyman-Alpha forest BAO reconstruction",
+      "summary": "The Dark Energy Spectroscopic Instrument (DESI) measures baryon acoustic oscillations (BAO) in the Lyman-$α$ (Lyman-alpha) forest and provides a robust probe of the expansion history in the matter-dominated era. Yet, non-linear structure formation broadens and shifts the BAO peak. To undo these effects, we extend stand…",
+      "url": "https://arxiv.org/abs/2610.37664v1",
+      "publishedAt": "2026-10-27T17:59:31.000Z",
+      "tags": []
+    },
+    {
+      "id": "f18dd7a5404b",
+      "agency": "arxiv",
+      "source": "arXiv astro-ph (new submissions)",
+      "title": "The Spatially-Resolved Recent Star Formation History of the M81 Disk",
+      "summary": "The nearby M81 galaxy---a tidally interacting $L^*$ spiral disk---offers a unique perspective on the interplay of secular and external processes in shaping galaxy properties. We present the most detailed, panoramic map of M81's stellar populations to date, using archival Hubble Space Telescope ACS photometry from the A…",
+      "url": "https://arxiv.org/abs/2610.37661v1",
+      "publishedAt": "2026-10-27T17:59:13.000Z",
+      "tags": []
+    },
+    {
       "id": "a8e684ce560e",
       "agency": "nasa",
       "source": "NASA breaking news",
@@ -247,6 +267,236 @@
       "summary": "A technician inspects the large sunshade of NASA’s Near-Earth Object (NEO) Surveyor mission in this image released on Oct. 26, 2026. The sunshade structure, which stands 20 feet (6 meters) tall and measures 8 feet (2.4 meters) wide at its base, will keep the infrared space telescope cool as it searches for near-Earth a…",
       "url": "https://www.nasa.gov/image-article/nasas-neo-surveyor-sunshade/",
       "publishedAt": "2026-10-27T17:58:57.000Z",
+      "tags": []
+    },
+    {
+      "id": "c41b1f2635c2",
+      "agency": "arxiv",
+      "source": "arXiv astro-ph (new submissions)",
+      "title": "Measuring the magnetization profiles of galaxy groups and clusters",
+      "summary": "Magnetic fields are vital in determining the physical conditions of baryons in massive halos. They are, however, notoriously difficult to observe. This impacts problems from our understanding of galaxy formation, to the observed deficit in the amplitude of thermal Sunyaev-Zel'dovich (tSZ) power spectrum that affects co…",
+      "url": "https://arxiv.org/abs/2610.37646v1",
+      "publishedAt": "2026-10-27T17:56:29.000Z",
+      "tags": []
+    },
+    {
+      "id": "147f8c5f00a0",
+      "agency": "arxiv",
+      "source": "arXiv astro-ph (new submissions)",
+      "title": "What shapes the bright end of the UV luminosity function? Stellar mass, star-formation variability, and dust in JADES",
+      "summary": "JWST surveys find more UV-bright galaxies at $z>10$ than galaxy-formation models predict, but the roles of recent star formation, stellar mass and dust remain uncertain. We analyse 1365 spectroscopically confirmed JADES galaxies at $3\\leq z\\leq9$, fitting NIRCam photometry and NIRSpec emission lines with \\ceri. Our mod…",
+      "url": "https://arxiv.org/abs/2610.37643v1",
+      "publishedAt": "2026-10-27T17:55:29.000Z",
+      "tags": []
+    },
+    {
+      "id": "df21267ec250",
+      "agency": "arxiv",
+      "source": "arXiv astro-ph (new submissions)",
+      "title": "Weighing dark matter particles with gravitational waves",
+      "summary": "It is commonly assumed that the mass of dark matter particles cannot be determined from their gravitational effects when dark matter behaves as collisionless matter. Here we show that extreme-mass-ratio inspirals observable by millihertz gravitational-wave observatories such as the Laser Interferometer Space Antenna (L…",
+      "url": "https://arxiv.org/abs/2610.37638v1",
+      "publishedAt": "2026-10-27T17:54:29.000Z",
+      "tags": []
+    },
+    {
+      "id": "f2d6eca24441",
+      "agency": "arxiv",
+      "source": "arXiv astro-ph (new submissions)",
+      "title": "Galactic Dynamics Drives Cyclic Star Formation in Dipole Dwarf Galaxies",
+      "summary": "Dwarf galaxies are dark matter-dominated systems that are sensitive to feedback and display bursty star formation histories. This makes them ideal probes of the processes that regulate star formation. This work investigates the timescales of star formation rate (SFR) variability in isolated dwarf galaxies using high-re…",
+      "url": "https://arxiv.org/abs/2610.37621v1",
+      "publishedAt": "2026-10-27T17:48:10.000Z",
+      "tags": []
+    },
+    {
+      "id": "9e89d616d4e1",
+      "agency": "arxiv",
+      "source": "arXiv astro-ph (new submissions)",
+      "title": "A Quiet Night in the Millihertz Sky? LISA Forecasts from LIGO/Virgo/KAGRA Populations",
+      "summary": "The high-mass black hole population inferred from ground-based observations can substantially affect the number of binaries detectable by the Laser Interferometer Space Antenna (LISA). We use population constraints based on data from the latest LIGO/Virgo/KAGRA Gravitational-Wave Transient Catalog (GWTC-5.0), as well a…",
+      "url": "https://arxiv.org/abs/2610.37617v1",
+      "publishedAt": "2026-10-27T17:46:56.000Z",
+      "tags": []
+    },
+    {
+      "id": "b7b94ff26cc6",
+      "agency": "arxiv",
+      "source": "arXiv astro-ph (new submissions)",
+      "title": "The Role of Star Formation and Morphology in the Mass-Metallicity Relation of Galaxies at Cosmic Noon",
+      "summary": "We investigate the dependence of the mass-metallicity relation (MZR) on star formation and galaxy morphology at 1.71000 galaxies. The observations span >85 arcmin^2 from the pure-parallel PASSAGE and OutThere surveys. We derive gas-phase metallicities using a Bayesian framework that combines multiple strong emission-li…",
+      "url": "https://arxiv.org/abs/2610.37612v1",
+      "publishedAt": "2026-10-27T17:41:15.000Z",
+      "tags": []
+    },
+    {
+      "id": "47614010c060",
+      "agency": "arxiv",
+      "source": "arXiv astro-ph (new submissions)",
+      "title": "Cosmological Constraints on Interacting Dark Matter with SPT-3G D1",
+      "summary": "Models of the dark sector in which the dark matter participates in nontrivial interactions can create detectable signatures in cosmological observables, providing non-terrestrial means of probing the nature of dark matter. In this work, we test dark matter-baryon scattering, dark matter-dark radiation interactions, and…",
+      "url": "https://arxiv.org/abs/2610.37604v1",
+      "publishedAt": "2026-10-27T17:35:34.000Z",
+      "tags": []
+    },
+    {
+      "id": "9ebb43b5498e",
+      "agency": "arxiv",
+      "source": "arXiv astro-ph (new submissions)",
+      "title": "A self-supervised machine learning approach to identify instrumental systematics in 21cm Cosmology",
+      "summary": "The primordial sound waves in the baryon-photon plasma are imprinted on the large-scale galaxy distribution as Baryon Acoustic Oscillations (BAO), serving as a cosmological standard ruler to constrain dark energy and the Hubble parameter. The upcoming 21cm intensity-mapping arrays are designed to map the 21cm emission…",
+      "url": "https://arxiv.org/abs/2610.37596v1",
+      "publishedAt": "2026-10-27T17:29:58.000Z",
+      "tags": []
+    },
+    {
+      "id": "1dc49dd65fda",
+      "agency": "arxiv",
+      "source": "arXiv astro-ph (new submissions)",
+      "title": "A Fast and Memory-Efficient Algorithm for Searching Faint Moving Objects using Synthetic Tracking",
+      "summary": "Detecting unknown faint moving objects using optical imaging is challenging. Long exposure times are infeasible for such targets, as the resulting image streaking causes a loss of signal-to-noise ratio due to energy dispersal across multiple pixels. To address this, synthetic tracking, a track-before-detect method, rep…",
+      "url": "https://arxiv.org/abs/2610.37594v1",
+      "publishedAt": "2026-10-27T17:29:38.000Z",
+      "tags": []
+    },
+    {
+      "id": "e203a825f9ae",
+      "agency": "arxiv",
+      "source": "arXiv astro-ph (new submissions)",
+      "title": "The UKIRT M33 Monitoring Project - VII. A 15-year K-band photometric catalogue of long-period variable stars in the central kiloparsec of M33",
+      "summary": "We present a homogenised K-band photometric catalogue for the central ${\\approx}12$ arcmin$^2$ (${\\approx}0.9$ kpc$^2$) of the Triangulum spiral galaxy M33, combining four independent PSF-based near-infrared datasets obtained with UKIRT between 2003 and 2018. These comprise the 2003-2007 UIST multi-epoch monitoring sur…",
+      "url": "https://arxiv.org/abs/2610.37591v1",
+      "publishedAt": "2026-10-27T17:27:53.000Z",
+      "tags": []
+    },
+    {
+      "id": "866c413f9771",
+      "agency": "arxiv",
+      "source": "arXiv astro-ph (new submissions)",
+      "title": "Effects of Dust in Electron-Capture Supernovae: Difficulty in Explaining Intermediate Luminosity Red Transients",
+      "summary": "The progenitors of intermediate-luminosity red transients (ILRTs) spanning the luminosity gap between novae and supernovae are under debate, and electron-capture supernovae (ECSNe) have been proposed as a strong candidate. ECSNe from super asymptotic giant branch (super-AGB) stars have been theoretically predicted to b…",
+      "url": "https://arxiv.org/abs/2610.37574v1",
+      "publishedAt": "2026-10-27T17:18:50.000Z",
+      "tags": []
+    },
+    {
+      "id": "4115d0b5def9",
+      "agency": "arxiv",
+      "source": "arXiv astro-ph (new submissions)",
+      "title": "Little Red Dots with Broad H$β$ Lines Reveal the Black Hole Mass Function at 7<z<9.5",
+      "summary": "We present a systematic search for broad H$β$ emission at $7<z<9.5$ in 21,770 JWST/NIRSpec PRISM spectra drawn from four blank fields and six lensing clusters with photometry spanning 1942 arcmin$^2$. We find a sample of 20 sources with statistically significant broad-H$β$ emission, including 13 new sources. Our entire…",
+      "url": "https://arxiv.org/abs/2610.37564v1",
+      "publishedAt": "2026-10-27T17:10:04.000Z",
+      "tags": []
+    },
+    {
+      "id": "800e3be6b1b8",
+      "agency": "arxiv",
+      "source": "arXiv astro-ph (new submissions)",
+      "title": "JWST/MIRI Observations of Amorphous Silicates in Interstellar Comet 3I/ATLAS",
+      "summary": "We present JWST/MIRI Low Resolution Spectroscopy (LRS) of 3I/ATLAS obtained post-perihelion at a heliocentric distance of 2.21 au. Our spectrum contains a prominent 10 micron silicate emission feature with a broad, smooth shape that is distinct from those commonly observed in Solar System comets. We model the spectrum…",
+      "url": "https://arxiv.org/abs/2610.37540v1",
+      "publishedAt": "2026-10-27T16:55:04.000Z",
+      "tags": []
+    },
+    {
+      "id": "0ddd66fcc28f",
+      "agency": "arxiv",
+      "source": "arXiv astro-ph (new submissions)",
+      "title": "\"Helium Enrichment Law\": The Relation Between Helium and Metal Enrichment in Stars in FIRE-3 Simulations of Milky Way-mass Galaxies",
+      "summary": "Helium abundance is a key input to stellar models that are used to infer accurate ages, masses, and compositions for individually resolved stars in the Milky Way (MW), underpinning Galactic archaeology. Since spectroscopically measuring He abundances is difficult, stellar models often assume a fixed \"chemical enrichmen…",
+      "url": "https://arxiv.org/abs/2610.37529v1",
+      "publishedAt": "2026-10-27T16:50:10.000Z",
+      "tags": []
+    },
+    {
+      "id": "0a62a5b40ba3",
+      "agency": "arxiv",
+      "source": "arXiv astro-ph (new submissions)",
+      "title": "Faint and Fast Transients from Double Detonations of Low Mass White Dwarfs",
+      "summary": "There is significant evidence that white dwarfs can explode via the double detonation mechanism, whereby an initial detonation in an accreted helium shell triggers a second detonation of the carbon-oxygen core. This scenario has been invoked for white dwarfs near a solar mass to produce Type Ia-like supernovae, but low…",
+      "url": "https://arxiv.org/abs/2610.37507v1",
+      "publishedAt": "2026-10-27T16:29:59.000Z",
+      "tags": []
+    },
+    {
+      "id": "158049de99c1",
+      "agency": "arxiv",
+      "source": "arXiv astro-ph (new submissions)",
+      "title": "Effects of Short-Range Correlations on Quarkyonic Matter",
+      "summary": "In this work, we focus on investigating the impact of the short-range correlations on the properties of quarkyonic matter. These correlations induce the scattering of nucleons to momenta exceeding the Fermi momentum, thereby altering the momentum-space occupation distribution that underlies the quarkyonic framework. In…",
+      "url": "https://arxiv.org/abs/2610.37502v1",
+      "publishedAt": "2026-10-27T16:24:49.000Z",
+      "tags": []
+    },
+    {
+      "id": "98dbedd0bf13",
+      "agency": "arxiv",
+      "source": "arXiv astro-ph (new submissions)",
+      "title": "Quasinormal Ringing of a Schwarzschild Black Hole Surrounded by a King Dark Matter Halo: Higher-Order WKB Analysis",
+      "summary": "We study scalar and electromagnetic perturbations of a Schwarzschild black hole (BH) surrounded by a dark matter halo described by the King density profile. The lapse function can be expressed as $1-2[M+M_{\\rm DM}(r)]/r$, where $M_{\\rm DM}(r)$ is the halo mass enclosed within radius $r$; thus, the halo affects the geom…",
+      "url": "https://arxiv.org/abs/2610.37501v1",
+      "publishedAt": "2026-10-27T16:24:47.000Z",
+      "tags": []
+    },
+    {
+      "id": "14fb6749bd8d",
+      "agency": "arxiv",
+      "source": "arXiv astro-ph (new submissions)",
+      "title": "Absence of Magnetic Suppression in Massive Star Variability",
+      "summary": "Although stochastic low-frequency (SLF) variability is ubiquitous among hot, massive stars, its physical origin remains uncertain. One proposed explanation is that this variability is produced by internal gravity waves (IGWs) excited in the stellar interior by convection in the stellar core or subsurface layers. Strong…",
+      "url": "https://arxiv.org/abs/2610.37495v1",
+      "publishedAt": "2026-10-27T16:20:57.000Z",
+      "tags": []
+    },
+    {
+      "id": "0afdf4b82932",
+      "agency": "arxiv",
+      "source": "arXiv astro-ph (new submissions)",
+      "title": "Variable Stars in Local Group Galaxies IX: Tracing the Complex History of NGC 205",
+      "summary": "We present the most extensive catalogue of variable stars in NGC 205 to date, based on archival HST/ACS imaging of a single field $\\sim 4^\\prime$ from the galaxy centre (GO-15902). We detect 1441 RR Lyrae stars (1064 RRab, 363 RRc, and 14 of uncertain mode) and 35 anomalous Cepheids, and measure their periods, amplitud…",
+      "url": "https://arxiv.org/abs/2610.37492v1",
+      "publishedAt": "2026-10-27T16:18:12.000Z",
+      "tags": []
+    },
+    {
+      "id": "598cde07285b",
+      "agency": "arxiv",
+      "source": "arXiv astro-ph (new submissions)",
+      "title": "Neglecting Dynamical Microlensing Can Bias Accretion Disk Size Measurements at the Population Level",
+      "summary": "Microlensing of strongly lensed quasars probes unresolved accretion disks, but many inference methods use static magnification maps with fixed relative microlens positions. Using the GPU-accelerated simulator Microcaustics, we generate ten-year multiband light curves for three quadruply lensed quasar configurations. We…",
+      "url": "https://arxiv.org/abs/2610.37475v1",
+      "publishedAt": "2026-10-27T16:05:36.000Z",
+      "tags": []
+    },
+    {
+      "id": "7401cf1b0816",
+      "agency": "arxiv",
+      "source": "arXiv astro-ph (new submissions)",
+      "title": "How common are extreme scattering events?: First large sample from the ASKAP VAST survey",
+      "summary": "Compact radio sources are occasionally observed to undergo extreme scattering events (ESEs): large, chromatic flux-density variations, often by more than a factor of two, over a few months. These were interpreted to be a smooth plasma lensing phenomenon due to AU-scale structures in the ISM. Although ESEs were discover…",
+      "url": "https://arxiv.org/abs/2610.37464v1",
+      "publishedAt": "2026-10-27T16:00:46.000Z",
+      "tags": []
+    },
+    {
+      "id": "1c5461bef32f",
+      "agency": "arxiv",
+      "source": "arXiv astro-ph (new submissions)",
+      "title": "Getting Ready For Analysing Rubin Data : CLMM v2, The Updated LSST-DESC Cluster Weak Lensing Mass Modeling Library For Cosmology",
+      "summary": "The Dark Energy Science Collaboration has prepared a multitude of pipelines to process the upcoming Vera C. Rubin Observatory data and perform different scientific analyses. Here, we present the methodology to constrain the mass information of galaxy clusters from weak lensing, which is encompassed by the v2.0 release…",
+      "url": "https://arxiv.org/abs/2610.37455v1",
+      "publishedAt": "2026-10-27T15:57:27.000Z",
+      "tags": []
+    },
+    {
+      "id": "dcbf1923f490",
+      "agency": "arxiv",
+      "source": "arXiv astro-ph (new submissions)",
+      "title": "Evidence for a nova super-remnant surrounding the recurrent nova V745 Scorpii using eROSITA",
+      "summary": "Nova super-remnants (NSRs) are vast shell-like structures encompassing recurrent novae (RNe), created through the excavation of large amounts of local interstellar medium by repeated nova eruptions. Simulations predict that such NSRs should surround all novae. Indeed, NSRs have now been discovered around the Galactic R…",
+      "url": "https://arxiv.org/abs/2610.37414v1",
+      "publishedAt": "2026-10-27T15:31:52.000Z",
       "tags": []
     },
     {
@@ -356,256 +606,6 @@
         "Lunar Science",
         "Science Activation"
       ]
-    },
-    {
-      "id": "53932e940ab3",
-      "agency": "arxiv",
-      "source": "arXiv astro-ph (new submissions)",
-      "title": "Direct measurement of the ${}^{23}\\mathrm{Mg}(p, γ){}^{24}\\mathrm{Al}$ reaction using the DRAGON recoil separator and a hybrid array of $γ$-ray detectors",
-      "summary": "Background: The $^{23}$Mg$(p,γ)^{24}$Al reaction plays a key role in nova nucleosynthesis, serving as a bridge between the Ne-Na and Mg-Al cycles and impacting synthesis of a wide variety of nuclides. It is crucial that the rate of this reaction be well constrained by experimental data, in particular the properties of…",
-      "url": "https://arxiv.org/abs/2610.35860v1",
-      "publishedAt": "2026-10-26T17:59:02.000Z",
-      "tags": []
-    },
-    {
-      "id": "1e2a7abb6628",
-      "agency": "arxiv",
-      "source": "arXiv astro-ph (new submissions)",
-      "title": "Interaction of Strong X-mode Waves with Magnetized Pair Plasmas",
-      "summary": "The interaction of strong ($a_0>1$), superluminal X-mode electromagnetic waves with magnetized pair plasma falls into two regimes set by $\\varepsilon_{\\rm B}\\equiv a_0ω_{\\rm B}/ω_0$, the ratio of the wave strength parameter to its frequency, in units of cyclotron frequency. For $\\varepsilon_{\\rm B}\\varepsilon_{\\rm B}>1…",
-      "url": "https://arxiv.org/abs/2610.35849v1",
-      "publishedAt": "2026-10-26T17:57:04.000Z",
-      "tags": []
-    },
-    {
-      "id": "92caba996733",
-      "agency": "arxiv",
-      "source": "arXiv astro-ph (new submissions)",
-      "title": "Spectroscopic Survey of Small Solar System Bodies with Ariel",
-      "summary": "The small Solar System bodies (SSSBs) preserve records of the formation and evolution of the Solar System. In particular, the near-infrared wavelength region around 3 $μ$m provides crucial insights into the origin and transport of hydrated materials and organics, although it is difficult to observe from the ground beca…",
-      "url": "https://arxiv.org/abs/2610.35825v1",
-      "publishedAt": "2026-10-26T17:48:19.000Z",
-      "tags": []
-    },
-    {
-      "id": "5d012519a90b",
-      "agency": "arxiv",
-      "source": "arXiv astro-ph (new submissions)",
-      "title": "The Impact of Flyby Interactions on the Rotation of Open Clusters",
-      "summary": "The Gaia astrometric mission has provided the first evidence for the bulk rotation of open clusters. While this rotation may arise from residual spin inherited from a cluster's parent molecular cloud, it is unclear whether this explanation always suffices, as angular momentum is carried away by escaping stars on the ti…",
-      "url": "https://arxiv.org/abs/2610.35805v1",
-      "publishedAt": "2026-10-26T17:36:46.000Z",
-      "tags": []
-    },
-    {
-      "id": "300ee7d3328f",
-      "agency": "arxiv",
-      "source": "arXiv astro-ph (new submissions)",
-      "title": "Tidal contributions to neutron star orbital precession around Sgr $A^*$",
-      "summary": "We investigate tidal contributions to the orbital precession of neutron stars around the supermassive black hole Sgr A*, using stellar configurations described by the Tolman - Oppenheimer - Volkoff equations. We examine the dependence of tidal precession on stellar compactness, pericentre distance, and the quadrupolar…",
-      "url": "https://arxiv.org/abs/2610.35776v1",
-      "publishedAt": "2026-10-26T17:16:52.000Z",
-      "tags": []
-    },
-    {
-      "id": "3759bc99cbad",
-      "agency": "arxiv",
-      "source": "arXiv astro-ph (new submissions)",
-      "title": "Post-DART impact ejecta re-accumulation on Dimorphos and implications for Hera gravity measurements",
-      "summary": "Context. The DART impact might have substantially modified the surface and near-surface structure of Dimorphos, affecting the morphology and gravity field that is to be measured by ESA's Hera mission. Aims. We investigate the post-impact redistribution of ejecta and its dependence on the assumed internal structure of D…",
-      "url": "https://arxiv.org/abs/2610.35718v1",
-      "publishedAt": "2026-10-26T16:38:51.000Z",
-      "tags": []
-    },
-    {
-      "id": "25fd43371377",
-      "agency": "arxiv",
-      "source": "arXiv astro-ph (new submissions)",
-      "title": "Mapping the Milky Way with SDSS-V: Galactic Genesis Selection Function and Mock Catalog",
-      "summary": "Robust chemodynamic mapping of the Milky Way requires accounting for the selection function of the survey used, the probability that a given star is included in the final catalog as a function of its observable properties. We derive the empirical selection function of the SDSS-V Galactic Genesis survey, the largest Mil…",
-      "url": "https://arxiv.org/abs/2610.35713v1",
-      "publishedAt": "2026-10-26T16:34:24.000Z",
-      "tags": []
-    },
-    {
-      "id": "688cdc8d17f5",
-      "agency": "arxiv",
-      "source": "arXiv astro-ph (new submissions)",
-      "title": "pbhalo: computing primordial black hole and minihalo populations from a single primordial perturbation spectrum",
-      "summary": "An enhancement of the primordial curvature power spectrum on small scales can give rise to two populations of compact objects: primordial black holes (PBHs), which form during radiation domination, and dark matter minihalos, including ultracompact minihalos (UCMHs), which form from the same modes during matter dominati…",
-      "url": "https://arxiv.org/abs/2610.35703v1",
-      "publishedAt": "2026-10-26T16:29:05.000Z",
-      "tags": []
-    },
-    {
-      "id": "467d32ed179d",
-      "agency": "arxiv",
-      "source": "arXiv astro-ph (new submissions)",
-      "title": "Connectivity rewiring and filament formation by active region emergence observed with Solar Orbiter",
-      "summary": "Using an 11-day dataset from Solar Orbiter, combining EUV imaging, H$α$ observations, vector magnetograms and nonlinear force-free field extrapolations, we track the evolution from the emergence of a new active region to the reconfiguration of coronal connectivity. We find that the restructuring proceeds through a sequ…",
-      "url": "https://arxiv.org/abs/2610.35677v1",
-      "publishedAt": "2026-10-26T16:17:25.000Z",
-      "tags": []
-    },
-    {
-      "id": "113b16beca51",
-      "agency": "arxiv",
-      "source": "arXiv astro-ph (new submissions)",
-      "title": "The design and flight of the Payload for Ultrahigh Energy Observations (PUEO)",
-      "summary": "Sources of cosmic rays at ultrahigh energies (UHE, $\\gtrsim$ 1 EeV) are anticipated to give rise to neutrinos at similar energies by production via propagation interactions either within the source region or on cosmological scales. Measurements of the neutrino flux, flavor, and energy provide significant insight into t…",
-      "url": "https://arxiv.org/abs/2610.35675v1",
-      "publishedAt": "2026-10-26T16:16:39.000Z",
-      "tags": []
-    },
-    {
-      "id": "4e1b21989a0f",
-      "agency": "arxiv",
-      "source": "arXiv astro-ph (new submissions)",
-      "title": "Constraining Supermassive Black Hole Seeding and Accretion via Occupation Fractions and Mass-Weighted Distributions",
-      "summary": "The formation of supermassive black holes (SMBHs) is a key open problem in galaxy evolution, with light- and heavy-seeding models predicting distinct black hole occupation fractions (BHOFs). Using multiwavelength observations from the LSST Deep Drilling Fields, we measure the AGN fraction and estimate the BHOF across $…",
-      "url": "https://arxiv.org/abs/2610.35673v1",
-      "publishedAt": "2026-10-26T16:14:58.000Z",
-      "tags": []
-    },
-    {
-      "id": "af6446b526ce",
-      "agency": "arxiv",
-      "source": "arXiv astro-ph (new submissions)",
-      "title": "The long-term evolution of a black hole accretion torus: a comparison between GRMHD simulations and relativistic thin disk theory",
-      "summary": "In this paper we analyse the long-term evolution of a black hole accretion torus using novel GRMHD simulations which, for the first time, have been run out to extremely large evolutionary times $t_{\\rm max} = 10^7 GM_\\bullet/c^3$. This allows for detailed comparisons between the gross evolution of this GRMHD simulation…",
-      "url": "https://arxiv.org/abs/2610.35648v1",
-      "publishedAt": "2026-10-26T15:55:32.000Z",
-      "tags": []
-    },
-    {
-      "id": "22fa14902e85",
-      "agency": "arxiv",
-      "source": "arXiv astro-ph (new submissions)",
-      "title": "Indication of Electron Antineutrinos from the Diffuse Supernova Neutrino Background",
-      "summary": "We report an indication of $\\barν_e$ from the diffuse supernova neutrino background (DSNB) based on a spectral fit analysis of a 5003.0-day dataset in Super-Kamiokande. Key improvements over previous searches include enhanced rejection of atmospheric $ν$ backgrounds, updated evaluations of systematic uncertainties, and…",
-      "url": "https://arxiv.org/abs/2610.35619v1",
-      "publishedAt": "2026-10-26T15:35:48.000Z",
-      "tags": []
-    },
-    {
-      "id": "a35654cf9558",
-      "agency": "arxiv",
-      "source": "arXiv astro-ph (new submissions)",
-      "title": "Distilling neural networks into equations to predict planetary instability",
-      "summary": "The problem of predicting when a multi-planet system will become dynamically unstable has defied analytical progress over the past three hundred years. Recent machine learning advances achieve high predictive performance of instability dynamics, but as black-box systems cannot be interpreted to connect to existing scie…",
-      "url": "https://arxiv.org/abs/2610.35617v1",
-      "publishedAt": "2026-10-26T15:34:46.000Z",
-      "tags": []
-    },
-    {
-      "id": "934367589edf",
-      "agency": "arxiv",
-      "source": "arXiv astro-ph (new submissions)",
-      "title": "Nonlinear Tides of Binary Neutron Stars",
-      "summary": "Nonlinear tides couple stellar oscillations and reshape the gravitational wave (GW) signal from inspiralling binaries. We present hydrodynamic simulations of nonlinear tides in inspiralling neutron-star binaries and, within a mode-coupling model, derive a semi-analytic quadrupolar fundamental mode-frequency shift throu…",
-      "url": "https://arxiv.org/abs/2610.35602v1",
-      "publishedAt": "2026-10-26T15:26:08.000Z",
-      "tags": []
-    },
-    {
-      "id": "b6034de64d14",
-      "agency": "arxiv",
-      "source": "arXiv astro-ph (new submissions)",
-      "title": "Gravitationally Induced Polarization-Angle Rotation in Pulsar-Black Hole Binaries",
-      "summary": "Radio pulsars emit highly polarized radiation whose polarization properties are commonly described by the Rotating Vector Model (RVM). In this work, we investigate the effects of gravitational light bending and parallel transport on the polarization profile of a pulsar in a hypothetical binary system with a black hole…",
-      "url": "https://arxiv.org/abs/2610.35589v1",
-      "publishedAt": "2026-10-26T15:17:44.000Z",
-      "tags": []
-    },
-    {
-      "id": "592ec988822d",
-      "agency": "arxiv",
-      "source": "arXiv astro-ph (new submissions)",
-      "title": "Classification of Fermi Blazars of Uncertain Type Using Positive-Unlabelled Machine Learning",
-      "summary": "We apply positive-unlabelled (PU) machine learning to the 1623 blazars of uncertain type (BCUs) in the Fermi Large Area Telescope Fourth Source Catalogue, Data Release 4 (4FGL-DR4). Five PU classifiers are trained on seven gamma-ray features, once with the 820 flat-spectrum radio quasars (FSRQs) and once with the 1490…",
-      "url": "https://arxiv.org/abs/2610.35573v1",
-      "publishedAt": "2026-10-26T15:09:04.000Z",
-      "tags": []
-    },
-    {
-      "id": "737cb87c80d4",
-      "agency": "arxiv",
-      "source": "arXiv astro-ph (new submissions)",
-      "title": "SPAM: Survey Overview and JWST/NIRCam Multi-Band Photometry Catalog",
-      "summary": "We present the Star-formation from Photometry through the Addition of Medium-bands (SPAM) survey, a 62.9 hr JWST/NIRCam imaging program to add ten new filters, nine medium-band filters, and one broad-band filter to the CEERS legacy dataset. We describe the observation strategy, present the data, and detail the data-red…",
-      "url": "https://arxiv.org/abs/2610.35570v1",
-      "publishedAt": "2026-10-26T15:07:36.000Z",
-      "tags": []
-    },
-    {
-      "id": "64e6df5bc2b9",
-      "agency": "arxiv",
-      "source": "arXiv astro-ph (new submissions)",
-      "title": "The mass discrepancy problem in massive stars: an inferential perspective",
-      "summary": "Bayesian inference has become a standard tool for inferring stellar parameters from stellar evolution models. However, comparatively little attention has been paid to how alternative Bayesian likelihood formulations influence inferred stellar parameters, and the resulting evolutionary mass discrepancy for massive main…",
-      "url": "https://arxiv.org/abs/2610.35552v1",
-      "publishedAt": "2026-10-26T14:55:54.000Z",
-      "tags": []
-    },
-    {
-      "id": "7771ece92edb",
-      "agency": "arxiv",
-      "source": "arXiv astro-ph (new submissions)",
-      "title": "Explainable Prediction of High-Speed Solar Wind Streams driven by Coronal Holes via Topological Data Analysis",
-      "summary": "High-speed solar wind streams (HSSs) originating from coronal holes (CHs) are an important driver of recurrent geomagnetic activity. Since HSSs are associated to coronal structures visible in extreme-ultraviolet observations, this provides a natural basis for forecasting several days in advance. In this work, we invest…",
-      "url": "https://arxiv.org/abs/2610.35549v1",
-      "publishedAt": "2026-10-26T14:55:12.000Z",
-      "tags": []
-    },
-    {
-      "id": "b1a7c4ddfc49",
-      "agency": "arxiv",
-      "source": "arXiv astro-ph (new submissions)",
-      "title": "A Warped Dust Ring in the CQ Tau Disk",
-      "summary": "The diversity of planetary orbital architectures calls for observational constraints on radial variations in disk-plane orientation, or warps, yet such variations in dust disks remain poorly characterized. CQ Tau is a promising target because its misaligned inner disk and candidate gas warp suggest a radially extended…",
-      "url": "https://arxiv.org/abs/2610.35548v1",
-      "publishedAt": "2026-10-26T14:54:26.000Z",
-      "tags": []
-    },
-    {
-      "id": "6bc109d56c04",
-      "agency": "arxiv",
-      "source": "arXiv astro-ph (new submissions)",
-      "title": "An Intermediate Mass Stripped Star in a 4.2-hour Orbit around a Compact Object",
-      "summary": "From their discovery as radio pulsars to landmark multi-messenger observations of their mergers, double neutron stars have transformed our understanding of the extreme Universe and the formation of heavy elements (Drout et al. 2017; Abbott et al. 2017). Yet, uncertainties in their formation result in predicted merger r…",
-      "url": "https://arxiv.org/abs/2610.35539v1",
-      "publishedAt": "2026-10-26T14:52:19.000Z",
-      "tags": []
-    },
-    {
-      "id": "6fab38f6e26f",
-      "agency": "arxiv",
-      "source": "arXiv astro-ph (new submissions)",
-      "title": "Physical assumptions versus nature: the shape of the heliosphere",
-      "summary": "Context. The Interstellar Probe study describes a mission concept with a launch window beginning in 2036, aiming to reach several hundred astronomical units beyond the heliopause within a time frame of at least 50 years. One of the fundamental questions related to this mission is where the boundaries of the heliosphere…",
-      "url": "https://arxiv.org/abs/2610.35525v1",
-      "publishedAt": "2026-10-26T14:42:15.000Z",
-      "tags": []
-    },
-    {
-      "id": "8a9a895f4ad9",
-      "agency": "arxiv",
-      "source": "arXiv astro-ph (new submissions)",
-      "title": "Delayed maximum energy solar energetic particle events: Statistical analysis from Solar Orbiter",
-      "summary": "Investigations of solar energetic particles (SEPs) have long utilized the dispersive nature of onset times, as in, the earlier arrival of higher-energy particles compared to lower-energy particles, to infer information such as the path length to the acceleration site at the time of initial particle release. However, re…",
-      "url": "https://arxiv.org/abs/2610.35520v1",
-      "publishedAt": "2026-10-26T14:40:23.000Z",
-      "tags": []
-    },
-    {
-      "id": "003cef62de19",
-      "agency": "arxiv",
-      "source": "arXiv astro-ph (new submissions)",
-      "title": "A living catalog of stream interaction regions in the Parker Solar Probe era",
-      "summary": "Stream interaction regions (SIRs) and corotating interaction regions (CIRs) are important phenomena in heliospheric physics. These large-scale structures vary temporally and spatially, both in latitude and with radial distance. The additions of Parker Solar Probe (PSP) and Solar Orbiter have allowed for investigations…",
-      "url": "https://arxiv.org/abs/2610.35506v1",
-      "publishedAt": "2026-10-26T14:32:56.000Z",
-      "tags": []
     },
     {
       "id": "9e261d64e102",
