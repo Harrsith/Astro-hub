@@ -1,11 +1,11 @@
 {
-  "generatedAt": "2026-10-29T12:26:48.678Z",
+  "generatedAt": "2026-10-29T22:33:01.823Z",
   "sourceCount": 5,
   "itemCount": 70,
   "errors": [],
   "apod": {
-    "date": "2026-10-28",
-    "explanation": "To view this video please enable JavaScript, and consider upgrading to a web browser that \t\t\t\t\tsupports HTML5 vide",
+    "date": "2026-10-29",
+    "explanation": "That's no moon. But you could be forgiven for thinking it was a crescent Moon in the sky. It is a lesser known fact that Venus also has phases. (What about other planets?) The featured image shows Venus seen almost directly between the Sun and the Earth. This happens once every year and a half, and it is like the alignment that happens every month during a new Moon. But the new Moon is dark, while Venus' backlit atmosphere refracts and scatters the sunlight, creating a glowing crescent arc that extends beyond 180 degrees: the tips of this arc are called the \"horns\". The crescent can be seen with a small telescope or binoculars during twilight, but those with exceptionally acute eyesight may be able to see it with the unaided eye. Ancient Babylonian astronomers may have been the first to study Venus' brightness changes, which are related to its phases. Many other cultures have similar astronomical records, including the oldest surviving Maya book.",
     "hdurl": "https://science.nasa.gov/wp-content/themes/nasa-child/assets/images/nasa-logo@2x.png",
     "media_type": "image",
     "service_version": "v1",
@@ -13,146 +13,6 @@
     "url": "https://science.nasa.gov/wp-content/themes/nasa-child/assets/images/nasa-logo@2x.png"
   },
   "items": [
-    {
-      "id": "628db19e7368",
-      "agency": "exo",
-      "ra": 129.8823772,
-      "dec": 47.3519076,
-      "source": "NASA Exoplanet Archive",
-      "title": "HAT-P-13 b — catalog entry updated",
-      "summary": "Orbits HAT-P-13: discovered via Transit, 2009, 14.26x Earth radius, 270.46x Earth mass, 2.9-day orbit.",
-      "url": "https://exoplanetarchive.ipac.caltech.edu/overview/HAT-P-13",
-      "publishedAt": "2026-10-29T12:26:46.784Z",
-      "tags": [
-        "Transit"
-      ]
-    },
-    {
-      "id": "a9fd31a903bc",
-      "agency": "exo",
-      "ra": 258.8313991,
-      "dec": 4.9606795,
-      "source": "NASA Exoplanet Archive",
-      "title": "GJ 1214 b — catalog entry updated",
-      "summary": "Orbits GJ 1214: discovered via Transit, 2009, 2.73x Earth radius, 8.41x Earth mass, 1.6-day orbit.",
-      "url": "https://exoplanetarchive.ipac.caltech.edu/overview/GJ_1214",
-      "publishedAt": "2026-10-29T12:26:46.784Z",
-      "tags": [
-        "Transit"
-      ]
-    },
-    {
-      "id": "2f362ab050b3",
-      "agency": "exo",
-      "ra": 133.1468373,
-      "dec": 28.3298154,
-      "source": "NASA Exoplanet Archive",
-      "title": "55 Cnc f — catalog entry updated",
-      "summary": "Orbits 55 Cnc: discovered via Radial Velocity, 2007, 7.59x Earth radius, 44.81x Earth mass, 260.6-day orbit.",
-      "url": "https://exoplanetarchive.ipac.caltech.edu/overview/55_Cnc",
-      "publishedAt": "2026-10-29T12:26:46.784Z",
-      "tags": [
-        "Radial Velocity"
-      ]
-    },
-    {
-      "id": "c4e4feba44b6",
-      "agency": "exo",
-      "ra": 344.4453632,
-      "dec": 38.674919,
-      "source": "NASA Exoplanet Archive",
-      "title": "HAT-P-1 b — catalog entry updated",
-      "summary": "Orbits HAT-P-1: discovered via Transit, 2006, 14.78x Earth radius, 166.86x Earth mass, 4.5-day orbit.",
-      "url": "https://exoplanetarchive.ipac.caltech.edu/overview/HAT-P-1",
-      "publishedAt": "2026-10-29T12:26:46.784Z",
-      "tags": [
-        "Transit"
-      ]
-    },
-    {
-      "id": "6f58f09f6809",
-      "agency": "exo",
-      "ra": 133.1468373,
-      "dec": 28.3298154,
-      "source": "NASA Exoplanet Archive",
-      "title": "55 Cnc c — catalog entry updated",
-      "summary": "Orbits 55 Cnc: discovered via Radial Velocity, 2004, 8.51x Earth radius, 54.47x Earth mass, 44.4-day orbit.",
-      "url": "https://exoplanetarchive.ipac.caltech.edu/overview/55_Cnc",
-      "publishedAt": "2026-10-29T12:26:46.784Z",
-      "tags": [
-        "Radial Velocity"
-      ]
-    },
-    {
-      "id": "d8da153a2b81",
-      "agency": "exo",
-      "ra": 133.1468373,
-      "dec": 28.3298154,
-      "source": "NASA Exoplanet Archive",
-      "title": "55 Cnc e — catalog entry updated",
-      "summary": "Orbits 55 Cnc: discovered via Radial Velocity, 2004, 1.88x Earth radius, 7.99x Earth mass, 0.7-day orbit.",
-      "url": "https://exoplanetarchive.ipac.caltech.edu/overview/55_Cnc",
-      "publishedAt": "2026-10-29T12:26:46.784Z",
-      "tags": [
-        "Radial Velocity"
-      ]
-    },
-    {
-      "id": "3cc942711811",
-      "agency": "exo",
-      "ra": 175.5505363,
-      "dec": 26.7030669,
-      "source": "NASA Exoplanet Archive",
-      "title": "GJ 436 b — catalog entry updated",
-      "summary": "Orbits GJ 436: discovered via Radial Velocity, 2004, 4.17x Earth radius, 22.10x Earth mass, 2.6-day orbit.",
-      "url": "https://exoplanetarchive.ipac.caltech.edu/overview/GJ_436",
-      "publishedAt": "2026-10-29T12:26:46.784Z",
-      "tags": [
-        "Radial Velocity"
-      ]
-    },
-    {
-      "id": "e8c8ff90baad",
-      "agency": "exo",
-      "ra": 133.1468373,
-      "dec": 28.3298154,
-      "source": "NASA Exoplanet Archive",
-      "title": "55 Cnc d — catalog entry updated",
-      "summary": "Orbits 55 Cnc: discovered via Radial Velocity, 2002, 13.00x Earth radius, 1232.49x Earth mass, 4799.0-day orbit.",
-      "url": "https://exoplanetarchive.ipac.caltech.edu/overview/55_Cnc",
-      "publishedAt": "2026-10-29T12:26:46.784Z",
-      "tags": [
-        "Radial Velocity"
-      ]
-    },
-    {
-      "id": "9460cb64b3d0",
-      "agency": "exo",
-      "ra": 133.1468373,
-      "dec": 28.3298154,
-      "source": "NASA Exoplanet Archive",
-      "title": "55 Cnc b — catalog entry updated",
-      "summary": "Orbits 55 Cnc: discovered via Radial Velocity, 1996, 13.90x Earth radius, 263.98x Earth mass, 14.7-day orbit.",
-      "url": "https://exoplanetarchive.ipac.caltech.edu/overview/55_Cnc",
-      "publishedAt": "2026-10-29T12:26:46.784Z",
-      "tags": [
-        "Radial Velocity"
-      ]
-    },
-    {
-      "id": "32360c9fffbd",
-      "agency": "exo",
-      "ra": 324.5359781,
-      "dec": 30.4881882,
-      "source": "NASA Exoplanet Archive",
-      "title": "HAT-P-17 c — catalog entry updated",
-      "summary": "Orbits HAT-P-17: discovered via Radial Velocity, 2012, 13.10x Earth radius, 1080.60x Earth mass, 5584.0-day orbit.",
-      "url": "https://exoplanetarchive.ipac.caltech.edu/overview/HAT-P-17",
-      "publishedAt": "2026-10-29T12:26:46.783Z",
-      "tags": [
-        "Radial Velocity"
-      ]
-    },
     {
       "id": "93f7623c7c52",
       "agency": "exo",
@@ -162,7 +22,7 @@
       "title": "HAT-P-17 b — catalog entry updated",
       "summary": "Orbits HAT-P-17: discovered via Transit, 2012, 11.77x Earth radius, 184.34x Earth mass, 10.3-day orbit.",
       "url": "https://exoplanetarchive.ipac.caltech.edu/overview/HAT-P-17",
-      "publishedAt": "2026-10-29T12:26:46.783Z",
+      "publishedAt": "2026-10-29T22:30:42.295Z",
       "tags": [
         "Transit"
       ]
@@ -176,7 +36,7 @@
       "title": "HAT-P-18 b — catalog entry updated",
       "summary": "Orbits HAT-P-18: discovered via Transit, 2010, 10.70x Earth radius, 55.52x Earth mass, 5.5-day orbit.",
       "url": "https://exoplanetarchive.ipac.caltech.edu/overview/HAT-P-18",
-      "publishedAt": "2026-10-29T12:26:46.783Z",
+      "publishedAt": "2026-10-29T22:30:42.295Z",
       "tags": [
         "Transit"
       ]
@@ -190,7 +50,7 @@
       "title": "HAT-P-14 b — catalog entry updated",
       "summary": "Orbits HAT-P-14: discovered via Transit, 2010, 15.92x Earth radius, 1093.34x Earth mass, 4.6-day orbit.",
       "url": "https://exoplanetarchive.ipac.caltech.edu/overview/HAT-P-14",
-      "publishedAt": "2026-10-29T12:26:46.783Z",
+      "publishedAt": "2026-10-29T22:30:42.295Z",
       "tags": [
         "Transit"
       ]
@@ -204,7 +64,7 @@
       "title": "HAT-P-12 b — catalog entry updated",
       "summary": "Orbits HAT-P-12: discovered via Transit, 2009, 10.75x Earth radius, 67.06x Earth mass, 3.2-day orbit.",
       "url": "https://exoplanetarchive.ipac.caltech.edu/overview/HAT-P-12",
-      "publishedAt": "2026-10-29T12:26:46.783Z",
+      "publishedAt": "2026-10-29T22:30:42.295Z",
       "tags": [
         "Transit"
       ]
@@ -218,140 +78,305 @@
       "title": "HAT-P-13 c — catalog entry updated",
       "summary": "Orbits HAT-P-13: discovered via Radial Velocity, 2009, 12.30x Earth radius, 4538.42x Earth mass, 446.3-day orbit.",
       "url": "https://exoplanetarchive.ipac.caltech.edu/overview/HAT-P-13",
-      "publishedAt": "2026-10-29T12:26:46.783Z",
+      "publishedAt": "2026-10-29T22:30:42.295Z",
       "tags": [
         "Radial Velocity"
       ]
     },
     {
-      "id": "62a4ac584a5a",
-      "agency": "nasa",
-      "source": "NASA breaking news",
-      "title": "APOD: 29 October 2026 – The Horns of Venus",
-      "summary": "APOD Science APOD APOD: 29 October 2026 – The… Today’s APOD Archive Submissions Index Search Calendar RSS Education About Discuss APOD Astronomy Picture of the Day Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a professio…",
-      "url": "https://science.nasa.gov/image-article/apod-29-october-2026-the-horns-of-venus/",
-      "publishedAt": "2026-10-29T04:05:00.000Z",
+      "id": "628db19e7368",
+      "agency": "exo",
+      "ra": 129.8823772,
+      "dec": 47.3519076,
+      "source": "NASA Exoplanet Archive",
+      "title": "HAT-P-13 b — catalog entry updated",
+      "summary": "Orbits HAT-P-13: discovered via Transit, 2009, 14.26x Earth radius, 270.46x Earth mass, 2.9-day orbit.",
+      "url": "https://exoplanetarchive.ipac.caltech.edu/overview/HAT-P-13",
+      "publishedAt": "2026-10-29T22:30:42.295Z",
       "tags": [
-        "APOD"
+        "Transit"
       ]
     },
     {
-      "id": "e4a681851c14",
-      "agency": "nasa",
-      "source": "NASA breaking news",
-      "title": "Arnab Strikes India",
-      "summary": "The first named storm of the North Indian Ocean’s cyclone season made landfall along the coast of Andhra Pradesh.",
-      "url": "https://science.nasa.gov/earth/earth-observatory/arnab-strikes-india/",
-      "publishedAt": "2026-10-29T04:01:00.000Z",
+      "id": "a9fd31a903bc",
+      "agency": "exo",
+      "ra": 258.8313991,
+      "dec": 4.9606795,
+      "source": "NASA Exoplanet Archive",
+      "title": "GJ 1214 b — catalog entry updated",
+      "summary": "Orbits GJ 1214: discovered via Transit, 2009, 2.73x Earth radius, 8.41x Earth mass, 1.6-day orbit.",
+      "url": "https://exoplanetarchive.ipac.caltech.edu/overview/GJ_1214",
+      "publishedAt": "2026-10-29T22:30:42.295Z",
       "tags": [
-        "Earth Observatory",
-        "Hurricanes & Typhoons"
+        "Transit"
       ]
     },
     {
-      "id": "bbddd73f5d3c",
+      "id": "2f362ab050b3",
+      "agency": "exo",
+      "ra": 133.1468373,
+      "dec": 28.3298154,
+      "source": "NASA Exoplanet Archive",
+      "title": "55 Cnc f — catalog entry updated",
+      "summary": "Orbits 55 Cnc: discovered via Radial Velocity, 2007, 7.59x Earth radius, 44.81x Earth mass, 260.6-day orbit.",
+      "url": "https://exoplanetarchive.ipac.caltech.edu/overview/55_Cnc",
+      "publishedAt": "2026-10-29T22:30:42.295Z",
+      "tags": [
+        "Radial Velocity"
+      ]
+    },
+    {
+      "id": "c4e4feba44b6",
+      "agency": "exo",
+      "ra": 344.4453632,
+      "dec": 38.674919,
+      "source": "NASA Exoplanet Archive",
+      "title": "HAT-P-1 b — catalog entry updated",
+      "summary": "Orbits HAT-P-1: discovered via Transit, 2006, 14.78x Earth radius, 166.86x Earth mass, 4.5-day orbit.",
+      "url": "https://exoplanetarchive.ipac.caltech.edu/overview/HAT-P-1",
+      "publishedAt": "2026-10-29T22:30:42.295Z",
+      "tags": [
+        "Transit"
+      ]
+    },
+    {
+      "id": "6f58f09f6809",
+      "agency": "exo",
+      "ra": 133.1468373,
+      "dec": 28.3298154,
+      "source": "NASA Exoplanet Archive",
+      "title": "55 Cnc c — catalog entry updated",
+      "summary": "Orbits 55 Cnc: discovered via Radial Velocity, 2004, 8.51x Earth radius, 54.47x Earth mass, 44.4-day orbit.",
+      "url": "https://exoplanetarchive.ipac.caltech.edu/overview/55_Cnc",
+      "publishedAt": "2026-10-29T22:30:42.295Z",
+      "tags": [
+        "Radial Velocity"
+      ]
+    },
+    {
+      "id": "d8da153a2b81",
+      "agency": "exo",
+      "ra": 133.1468373,
+      "dec": 28.3298154,
+      "source": "NASA Exoplanet Archive",
+      "title": "55 Cnc e — catalog entry updated",
+      "summary": "Orbits 55 Cnc: discovered via Radial Velocity, 2004, 1.88x Earth radius, 7.99x Earth mass, 0.7-day orbit.",
+      "url": "https://exoplanetarchive.ipac.caltech.edu/overview/55_Cnc",
+      "publishedAt": "2026-10-29T22:30:42.295Z",
+      "tags": [
+        "Radial Velocity"
+      ]
+    },
+    {
+      "id": "3cc942711811",
+      "agency": "exo",
+      "ra": 175.5505363,
+      "dec": 26.7030669,
+      "source": "NASA Exoplanet Archive",
+      "title": "GJ 436 b — catalog entry updated",
+      "summary": "Orbits GJ 436: discovered via Radial Velocity, 2004, 4.17x Earth radius, 22.10x Earth mass, 2.6-day orbit.",
+      "url": "https://exoplanetarchive.ipac.caltech.edu/overview/GJ_436",
+      "publishedAt": "2026-10-29T22:30:42.295Z",
+      "tags": [
+        "Radial Velocity"
+      ]
+    },
+    {
+      "id": "e8c8ff90baad",
+      "agency": "exo",
+      "ra": 133.1468373,
+      "dec": 28.3298154,
+      "source": "NASA Exoplanet Archive",
+      "title": "55 Cnc d — catalog entry updated",
+      "summary": "Orbits 55 Cnc: discovered via Radial Velocity, 2002, 13.00x Earth radius, 1232.49x Earth mass, 4799.0-day orbit.",
+      "url": "https://exoplanetarchive.ipac.caltech.edu/overview/55_Cnc",
+      "publishedAt": "2026-10-29T22:30:42.295Z",
+      "tags": [
+        "Radial Velocity"
+      ]
+    },
+    {
+      "id": "9460cb64b3d0",
+      "agency": "exo",
+      "ra": 133.1468373,
+      "dec": 28.3298154,
+      "source": "NASA Exoplanet Archive",
+      "title": "55 Cnc b — catalog entry updated",
+      "summary": "Orbits 55 Cnc: discovered via Radial Velocity, 1996, 13.90x Earth radius, 263.98x Earth mass, 14.7-day orbit.",
+      "url": "https://exoplanetarchive.ipac.caltech.edu/overview/55_Cnc",
+      "publishedAt": "2026-10-29T22:30:42.295Z",
+      "tags": [
+        "Radial Velocity"
+      ]
+    },
+    {
+      "id": "32360c9fffbd",
+      "agency": "exo",
+      "ra": 324.5359781,
+      "dec": 30.4881882,
+      "source": "NASA Exoplanet Archive",
+      "title": "HAT-P-17 c — catalog entry updated",
+      "summary": "Orbits HAT-P-17: discovered via Radial Velocity, 2012, 13.10x Earth radius, 1080.60x Earth mass, 5584.0-day orbit.",
+      "url": "https://exoplanetarchive.ipac.caltech.edu/overview/HAT-P-17",
+      "publishedAt": "2026-10-29T22:30:42.294Z",
+      "tags": [
+        "Radial Velocity"
+      ]
+    },
+    {
+      "id": "422040b63e25",
       "agency": "nasa",
       "source": "NASA breaking news",
-      "title": "Caltech Names Artemis II Commander Reid Wiseman as NASA JPL Deputy",
-      "summary": "Artemis II Commander Reid Wiseman has been named Caltech associate vice president and deputy director of NASA’s Jet Propulsion Laboratory in Southern California. The emeritus astronaut and retired U.S. Navy captain begins his new role at NASA’s center of excellence for robotics and deep space exploration and at Caltech…",
-      "url": "https://www.nasa.gov/centers-and-facilities/jpl/caltech-names-artemis-ii-commander-reid-wiseman-as-nasa-jpl-deputy/",
-      "publishedAt": "2026-10-29T02:49:59.000Z",
+      "title": "Halloween Aboard the International Space Station",
+      "summary": "Although no ghouls, goblins, or trick-or-treaters come knocking at the International Space Station’s front hatch, crew members aboard the orbiting laboratory still like to get in the Halloween spirit. Whether individually or as an entire crew, they dress up in sometimes spooky, sometimes scary, but always creative cost…",
+      "url": "https://www.nasa.gov/centers-and-facilities/johnson/halloween-aboard-the-international-space-station/",
+      "publishedAt": "2026-10-29T21:44:23.000Z",
       "tags": [
+        "Johnson Space Center",
+        "International Space Station (ISS)"
+      ]
+    },
+    {
+      "id": "5a66ae7188d6",
+      "agency": "nasa",
+      "source": "NASA breaking news",
+      "title": "NASA-funded Study Details One of Oldest Mars Meteorites Ever Found",
+      "summary": "When a rose-colored meteorite was found in the Sahara Desert in 2022, no one knew how old it was or where it came from. Not until NASA-funded scientists age-dated its minerals did they realize the nearly 2-pound (800-gram) rock was a piece of Mars that formed more than 4.1 billion years ago, making it one […]",
+      "url": "https://www.nasa.gov/solar-system/planets/mars/nasa-funded-study-details-one-of-oldest-mars-meteorites-ever-found/",
+      "publishedAt": "2026-10-29T18:18:09.000Z",
+      "tags": [
+        "Mars",
+        "General",
         "Jet Propulsion Laboratory",
-        "Artemis 2"
+        "Meteors & Meteorites",
+        "Planetary Geosciences & Geophysics"
       ]
     },
     {
-      "id": "af53f1e2976f",
+      "id": "e578a086dadc",
       "agency": "nasa",
       "source": "NASA breaking news",
-      "title": "NASA Welcomes Vietnam as Newest Artemis Accords Signatory",
-      "summary": "The Socialist Republic of Vietnam became the 78th nation to sign the Artemis Accords, joining a growing coalition of like-minded nations committed to the peaceful, transparent, and responsible exploration of space. “Vietnam is joining at an important point in the development of its own space program,” said NASA Deputy…",
-      "url": "https://www.nasa.gov/organizations/oiir/nasa-welcomes-vietnam-as-newest-artemis-accords-signatory/",
-      "publishedAt": "2026-10-28T21:50:01.000Z",
+      "title": "NASA Names Troy Asher Armstrong Flight Research Center Director",
+      "summary": "NASA Administrator Jared Isaacman has named Troy Asher director of the agency’s Armstrong Flight Research Center in Edwards, California. Asher, a veteran test pilot and aerospace engineer with decades of experience in flight research and operations, has served as the center’s acting director since March. “Troy has spen…",
+      "url": "https://www.nasa.gov/news-release/nasa-names-troy-asher-armstrong-flight-research-center-director/",
+      "publishedAt": "2026-10-29T18:00:35.000Z",
       "tags": [
-        "Office of International and Interagency Relations (OIIR)",
-        "Artemis Accords"
+        "Armstrong Flight Research Center",
+        "Leadership",
+        "People of NASA"
       ]
     },
     {
-      "id": "a70a0f7a37cd",
+      "id": "88219eaca6b4",
       "agency": "nasa",
       "source": "NASA breaking news",
-      "title": "Artemis III SLS Core Stage Joins Boosters at Kennedy",
-      "summary": "NASA’s Artemis III SLS (Space Launch System) core stage is integrated alongside the twin solid rocket boosters on Oct. 28 inside the Vehicle Assembly Building’s High Bay 3 at NASA’s Kennedy Space Center in Florida. Technicians lifted the 212-foot rocket stage from the facility’s High Bay 2 using a one-of-a kind lifting…",
-      "url": "https://www.nasa.gov/image-article/artemis-iii-sls-core-stage-joins-boosters-at-kennedy/",
-      "publishedAt": "2026-10-28T18:59:44.000Z",
+      "title": "NIH–NASA QuSAFE Challenge",
+      "summary": "The Quantum-Enabled Predictive Preclinical NAMs for Toxicity and Safety (QuSAFE) Challenge, a collaboration between the National Institutes of Health (NIH) and NASA, advances quantum-enabled sensing for in vitro NAMs, such as organoids and microphysiological systems (MPS), to improve drug safety while reducing animal u…",
+      "url": "https://www.nasa.gov/directorates/stmd/prizes-challenges-crowdsourcing-program/center-of-excellence-for-collaborative-innovation-coeci/nih-nasa-qusafe-challenge/",
+      "publishedAt": "2026-10-29T17:44:37.000Z",
       "tags": [
-        "Andre Douglas",
-        "Artemis",
-        "Artemis 3",
-        "Exploration Ground Systems",
-        "Frank Rubio",
-        "Kennedy Space Center",
-        "Randolph J. Bresnik",
-        "Space Launch System (SLS)"
+        "Center of Excellence for Collaborative Innovation (CoECI)",
+        "CoECI News",
+        "General",
+        "Get Involved",
+        "Opportunities to Contribute to NASA Missions & Get Involved",
+        "Prizes, Challenges, & Crowdsourcing News",
+        "Prizes, Challenges, and Crowdsourcing Program"
       ]
     },
     {
-      "id": "6b410a9fdd53",
+      "id": "01d554e28953",
       "agency": "nasa",
       "source": "NASA breaking news",
-      "title": "NASA University Challenge Ignites Trajectory of Drone Entrepreneur",
-      "summary": "Five years ago, Gavin Gardner was a Michigan State University engineering student researching next-generation drone technology as part of a NASA grant. Garder expected the research to be demanding – but he was surprised that navigating the financial side of the work presented an even greater challenge. Although Gardner…",
-      "url": "https://www.nasa.gov/aeronautics/nasa-challenge-drone-entrepreneur/",
-      "publishedAt": "2026-10-28T18:00:28.000Z",
+      "title": "Envía tu nombre a Titán a bordo de la misión Dragonfly de la NASA",
+      "summary": "Read this release in English here. Puede que nunca llegues a surcar los cielos bajo las nubes o sobre las arenas orgánicas de la luna Titán de Saturno, ¡pero tu nombre sí puede hacerlo! La NASA invita al público a enviar su nombre a bordo de la aeronave de ala giratoria Dragonfly de la agencia […]",
+      "url": "https://www.nasa.gov/news-release/envia-tu-nombre-a-titan-a-bordo-de-la-mision-dragonfly-de-la-nasa/",
+      "publishedAt": "2026-10-29T15:21:23.000Z",
       "tags": [
-        "Aeronautics",
-        "Aeronautics Research Mission Directorate",
-        "Research and Technology Mission Directorate",
-        "Transformative Aeronautics Concepts Program",
-        "University Innovation",
-        "University Student Research Challenge"
+        "NASA en español"
       ]
     },
     {
-      "id": "d72684dc43e2",
+      "id": "58d66dd5f0ae",
       "agency": "nasa",
       "source": "NASA breaking news",
-      "title": "NASA Selects 19 New Citizen Science Proposals in 2026",
-      "summary": "So far, 2026 has seen a flood of successes for volunteers who do NASA science, exemplifying NASA’s commitment to gold-standard science—transparent, reproducible and intrinsically collaborative. The Backyard Worlds: Planet 9 project announced that their project volunteers have now discovered most of the known brown dwar…",
-      "url": "https://science.nasa.gov/get-involved/citizen-science/nasa-selects-19-new-citizen-science-proposals-in-2026/",
-      "publishedAt": "2026-10-28T16:25:29.000Z",
+      "title": "Send Your Name to Titan Aboard NASA’s Dragonfly Mission",
+      "summary": "You may never soar under the clouds or over the organic sands of Saturn’s moon Titan, but your name can. NASA is inviting the public to send their names aboard the agency’s Dragonfly rotorcraft and be part of the first science mission to fly and explore the surface of another world. To have your […]",
+      "url": "https://www.nasa.gov/news-release/send-your-name-to-titan-aboard-nasas-dragonfly-mission/",
+      "publishedAt": "2026-10-29T15:10:18.000Z",
+      "tags": [
+        "Dragonfly",
+        "Marshall Space Flight Center",
+        "Saturn",
+        "Saturn Moons",
+        "Science Mission Directorate",
+        "Titan"
+      ]
+    },
+    {
+      "id": "ca098cb80c0f",
+      "agency": "nasa",
+      "source": "NASA breaking news",
+      "title": "NASA’s ISAM State of Play: The Industry Standard for Space Servicing, Assembly, and Manufacturing",
+      "summary": "When companies began approaching NASA’s Langley Research Center, asking to be included in the In-Space Servicing, Assembly, and Manufacturing (ISAM) State of Play for access to competitive intelligence, the team knew they had crossed an inflection point. “We’ve had some unnamed companies ask if we have any proprietary…",
+      "url": "https://www.nasa.gov/humans-in-space/commercial-space/nasas-isam-state-of-play-the-industry-standard-for-space-servicing-assembly-and-manufacturing/",
+      "publishedAt": "2026-10-29T15:06:40.000Z",
+      "tags": [
+        "Commercial Space",
+        "The Future of Commercial Space"
+      ]
+    },
+    {
+      "id": "cffff9684ff5",
+      "agency": "nasa",
+      "source": "NASA breaking news",
+      "title": "NASA’s Hubble Marks Way for Roman Space Telescope",
+      "summary": "A sweeping barred galaxy takes center stage in this Oct. 22, 2026, image, but the gravitational lensing at bottom right is the real target. This observation is one of many gravitational lensing images taken by NASA’s Hubble Space Telescope in preparation for science with the new Nancy Grace Roman Space Telescope. Astro…",
+      "url": "https://www.nasa.gov/image-article/nasas-hubble-marks-way-for-roman-space-telescope/",
+      "publishedAt": "2026-10-29T14:49:27.000Z",
+      "tags": [
+        "Galaxies",
+        "Spiral Galaxies"
+      ]
+    },
+    {
+      "id": "0044251aee6c",
+      "agency": "nasa",
+      "source": "NASA breaking news",
+      "title": "Ghostly Cat’s Head Nebula Lurks Within Sight of NASA’s Hubble, Webb",
+      "summary": "Like a spectral form rising out of a cold mist, NASA’s Hubble and James Webb Space Telescopes have captured a hauntingly dynamic star-forming scene. It lies within the vast Carina Nebula, a diffuse star-forming region located about 7,500 light-years away from Earth. The small, select area both telescopes observed is ni…",
+      "url": "https://science.nasa.gov/missions/hubble/ghostly-cats-head-nebula-lurks-within-sight-of-nasas-hubble-webb/",
+      "publishedAt": "2026-10-29T14:01:01.000Z",
+      "tags": [
+        "Astrophysics",
+        "Astrophysics Division",
+        "Goddard Space Flight Center",
+        "Hubble Space Telescope",
+        "James Webb Space Telescope (JWST)",
+        "Nebulae",
+        "Stars"
+      ]
+    },
+    {
+      "id": "eb8c655990e3",
+      "agency": "esa",
+      "source": "ESA/Hubble news",
+      "title": "Organisation Release: Ghostly Cat’s Head Nebula lurks within sight of Hubble and Webb",
+      "summary": "The NASA/ESA Hubble and the NASA/ESA/CSA James Webb Space Telescopes recently stared at an eerie star-forming scene within the Carina Nebula, a massive gas and dust cloud located approximately 7,500 light-years away from Earth. The two telescopes offer complementary views of the shadowy form, nicknamed the Cat’s Head N…",
+      "url": "https://esahubble.org/news/heic2614/",
+      "publishedAt": "2026-10-29T14:00:00.000Z",
       "tags": []
     },
     {
-      "id": "d518830cd5d6",
+      "id": "9aedaf8680a5",
       "agency": "nasa",
       "source": "NASA breaking news",
-      "title": "Webb Sees Turbulent Star Nursery",
-      "summary": "In this Webb image released on Oct. 22, 2026, we see a turbulent cauldron of star formation filled with dense clumps of gas. This region is named N159 and is located 161,000 light-years away in the Large Magellanic Cloud, one of the satellite galaxies orbiting the Milky Way galaxy. This region has a lower metallicity […",
-      "url": "https://www.nasa.gov/image-article/webb-sees-turbulent-star-nursery/",
-      "publishedAt": "2026-10-28T15:33:10.000Z",
-      "tags": []
-    },
-    {
-      "id": "61bae4d50665",
-      "agency": "nasa",
-      "source": "NASA breaking news",
-      "title": "Curiosity Blog, Sols 5043-5049: Preparing to Drill at ‘Nazca’",
-      "summary": "Written by Lucy Lim, Planetary Scientist at NASA’s Goddard Space Flight Center Earth planning date: Friday, Oct. 16, 2026 Following the Basque Lakes drill campaign, Curiosity has returned to a spot just a few meters away from the “Chiu Chiu” block to conduct our next drill campaign. “Chiu Chiu” itself wasn’t a good can…",
-      "url": "https://science.nasa.gov/blog/curiosity-blog-sols-5043-5049-preparing-to-drill-at-nazca/",
-      "publishedAt": "2026-10-28T05:39:46.000Z",
+      "title": "Contractor to Civil Servant: NASA Welcomes Jared Spiers",
+      "summary": "Jared Spiers had an interest in contributing to NASA’s mission long before becoming a civil servant for the agency. Growing up close to NASA’s Stennis Space Center near Bay St. Louis, Mississippi, and hearing about his father’s work there, he gained a firsthand connection to the nation’s space program. Before graduatin…",
+      "url": "https://www.nasa.gov/centers-and-facilities/stennis/contractor-to-civil-servant-jared-spiers/",
+      "publishedAt": "2026-10-29T13:27:34.000Z",
       "tags": [
-        "Blogs"
-      ]
-    },
-    {
-      "id": "42d7a3e217ca",
-      "agency": "nasa",
-      "source": "NASA breaking news",
-      "title": "APOD: 2026 October 28 – The Mutual Occultation of Ganymede and Io",
-      "summary": "APODScienceAPODAPOD: 2026 October 28 – The…Today’s APODArchiveSubmissionsIndexSearchCalendarRSSEducationAboutDiscuss APOD Astronomy Picture of the Day Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a professional astronome…",
-      "url": "https://science.nasa.gov/image-article/apod-2026-october-28-the-mutual-occultation-of-ganymede-and-io/",
-      "publishedAt": "2026-10-28T04:05:00.000Z",
-      "tags": [
-        "APOD"
+        "Stennis Space Center"
       ]
     },
     {
@@ -692,16 +717,6 @@
       "summary": "Astronomers have used the European Southern Observatory's Very Large Telescope (ESO's VLT) to study the composition of 3I/ATLAS, the brightest interstellar object ever seen, in detail. By measuring specific chemical fingerprints — the first observations of this kind for a comet that formed outside the Solar System — th…",
       "url": "https://www.eso.org/public/news/eso2608/",
       "publishedAt": "2026-07-06T09:00:00.000Z",
-      "tags": []
-    },
-    {
-      "id": "5f25b1c34a64",
-      "agency": "eso",
-      "source": "ESO press releases",
-      "title": "\"Beyond the limit\": one million satellites and mirrors in space pose grave threat to the night sky",
-      "summary": "A new European Southern Observatory (ESO) study has found that current proposals to launch over 1.7 million satellites into orbit, including extremely bright ones, would have “devastating consequences for astronomy.” According to the study, no more than 100 000 faint satellites, below naked eye visibility, should orbit…",
-      "url": "https://www.eso.org/public/news/eso2607/",
-      "publishedAt": "2026-07-01T12:00:00.000Z",
       "tags": []
     }
   ]
