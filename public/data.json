@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-30T12:18:31.743Z",
+  "generatedAt": "2026-10-30T21:59:53.293Z",
   "sourceCount": 5,
   "itemCount": 70,
   "errors": [],
@@ -22,7 +22,7 @@
       "title": "HAT-P-17 c — catalog entry updated",
       "summary": "Orbits HAT-P-17: discovered via Radial Velocity, 2012, 13.10x Earth radius, 1080.60x Earth mass, 5584.0-day orbit.",
       "url": "https://exoplanetarchive.ipac.caltech.edu/overview/HAT-P-17",
-      "publishedAt": "2026-10-30T12:18:24.902Z",
+      "publishedAt": "2026-10-30T21:59:46.515Z",
       "tags": [
         "Radial Velocity"
       ]
@@ -36,7 +36,7 @@
       "title": "HAT-P-17 b — catalog entry updated",
       "summary": "Orbits HAT-P-17: discovered via Transit, 2012, 11.77x Earth radius, 184.34x Earth mass, 10.3-day orbit.",
       "url": "https://exoplanetarchive.ipac.caltech.edu/overview/HAT-P-17",
-      "publishedAt": "2026-10-30T12:18:24.902Z",
+      "publishedAt": "2026-10-30T21:59:46.515Z",
       "tags": [
         "Transit"
       ]
@@ -50,7 +50,7 @@
       "title": "HAT-P-18 b — catalog entry updated",
       "summary": "Orbits HAT-P-18: discovered via Transit, 2010, 10.70x Earth radius, 55.52x Earth mass, 5.5-day orbit.",
       "url": "https://exoplanetarchive.ipac.caltech.edu/overview/HAT-P-18",
-      "publishedAt": "2026-10-30T12:18:24.902Z",
+      "publishedAt": "2026-10-30T21:59:46.515Z",
       "tags": [
         "Transit"
       ]
@@ -64,7 +64,7 @@
       "title": "HAT-P-14 b — catalog entry updated",
       "summary": "Orbits HAT-P-14: discovered via Transit, 2010, 15.92x Earth radius, 1093.34x Earth mass, 4.6-day orbit.",
       "url": "https://exoplanetarchive.ipac.caltech.edu/overview/HAT-P-14",
-      "publishedAt": "2026-10-30T12:18:24.902Z",
+      "publishedAt": "2026-10-30T21:59:46.515Z",
       "tags": [
         "Transit"
       ]
@@ -78,7 +78,7 @@
       "title": "HAT-P-12 b — catalog entry updated",
       "summary": "Orbits HAT-P-12: discovered via Transit, 2009, 10.75x Earth radius, 67.06x Earth mass, 3.2-day orbit.",
       "url": "https://exoplanetarchive.ipac.caltech.edu/overview/HAT-P-12",
-      "publishedAt": "2026-10-30T12:18:24.902Z",
+      "publishedAt": "2026-10-30T21:59:46.515Z",
       "tags": [
         "Transit"
       ]
@@ -92,7 +92,7 @@
       "title": "HAT-P-13 c — catalog entry updated",
       "summary": "Orbits HAT-P-13: discovered via Radial Velocity, 2009, 12.30x Earth radius, 4538.42x Earth mass, 446.3-day orbit.",
       "url": "https://exoplanetarchive.ipac.caltech.edu/overview/HAT-P-13",
-      "publishedAt": "2026-10-30T12:18:24.902Z",
+      "publishedAt": "2026-10-30T21:59:46.515Z",
       "tags": [
         "Radial Velocity"
       ]
@@ -106,7 +106,7 @@
       "title": "HAT-P-13 b — catalog entry updated",
       "summary": "Orbits HAT-P-13: discovered via Transit, 2009, 14.26x Earth radius, 270.46x Earth mass, 2.9-day orbit.",
       "url": "https://exoplanetarchive.ipac.caltech.edu/overview/HAT-P-13",
-      "publishedAt": "2026-10-30T12:18:24.902Z",
+      "publishedAt": "2026-10-30T21:59:46.515Z",
       "tags": [
         "Transit"
       ]
@@ -120,7 +120,7 @@
       "title": "GJ 1214 b — catalog entry updated",
       "summary": "Orbits GJ 1214: discovered via Transit, 2009, 2.73x Earth radius, 8.41x Earth mass, 1.6-day orbit.",
       "url": "https://exoplanetarchive.ipac.caltech.edu/overview/GJ_1214",
-      "publishedAt": "2026-10-30T12:18:24.902Z",
+      "publishedAt": "2026-10-30T21:59:46.515Z",
       "tags": [
         "Transit"
       ]
@@ -134,7 +134,7 @@
       "title": "55 Cnc f — catalog entry updated",
       "summary": "Orbits 55 Cnc: discovered via Radial Velocity, 2007, 7.59x Earth radius, 44.81x Earth mass, 260.6-day orbit.",
       "url": "https://exoplanetarchive.ipac.caltech.edu/overview/55_Cnc",
-      "publishedAt": "2026-10-30T12:18:24.902Z",
+      "publishedAt": "2026-10-30T21:59:46.515Z",
       "tags": [
         "Radial Velocity"
       ]
@@ -148,7 +148,7 @@
       "title": "HAT-P-1 b — catalog entry updated",
       "summary": "Orbits HAT-P-1: discovered via Transit, 2006, 14.78x Earth radius, 166.86x Earth mass, 4.5-day orbit.",
       "url": "https://exoplanetarchive.ipac.caltech.edu/overview/HAT-P-1",
-      "publishedAt": "2026-10-30T12:18:24.902Z",
+      "publishedAt": "2026-10-30T21:59:46.515Z",
       "tags": [
         "Transit"
       ]
@@ -162,7 +162,7 @@
       "title": "55 Cnc c — catalog entry updated",
       "summary": "Orbits 55 Cnc: discovered via Radial Velocity, 2004, 8.51x Earth radius, 54.47x Earth mass, 44.4-day orbit.",
       "url": "https://exoplanetarchive.ipac.caltech.edu/overview/55_Cnc",
-      "publishedAt": "2026-10-30T12:18:24.902Z",
+      "publishedAt": "2026-10-30T21:59:46.515Z",
       "tags": [
         "Radial Velocity"
       ]
@@ -176,7 +176,7 @@
       "title": "55 Cnc e — catalog entry updated",
       "summary": "Orbits 55 Cnc: discovered via Radial Velocity, 2004, 1.88x Earth radius, 7.99x Earth mass, 0.7-day orbit.",
       "url": "https://exoplanetarchive.ipac.caltech.edu/overview/55_Cnc",
-      "publishedAt": "2026-10-30T12:18:24.902Z",
+      "publishedAt": "2026-10-30T21:59:46.515Z",
       "tags": [
         "Radial Velocity"
       ]
@@ -190,7 +190,7 @@
       "title": "GJ 436 b — catalog entry updated",
       "summary": "Orbits GJ 436: discovered via Radial Velocity, 2004, 4.17x Earth radius, 22.10x Earth mass, 2.6-day orbit.",
       "url": "https://exoplanetarchive.ipac.caltech.edu/overview/GJ_436",
-      "publishedAt": "2026-10-30T12:18:24.902Z",
+      "publishedAt": "2026-10-30T21:59:46.515Z",
       "tags": [
         "Radial Velocity"
       ]
@@ -204,7 +204,7 @@
       "title": "55 Cnc d — catalog entry updated",
       "summary": "Orbits 55 Cnc: discovered via Radial Velocity, 2002, 13.00x Earth radius, 1232.49x Earth mass, 4799.0-day orbit.",
       "url": "https://exoplanetarchive.ipac.caltech.edu/overview/55_Cnc",
-      "publishedAt": "2026-10-30T12:18:24.902Z",
+      "publishedAt": "2026-10-30T21:59:46.515Z",
       "tags": [
         "Radial Velocity"
       ]
@@ -218,9 +218,59 @@
       "title": "55 Cnc b — catalog entry updated",
       "summary": "Orbits 55 Cnc: discovered via Radial Velocity, 1996, 13.90x Earth radius, 263.98x Earth mass, 14.7-day orbit.",
       "url": "https://exoplanetarchive.ipac.caltech.edu/overview/55_Cnc",
-      "publishedAt": "2026-10-30T12:18:24.902Z",
+      "publishedAt": "2026-10-30T21:59:46.515Z",
       "tags": [
         "Radial Velocity"
+      ]
+    },
+    {
+      "id": "d5af49b42524",
+      "agency": "nasa",
+      "source": "NASA breaking news",
+      "title": "NASA Releases MAX POWER Key Events for Media, Participants",
+      "summary": "AmAmerica’s newest aerospace expo and air show – MAX POWER – is fast approaching, and NASA has announced key events beginning Friday, Nov. 6, and running through Sunday, Nov. 8, hosted on and near the agency’s Kennedy Space Center in Florida. Through multiple park experiences at MAX POWER, NASA and a variety of externa…",
+      "url": "https://www.nasa.gov/news-release/nasa-releases-max-power-key-events-for-media-participants/",
+      "publishedAt": "2026-10-30T19:31:02.000Z",
+      "tags": [
+        "General",
+        "Aeronautics",
+        "Astronauts",
+        "Human Spaceflight Mission Directorate",
+        "Kennedy Space Center",
+        "Moon Base",
+        "Nancy Grace Roman Space Telescope",
+        "Quesst (X-59)",
+        "Research and Technology Mission Directorate",
+        "Science Mission Directorate",
+        "Space Nuclear Propulsion (SNP)"
+      ]
+    },
+    {
+      "id": "d20dd0f99f28",
+      "agency": "nasa",
+      "source": "NASA breaking news",
+      "title": "NASA’s James Webb Space Telescope Captures Eerie Cat’s Head",
+      "summary": "Intricate structures within the Cat’s Head Nebula are illuminated in this mid-infrared view from NASA’s James Webb Space Telescope released on Oct. 29, 2026. The distinctive “cat’s head” shape of the nebula was likely sculpted over time by the intense ultraviolet radiation and winds from massive stars in the Carina Neb…",
+      "url": "https://www.nasa.gov/image-article/nasas-james-webb-space-telescope-captures-eerie-cats-head/",
+      "publishedAt": "2026-10-30T15:56:26.000Z",
+      "tags": [
+        "Nebulae"
+      ]
+    },
+    {
+      "id": "2254c23f5d00",
+      "agency": "nasa",
+      "source": "NASA breaking news",
+      "title": "NASA Explores Potential Commercial Servicing for Hubble Telescope",
+      "summary": "NASA issued a Request for Information Oct. 29 to learn more about industry capabilities for in-space servicing to support the agency’s Hubble Space Telescope.",
+      "url": "https://science.nasa.gov/missions/hubble/nasa-explores-potential-commercial-servicing-for-hubble-telescope/",
+      "publishedAt": "2026-10-30T14:51:21.000Z",
+      "tags": [
+        "Astrophysics",
+        "Astrophysics Division",
+        "Goddard Space Flight Center",
+        "Hubble Space Telescope",
+        "The Universe"
       ]
     },
     {
@@ -314,20 +364,6 @@
       ]
     },
     {
-      "id": "e578a086dadc",
-      "agency": "nasa",
-      "source": "NASA breaking news",
-      "title": "NASA Names Troy Asher Armstrong Flight Research Center Director",
-      "summary": "NASA Administrator Jared Isaacman has named Troy Asher director of the agency’s Armstrong Flight Research Center in Edwards, California. Asher, a veteran test pilot and aerospace engineer with decades of experience in flight research and operations, has served as the center’s acting director since March. “Troy has spen…",
-      "url": "https://www.nasa.gov/news-release/nasa-names-troy-asher-armstrong-flight-research-center-director/",
-      "publishedAt": "2026-10-29T18:00:35.000Z",
-      "tags": [
-        "Armstrong Flight Research Center",
-        "Leadership",
-        "People of NASA"
-      ]
-    },
-    {
       "id": "49ba9cd5d347",
       "agency": "arxiv",
       "source": "arXiv astro-ph (new submissions)",
@@ -396,24 +432,6 @@
       "url": "https://arxiv.org/abs/2610.40606v1",
       "publishedAt": "2026-10-29T17:52:59.000Z",
       "tags": []
-    },
-    {
-      "id": "88219eaca6b4",
-      "agency": "nasa",
-      "source": "NASA breaking news",
-      "title": "NIH–NASA QuSAFE Challenge",
-      "summary": "The Quantum-Enabled Predictive Preclinical NAMs for Toxicity and Safety (QuSAFE) Challenge, a collaboration between the National Institutes of Health (NIH) and NASA, advances quantum-enabled sensing for in vitro NAMs, such as organoids and microphysiological systems (MPS), to improve drug safety while reducing animal u…",
-      "url": "https://www.nasa.gov/directorates/stmd/prizes-challenges-crowdsourcing-program/center-of-excellence-for-collaborative-innovation-coeci/nih-nasa-qusafe-challenge/",
-      "publishedAt": "2026-10-29T17:44:37.000Z",
-      "tags": [
-        "Center of Excellence for Collaborative Innovation (CoECI)",
-        "CoECI News",
-        "General",
-        "Get Involved",
-        "Opportunities to Contribute to NASA Missions & Get Involved",
-        "Prizes, Challenges, & Crowdsourcing News",
-        "Prizes, Challenges, and Crowdsourcing Program"
-      ]
     },
     {
       "id": "9f145971020d",
@@ -594,18 +612,6 @@
       "url": "https://arxiv.org/abs/2610.40326v1",
       "publishedAt": "2026-10-29T15:56:14.000Z",
       "tags": []
-    },
-    {
-      "id": "01d554e28953",
-      "agency": "nasa",
-      "source": "NASA breaking news",
-      "title": "Envía tu nombre a Titán a bordo de la misión Dragonfly de la NASA",
-      "summary": "Read this release in English here. Puede que nunca llegues a surcar los cielos bajo las nubes o sobre las arenas orgánicas de la luna Titán de Saturno, ¡pero tu nombre sí puede hacerlo! La NASA invita al público a enviar su nombre a bordo de la aeronave de ala giratoria Dragonfly de la agencia […]",
-      "url": "https://www.nasa.gov/news-release/envia-tu-nombre-a-titan-a-bordo-de-la-mision-dragonfly-de-la-nasa/",
-      "publishedAt": "2026-10-29T15:21:23.000Z",
-      "tags": [
-        "NASA en español"
-      ]
     },
     {
       "id": "eb8c655990e3",
