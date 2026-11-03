@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-02T14:58:03.175Z",
+  "generatedAt": "2026-11-03T00:40:22.648Z",
   "sourceCount": 5,
   "itemCount": 70,
   "errors": [],
@@ -22,7 +22,7 @@
       "title": "HAT-P-17 c — catalog entry updated",
       "summary": "Orbits HAT-P-17: discovered via Radial Velocity, 2012, 13.10x Earth radius, 1080.60x Earth mass, 5584.0-day orbit.",
       "url": "https://exoplanetarchive.ipac.caltech.edu/overview/HAT-P-17",
-      "publishedAt": "2026-11-02T14:58:01.936Z",
+      "publishedAt": "2026-11-03T00:40:12.056Z",
       "tags": [
         "Radial Velocity"
       ]
@@ -36,7 +36,7 @@
       "title": "HAT-P-17 b — catalog entry updated",
       "summary": "Orbits HAT-P-17: discovered via Transit, 2012, 11.77x Earth radius, 184.34x Earth mass, 10.3-day orbit.",
       "url": "https://exoplanetarchive.ipac.caltech.edu/overview/HAT-P-17",
-      "publishedAt": "2026-11-02T14:58:01.936Z",
+      "publishedAt": "2026-11-03T00:40:12.056Z",
       "tags": [
         "Transit"
       ]
@@ -50,7 +50,7 @@
       "title": "HAT-P-18 b — catalog entry updated",
       "summary": "Orbits HAT-P-18: discovered via Transit, 2010, 10.70x Earth radius, 55.52x Earth mass, 5.5-day orbit.",
       "url": "https://exoplanetarchive.ipac.caltech.edu/overview/HAT-P-18",
-      "publishedAt": "2026-11-02T14:58:01.936Z",
+      "publishedAt": "2026-11-03T00:40:12.056Z",
       "tags": [
         "Transit"
       ]
@@ -64,7 +64,7 @@
       "title": "HAT-P-14 b — catalog entry updated",
       "summary": "Orbits HAT-P-14: discovered via Transit, 2010, 15.92x Earth radius, 1093.34x Earth mass, 4.6-day orbit.",
       "url": "https://exoplanetarchive.ipac.caltech.edu/overview/HAT-P-14",
-      "publishedAt": "2026-11-02T14:58:01.936Z",
+      "publishedAt": "2026-11-03T00:40:12.056Z",
       "tags": [
         "Transit"
       ]
@@ -78,7 +78,7 @@
       "title": "HAT-P-12 b — catalog entry updated",
       "summary": "Orbits HAT-P-12: discovered via Transit, 2009, 10.75x Earth radius, 67.06x Earth mass, 3.2-day orbit.",
       "url": "https://exoplanetarchive.ipac.caltech.edu/overview/HAT-P-12",
-      "publishedAt": "2026-11-02T14:58:01.936Z",
+      "publishedAt": "2026-11-03T00:40:12.056Z",
       "tags": [
         "Transit"
       ]
@@ -92,7 +92,7 @@
       "title": "HAT-P-13 c — catalog entry updated",
       "summary": "Orbits HAT-P-13: discovered via Radial Velocity, 2009, 12.30x Earth radius, 4538.42x Earth mass, 446.3-day orbit.",
       "url": "https://exoplanetarchive.ipac.caltech.edu/overview/HAT-P-13",
-      "publishedAt": "2026-11-02T14:58:01.936Z",
+      "publishedAt": "2026-11-03T00:40:12.056Z",
       "tags": [
         "Radial Velocity"
       ]
@@ -106,7 +106,7 @@
       "title": "HAT-P-13 b — catalog entry updated",
       "summary": "Orbits HAT-P-13: discovered via Transit, 2009, 14.26x Earth radius, 270.46x Earth mass, 2.9-day orbit.",
       "url": "https://exoplanetarchive.ipac.caltech.edu/overview/HAT-P-13",
-      "publishedAt": "2026-11-02T14:58:01.936Z",
+      "publishedAt": "2026-11-03T00:40:12.056Z",
       "tags": [
         "Transit"
       ]
@@ -120,7 +120,7 @@
       "title": "GJ 1214 b — catalog entry updated",
       "summary": "Orbits GJ 1214: discovered via Transit, 2009, 2.73x Earth radius, 8.41x Earth mass, 1.6-day orbit.",
       "url": "https://exoplanetarchive.ipac.caltech.edu/overview/GJ_1214",
-      "publishedAt": "2026-11-02T14:58:01.936Z",
+      "publishedAt": "2026-11-03T00:40:12.056Z",
       "tags": [
         "Transit"
       ]
@@ -134,7 +134,7 @@
       "title": "55 Cnc f — catalog entry updated",
       "summary": "Orbits 55 Cnc: discovered via Radial Velocity, 2007, 7.59x Earth radius, 44.81x Earth mass, 260.6-day orbit.",
       "url": "https://exoplanetarchive.ipac.caltech.edu/overview/55_Cnc",
-      "publishedAt": "2026-11-02T14:58:01.936Z",
+      "publishedAt": "2026-11-03T00:40:12.056Z",
       "tags": [
         "Radial Velocity"
       ]
@@ -148,7 +148,7 @@
       "title": "HAT-P-1 b — catalog entry updated",
       "summary": "Orbits HAT-P-1: discovered via Transit, 2006, 14.78x Earth radius, 166.86x Earth mass, 4.5-day orbit.",
       "url": "https://exoplanetarchive.ipac.caltech.edu/overview/HAT-P-1",
-      "publishedAt": "2026-11-02T14:58:01.936Z",
+      "publishedAt": "2026-11-03T00:40:12.056Z",
       "tags": [
         "Transit"
       ]
@@ -162,7 +162,7 @@
       "title": "55 Cnc c — catalog entry updated",
       "summary": "Orbits 55 Cnc: discovered via Radial Velocity, 2004, 8.51x Earth radius, 54.47x Earth mass, 44.4-day orbit.",
       "url": "https://exoplanetarchive.ipac.caltech.edu/overview/55_Cnc",
-      "publishedAt": "2026-11-02T14:58:01.936Z",
+      "publishedAt": "2026-11-03T00:40:12.056Z",
       "tags": [
         "Radial Velocity"
       ]
@@ -176,7 +176,7 @@
       "title": "55 Cnc e — catalog entry updated",
       "summary": "Orbits 55 Cnc: discovered via Radial Velocity, 2004, 1.88x Earth radius, 7.99x Earth mass, 0.7-day orbit.",
       "url": "https://exoplanetarchive.ipac.caltech.edu/overview/55_Cnc",
-      "publishedAt": "2026-11-02T14:58:01.936Z",
+      "publishedAt": "2026-11-03T00:40:12.056Z",
       "tags": [
         "Radial Velocity"
       ]
@@ -190,7 +190,7 @@
       "title": "GJ 436 b — catalog entry updated",
       "summary": "Orbits GJ 436: discovered via Radial Velocity, 2004, 4.17x Earth radius, 22.10x Earth mass, 2.6-day orbit.",
       "url": "https://exoplanetarchive.ipac.caltech.edu/overview/GJ_436",
-      "publishedAt": "2026-11-02T14:58:01.936Z",
+      "publishedAt": "2026-11-03T00:40:12.056Z",
       "tags": [
         "Radial Velocity"
       ]
@@ -204,7 +204,7 @@
       "title": "55 Cnc d — catalog entry updated",
       "summary": "Orbits 55 Cnc: discovered via Radial Velocity, 2002, 13.00x Earth radius, 1232.49x Earth mass, 4799.0-day orbit.",
       "url": "https://exoplanetarchive.ipac.caltech.edu/overview/55_Cnc",
-      "publishedAt": "2026-11-02T14:58:01.936Z",
+      "publishedAt": "2026-11-03T00:40:12.056Z",
       "tags": [
         "Radial Velocity"
       ]
@@ -218,9 +218,100 @@
       "title": "55 Cnc b — catalog entry updated",
       "summary": "Orbits 55 Cnc: discovered via Radial Velocity, 1996, 13.90x Earth radius, 263.98x Earth mass, 14.7-day orbit.",
       "url": "https://exoplanetarchive.ipac.caltech.edu/overview/55_Cnc",
-      "publishedAt": "2026-11-02T14:58:01.936Z",
+      "publishedAt": "2026-11-03T00:40:12.056Z",
       "tags": [
         "Radial Velocity"
+      ]
+    },
+    {
+      "id": "f342a2672539",
+      "agency": "nasa",
+      "source": "NASA breaking news",
+      "title": "Happy 65 Years: NASA’s Johnson Space Center Then and Now",
+      "summary": "Sixty-five years ago, a bold vision took root in Houston: a NASA center dedicated to human spaceflight. Since its founding, NASA’s Johnson Space Center has helped lead the nation’s human spaceflight program, supporting missions from Project Mercury through Artemis. Today, Johnson serves as NASA’s Center of Excellence f…",
+      "url": "https://www.nasa.gov/centers-and-facilities/johnson/happy-65-years-nasas-johnson-space-center-then-and-now/",
+      "publishedAt": "2026-11-02T21:35:59.000Z",
+      "tags": [
+        "Johnson Space Center",
+        "General"
+      ]
+    },
+    {
+      "id": "4e865d9a1341",
+      "agency": "nasa",
+      "source": "NASA breaking news",
+      "title": "TB 26-09 Measured Hammer-Tap Inputs",
+      "summary": "For more information, contact Joel W. Sills, Langley Research Center, joel.w.sills@nasa.gov. Download the PDF version An instrumented hammer test does not require an idealized single half-sine waveform. When the complete force and response are measured accurately, crest ripples and separated contacts remain known input…",
+      "url": "https://www.nasa.gov/centers-and-facilities/nesc/tb-26-09-measured-hammer-tap-inputs/",
+      "publishedAt": "2026-11-02T20:47:41.000Z",
+      "tags": [
+        "NASA Engineering and Safety Center"
+      ]
+    },
+    {
+      "id": "b9487f47e621",
+      "agency": "nasa",
+      "source": "NASA breaking news",
+      "title": "NASA’s CHAPEA Crew “Returns” to Earth",
+      "summary": "The four-member Crew Health and Performance Exploration Analog (CHAPEA) crew poses outside for the first time in more than a year following the end of their simulated Mars journey on Oct. 31, 2026. Crew members Matthew Montgomery (left), James Spicer (middle left), Ross Elder (middle right), and Ellen Ellis (right) spe…",
+      "url": "https://www.nasa.gov/image-article/nasas-chapea-crew-returns-to-earth/",
+      "publishedAt": "2026-11-02T18:50:42.000Z",
+      "tags": [
+        "CHAPEA Mission 2",
+        "Crew Health and Performance Exploration Analog (CHAPEA)"
+      ]
+    },
+    {
+      "id": "2d388f71e487",
+      "agency": "nasa",
+      "source": "NASA breaking news",
+      "title": "What’s Up: November 2026 Skywatching Tips from NASA",
+      "summary": "Meteor Showers, a Spacecraft Milestone, and a Supermoon Catch Taurid and Leonid meteors, spot Mars near Jupiter, celebrate Voyager 1’s light-day milestone, and watch November’s supermoon. Skywatching Highlights Transcript A month of meteor showers … a close pairing of Mars and Jupiter … and a supermoon! That’s What’s U…",
+      "url": "https://science.nasa.gov/solar-system/skywatching/whats-up-november-2026-skywatching-tips-from-nasa/",
+      "publishedAt": "2026-11-02T18:19:58.000Z",
+      "tags": [
+        "Earth's Moon",
+        "Leonids",
+        "Skywatching",
+        "Skywatching Tips",
+        "The Solar System"
+      ]
+    },
+    {
+      "id": "7a17628b8eb6",
+      "agency": "nasa",
+      "source": "NASA breaking news",
+      "title": "NASA Invites Media to Northrop Grumman CRS-25 Station Resupply Launch",
+      "summary": "Media accreditation is open for the next launch to deliver NASA science investigations, supplies, and equipment to the International Space Station. A Northrop Grumman Cygnus XL spacecraft will launch in November to the orbital laboratory on a SpaceX Falcon 9 rocket for NASA. The mission is known as NASA’s Northrop Grum…",
+      "url": "https://www.nasa.gov/news-release/nasa-invites-media-to-northrop-grumman-crs-25-station-resupply-launch/",
+      "publishedAt": "2026-11-02T17:33:22.000Z",
+      "tags": [
+        "Commercial Space",
+        "Commercial Resupply",
+        "International Space Station (ISS)",
+        "ISS Research",
+        "Johnson Space Center",
+        "Kennedy Space Center",
+        "Northrop Grumman Commercial Resupply"
+      ]
+    },
+    {
+      "id": "6cc0d822ff77",
+      "agency": "nasa",
+      "source": "NASA breaking news",
+      "title": "NASA’s Hubble Uncovers Case of Missing Oxygen in Nearby Dwarf Galaxies",
+      "summary": "NASA’s Hubble studied 37 nearby dwarf galaxies and found that much of the oxygen they expected to see is missing.",
+      "url": "https://science.nasa.gov/missions/hubble/nasas-hubble-uncovers-case-of-missing-oxygen-in-nearby-dwarf-galaxies/",
+      "publishedAt": "2026-11-02T15:00:39.000Z",
+      "tags": [
+        "Astrophysics",
+        "Astrophysics Division",
+        "Galaxies",
+        "Goddard Space Flight Center",
+        "Hubble Space Telescope",
+        "Sensing the Universe & Multimessenger Astronomy",
+        "Stars",
+        "Supernovae"
       ]
     },
     {
@@ -228,7 +319,7 @@
       "agency": "nasa",
       "source": "NASA breaking news",
       "title": "APOD: 2026 November 2 – A Long Cloud on Mars",
-      "summary": "APOD Science APOD APOD: 2026 November 2 – A… Today’s APOD Archive Submissions Index Search Calendar RSS Education About Discuss APOD Astronomy Picture of the Day Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a professiona…",
+      "summary": "APODScienceAPODAPOD: 2026 November 2 – A…Today’s APODArchiveSubmissionsIndexSearchCalendarRSSEducationAboutDiscuss APOD Astronomy Picture of the Day Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a professional astronomer.…",
       "url": "https://science.nasa.gov/image-article/apod-2026-november-2-a-long-cloud-on-mars/",
       "publishedAt": "2026-11-02T05:05:00.000Z",
       "tags": [
@@ -255,7 +346,7 @@
       "agency": "nasa",
       "source": "NASA breaking news",
       "title": "APOD: 2026 November 1 – Colors of the Moon",
-      "summary": "APOD Science APOD APOD: 2026 November 1 –… Today’s APOD Archive Submissions Index Search Calendar RSS Education About Discuss APOD Astronomy Picture of the Day Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a professional…",
+      "summary": "APODScienceAPODAPOD: 2026 November 1 –…Today’s APODArchiveSubmissionsIndexSearchCalendarRSSEducationAboutDiscuss APOD Astronomy Picture of the Day Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a professional astronomer. C…",
       "url": "https://science.nasa.gov/image-article/apod-2026-november-1-colors-of-the-moon/",
       "publishedAt": "2026-11-01T04:05:00.000Z",
       "tags": [
@@ -267,33 +358,11 @@
       "agency": "nasa",
       "source": "NASA breaking news",
       "title": "APOD: 2026 October 31 – Night on a Spooky Planet",
-      "summary": "APOD Science APOD APOD: 2026 October 31 –… Today’s APOD Archive Submissions Index Search Calendar RSS Education About Discuss APOD Astronomy Picture of the Day Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a professional…",
+      "summary": "APODScienceAPODAPOD: 2026 October 31 –…Today’s APODArchiveSubmissionsIndexSearchCalendarRSSEducationAboutDiscuss APOD Astronomy Picture of the Day Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a professional astronomer. N…",
       "url": "https://science.nasa.gov/image-article/apod-2026-october-31-night-on-a-spooky-planet/",
       "publishedAt": "2026-10-31T04:05:00.000Z",
       "tags": [
         "APOD"
-      ]
-    },
-    {
-      "id": "d5af49b42524",
-      "agency": "nasa",
-      "source": "NASA breaking news",
-      "title": "NASA Releases MAX POWER Key Events for Media, Participants",
-      "summary": "America’s newest aerospace expo and air show – MAX POWER – is fast approaching, and NASA has announced key events beginning Friday, Nov. 6, and running through Sunday, Nov. 8, hosted on and near the agency’s Kennedy Space Center in Florida. Through multiple park experiences at MAX POWER, NASA and a variety of external…",
-      "url": "https://www.nasa.gov/news-release/nasa-releases-max-power-key-events-for-media-participants/",
-      "publishedAt": "2026-10-30T19:31:02.000Z",
-      "tags": [
-        "General",
-        "Aeronautics",
-        "Astronauts",
-        "Human Spaceflight Mission Directorate",
-        "Kennedy Space Center",
-        "Moon Base",
-        "Nancy Grace Roman Space Telescope",
-        "Quesst (X-59)",
-        "Research and Technology Mission Directorate",
-        "Science Mission Directorate",
-        "Space Nuclear Propulsion (SNP)"
       ]
     },
     {
@@ -397,18 +466,6 @@
       "tags": []
     },
     {
-      "id": "d20dd0f99f28",
-      "agency": "nasa",
-      "source": "NASA breaking news",
-      "title": "NASA’s James Webb Space Telescope Captures Eerie Cat’s Head",
-      "summary": "Intricate structures within the Cat’s Head Nebula are illuminated in this mid-infrared view from NASA’s James Webb Space Telescope released on Oct. 29, 2026. The distinctive “cat’s head” shape of the nebula was likely sculpted over time by the intense ultraviolet radiation and winds from massive stars in the Carina Neb…",
-      "url": "https://www.nasa.gov/image-article/nasas-james-webb-space-telescope-captures-eerie-cats-head/",
-      "publishedAt": "2026-10-30T15:56:26.000Z",
-      "tags": [
-        "Nebulae"
-      ]
-    },
-    {
       "id": "ea1e8dbf9be9",
       "agency": "arxiv",
       "source": "arXiv astro-ph (new submissions)",
@@ -499,22 +556,6 @@
       "tags": []
     },
     {
-      "id": "2254c23f5d00",
-      "agency": "nasa",
-      "source": "NASA breaking news",
-      "title": "NASA Explores Potential Commercial Servicing for Hubble Telescope",
-      "summary": "NASA issued a Request for Information Oct. 29 to learn more about industry capabilities for in-space servicing to support the agency’s Hubble Space Telescope.",
-      "url": "https://science.nasa.gov/missions/hubble/nasa-explores-potential-commercial-servicing-for-hubble-telescope/",
-      "publishedAt": "2026-10-30T14:51:21.000Z",
-      "tags": [
-        "Astrophysics",
-        "Astrophysics Division",
-        "Goddard Space Flight Center",
-        "Hubble Space Telescope",
-        "The Universe"
-      ]
-    },
-    {
       "id": "6c60a6815fe0",
       "agency": "arxiv",
       "source": "arXiv astro-ph (new submissions)",
@@ -573,44 +614,6 @@
       "url": "https://arxiv.org/abs/2610.41749v1",
       "publishedAt": "2026-10-30T13:52:40.000Z",
       "tags": []
-    },
-    {
-      "id": "b490500e7e88",
-      "agency": "nasa",
-      "source": "NASA breaking news",
-      "title": "November’s Night Sky Notes: Light-Day Away",
-      "summary": "Twin Travelers In 1977, NASA launched twin spacecraft Voyager 1 and 2, taking advantage of a once-every-175-year planetary alignment of the four largest planets in our solar system: Jupiter, Saturn, Uranus, and Neptune. Using six gravity assists between them, this Grand Tour gave us up-close views of the gas and ice gi…",
-      "url": "https://science.nasa.gov/solar-system/skywatching/night-sky-network/novembers-night-sky-notes-light-day-away/",
-      "publishedAt": "2026-10-30T10:00:00.000Z",
-      "tags": [
-        "Night Sky Network"
-      ]
-    },
-    {
-      "id": "a8e8c3d040c3",
-      "agency": "nasa",
-      "source": "NASA breaking news",
-      "title": "APOD: 2026 October 30 – Haunting the Cepheus Flare",
-      "summary": "APOD Science APOD APOD: 2026 October 30 –… Today’s APOD Archive Submissions Index Search Calendar RSS Education About Discuss APOD Astronomy Picture of the Day Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a professional…",
-      "url": "https://science.nasa.gov/image-article/apod-2026-october-30-haunting-the-cepheus-flare/",
-      "publishedAt": "2026-10-30T04:05:00.000Z",
-      "tags": [
-        "APOD"
-      ]
-    },
-    {
-      "id": "68d2bbf598bd",
-      "agency": "nasa",
-      "source": "NASA breaking news",
-      "title": "Vega Island Frozen in Fright",
-      "summary": "The sight of an icy skull-like visage on the Antarctic island could make one’s blood run cold.",
-      "url": "https://science.nasa.gov/earth/earth-observatory/vega-island-frozen-in-fright/",
-      "publishedAt": "2026-10-30T04:01:00.000Z",
-      "tags": [
-        "Earth Observatory",
-        "Ice & Glaciers",
-        "Landsat 9"
-      ]
     },
     {
       "id": "eb8c655990e3",
