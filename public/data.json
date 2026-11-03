@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-03T00:40:22.648Z",
+  "generatedAt": "2026-11-03T13:46:17.832Z",
   "sourceCount": 5,
   "itemCount": 70,
   "errors": [],
@@ -22,7 +22,7 @@
       "title": "HAT-P-17 c — catalog entry updated",
       "summary": "Orbits HAT-P-17: discovered via Radial Velocity, 2012, 13.10x Earth radius, 1080.60x Earth mass, 5584.0-day orbit.",
       "url": "https://exoplanetarchive.ipac.caltech.edu/overview/HAT-P-17",
-      "publishedAt": "2026-11-03T00:40:12.056Z",
+      "publishedAt": "2026-11-03T13:46:17.057Z",
       "tags": [
         "Radial Velocity"
       ]
@@ -36,7 +36,7 @@
       "title": "HAT-P-17 b — catalog entry updated",
       "summary": "Orbits HAT-P-17: discovered via Transit, 2012, 11.77x Earth radius, 184.34x Earth mass, 10.3-day orbit.",
       "url": "https://exoplanetarchive.ipac.caltech.edu/overview/HAT-P-17",
-      "publishedAt": "2026-11-03T00:40:12.056Z",
+      "publishedAt": "2026-11-03T13:46:17.057Z",
       "tags": [
         "Transit"
       ]
@@ -50,7 +50,7 @@
       "title": "HAT-P-18 b — catalog entry updated",
       "summary": "Orbits HAT-P-18: discovered via Transit, 2010, 10.70x Earth radius, 55.52x Earth mass, 5.5-day orbit.",
       "url": "https://exoplanetarchive.ipac.caltech.edu/overview/HAT-P-18",
-      "publishedAt": "2026-11-03T00:40:12.056Z",
+      "publishedAt": "2026-11-03T13:46:17.057Z",
       "tags": [
         "Transit"
       ]
@@ -64,7 +64,7 @@
       "title": "HAT-P-14 b — catalog entry updated",
       "summary": "Orbits HAT-P-14: discovered via Transit, 2010, 15.92x Earth radius, 1093.34x Earth mass, 4.6-day orbit.",
       "url": "https://exoplanetarchive.ipac.caltech.edu/overview/HAT-P-14",
-      "publishedAt": "2026-11-03T00:40:12.056Z",
+      "publishedAt": "2026-11-03T13:46:17.057Z",
       "tags": [
         "Transit"
       ]
@@ -78,7 +78,7 @@
       "title": "HAT-P-12 b — catalog entry updated",
       "summary": "Orbits HAT-P-12: discovered via Transit, 2009, 10.75x Earth radius, 67.06x Earth mass, 3.2-day orbit.",
       "url": "https://exoplanetarchive.ipac.caltech.edu/overview/HAT-P-12",
-      "publishedAt": "2026-11-03T00:40:12.056Z",
+      "publishedAt": "2026-11-03T13:46:17.057Z",
       "tags": [
         "Transit"
       ]
@@ -92,7 +92,7 @@
       "title": "HAT-P-13 c — catalog entry updated",
       "summary": "Orbits HAT-P-13: discovered via Radial Velocity, 2009, 12.30x Earth radius, 4538.42x Earth mass, 446.3-day orbit.",
       "url": "https://exoplanetarchive.ipac.caltech.edu/overview/HAT-P-13",
-      "publishedAt": "2026-11-03T00:40:12.056Z",
+      "publishedAt": "2026-11-03T13:46:17.057Z",
       "tags": [
         "Radial Velocity"
       ]
@@ -106,7 +106,7 @@
       "title": "HAT-P-13 b — catalog entry updated",
       "summary": "Orbits HAT-P-13: discovered via Transit, 2009, 14.26x Earth radius, 270.46x Earth mass, 2.9-day orbit.",
       "url": "https://exoplanetarchive.ipac.caltech.edu/overview/HAT-P-13",
-      "publishedAt": "2026-11-03T00:40:12.056Z",
+      "publishedAt": "2026-11-03T13:46:17.057Z",
       "tags": [
         "Transit"
       ]
@@ -120,7 +120,7 @@
       "title": "GJ 1214 b — catalog entry updated",
       "summary": "Orbits GJ 1214: discovered via Transit, 2009, 2.73x Earth radius, 8.41x Earth mass, 1.6-day orbit.",
       "url": "https://exoplanetarchive.ipac.caltech.edu/overview/GJ_1214",
-      "publishedAt": "2026-11-03T00:40:12.056Z",
+      "publishedAt": "2026-11-03T13:46:17.057Z",
       "tags": [
         "Transit"
       ]
@@ -134,7 +134,7 @@
       "title": "55 Cnc f — catalog entry updated",
       "summary": "Orbits 55 Cnc: discovered via Radial Velocity, 2007, 7.59x Earth radius, 44.81x Earth mass, 260.6-day orbit.",
       "url": "https://exoplanetarchive.ipac.caltech.edu/overview/55_Cnc",
-      "publishedAt": "2026-11-03T00:40:12.056Z",
+      "publishedAt": "2026-11-03T13:46:17.057Z",
       "tags": [
         "Radial Velocity"
       ]
@@ -148,7 +148,7 @@
       "title": "HAT-P-1 b — catalog entry updated",
       "summary": "Orbits HAT-P-1: discovered via Transit, 2006, 14.78x Earth radius, 166.86x Earth mass, 4.5-day orbit.",
       "url": "https://exoplanetarchive.ipac.caltech.edu/overview/HAT-P-1",
-      "publishedAt": "2026-11-03T00:40:12.056Z",
+      "publishedAt": "2026-11-03T13:46:17.057Z",
       "tags": [
         "Transit"
       ]
@@ -162,7 +162,7 @@
       "title": "55 Cnc c — catalog entry updated",
       "summary": "Orbits 55 Cnc: discovered via Radial Velocity, 2004, 8.51x Earth radius, 54.47x Earth mass, 44.4-day orbit.",
       "url": "https://exoplanetarchive.ipac.caltech.edu/overview/55_Cnc",
-      "publishedAt": "2026-11-03T00:40:12.056Z",
+      "publishedAt": "2026-11-03T13:46:17.057Z",
       "tags": [
         "Radial Velocity"
       ]
@@ -176,7 +176,7 @@
       "title": "55 Cnc e — catalog entry updated",
       "summary": "Orbits 55 Cnc: discovered via Radial Velocity, 2004, 1.88x Earth radius, 7.99x Earth mass, 0.7-day orbit.",
       "url": "https://exoplanetarchive.ipac.caltech.edu/overview/55_Cnc",
-      "publishedAt": "2026-11-03T00:40:12.056Z",
+      "publishedAt": "2026-11-03T13:46:17.057Z",
       "tags": [
         "Radial Velocity"
       ]
@@ -190,7 +190,7 @@
       "title": "GJ 436 b — catalog entry updated",
       "summary": "Orbits GJ 436: discovered via Radial Velocity, 2004, 4.17x Earth radius, 22.10x Earth mass, 2.6-day orbit.",
       "url": "https://exoplanetarchive.ipac.caltech.edu/overview/GJ_436",
-      "publishedAt": "2026-11-03T00:40:12.056Z",
+      "publishedAt": "2026-11-03T13:46:17.057Z",
       "tags": [
         "Radial Velocity"
       ]
@@ -204,7 +204,7 @@
       "title": "55 Cnc d — catalog entry updated",
       "summary": "Orbits 55 Cnc: discovered via Radial Velocity, 2002, 13.00x Earth radius, 1232.49x Earth mass, 4799.0-day orbit.",
       "url": "https://exoplanetarchive.ipac.caltech.edu/overview/55_Cnc",
-      "publishedAt": "2026-11-03T00:40:12.056Z",
+      "publishedAt": "2026-11-03T13:46:17.057Z",
       "tags": [
         "Radial Velocity"
       ]
@@ -218,9 +218,36 @@
       "title": "55 Cnc b — catalog entry updated",
       "summary": "Orbits 55 Cnc: discovered via Radial Velocity, 1996, 13.90x Earth radius, 263.98x Earth mass, 14.7-day orbit.",
       "url": "https://exoplanetarchive.ipac.caltech.edu/overview/55_Cnc",
-      "publishedAt": "2026-11-03T00:40:12.056Z",
+      "publishedAt": "2026-11-03T13:46:17.057Z",
       "tags": [
         "Radial Velocity"
+      ]
+    },
+    {
+      "id": "dad84c615e9e",
+      "agency": "nasa",
+      "source": "NASA breaking news",
+      "title": "APOD: 2026 November 3 – Comet PanSTARRs and Rainbow Meteor",
+      "summary": "APOD Science APOD APOD: 2026 November 3 –… Today’s APOD Archive Submissions Index Search Calendar RSS Education About Discuss APOD Astronomy Picture of the Day Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a professional…",
+      "url": "https://science.nasa.gov/image-article/apod-2026-november-3-comet-panstarrs-and-rainbow-meteor/",
+      "publishedAt": "2026-11-03T05:05:00.000Z",
+      "tags": [
+        "APOD"
+      ]
+    },
+    {
+      "id": "8e21ccbfd5fa",
+      "agency": "nasa",
+      "source": "NASA breaking news",
+      "title": "The Pacific’s Busy Storm Season",
+      "summary": "Super Typhoon In-fa developed an unusually large eye, and the remnants of Typhoon Champi transitioned into an extratropical storm that targeted Alaska.",
+      "url": "https://science.nasa.gov/earth/earth-observatory/the-pacifics-busy-storm-season/",
+      "publishedAt": "2026-11-03T05:01:00.000Z",
+      "tags": [
+        "Deep Space Climate Observatory (DSCOVR)",
+        "Earth Observatory",
+        "Extreme Weather Events",
+        "Moderate Resolution Imaging Spectroradiometer (MODIS)"
       ]
     },
     {
@@ -249,6 +276,36 @@
       ]
     },
     {
+      "id": "90f345772e69",
+      "agency": "arxiv",
+      "source": "arXiv astro-ph (new submissions)",
+      "title": "Episodic Star Formation - II. The Origin of the Fundamental Metallicity Relation",
+      "summary": "The Fundamental Metallicity Relation (FMR) extends the mass-metallicity relation (MZR) by including star formation rate (SFR) as a third parameter. At fixed stellar mass, galaxies with higher SFRs tend to have lower gas-phase metallicities. We investigate the physical origin of the FMR in the context of episodic star f…",
+      "url": "https://arxiv.org/abs/2611.03645v1",
+      "publishedAt": "2026-11-02T18:59:19.000Z",
+      "tags": []
+    },
+    {
+      "id": "5204b6944cb9",
+      "agency": "arxiv",
+      "source": "arXiv astro-ph (new submissions)",
+      "title": "The Neptunian ridge through the lens of TESS",
+      "summary": "The Neptunian desert and savanna are separated by a ridge, an overdensity at orbital periods of approximately 3-6 d identified with Kepler. Like the hot Jupiter pileup at larger radii, this feature has been linked to the accumulation of successful outcomes of high-eccentricity migration (HEM). We revisit the ridge inde…",
+      "url": "https://arxiv.org/abs/2611.03643v1",
+      "publishedAt": "2026-11-02T18:58:36.000Z",
+      "tags": []
+    },
+    {
+      "id": "c041a4862e43",
+      "agency": "arxiv",
+      "source": "arXiv astro-ph (new submissions)",
+      "title": "Mercury (Hg): a relativistic $N$-body simulation for Horndeski gravity",
+      "summary": "We present Mercury, a relativistic $N$-body code for cosmological simulations in the $α$-basis formulation of Horndeski gravity. Mercury extends a particle-mesh scheme by incorporating the dynamics of the additional scalar degree of freedom and the corresponding modified Einstein equations, expressed in terms of the ti…",
+      "url": "https://arxiv.org/abs/2611.03637v1",
+      "publishedAt": "2026-11-02T18:58:03.000Z",
+      "tags": []
+    },
+    {
       "id": "b9487f47e621",
       "agency": "nasa",
       "source": "NASA breaking news",
@@ -260,6 +317,56 @@
         "CHAPEA Mission 2",
         "Crew Health and Performance Exploration Analog (CHAPEA)"
       ]
+    },
+    {
+      "id": "563b145ab35c",
+      "agency": "arxiv",
+      "source": "arXiv astro-ph (new submissions)",
+      "title": "The Giant Planet Mass Function Across Stellar Mass and Metallicity: Massive Stars Make Massive Planets",
+      "summary": "Although giant planet occurrence correlates with stellar mass and metallicity, it remains unclear whether these properties also shape the companion mass distribution. We investigate this question using 719 FGKM stars from the California Legacy Survey and companion true-mass constraints from radial velocities and Hippar…",
+      "url": "https://arxiv.org/abs/2611.03613v1",
+      "publishedAt": "2026-11-02T18:47:54.000Z",
+      "tags": []
+    },
+    {
+      "id": "bc08ea905a8f",
+      "agency": "arxiv",
+      "source": "arXiv astro-ph (new submissions)",
+      "title": "Detection of the Galaxy--Galaxy--Temperature Skewed Bispectrum",
+      "summary": "We present the first measurement of the galaxy--galaxy--temperature skewed bispectrum, obtained by cross-correlating the squared, filtered unWISE galaxy overdensity with \\textit{Planck} maps at 100, 143, 217, and 353~GHz. The signal is detected with high significance in all four channels. Its frequency dependence revea…",
+      "url": "https://arxiv.org/abs/2611.03580v1",
+      "publishedAt": "2026-11-02T18:31:21.000Z",
+      "tags": []
+    },
+    {
+      "id": "b727c9efdea7",
+      "agency": "arxiv",
+      "source": "arXiv astro-ph (new submissions)",
+      "title": "Nonlinear gauge maps and the structure of Goldstone loops in canonical inflation",
+      "summary": "We clarify the nonlinear relation between the spatially flat scalar and Goldstone descriptions of canonical single-field inflation. An exact clock map shows how potential interactions are reorganized into derivative Goldstone interactions. A change of slicing further connects their dilation symmetry to its comoving rea…",
+      "url": "https://arxiv.org/abs/2611.03571v1",
+      "publishedAt": "2026-11-02T18:25:56.000Z",
+      "tags": []
+    },
+    {
+      "id": "f74198f83236",
+      "agency": "arxiv",
+      "source": "arXiv astro-ph (new submissions)",
+      "title": "Chemical and dynamical evolution of prestellar cores, the dawn of star and planet formation",
+      "summary": "Studying prestellar cores is crucial to understanding the formation of stellar and planetary systems. To date, we lack a comprehensive survey of their density and velocity structure at small scales (100-1000 au), the gas ionisation state, their lifetimes, and how these properties are influenced by the environment. A de…",
+      "url": "https://arxiv.org/abs/2611.03570v1",
+      "publishedAt": "2026-11-02T18:24:07.000Z",
+      "tags": []
+    },
+    {
+      "id": "4bd7c99dfe2b",
+      "agency": "arxiv",
+      "source": "arXiv astro-ph (new submissions)",
+      "title": "Episodic Protostellar Outflows: A Proper Motion Study in Serpens South",
+      "summary": "Serpens South is a notable protostellar cluster with signatures of recent star formation, including a high protostellar fraction. Within the region, several protostars provide important mechanical feedback via outflows. We investigate the molecular outflow driven by the Class 0 protostar known as CARMA-7, which is loca…",
+      "url": "https://arxiv.org/abs/2611.03559v1",
+      "publishedAt": "2026-11-02T18:20:02.000Z",
+      "tags": []
     },
     {
       "id": "2d388f71e487",
@@ -276,6 +383,46 @@
         "Skywatching Tips",
         "The Solar System"
       ]
+    },
+    {
+      "id": "bf6d81683574",
+      "agency": "arxiv",
+      "source": "arXiv astro-ph (new submissions)",
+      "title": "Toward the one- and two-loop EFTofLSS for Simons Observatory CMB lensing",
+      "summary": "Cosmic microwave background (CMB) lensing observations are becoming sensitive to non-linear structure formation and baryonic feedback scenarios. The effective field theory of large-scale structure (EFTofLSS) provides a systematic description of matter clustering in the mildly non-linear regime, accounting for baryonic…",
+      "url": "https://arxiv.org/abs/2611.03556v1",
+      "publishedAt": "2026-11-02T18:18:25.000Z",
+      "tags": []
+    },
+    {
+      "id": "fcfc2130c045",
+      "agency": "arxiv",
+      "source": "arXiv astro-ph (new submissions)",
+      "title": "VLITE Observations of the Hubble Ultra Deep Field",
+      "summary": "We present 136 hr of 340 MHz observations of the Hubble Ultra Deep Field (HUDF) conducted with the VLA Low-band Ionosphere and Transient Experiment (VLITE), collected commensally with higher-frequency Karl G. Jansky Very Large Array (VLA) observations. Our deepest image combines 20 hr of data, covers 4 square degrees,…",
+      "url": "https://arxiv.org/abs/2611.03546v1",
+      "publishedAt": "2026-11-02T18:08:39.000Z",
+      "tags": []
+    },
+    {
+      "id": "60194e8e8036",
+      "agency": "arxiv",
+      "source": "arXiv astro-ph (new submissions)",
+      "title": "Baryonic feedback and intrinsic alignments in profile: a frequentist view of DES Y3 cosmic shear",
+      "summary": "Current cosmic shear surveys primarily constrain $S_8$ and $Ω_\\mathrm{m}$, while most other model parameters remain dominated by priors. Consequently, marginal posteriors are vulnerable to prior-volume effects, particularly through degeneracies among $S_8$, baryonic feedback, and intrinsic alignment (IA) model paramete…",
+      "url": "https://arxiv.org/abs/2611.03537v1",
+      "publishedAt": "2026-11-02T18:01:34.000Z",
+      "tags": []
+    },
+    {
+      "id": "fcff381dcf17",
+      "agency": "arxiv",
+      "source": "arXiv astro-ph (new submissions)",
+      "title": "Multiprobe strategies for Kinematic Lensing with the Roman Space Telescope High Latitude Wide Area Survey",
+      "summary": "In its latest design, the High Latitude Wide Area Survey (HLWAS) Medium Tier comprises overlapping photometric and spectroscopic data across 2,300 square degrees. This dataset enables Kinematic Lensing (KL), a Weak Lensing (WL) technique that exploits galaxy kinematics to control for shape noise, the dominant statistic…",
+      "url": "https://arxiv.org/abs/2611.03497v1",
+      "publishedAt": "2026-11-02T17:37:43.000Z",
+      "tags": []
     },
     {
       "id": "7a17628b8eb6",
@@ -296,6 +443,86 @@
       ]
     },
     {
+      "id": "aaf8fec4ae34",
+      "agency": "arxiv",
+      "source": "arXiv astro-ph (new submissions)",
+      "title": "A Physics Informed Neural Network Approach to Decipher Environmental Confinement of Molecular Clouds in the Third Galactic Quadrant",
+      "summary": "Recent high-sensitivity and high-resolution surveys of the Third Galactic Quadrant [$219.75 \\leq l \\leq 229.75$ and $-5.25 \\leq b \\leq 5.25$], such as the Milky Way Imaging Scroll Painting ( MWISP) survey, have revealed a significant population of molecular clouds (MCs) that appear virially unbound ($α_{vir} > 2$) acco…",
+      "url": "https://arxiv.org/abs/2611.03450v1",
+      "publishedAt": "2026-11-02T16:58:45.000Z",
+      "tags": []
+    },
+    {
+      "id": "f806019a3477",
+      "agency": "arxiv",
+      "source": "arXiv astro-ph (new submissions)",
+      "title": "DBI Softens Stiff-Phase Gravitational-Wave Spectra",
+      "summary": "We investigate the effect of non-canonical kinetic terms on the present-day density spectrum of primordial gravitational waves (GWs), by considering the dynamics of a scalar field governed by the Dirac--Born--Infeld (DBI) action and a runaway potential. The field, responsible for a period of inflation, subsequently ent…",
+      "url": "https://arxiv.org/abs/2611.03429v1",
+      "publishedAt": "2026-11-02T16:51:27.000Z",
+      "tags": []
+    },
+    {
+      "id": "aaa4cb7b71c7",
+      "agency": "arxiv",
+      "source": "arXiv astro-ph (new submissions)",
+      "title": "HCN detection in the Kreutz sungrazing comet C/2026 A1 (MAPS) shortly before its disruption",
+      "summary": "Context. Kreutz sungrazing comets are characterised by extremely small perihelion distances (q < 3.45 R). These objects are of particular interest because their intense activity and fragmentation can expose material from deeper within the nucleus, providing unique access to their bulk chemical composition rather than m…",
+      "url": "https://arxiv.org/abs/2611.03417v1",
+      "publishedAt": "2026-11-02T16:41:27.000Z",
+      "tags": []
+    },
+    {
+      "id": "5942928d3d63",
+      "agency": "arxiv",
+      "source": "arXiv astro-ph (new submissions)",
+      "title": "Milliarcsecond-scale jet reorientations in GRS 1915+105 pointing towards a warped accretion disc",
+      "summary": "The black hole X-ray binary GRS 1915+105 was persistently X-ray bright for over 26 years before entering a prolonged low X-ray flux state in 2018, while remaining bright at radio wavelengths. Multi-wavelength observations suggest this state results from a complex layer of absorbing material of unknown nature. Radio jet…",
+      "url": "https://arxiv.org/abs/2611.03395v1",
+      "publishedAt": "2026-11-02T16:29:51.000Z",
+      "tags": []
+    },
+    {
+      "id": "9f87911d9d84",
+      "agency": "arxiv",
+      "source": "arXiv astro-ph (new submissions)",
+      "title": "Stellar wind variability in OB stars and its effect on mass-loss determinations",
+      "summary": "Virtually all stellar winds of OB stars exhibit variability in one spectral diagnostic or another. This review focuses primarily on UV spectroscopic signatures of this variability and on studies that have exploited it to reveal the presence of large-scale velocity and density structures in the winds. The review include…",
+      "url": "https://arxiv.org/abs/2611.03363v1",
+      "publishedAt": "2026-11-02T16:13:15.000Z",
+      "tags": []
+    },
+    {
+      "id": "b940096ac3a0",
+      "agency": "arxiv",
+      "source": "arXiv astro-ph (new submissions)",
+      "title": "Solar Wind Turbulence Spectra and Correlation Scale from 4 to 50 $r_\\odot$: STEREO and PUNCH Observations",
+      "summary": "We investigate the radial evolution of solar wind turbulence using remote-sensing brightness observations from the Solar Terrestrial Relations Observatory (STEREO) and the first science-ready images from the Polarimeter to Unify the Corona and Heliosphere (PUNCH) mission. Exploiting the combined wide fields of view of…",
+      "url": "https://arxiv.org/abs/2611.03328v1",
+      "publishedAt": "2026-11-02T15:49:51.000Z",
+      "tags": []
+    },
+    {
+      "id": "6df0405a269d",
+      "agency": "arxiv",
+      "source": "arXiv astro-ph (new submissions)",
+      "title": "White dwarf pollution in wide binaries: the role of planetary mass",
+      "summary": "Atmospheric pollution in white dwarfs is interpreted as evidence for the accretion of rocky material from remnant planetary systems. In wide binaries, these reservoirs can be influenced by planetary perturbers. Here, we investigate how planetary mass affects the survival and delivery of planetesimals onto an evolving w…",
+      "url": "https://arxiv.org/abs/2611.03291v1",
+      "publishedAt": "2026-11-02T15:30:57.000Z",
+      "tags": []
+    },
+    {
+      "id": "111fec391b9a",
+      "agency": "arxiv",
+      "source": "arXiv astro-ph (new submissions)",
+      "title": "A GeV PWN Candidate in the PSR J1135--6055/G293.8+0.6 Field",
+      "summary": "We present a \\textit{Fermi} Large Area Telescope (LAT) study of PSR~J1135--6055 and the composite supernova remnant (SNR) G293.8+0.6. MeerKAT radio observations reveal a bright central plerion within the faint SNR shell, while Chandra observations detect a compact nebula around the pulsar. Together, these observations…",
+      "url": "https://arxiv.org/abs/2611.03266v1",
+      "publishedAt": "2026-11-02T15:11:08.000Z",
+      "tags": []
+    },
+    {
       "id": "6cc0d822ff77",
       "agency": "nasa",
       "source": "NASA breaking news",
@@ -313,6 +540,56 @@
         "Stars",
         "Supernovae"
       ]
+    },
+    {
+      "id": "b6e6e199bdd1",
+      "agency": "arxiv",
+      "source": "arXiv astro-ph (new submissions)",
+      "title": "Anomaly-ranked confirmation slows new-class learning",
+      "summary": "Anomaly detectors rank unfamiliar examples for expert confirmation, and the confirmed examples teach a classifier to recognise a new class. Across five benchmarks from physics, medicine and computer vision, the members flagged by the detector are those the classifier learns first. In three systems, confirming the highe…",
+      "url": "https://arxiv.org/abs/2611.03250v1",
+      "publishedAt": "2026-11-02T14:58:12.000Z",
+      "tags": []
+    },
+    {
+      "id": "7ff60cc584cd",
+      "agency": "arxiv",
+      "source": "arXiv astro-ph (new submissions)",
+      "title": "A Multi-messenger Study of the Cygnus bubble",
+      "summary": "We perform a comprehensive investigation of particle acceleration at the termination shocks of massive star clusters, with a particular focus on the Cygnus region. Building on the particle-acceleration model for cluster-driven winds, we use recently available spectral and spatial measurements of ultra-high-energy $γ$-r…",
+      "url": "https://arxiv.org/abs/2611.03248v1",
+      "publishedAt": "2026-11-02T14:57:56.000Z",
+      "tags": []
+    },
+    {
+      "id": "87878a61a37f",
+      "agency": "arxiv",
+      "source": "arXiv astro-ph (new submissions)",
+      "title": "SHAPE: Solar Heliospherical Analysis and Prediction of Eruptions A machine learning approach to solar flare forecasting",
+      "summary": "Solar flares are the most energetic impulsive events in the solar system, and reliable operational forecasting of the rarest and most destructive M- and X-class events remains an open problem. We present Solar Heliospherical Analysis and Prediction of Eruptions (SHAPE), a two-phase deep-learning pipeline that bypasses…",
+      "url": "https://arxiv.org/abs/2611.03234v1",
+      "publishedAt": "2026-11-02T14:49:19.000Z",
+      "tags": []
+    },
+    {
+      "id": "959c528217bb",
+      "agency": "arxiv",
+      "source": "arXiv astro-ph (new submissions)",
+      "title": "A Cepheid-based Distance to the Type 1 Seyfert NGC 3783",
+      "summary": "We present a Cepheid-based distance to the Type 1 Seyfert NGC 3783 using the Hubble Space Telescope. Images were obtained over 15 visits using nonredundant time spacing, with ten observations in the F350LP filter and eight observations each in the F555W and F814W filters. We found 1541 unique point sources across all o…",
+      "url": "https://arxiv.org/abs/2611.03226v1",
+      "publishedAt": "2026-11-02T14:46:37.000Z",
+      "tags": []
+    },
+    {
+      "id": "57448504ebee",
+      "agency": "arxiv",
+      "source": "arXiv astro-ph (new submissions)",
+      "title": "Statistical Modeling of Foreground Galactic Cirrus for Diffuse Halo Light Measurement",
+      "summary": "Galactic cirrus, the diffuse Milky Way starlight scattered by interstellar dust, has become a major source of systematic uncertainty in measurements of extragalactic diffuse emission at ultra-low surface brightness levels. Proper modeling and correction of this foreground is crucial to unlock the full potential of next…",
+      "url": "https://arxiv.org/abs/2611.03172v1",
+      "publishedAt": "2026-11-02T14:09:46.000Z",
+      "tags": []
     },
     {
       "id": "9f5a31fa20f1",
@@ -340,280 +617,6 @@
         "Topography",
         "Vegetation"
       ]
-    },
-    {
-      "id": "efe8a88fa21e",
-      "agency": "nasa",
-      "source": "NASA breaking news",
-      "title": "APOD: 2026 November 1 – Colors of the Moon",
-      "summary": "APODScienceAPODAPOD: 2026 November 1 –…Today’s APODArchiveSubmissionsIndexSearchCalendarRSSEducationAboutDiscuss APOD Astronomy Picture of the Day Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a professional astronomer. C…",
-      "url": "https://science.nasa.gov/image-article/apod-2026-november-1-colors-of-the-moon/",
-      "publishedAt": "2026-11-01T04:05:00.000Z",
-      "tags": [
-        "APOD"
-      ]
-    },
-    {
-      "id": "173b057f0230",
-      "agency": "nasa",
-      "source": "NASA breaking news",
-      "title": "APOD: 2026 October 31 – Night on a Spooky Planet",
-      "summary": "APODScienceAPODAPOD: 2026 October 31 –…Today’s APODArchiveSubmissionsIndexSearchCalendarRSSEducationAboutDiscuss APOD Astronomy Picture of the Day Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a professional astronomer. N…",
-      "url": "https://science.nasa.gov/image-article/apod-2026-october-31-night-on-a-spooky-planet/",
-      "publishedAt": "2026-10-31T04:05:00.000Z",
-      "tags": [
-        "APOD"
-      ]
-    },
-    {
-      "id": "d21227f860ab",
-      "agency": "arxiv",
-      "source": "arXiv astro-ph (new submissions)",
-      "title": "Model-Independent Assessments of Tidal Alignment and Density-Weighting Dependence in Galaxy Intrinsic Alignments",
-      "summary": "Intrinsic alignments (IA) of galaxies are an important source of systematic uncertainty in weak gravitational lensing measurements and also serve as a test for models of galaxy formation and evolution. These galaxy alignments are usually modeled assuming that the IA are sourced by the tidal fields around the galaxies.…",
-      "url": "https://arxiv.org/abs/2610.42151v1",
-      "publishedAt": "2026-10-30T17:59:45.000Z",
-      "tags": []
-    },
-    {
-      "id": "564ba52cf57f",
-      "agency": "arxiv",
-      "source": "arXiv astro-ph (new submissions)",
-      "title": "Nova V1674 Her as a fast magnetic rotator",
-      "summary": "We report on the results of our XMM-Newton and NuSTAR campaign targeting V1674 Her in October 2023. These observations were timed to investigate the post-nova quiescent state 28 months after the 2021 outburst, although the optical luminosity was still slowly declining. The X-ray spectra are well-modeled by a multi-temp…",
-      "url": "https://arxiv.org/abs/2610.42132v1",
-      "publishedAt": "2026-10-30T17:57:42.000Z",
-      "tags": []
-    },
-    {
-      "id": "65dc4871f314",
-      "agency": "arxiv",
-      "source": "arXiv astro-ph (new submissions)",
-      "title": "Tests of equivalence principle violation in doubly coupled dark energy",
-      "summary": "Recent work has shown that a simple form of coupled dark energy with a constant coupling produces a good fit to the DESI data. In this scenario, dark matter, but not baryons, couples to a scalar field, thereby violating the weak equivalence principle (EP). We first generalize the coupled dark energy model by adding a n…",
-      "url": "https://arxiv.org/abs/2610.42056v1",
-      "publishedAt": "2026-10-30T17:18:53.000Z",
-      "tags": []
-    },
-    {
-      "id": "a16173c6b4b6",
-      "agency": "arxiv",
-      "source": "arXiv astro-ph (new submissions)",
-      "title": "Elastic boundaries in Stochastic Inflation",
-      "summary": "In the context of stochastic inflation, specifying boundary conditions is often a requirement to distinguish domains where quantum diffusion takes place from regions where stochastic effects are suppressed compared to the standard slow-roll evolution. Yet, even though the transition between the two is expected to be sm…",
-      "url": "https://arxiv.org/abs/2610.42044v1",
-      "publishedAt": "2026-10-30T17:08:34.000Z",
-      "tags": []
-    },
-    {
-      "id": "f13e908c58b9",
-      "agency": "arxiv",
-      "source": "arXiv astro-ph (new submissions)",
-      "title": "Distinguishing N$_2$-Dominated from O$_2$-Dominated Atmospheres on Terrestrial Exoplanets with Reflected-Light Spectroscopy",
-      "summary": "Reflected-light spectra of Earth-sized exoplanets promise to probe habitability and biosignatures, but interpreting atmospheric oxygen can be challenging because $O_2$ can arise from both biological and abiotic processes. In addition, reflected-light retrievals exhibit degeneracies among atmospheric composition, clouds…",
-      "url": "https://arxiv.org/abs/2610.42035v1",
-      "publishedAt": "2026-10-30T17:01:07.000Z",
-      "tags": []
-    },
-    {
-      "id": "0b52dbeff148",
-      "agency": "arxiv",
-      "source": "arXiv astro-ph (new submissions)",
-      "title": "An end-to-end CNN search for ultra-short-period planets in TESS: from the blend ceiling to the independent validation of TOI-6662 b",
-      "summary": "We trained a convolutional neural network to detect ultra-short-period planets in TESS photometry, following the procedure now standard in the field: synthetic transits as positives, eclipsing binaries as negatives. Measured that way it reaches an area under the ROC curve of 0.97. Keeping the same model and the same pl…",
-      "url": "https://arxiv.org/abs/2610.42009v1",
-      "publishedAt": "2026-10-30T16:47:34.000Z",
-      "tags": []
-    },
-    {
-      "id": "d1264f7cbf18",
-      "agency": "arxiv",
-      "source": "arXiv astro-ph (new submissions)",
-      "title": "Topological Multi-Natural Inflation",
-      "summary": "We investigate topological inflation in minimal multi-natural inflation, in which the axion potential consists of two cosine terms. Focusing on the high-scale regime, we perform a systematic parameter scan for representative ratios of the two periods and identify regions consistent with current constraints on the scala…",
-      "url": "https://arxiv.org/abs/2610.41953v1",
-      "publishedAt": "2026-10-30T16:07:17.000Z",
-      "tags": []
-    },
-    {
-      "id": "6fef9bc913cd",
-      "agency": "arxiv",
-      "source": "arXiv astro-ph (new submissions)",
-      "title": "Formation of Micron-sized Presolar Graphite Grains in Low-energy Supernova Ejecta",
-      "summary": "Presolar graphite grains with supernova isotopic signatures provide direct evidence that large graphite grains formed in supernova ejecta. However, theoretical calculations of dust formation in supernovae have typically predicted graphite grains smaller than $0.1\\,{\\rm μm}$, leaving unclear the physical conditions requ…",
-      "url": "https://arxiv.org/abs/2610.41948v1",
-      "publishedAt": "2026-10-30T16:05:09.000Z",
-      "tags": []
-    },
-    {
-      "id": "7d8b80cde278",
-      "agency": "arxiv",
-      "source": "arXiv astro-ph (new submissions)",
-      "title": "Cosmology with post-EoR 21 cm Intensity Mapping surveys: power spectrum measurements in the last decade",
-      "summary": "The technique of 21 cm intensity mapping (IM) is emerging as a possible, cost-effective method to supplement optical surveys to map the large-scale structure, and extend their redshift reach, with projects aiming to cover a large range of post-EoR redshifts, from z=0 to z=6. Since the early discussions 20 years ago, a…",
-      "url": "https://arxiv.org/abs/2610.41940v1",
-      "publishedAt": "2026-10-30T15:59:15.000Z",
-      "tags": []
-    },
-    {
-      "id": "6acbaf818c10",
-      "agency": "arxiv",
-      "source": "arXiv astro-ph (new submissions)",
-      "title": "An exploration of in-band spectral index techniques for extended radio sources with EMU",
-      "summary": "Spectral indices are an effective way of differentiating between thermal and nonthermal sources of radio emission. Most often, spectral indices are determined using flux measurements taken over multiple observations with different instruments. Since these data are not always available, determining spectral indices from…",
-      "url": "https://arxiv.org/abs/2610.41934v1",
-      "publishedAt": "2026-10-30T15:57:18.000Z",
-      "tags": []
-    },
-    {
-      "id": "ea1e8dbf9be9",
-      "agency": "arxiv",
-      "source": "arXiv astro-ph (new submissions)",
-      "title": "Current Sheets and Magnetic Reconnection statistics by Solar Orbiter at few to tens of Ion Inertial Lengths I: Energy Dissipation",
-      "summary": "In this work, we study the turbulent origin of ion-scale Current Sheets (CSs) and the dissipation of energy via magnetic reconnection. We analyze 103 hours of high-cadence (4 samples/s) in-situ ion data from Solar Orbiter, collected between July 2020 and September 2022. We apply an automatic detection algorithm that fi…",
-      "url": "https://arxiv.org/abs/2610.41923v1",
-      "publishedAt": "2026-10-30T15:53:23.000Z",
-      "tags": []
-    },
-    {
-      "id": "7b655a2854c2",
-      "agency": "arxiv",
-      "source": "arXiv astro-ph (new submissions)",
-      "title": "Stellar Kinematics and Molecular Gas toward NGC 6357: An Overlooked Earlier Stellar Generation",
-      "summary": "We investigate past star formation in NGC 6357 using Gaia DR3 astrometry and Three-mm Ultimate Mopra Milky Way Survey (ThrUMMS) $^{12}$CO($J=1$--0) data. A Hierarchical Density-Based Spatial Clustering of Applications with Noise (HDBSCAN) search independently recovers the previously cataloged cluster G352.8+0.6 in addi…",
-      "url": "https://arxiv.org/abs/2610.41921v1",
-      "publishedAt": "2026-10-30T15:53:20.000Z",
-      "tags": []
-    },
-    {
-      "id": "9da8ba4a7f77",
-      "agency": "arxiv",
-      "source": "arXiv astro-ph (new submissions)",
-      "title": "Two-loop matter power spectrum from FFTLog and kite integrals",
-      "summary": "We present a fast and accurate method for computing the two-loop matter power spectrum in the Effective Field Theory of Large-Scale Structure (EFTofLSS). Using FFTLog, we decompose the linear power spectrum into complex power laws, reducing the two-loop corrections to cosmology-independent massless Feynman integrals of…",
-      "url": "https://arxiv.org/abs/2610.41914v1",
-      "publishedAt": "2026-10-30T15:48:37.000Z",
-      "tags": []
-    },
-    {
-      "id": "29b39ba45437",
-      "agency": "arxiv",
-      "source": "arXiv astro-ph (new submissions)",
-      "title": "The 943 MHz radio-SFR relation of nearby galaxies observed with ASKAP",
-      "summary": "We investigate the integrated 943 MHz radio-infrared and radio-star-formation-rate (SFR) relations of 875 nearby galaxies within $D<50$ Mpc using public Australian SKA Pathfinder (ASKAP) observations. After excluding galaxies with identified or candidate AGN activity, 594 galaxies remain in the AGN-cleaned sample. We u…",
-      "url": "https://arxiv.org/abs/2610.41895v1",
-      "publishedAt": "2026-10-30T15:35:12.000Z",
-      "tags": []
-    },
-    {
-      "id": "0b4c7622d108",
-      "agency": "arxiv",
-      "source": "arXiv astro-ph (new submissions)",
-      "title": "The Unusual X-ray Spectrum of R Mon",
-      "summary": "The optically obscured young star R Mon illuminates Hubble's Variable Nebula and has historically been classified as an intermediate mass pre-main sequence Herbig Be star. We present Chandra observations of R Mon revealing a hard X-ray source viewed through high absorption from circumstellar gas known to be present fro…",
-      "url": "https://arxiv.org/abs/2610.41880v1",
-      "publishedAt": "2026-10-30T15:27:40.000Z",
-      "tags": []
-    },
-    {
-      "id": "a7490be479fe",
-      "agency": "arxiv",
-      "source": "arXiv astro-ph (new submissions)",
-      "title": "Collisional excitation of HMgC$_3$N by He: rate coefficients and astrophysical implications",
-      "summary": "Reliable collisional data are essential for interpreting the rotational emission of HMgC$_3$N under the non-equilibrium conditions of molecular clouds. We investigate the rotational excitation and de-excitation of HMgC$_3$N induced by collisions with He, combining \\textit{ab initio} calculations with quantum scattering…",
-      "url": "https://arxiv.org/abs/2610.41876v1",
-      "publishedAt": "2026-10-30T15:25:31.000Z",
-      "tags": []
-    },
-    {
-      "id": "68df29936277",
-      "agency": "arxiv",
-      "source": "arXiv astro-ph (new submissions)",
-      "title": "Bar likelihood in local galaxies: the joint role of stellar mass, morphology and environment",
-      "summary": "We investigate how the likelihood of hosting a stellar bar depends on both intrinsic galaxy properties and environment, using a volume-limited sample of central and satellite galaxies from the NASA-Sloan Atlas, spanning isolated systems, low- and high-richness groups, and massive haloes, complemented with halo-based en…",
-      "url": "https://arxiv.org/abs/2610.41847v1",
-      "publishedAt": "2026-10-30T15:02:23.000Z",
-      "tags": []
-    },
-    {
-      "id": "38a15d5bedc5",
-      "agency": "arxiv",
-      "source": "arXiv astro-ph (new submissions)",
-      "title": "A multi-wavelength view of PSR J0437-4715 with NICER and other missions: Radius measurements from far-ultraviolet to hard X-ray pulse profile modeling",
-      "summary": "We report updated mass and radius measurements for the millisecond pulsar PSR J0437-4715 obtained with pulse profile modeling of the emission from the far-ultraviolet to the hard X-rays. Using an extended 2.56 Ms Neutron Star Interior Composition ExploreR (NICER) dataset together with XMM-Newton, Nuclear Spectroscopic…",
-      "url": "https://arxiv.org/abs/2610.41846v1",
-      "publishedAt": "2026-10-30T15:01:07.000Z",
-      "tags": []
-    },
-    {
-      "id": "eeb1934a1868",
-      "agency": "arxiv",
-      "source": "arXiv astro-ph (new submissions)",
-      "title": "The multiple origins of spurs in stellar streams: a challenge for dark matter diagnostics",
-      "summary": "Spurs along stellar streams are often interpreted as signatures of interactions with dark matter subhalos, and thus have been proposed as diagnostics on the clustering and nature of dark matter. Although galactic baryonic components could play similar roles as gravitational perturbers of streams, the possible signature…",
-      "url": "https://arxiv.org/abs/2610.41842v1",
-      "publishedAt": "2026-10-30T14:58:34.000Z",
-      "tags": []
-    },
-    {
-      "id": "6c60a6815fe0",
-      "agency": "arxiv",
-      "source": "arXiv astro-ph (new submissions)",
-      "title": "Primordial black holes and gravitational waves from aligned axion inflation",
-      "summary": "We study the production of primordial black holes (PBHs) and scalar-induced gravitational waves (SIGWs) in aligned axion inflation through the transition between two stages of inflation. The first stage proceeds along a metastable trajectory and ends when this trajectory loses stability, causing the fields to turn towa…",
-      "url": "https://arxiv.org/abs/2610.41823v1",
-      "publishedAt": "2026-10-30T14:43:27.000Z",
-      "tags": []
-    },
-    {
-      "id": "ba7edf3c11fe",
-      "agency": "arxiv",
-      "source": "arXiv astro-ph (new submissions)",
-      "title": "The Dynamical Mass Profiles of Galaxy Groups - Application to IllustrisTNG-300",
-      "summary": "We present a new rescaling and stacking method to test cold dark matter predictions through the dynamical modelling of galaxy groups using the Jeans equation. We test the viability of this method on idealised, line-of-sight group data at $z=0$ in the IllustrisTNG-300 simulation, using subhalos and satellite galaxies as…",
-      "url": "https://arxiv.org/abs/2610.41796v1",
-      "publishedAt": "2026-10-30T14:25:14.000Z",
-      "tags": []
-    },
-    {
-      "id": "9fbdf57d7c68",
-      "agency": "arxiv",
-      "source": "arXiv astro-ph (new submissions)",
-      "title": "From thermogravity to thermocosmology with a running non-conservation scale",
-      "summary": "Thermogravity offers a novel approach to cosmic acceleration, deriving trace-free gravitational equations and matter non-conservation from thermodynamic processes in spacetime. We extend this framework towards thermocosmology by introducing a running non-conservation scale $L_2(H)$, while restricting non-conservation t…",
-      "url": "https://arxiv.org/abs/2610.41780v1",
-      "publishedAt": "2026-10-30T14:17:11.000Z",
-      "tags": []
-    },
-    {
-      "id": "705c80fc8a7f",
-      "agency": "arxiv",
-      "source": "arXiv astro-ph (new submissions)",
-      "title": "First Light with the Dark100 Array of PANOSETI Telescopes at Palomar Observatory",
-      "summary": "Dark100 is the first phase of an extensive array of Panoramic SETI (PANOSETI) telescopes at Palomar Observatory, California. PANOSETI telescopes are small, 0.5-m Fresnel lens telescopes instrumented with 1024-pixel silicon photomultiplier (SiPM) cameras. The telescopes were originally designed to search for ultra-fast…",
-      "url": "https://arxiv.org/abs/2610.41775v1",
-      "publishedAt": "2026-10-30T14:15:02.000Z",
-      "tags": []
-    },
-    {
-      "id": "100aaa7272fe",
-      "agency": "arxiv",
-      "source": "arXiv astro-ph (new submissions)",
-      "title": "Decay of space plasma turbulence downstream of bow shocks: MMS magnetosheath unbiased campaign observations",
-      "summary": "Turbulence properties in the solar wind change with increasing heliospheric distance. Observations from different missions have shown how spectral indices converge towards a $f^{-5/3}$ spectrum in the inertial range as the solar wind reaches one astronomical unit, and how the cascade rate decays as the plasma moves awa…",
-      "url": "https://arxiv.org/abs/2610.41773v1",
-      "publishedAt": "2026-10-30T14:11:53.000Z",
-      "tags": []
-    },
-    {
-      "id": "858e1f8c8525",
-      "agency": "arxiv",
-      "source": "arXiv astro-ph (new submissions)",
-      "title": "Inferring dominant acceleration mechanisms using the longitudinal spread of solar particle intensities: 28 May 2021 event",
-      "summary": "Solar energetic particles (SEPs) are typically accelerated during solar eruptions and propagate along magnetic field lines in the inner heliosphere. These eruptions include shock waves driven by coronal mass ejections (CMEs) and magnetic reconnection in solar flares. Disentangling these source mechanisms within the mea…",
-      "url": "https://arxiv.org/abs/2610.41749v1",
-      "publishedAt": "2026-10-30T13:52:40.000Z",
-      "tags": []
     },
     {
       "id": "eb8c655990e3",
