@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-04T13:54:21.027Z",
+  "generatedAt": "2026-11-04T23:18:36.553Z",
   "sourceCount": 5,
   "itemCount": 70,
   "errors": [],
@@ -22,7 +22,7 @@
       "title": "HAT-P-17 c — catalog entry updated",
       "summary": "Orbits HAT-P-17: discovered via Radial Velocity, 2012, 13.10x Earth radius, 1080.60x Earth mass, 5584.0-day orbit.",
       "url": "https://exoplanetarchive.ipac.caltech.edu/overview/HAT-P-17",
-      "publishedAt": "2026-11-04T13:54:20.565Z",
+      "publishedAt": "2026-11-04T23:18:35.543Z",
       "tags": [
         "Radial Velocity"
       ]
@@ -36,7 +36,7 @@
       "title": "HAT-P-17 b — catalog entry updated",
       "summary": "Orbits HAT-P-17: discovered via Transit, 2012, 11.77x Earth radius, 184.34x Earth mass, 10.3-day orbit.",
       "url": "https://exoplanetarchive.ipac.caltech.edu/overview/HAT-P-17",
-      "publishedAt": "2026-11-04T13:54:20.565Z",
+      "publishedAt": "2026-11-04T23:18:35.543Z",
       "tags": [
         "Transit"
       ]
@@ -50,7 +50,7 @@
       "title": "HAT-P-18 b — catalog entry updated",
       "summary": "Orbits HAT-P-18: discovered via Transit, 2010, 10.70x Earth radius, 55.52x Earth mass, 5.5-day orbit.",
       "url": "https://exoplanetarchive.ipac.caltech.edu/overview/HAT-P-18",
-      "publishedAt": "2026-11-04T13:54:20.565Z",
+      "publishedAt": "2026-11-04T23:18:35.543Z",
       "tags": [
         "Transit"
       ]
@@ -64,7 +64,7 @@
       "title": "HAT-P-14 b — catalog entry updated",
       "summary": "Orbits HAT-P-14: discovered via Transit, 2010, 15.92x Earth radius, 1093.34x Earth mass, 4.6-day orbit.",
       "url": "https://exoplanetarchive.ipac.caltech.edu/overview/HAT-P-14",
-      "publishedAt": "2026-11-04T13:54:20.565Z",
+      "publishedAt": "2026-11-04T23:18:35.543Z",
       "tags": [
         "Transit"
       ]
@@ -78,7 +78,7 @@
       "title": "HAT-P-12 b — catalog entry updated",
       "summary": "Orbits HAT-P-12: discovered via Transit, 2009, 10.75x Earth radius, 67.06x Earth mass, 3.2-day orbit.",
       "url": "https://exoplanetarchive.ipac.caltech.edu/overview/HAT-P-12",
-      "publishedAt": "2026-11-04T13:54:20.565Z",
+      "publishedAt": "2026-11-04T23:18:35.543Z",
       "tags": [
         "Transit"
       ]
@@ -92,7 +92,7 @@
       "title": "HAT-P-13 c — catalog entry updated",
       "summary": "Orbits HAT-P-13: discovered via Radial Velocity, 2009, 12.30x Earth radius, 4538.42x Earth mass, 446.3-day orbit.",
       "url": "https://exoplanetarchive.ipac.caltech.edu/overview/HAT-P-13",
-      "publishedAt": "2026-11-04T13:54:20.565Z",
+      "publishedAt": "2026-11-04T23:18:35.543Z",
       "tags": [
         "Radial Velocity"
       ]
@@ -106,7 +106,7 @@
       "title": "HAT-P-13 b — catalog entry updated",
       "summary": "Orbits HAT-P-13: discovered via Transit, 2009, 14.26x Earth radius, 270.46x Earth mass, 2.9-day orbit.",
       "url": "https://exoplanetarchive.ipac.caltech.edu/overview/HAT-P-13",
-      "publishedAt": "2026-11-04T13:54:20.565Z",
+      "publishedAt": "2026-11-04T23:18:35.543Z",
       "tags": [
         "Transit"
       ]
@@ -120,7 +120,7 @@
       "title": "GJ 1214 b — catalog entry updated",
       "summary": "Orbits GJ 1214: discovered via Transit, 2009, 2.73x Earth radius, 8.41x Earth mass, 1.6-day orbit.",
       "url": "https://exoplanetarchive.ipac.caltech.edu/overview/GJ_1214",
-      "publishedAt": "2026-11-04T13:54:20.565Z",
+      "publishedAt": "2026-11-04T23:18:35.543Z",
       "tags": [
         "Transit"
       ]
@@ -134,7 +134,7 @@
       "title": "55 Cnc f — catalog entry updated",
       "summary": "Orbits 55 Cnc: discovered via Radial Velocity, 2007, 7.59x Earth radius, 44.81x Earth mass, 260.6-day orbit.",
       "url": "https://exoplanetarchive.ipac.caltech.edu/overview/55_Cnc",
-      "publishedAt": "2026-11-04T13:54:20.565Z",
+      "publishedAt": "2026-11-04T23:18:35.543Z",
       "tags": [
         "Radial Velocity"
       ]
@@ -148,7 +148,7 @@
       "title": "HAT-P-1 b — catalog entry updated",
       "summary": "Orbits HAT-P-1: discovered via Transit, 2006, 14.78x Earth radius, 166.86x Earth mass, 4.5-day orbit.",
       "url": "https://exoplanetarchive.ipac.caltech.edu/overview/HAT-P-1",
-      "publishedAt": "2026-11-04T13:54:20.565Z",
+      "publishedAt": "2026-11-04T23:18:35.543Z",
       "tags": [
         "Transit"
       ]
@@ -162,7 +162,7 @@
       "title": "55 Cnc c — catalog entry updated",
       "summary": "Orbits 55 Cnc: discovered via Radial Velocity, 2004, 8.51x Earth radius, 54.47x Earth mass, 44.4-day orbit.",
       "url": "https://exoplanetarchive.ipac.caltech.edu/overview/55_Cnc",
-      "publishedAt": "2026-11-04T13:54:20.565Z",
+      "publishedAt": "2026-11-04T23:18:35.543Z",
       "tags": [
         "Radial Velocity"
       ]
@@ -176,7 +176,7 @@
       "title": "55 Cnc e — catalog entry updated",
       "summary": "Orbits 55 Cnc: discovered via Radial Velocity, 2004, 1.88x Earth radius, 7.99x Earth mass, 0.7-day orbit.",
       "url": "https://exoplanetarchive.ipac.caltech.edu/overview/55_Cnc",
-      "publishedAt": "2026-11-04T13:54:20.565Z",
+      "publishedAt": "2026-11-04T23:18:35.543Z",
       "tags": [
         "Radial Velocity"
       ]
@@ -190,7 +190,7 @@
       "title": "GJ 436 b — catalog entry updated",
       "summary": "Orbits GJ 436: discovered via Radial Velocity, 2004, 4.17x Earth radius, 22.10x Earth mass, 2.6-day orbit.",
       "url": "https://exoplanetarchive.ipac.caltech.edu/overview/GJ_436",
-      "publishedAt": "2026-11-04T13:54:20.565Z",
+      "publishedAt": "2026-11-04T23:18:35.543Z",
       "tags": [
         "Radial Velocity"
       ]
@@ -204,7 +204,7 @@
       "title": "55 Cnc d — catalog entry updated",
       "summary": "Orbits 55 Cnc: discovered via Radial Velocity, 2002, 13.00x Earth radius, 1232.49x Earth mass, 4799.0-day orbit.",
       "url": "https://exoplanetarchive.ipac.caltech.edu/overview/55_Cnc",
-      "publishedAt": "2026-11-04T13:54:20.565Z",
+      "publishedAt": "2026-11-04T23:18:35.543Z",
       "tags": [
         "Radial Velocity"
       ]
@@ -218,10 +218,80 @@
       "title": "55 Cnc b — catalog entry updated",
       "summary": "Orbits 55 Cnc: discovered via Radial Velocity, 1996, 13.90x Earth radius, 263.98x Earth mass, 14.7-day orbit.",
       "url": "https://exoplanetarchive.ipac.caltech.edu/overview/55_Cnc",
-      "publishedAt": "2026-11-04T13:54:20.565Z",
+      "publishedAt": "2026-11-04T23:18:35.543Z",
       "tags": [
         "Radial Velocity"
       ]
+    },
+    {
+      "id": "3285fd735bda",
+      "agency": "nasa",
+      "source": "NASA breaking news",
+      "title": "NASA Shares Plans to Accelerate Artemis, Return to Moon",
+      "summary": "In an update on Oct. 23, NASA Administrator Jared Isaacman and other agency leaders shared the agency’s path to returning Americans to the lunar surface in 2028. Agency leadership provided updates on the previously announced acceleration plans for the Artemis program, advancing toward the agency’s Artemis III test flig…",
+      "url": "https://www.nasa.gov/missions/artemis/nasa-shares-plans-to-accelerate-artemis-return-to-moon/",
+      "publishedAt": "2026-11-04T21:04:10.000Z",
+      "tags": [
+        "Artemis",
+        "Artemis 3",
+        "Artemis 4",
+        "Human Landing System Program",
+        "Marshall Space Flight Center",
+        "Space Launch System (SLS)"
+      ]
+    },
+    {
+      "id": "2e62bc2ded66",
+      "agency": "nasa",
+      "source": "NASA breaking news",
+      "title": "NASA Announces Ka-Band Satellite Relay Awards for Space Communications",
+      "summary": "NASA selected three companies on Wednesday to perform work to develop Ka-band space relay capability concepts that are compatible with current missions in space, ensuring service continuity for existing spacecraft without requiring modifications to their onboard systems. Through this work, NASA will aim to acquire end-…",
+      "url": "https://www.nasa.gov/news-release/nasa-announces-ka-band-satellite-relay-awards-for-space-communications/",
+      "publishedAt": "2026-11-04T18:00:02.000Z",
+      "tags": [
+        "Space Communications & Navigation Program",
+        "Space Communications Technology"
+      ]
+    },
+    {
+      "id": "2c2a12276f0f",
+      "agency": "nasa",
+      "source": "NASA breaking news",
+      "title": "NASA Navigation Experiment Shows Promise for Planetary Landings",
+      "summary": "NASA successfully demonstrated technology designed to help spacecraft autonomously navigate to safe landing sites on the Moon and on other planets. An Alta-X drone equipped with the agency’s Safe and Precise Landing – Integrated Capabilities Evolution (SPLICE) guidance, navigation, and control payload completed simulat…",
+      "url": "https://www.nasa.gov/centers-and-facilities/armstrong/nasa-navigation-experiment-shows-promise-for-planetary-landings/",
+      "publishedAt": "2026-11-04T16:52:43.000Z",
+      "tags": [
+        "Armstrong Flight Research Center",
+        "Aeronautics",
+        "Flight Innovation",
+        "Flight Opportunities Program",
+        "Johnson Space Center",
+        "Research and Technology Mission Directorate"
+      ]
+    },
+    {
+      "id": "225ef2e7db64",
+      "agency": "nasa",
+      "source": "NASA breaking news",
+      "title": "NASA Space Grant Students Fuel Agency’s Inspiration Tour",
+      "summary": "NASA’s Inspiration Tour spread the excitement of space exploration and aeronautical innovation by connecting the public, industry, and academia with the people, technologies, and organizations that drive American leadership in space. At nearly every stop across the country, NASA Space Grant has brought students into th…",
+      "url": "https://www.nasa.gov/learning-resources/nasa-space-grant-students-fuel-agencys-inspiration-tour/",
+      "publishedAt": "2026-11-04T16:16:41.000Z",
+      "tags": [
+        "Learning Resources",
+        "For Colleges & Universities"
+      ]
+    },
+    {
+      "id": "e199d2bf8a7e",
+      "agency": "nasa",
+      "source": "NASA breaking news",
+      "title": "Hubble Reveals Cosmic Mystery",
+      "summary": "This photo released on Nov. 2, 2026, showcases NGC 4449, a dwarf irregular. Researchers using NASA’s Hubble Space Telescope studied 37 nearby dwarf galaxies — small galaxies containing a few thousand to hundreds of millions of stars — including NGC 4449 and found that much of the oxygen they expected to see is missing.…",
+      "url": "https://www.nasa.gov/image-article/hubble-reveals-cosmic-mystery/",
+      "publishedAt": "2026-11-04T15:59:36.000Z",
+      "tags": []
     },
     {
       "id": "4c5ce045bfbc",
@@ -534,72 +604,6 @@
       "url": "https://arxiv.org/abs/2611.04966v1",
       "publishedAt": "2026-11-03T14:24:21.000Z",
       "tags": []
-    },
-    {
-      "id": "dad84c615e9e",
-      "agency": "nasa",
-      "source": "NASA breaking news",
-      "title": "APOD: 2026 November 3 – Comet PanSTARRs and Rainbow Meteor",
-      "summary": "APOD Science APOD APOD: 2026 November 3 –… Today’s APOD Archive Submissions Index Search Calendar RSS Education About Discuss APOD Astronomy Picture of the Day Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a professional…",
-      "url": "https://science.nasa.gov/image-article/apod-2026-november-3-comet-panstarrs-and-rainbow-meteor/",
-      "publishedAt": "2026-11-03T05:05:00.000Z",
-      "tags": [
-        "APOD"
-      ]
-    },
-    {
-      "id": "8e21ccbfd5fa",
-      "agency": "nasa",
-      "source": "NASA breaking news",
-      "title": "The Pacific’s Busy Storm Season",
-      "summary": "Super Typhoon In-fa developed an unusually large eye, and the remnants of Typhoon Champi transitioned into an extratropical storm that targeted Alaska.",
-      "url": "https://science.nasa.gov/earth/earth-observatory/the-pacifics-busy-storm-season/",
-      "publishedAt": "2026-11-03T05:01:00.000Z",
-      "tags": [
-        "Deep Space Climate Observatory (DSCOVR)",
-        "Earth Observatory",
-        "Extreme Weather Events",
-        "Moderate Resolution Imaging Spectroradiometer (MODIS)"
-      ]
-    },
-    {
-      "id": "f342a2672539",
-      "agency": "nasa",
-      "source": "NASA breaking news",
-      "title": "Happy 65 Years: NASA’s Johnson Space Center Then and Now",
-      "summary": "Sixty-five years ago, a bold vision took root in Houston: a NASA center dedicated to human spaceflight. Since its founding, NASA’s Johnson Space Center has helped lead the nation’s human spaceflight program, supporting missions from Project Mercury through Artemis. Today, Johnson serves as NASA’s Center of Excellence f…",
-      "url": "https://www.nasa.gov/centers-and-facilities/johnson/happy-65-years-nasas-johnson-space-center-then-and-now/",
-      "publishedAt": "2026-11-02T21:35:59.000Z",
-      "tags": [
-        "Johnson Space Center",
-        "General",
-        "NASA History"
-      ]
-    },
-    {
-      "id": "4e865d9a1341",
-      "agency": "nasa",
-      "source": "NASA breaking news",
-      "title": "TB 26-09 Measured Hammer-Tap Inputs",
-      "summary": "For more information, contact Joel W. Sills, Langley Research Center, joel.w.sills@nasa.gov. Download the PDF version An instrumented hammer test does not require an idealized single half-sine waveform. When the complete force and response are measured accurately, crest ripples and separated contacts remain known input…",
-      "url": "https://www.nasa.gov/centers-and-facilities/nesc/tb-26-09-measured-hammer-tap-inputs/",
-      "publishedAt": "2026-11-02T20:47:41.000Z",
-      "tags": [
-        "NASA Engineering and Safety Center"
-      ]
-    },
-    {
-      "id": "b9487f47e621",
-      "agency": "nasa",
-      "source": "NASA breaking news",
-      "title": "NASA’s CHAPEA Crew “Returns” to Earth",
-      "summary": "The four-member Crew Health and Performance Exploration Analog (CHAPEA) crew poses outside for the first time in more than a year following the end of their simulated Mars journey on Oct. 31, 2026. Crew members Matthew Montgomery (left), James Spicer (middle left), Ross Elder (middle right), and Ellen Ellis (right) spe…",
-      "url": "https://www.nasa.gov/image-article/nasas-chapea-crew-returns-to-earth/",
-      "publishedAt": "2026-11-02T18:50:42.000Z",
-      "tags": [
-        "CHAPEA Mission 2",
-        "Crew Health and Performance Exploration Analog (CHAPEA)"
-      ]
     },
     {
       "id": "eb8c655990e3",
