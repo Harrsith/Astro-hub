@@ -1,11 +1,11 @@
 {
-  "generatedAt": "2026-11-04T05:13:55.132Z",
+  "generatedAt": "2026-11-04T13:54:21.027Z",
   "sourceCount": 5,
   "itemCount": 70,
   "errors": [],
   "apod": {
-    "date": "2026-11-02",
-    "explanation": "What color is the Moon? It depends on the night -- and the time. Outside of the Earth's atmosphere, the dark Moon, which shines by reflected sunlight, appears a magnificently brown-tinged gray. The featured image highlights a collection of apparent colors of the full moon on Earth, documented by one astrophotographer over 10 years from different locations across Italy. A red- or yellow-colored moon usually indicates a moon seen near the horizon. There, some of the blue light has been scattered away by a long path through the Earth's atmosphere, sometimes laden with fine dust. A blue-colored moon is more rare and can indicate an atmosphere carrying larger dust particles. What created the purple moon is unclear -- it may be a combination of several effects. The last image captures the total lunar eclipse of 2018 July -- where the moon, in Earth's shadow, appeared a faint red -- due to light refracted through air around the Earth. Have you ever seen an unusually colorful Moon?Tomorrow's picture: open space",
+    "date": "2026-11-04",
+    "explanation": "“I see” IC 342, the Hidden Galaxy! Today’s image peers through the plane of the Milky Way, through all its gas, dust and stars, to unveil this spiral galaxy. IC 342 (or Caldwell 5) is one of the brightest members of the IC 342/Maffei group of galaxies. Located about 10 million light years away, this group is quite close to the Local Group that includes our Milky Way. Inaccurate accounting of the crowded and dusty Milky Way foreground has led to misunderstandings in IC 342’s history, including the theory that the galaxy was ejected from the Local Group. IC 342 has its own dust intermittently blocking the glow of hydrogen gas, indicating the presence of bright, young stars. Magnetic field maps of IC 342 reveal that magnetic fields may contribute substantially to one of the biggest galactic puzzles: how do spiral arms form?Tomorrow's picture: open space\t\t\t\t\t\t",
     "hdurl": "https://science.nasa.gov/wp-content/themes/nasa-child/assets/images/nasa-logo@2x.png",
     "media_type": "image",
     "service_version": "v1",
@@ -13,146 +13,6 @@
     "url": "https://science.nasa.gov/wp-content/themes/nasa-child/assets/images/nasa-logo@2x.png"
   },
   "items": [
-    {
-      "id": "1607d2d7d459",
-      "agency": "exo",
-      "ra": 129.8823772,
-      "dec": 47.3519076,
-      "source": "NASA Exoplanet Archive",
-      "title": "HAT-P-13 c — catalog entry updated",
-      "summary": "Orbits HAT-P-13: discovered via Radial Velocity, 2009, 12.30x Earth radius, 4538.42x Earth mass, 446.3-day orbit.",
-      "url": "https://exoplanetarchive.ipac.caltech.edu/overview/HAT-P-13",
-      "publishedAt": "2026-11-04T05:13:53.743Z",
-      "tags": [
-        "Radial Velocity"
-      ]
-    },
-    {
-      "id": "628db19e7368",
-      "agency": "exo",
-      "ra": 129.8823772,
-      "dec": 47.3519076,
-      "source": "NASA Exoplanet Archive",
-      "title": "HAT-P-13 b — catalog entry updated",
-      "summary": "Orbits HAT-P-13: discovered via Transit, 2009, 14.26x Earth radius, 270.46x Earth mass, 2.9-day orbit.",
-      "url": "https://exoplanetarchive.ipac.caltech.edu/overview/HAT-P-13",
-      "publishedAt": "2026-11-04T05:13:53.743Z",
-      "tags": [
-        "Transit"
-      ]
-    },
-    {
-      "id": "a9fd31a903bc",
-      "agency": "exo",
-      "ra": 258.8313991,
-      "dec": 4.9606795,
-      "source": "NASA Exoplanet Archive",
-      "title": "GJ 1214 b — catalog entry updated",
-      "summary": "Orbits GJ 1214: discovered via Transit, 2009, 2.73x Earth radius, 8.41x Earth mass, 1.6-day orbit.",
-      "url": "https://exoplanetarchive.ipac.caltech.edu/overview/GJ_1214",
-      "publishedAt": "2026-11-04T05:13:53.743Z",
-      "tags": [
-        "Transit"
-      ]
-    },
-    {
-      "id": "2f362ab050b3",
-      "agency": "exo",
-      "ra": 133.1468373,
-      "dec": 28.3298154,
-      "source": "NASA Exoplanet Archive",
-      "title": "55 Cnc f — catalog entry updated",
-      "summary": "Orbits 55 Cnc: discovered via Radial Velocity, 2007, 7.59x Earth radius, 44.81x Earth mass, 260.6-day orbit.",
-      "url": "https://exoplanetarchive.ipac.caltech.edu/overview/55_Cnc",
-      "publishedAt": "2026-11-04T05:13:53.743Z",
-      "tags": [
-        "Radial Velocity"
-      ]
-    },
-    {
-      "id": "c4e4feba44b6",
-      "agency": "exo",
-      "ra": 344.4453632,
-      "dec": 38.674919,
-      "source": "NASA Exoplanet Archive",
-      "title": "HAT-P-1 b — catalog entry updated",
-      "summary": "Orbits HAT-P-1: discovered via Transit, 2006, 14.78x Earth radius, 166.86x Earth mass, 4.5-day orbit.",
-      "url": "https://exoplanetarchive.ipac.caltech.edu/overview/HAT-P-1",
-      "publishedAt": "2026-11-04T05:13:53.743Z",
-      "tags": [
-        "Transit"
-      ]
-    },
-    {
-      "id": "6f58f09f6809",
-      "agency": "exo",
-      "ra": 133.1468373,
-      "dec": 28.3298154,
-      "source": "NASA Exoplanet Archive",
-      "title": "55 Cnc c — catalog entry updated",
-      "summary": "Orbits 55 Cnc: discovered via Radial Velocity, 2004, 8.51x Earth radius, 54.47x Earth mass, 44.4-day orbit.",
-      "url": "https://exoplanetarchive.ipac.caltech.edu/overview/55_Cnc",
-      "publishedAt": "2026-11-04T05:13:53.743Z",
-      "tags": [
-        "Radial Velocity"
-      ]
-    },
-    {
-      "id": "d8da153a2b81",
-      "agency": "exo",
-      "ra": 133.1468373,
-      "dec": 28.3298154,
-      "source": "NASA Exoplanet Archive",
-      "title": "55 Cnc e — catalog entry updated",
-      "summary": "Orbits 55 Cnc: discovered via Radial Velocity, 2004, 1.88x Earth radius, 7.99x Earth mass, 0.7-day orbit.",
-      "url": "https://exoplanetarchive.ipac.caltech.edu/overview/55_Cnc",
-      "publishedAt": "2026-11-04T05:13:53.743Z",
-      "tags": [
-        "Radial Velocity"
-      ]
-    },
-    {
-      "id": "3cc942711811",
-      "agency": "exo",
-      "ra": 175.5505363,
-      "dec": 26.7030669,
-      "source": "NASA Exoplanet Archive",
-      "title": "GJ 436 b — catalog entry updated",
-      "summary": "Orbits GJ 436: discovered via Radial Velocity, 2004, 4.17x Earth radius, 22.10x Earth mass, 2.6-day orbit.",
-      "url": "https://exoplanetarchive.ipac.caltech.edu/overview/GJ_436",
-      "publishedAt": "2026-11-04T05:13:53.743Z",
-      "tags": [
-        "Radial Velocity"
-      ]
-    },
-    {
-      "id": "e8c8ff90baad",
-      "agency": "exo",
-      "ra": 133.1468373,
-      "dec": 28.3298154,
-      "source": "NASA Exoplanet Archive",
-      "title": "55 Cnc d — catalog entry updated",
-      "summary": "Orbits 55 Cnc: discovered via Radial Velocity, 2002, 13.00x Earth radius, 1232.49x Earth mass, 4799.0-day orbit.",
-      "url": "https://exoplanetarchive.ipac.caltech.edu/overview/55_Cnc",
-      "publishedAt": "2026-11-04T05:13:53.743Z",
-      "tags": [
-        "Radial Velocity"
-      ]
-    },
-    {
-      "id": "9460cb64b3d0",
-      "agency": "exo",
-      "ra": 133.1468373,
-      "dec": 28.3298154,
-      "source": "NASA Exoplanet Archive",
-      "title": "55 Cnc b — catalog entry updated",
-      "summary": "Orbits 55 Cnc: discovered via Radial Velocity, 1996, 13.90x Earth radius, 263.98x Earth mass, 14.7-day orbit.",
-      "url": "https://exoplanetarchive.ipac.caltech.edu/overview/55_Cnc",
-      "publishedAt": "2026-11-04T05:13:53.743Z",
-      "tags": [
-        "Radial Velocity"
-      ]
-    },
     {
       "id": "32360c9fffbd",
       "agency": "exo",
@@ -162,7 +22,7 @@
       "title": "HAT-P-17 c — catalog entry updated",
       "summary": "Orbits HAT-P-17: discovered via Radial Velocity, 2012, 13.10x Earth radius, 1080.60x Earth mass, 5584.0-day orbit.",
       "url": "https://exoplanetarchive.ipac.caltech.edu/overview/HAT-P-17",
-      "publishedAt": "2026-11-04T05:13:53.742Z",
+      "publishedAt": "2026-11-04T13:54:20.565Z",
       "tags": [
         "Radial Velocity"
       ]
@@ -176,7 +36,7 @@
       "title": "HAT-P-17 b — catalog entry updated",
       "summary": "Orbits HAT-P-17: discovered via Transit, 2012, 11.77x Earth radius, 184.34x Earth mass, 10.3-day orbit.",
       "url": "https://exoplanetarchive.ipac.caltech.edu/overview/HAT-P-17",
-      "publishedAt": "2026-11-04T05:13:53.742Z",
+      "publishedAt": "2026-11-04T13:54:20.565Z",
       "tags": [
         "Transit"
       ]
@@ -190,7 +50,7 @@
       "title": "HAT-P-18 b — catalog entry updated",
       "summary": "Orbits HAT-P-18: discovered via Transit, 2010, 10.70x Earth radius, 55.52x Earth mass, 5.5-day orbit.",
       "url": "https://exoplanetarchive.ipac.caltech.edu/overview/HAT-P-18",
-      "publishedAt": "2026-11-04T05:13:53.742Z",
+      "publishedAt": "2026-11-04T13:54:20.565Z",
       "tags": [
         "Transit"
       ]
@@ -204,7 +64,7 @@
       "title": "HAT-P-14 b — catalog entry updated",
       "summary": "Orbits HAT-P-14: discovered via Transit, 2010, 15.92x Earth radius, 1093.34x Earth mass, 4.6-day orbit.",
       "url": "https://exoplanetarchive.ipac.caltech.edu/overview/HAT-P-14",
-      "publishedAt": "2026-11-04T05:13:53.742Z",
+      "publishedAt": "2026-11-04T13:54:20.565Z",
       "tags": [
         "Transit"
       ]
@@ -218,9 +78,173 @@
       "title": "HAT-P-12 b — catalog entry updated",
       "summary": "Orbits HAT-P-12: discovered via Transit, 2009, 10.75x Earth radius, 67.06x Earth mass, 3.2-day orbit.",
       "url": "https://exoplanetarchive.ipac.caltech.edu/overview/HAT-P-12",
-      "publishedAt": "2026-11-04T05:13:53.742Z",
+      "publishedAt": "2026-11-04T13:54:20.565Z",
       "tags": [
         "Transit"
+      ]
+    },
+    {
+      "id": "1607d2d7d459",
+      "agency": "exo",
+      "ra": 129.8823772,
+      "dec": 47.3519076,
+      "source": "NASA Exoplanet Archive",
+      "title": "HAT-P-13 c — catalog entry updated",
+      "summary": "Orbits HAT-P-13: discovered via Radial Velocity, 2009, 12.30x Earth radius, 4538.42x Earth mass, 446.3-day orbit.",
+      "url": "https://exoplanetarchive.ipac.caltech.edu/overview/HAT-P-13",
+      "publishedAt": "2026-11-04T13:54:20.565Z",
+      "tags": [
+        "Radial Velocity"
+      ]
+    },
+    {
+      "id": "628db19e7368",
+      "agency": "exo",
+      "ra": 129.8823772,
+      "dec": 47.3519076,
+      "source": "NASA Exoplanet Archive",
+      "title": "HAT-P-13 b — catalog entry updated",
+      "summary": "Orbits HAT-P-13: discovered via Transit, 2009, 14.26x Earth radius, 270.46x Earth mass, 2.9-day orbit.",
+      "url": "https://exoplanetarchive.ipac.caltech.edu/overview/HAT-P-13",
+      "publishedAt": "2026-11-04T13:54:20.565Z",
+      "tags": [
+        "Transit"
+      ]
+    },
+    {
+      "id": "a9fd31a903bc",
+      "agency": "exo",
+      "ra": 258.8313991,
+      "dec": 4.9606795,
+      "source": "NASA Exoplanet Archive",
+      "title": "GJ 1214 b — catalog entry updated",
+      "summary": "Orbits GJ 1214: discovered via Transit, 2009, 2.73x Earth radius, 8.41x Earth mass, 1.6-day orbit.",
+      "url": "https://exoplanetarchive.ipac.caltech.edu/overview/GJ_1214",
+      "publishedAt": "2026-11-04T13:54:20.565Z",
+      "tags": [
+        "Transit"
+      ]
+    },
+    {
+      "id": "2f362ab050b3",
+      "agency": "exo",
+      "ra": 133.1468373,
+      "dec": 28.3298154,
+      "source": "NASA Exoplanet Archive",
+      "title": "55 Cnc f — catalog entry updated",
+      "summary": "Orbits 55 Cnc: discovered via Radial Velocity, 2007, 7.59x Earth radius, 44.81x Earth mass, 260.6-day orbit.",
+      "url": "https://exoplanetarchive.ipac.caltech.edu/overview/55_Cnc",
+      "publishedAt": "2026-11-04T13:54:20.565Z",
+      "tags": [
+        "Radial Velocity"
+      ]
+    },
+    {
+      "id": "c4e4feba44b6",
+      "agency": "exo",
+      "ra": 344.4453632,
+      "dec": 38.674919,
+      "source": "NASA Exoplanet Archive",
+      "title": "HAT-P-1 b — catalog entry updated",
+      "summary": "Orbits HAT-P-1: discovered via Transit, 2006, 14.78x Earth radius, 166.86x Earth mass, 4.5-day orbit.",
+      "url": "https://exoplanetarchive.ipac.caltech.edu/overview/HAT-P-1",
+      "publishedAt": "2026-11-04T13:54:20.565Z",
+      "tags": [
+        "Transit"
+      ]
+    },
+    {
+      "id": "6f58f09f6809",
+      "agency": "exo",
+      "ra": 133.1468373,
+      "dec": 28.3298154,
+      "source": "NASA Exoplanet Archive",
+      "title": "55 Cnc c — catalog entry updated",
+      "summary": "Orbits 55 Cnc: discovered via Radial Velocity, 2004, 8.51x Earth radius, 54.47x Earth mass, 44.4-day orbit.",
+      "url": "https://exoplanetarchive.ipac.caltech.edu/overview/55_Cnc",
+      "publishedAt": "2026-11-04T13:54:20.565Z",
+      "tags": [
+        "Radial Velocity"
+      ]
+    },
+    {
+      "id": "d8da153a2b81",
+      "agency": "exo",
+      "ra": 133.1468373,
+      "dec": 28.3298154,
+      "source": "NASA Exoplanet Archive",
+      "title": "55 Cnc e — catalog entry updated",
+      "summary": "Orbits 55 Cnc: discovered via Radial Velocity, 2004, 1.88x Earth radius, 7.99x Earth mass, 0.7-day orbit.",
+      "url": "https://exoplanetarchive.ipac.caltech.edu/overview/55_Cnc",
+      "publishedAt": "2026-11-04T13:54:20.565Z",
+      "tags": [
+        "Radial Velocity"
+      ]
+    },
+    {
+      "id": "3cc942711811",
+      "agency": "exo",
+      "ra": 175.5505363,
+      "dec": 26.7030669,
+      "source": "NASA Exoplanet Archive",
+      "title": "GJ 436 b — catalog entry updated",
+      "summary": "Orbits GJ 436: discovered via Radial Velocity, 2004, 4.17x Earth radius, 22.10x Earth mass, 2.6-day orbit.",
+      "url": "https://exoplanetarchive.ipac.caltech.edu/overview/GJ_436",
+      "publishedAt": "2026-11-04T13:54:20.565Z",
+      "tags": [
+        "Radial Velocity"
+      ]
+    },
+    {
+      "id": "e8c8ff90baad",
+      "agency": "exo",
+      "ra": 133.1468373,
+      "dec": 28.3298154,
+      "source": "NASA Exoplanet Archive",
+      "title": "55 Cnc d — catalog entry updated",
+      "summary": "Orbits 55 Cnc: discovered via Radial Velocity, 2002, 13.00x Earth radius, 1232.49x Earth mass, 4799.0-day orbit.",
+      "url": "https://exoplanetarchive.ipac.caltech.edu/overview/55_Cnc",
+      "publishedAt": "2026-11-04T13:54:20.565Z",
+      "tags": [
+        "Radial Velocity"
+      ]
+    },
+    {
+      "id": "9460cb64b3d0",
+      "agency": "exo",
+      "ra": 133.1468373,
+      "dec": 28.3298154,
+      "source": "NASA Exoplanet Archive",
+      "title": "55 Cnc b — catalog entry updated",
+      "summary": "Orbits 55 Cnc: discovered via Radial Velocity, 1996, 13.90x Earth radius, 263.98x Earth mass, 14.7-day orbit.",
+      "url": "https://exoplanetarchive.ipac.caltech.edu/overview/55_Cnc",
+      "publishedAt": "2026-11-04T13:54:20.565Z",
+      "tags": [
+        "Radial Velocity"
+      ]
+    },
+    {
+      "id": "4c5ce045bfbc",
+      "agency": "nasa",
+      "source": "NASA breaking news",
+      "title": "APOD: 2026 November 4 – The Not-So-Hidden Galaxy, IC 342",
+      "summary": "APOD Science APOD APOD: 2026 November 4 – The… Today’s APOD Archive Submissions Index Search Calendar RSS Education About Discuss APOD Astronomy Picture of the Day Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a professio…",
+      "url": "https://science.nasa.gov/image-article/apod-2026-november-4-the-not-so-hidden-galaxy-ic-342/",
+      "publishedAt": "2026-11-04T05:05:00.000Z",
+      "tags": [
+        "APOD"
+      ]
+    },
+    {
+      "id": "31aecbbdf5e8",
+      "agency": "nasa",
+      "source": "NASA breaking news",
+      "title": "Before the Dawn in America’s Heartland",
+      "summary": "With hardly a cloud in sight, astronauts had a sweeping view of nighttime lights in the U.S. Midwest.",
+      "url": "https://science.nasa.gov/earth/earth-observatory/before-the-dawn-in-americas-heartland/",
+      "publishedAt": "2026-11-04T05:01:00.000Z",
+      "tags": [
+        "Earth Observatory"
       ]
     },
     {
@@ -575,40 +599,6 @@
       "tags": [
         "CHAPEA Mission 2",
         "Crew Health and Performance Exploration Analog (CHAPEA)"
-      ]
-    },
-    {
-      "id": "2d388f71e487",
-      "agency": "nasa",
-      "source": "NASA breaking news",
-      "title": "What’s Up: November 2026 Skywatching Tips from NASA",
-      "summary": "Meteor Showers, a Spacecraft Milestone, and a Supermoon Catch Taurid and Leonid meteors, spot Mars near Jupiter, celebrate Voyager 1’s light-day milestone, and watch November’s supermoon. Skywatching Highlights Transcript A month of meteor showers … a close pairing of Mars and Jupiter … and a supermoon! That’s What’s U…",
-      "url": "https://science.nasa.gov/solar-system/skywatching/whats-up-november-2026-skywatching-tips-from-nasa/",
-      "publishedAt": "2026-11-02T18:19:58.000Z",
-      "tags": [
-        "Earth's Moon",
-        "Leonids",
-        "Skywatching",
-        "Skywatching Tips",
-        "The Solar System"
-      ]
-    },
-    {
-      "id": "7a17628b8eb6",
-      "agency": "nasa",
-      "source": "NASA breaking news",
-      "title": "NASA Invites Media to Northrop Grumman CRS-25 Station Resupply Launch",
-      "summary": "Media accreditation is open for the next launch to deliver NASA science investigations, supplies, and equipment to the International Space Station. A Northrop Grumman Cygnus XL spacecraft will launch in November to the orbital laboratory on a SpaceX Falcon 9 rocket for NASA. The mission is known as NASA’s Northrop Grum…",
-      "url": "https://www.nasa.gov/news-release/nasa-invites-media-to-northrop-grumman-crs-25-station-resupply-launch/",
-      "publishedAt": "2026-11-02T17:33:22.000Z",
-      "tags": [
-        "Commercial Space",
-        "Commercial Resupply",
-        "International Space Station (ISS)",
-        "ISS Research",
-        "Johnson Space Center",
-        "Kennedy Space Center",
-        "Northrop Grumman Commercial Resupply"
       ]
     },
     {
