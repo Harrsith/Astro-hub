@@ -1,11 +1,11 @@
 {
-  "generatedAt": "2026-11-06T13:51:55.832Z",
+  "generatedAt": "2026-11-06T22:48:07.589Z",
   "sourceCount": 5,
   "itemCount": 70,
   "errors": [],
   "apod": {
     "date": "2026-11-06",
-    "explanation": "It is time to say goodbye to NASA's Neil Gehrels Swift Observatory. After nearly 22 years of service, the satellite re-entered Earth's atmosphere on November 4 at 7:39 EST over the North Sumatra region of Indonesia. The featured image is a mosaic created in 2018 using the first one million images captured by the satellite's Ultraviolet/Optical Telescope. Swift had a combination of instruments, including an X-ray telescope and a gamma-ray telescope, that worked together to enable humanity to study, in unprecedented detail, the fastest and most energetic explosions in the universe. The most recent solar maximum accelerated the decay of the satellite's orbit. An innovative mission to rescue Swift by boosting its orbit was not successful. Swift burned on reentry like a shooting star, but the impressive data acquired by the telescope over its mission will continue to bring light to the mysteries of the cosmos for years to come. May it keep inspiring new missions to boldly go into space, explore new data and seek out new science.",
+    "explanation": "It is time to say goodbye to NASA's Neil Gehrels Swift Observatory. After nearly 22 years of service, the satellite re-entered Earth's atmosphere on November 4 at 7:39 EST over the North Sumatra region of Indonesia. The featured image is a mosaic created in 2018 using some of the first million images captured by the satellite's Ultraviolet/Optical Telescope. Swift had a combination of instruments, including an X-ray telescope and a gamma-ray telescope, that worked together to enable humanity to study, in unprecedented detail, the fastest and most energetic explosions in the universe. The most recent solar maximum accelerated the decay of the satellite's orbit. An innovative mission to rescue Swift by boosting its orbit was not successful. Swift burned on reentry like a shooting star, but the impressive data acquired by the telescope over its mission will continue to bring light to the mysteries of the cosmos for years to come. May it keep inspiring new missions to boldly go into space, explore new data and seek out new science.",
     "hdurl": "https://science.nasa.gov/wp-content/themes/nasa-child/assets/images/nasa-logo@2x.png",
     "media_type": "image",
     "service_version": "v1",
@@ -13,6 +13,20 @@
     "url": "https://science.nasa.gov/wp-content/themes/nasa-child/assets/images/nasa-logo@2x.png"
   },
   "items": [
+    {
+      "id": "9f5e5143a9c2",
+      "agency": "exo",
+      "ra": 354.741581,
+      "dec": 75.6852317,
+      "source": "NASA Exoplanet Archive",
+      "title": "TOI-1758 b — catalog entry updated",
+      "summary": "Orbits TOI-1758: discovered via Transit, 2024, 3.62x Earth radius, 6.90x Earth mass, 20.7-day orbit.",
+      "url": "https://exoplanetarchive.ipac.caltech.edu/overview/TOI-1758",
+      "publishedAt": "2026-11-06T22:48:07.179Z",
+      "tags": [
+        "Transit"
+      ]
+    },
     {
       "id": "5af1dfd1728f",
       "agency": "exo",
@@ -22,7 +36,7 @@
       "title": "Kepler-607 c — catalog entry updated",
       "summary": "Orbits Kepler-607: discovered via Transit, 2021, 2.76x Earth radius, 8.05x Earth mass, 39.7-day orbit.",
       "url": "https://exoplanetarchive.ipac.caltech.edu/overview/Kepler-607",
-      "publishedAt": "2026-11-06T13:51:55.610Z",
+      "publishedAt": "2026-11-06T22:48:07.179Z",
       "tags": [
         "Transit"
       ]
@@ -36,7 +50,7 @@
       "title": "Kepler-860 b — catalog entry updated",
       "summary": "Orbits Kepler-860: discovered via Transit, 2016, 3.24x Earth radius, 10.60x Earth mass, 5.1-day orbit.",
       "url": "https://exoplanetarchive.ipac.caltech.edu/overview/Kepler-860",
-      "publishedAt": "2026-11-06T13:51:55.610Z",
+      "publishedAt": "2026-11-06T22:48:07.179Z",
       "tags": [
         "Transit"
       ]
@@ -50,7 +64,7 @@
       "title": "EPIC 211822797 b — catalog entry updated",
       "summary": "Orbits EPIC 211822797: discovered via Transit, 2016, 1.92x Earth radius, 4.35x Earth mass, 21.2-day orbit.",
       "url": "https://exoplanetarchive.ipac.caltech.edu/overview/EPIC_211822797",
-      "publishedAt": "2026-11-06T13:51:55.610Z",
+      "publishedAt": "2026-11-06T22:48:07.179Z",
       "tags": [
         "Transit"
       ]
@@ -64,7 +78,7 @@
       "title": "Kepler-1040 b — catalog entry updated",
       "summary": "Orbits Kepler-1040: discovered via Transit, 2016, 2.08x Earth radius, 4.98x Earth mass, 201.1-day orbit.",
       "url": "https://exoplanetarchive.ipac.caltech.edu/overview/Kepler-1040",
-      "publishedAt": "2026-11-06T13:51:55.610Z",
+      "publishedAt": "2026-11-06T22:48:07.179Z",
       "tags": [
         "Transit"
       ]
@@ -78,7 +92,7 @@
       "title": "Kepler-583 b — catalog entry updated",
       "summary": "Orbits Kepler-583: discovered via Transit, 2016, 2.28x Earth radius, 5.82x Earth mass, 6.5-day orbit.",
       "url": "https://exoplanetarchive.ipac.caltech.edu/overview/Kepler-583",
-      "publishedAt": "2026-11-06T13:51:55.610Z",
+      "publishedAt": "2026-11-06T22:48:07.179Z",
       "tags": [
         "Transit"
       ]
@@ -92,7 +106,7 @@
       "title": "Kepler-343 b — catalog entry updated",
       "summary": "Orbits Kepler-343: discovered via Transit, 2014, 2.41x Earth radius, 6.39x Earth mass, 9.0-day orbit.",
       "url": "https://exoplanetarchive.ipac.caltech.edu/overview/Kepler-343",
-      "publishedAt": "2026-11-06T13:51:55.610Z",
+      "publishedAt": "2026-11-06T22:48:07.179Z",
       "tags": [
         "Transit"
       ]
@@ -106,7 +120,7 @@
       "title": "Kepler-257 d — catalog entry updated",
       "summary": "Orbits Kepler-257: discovered via Transit, 2014, 4.95x Earth radius, 21.70x Earth mass, 24.7-day orbit.",
       "url": "https://exoplanetarchive.ipac.caltech.edu/overview/Kepler-257",
-      "publishedAt": "2026-11-06T13:51:55.610Z",
+      "publishedAt": "2026-11-06T22:48:07.179Z",
       "tags": [
         "Transit"
       ]
@@ -120,7 +134,7 @@
       "title": "Kepler-272 d — catalog entry updated",
       "summary": "Orbits Kepler-272: discovered via Transit, 2014, 2.25x Earth radius, 5.69x Earth mass, 10.9-day orbit.",
       "url": "https://exoplanetarchive.ipac.caltech.edu/overview/Kepler-272",
-      "publishedAt": "2026-11-06T13:51:55.610Z",
+      "publishedAt": "2026-11-06T22:48:07.179Z",
       "tags": [
         "Transit"
       ]
@@ -134,7 +148,7 @@
       "title": "Kepler-354 c — catalog entry updated",
       "summary": "Orbits Kepler-354: discovered via Transit, 2014, 1.31x Earth radius, 2.27x Earth mass, 16.9-day orbit.",
       "url": "https://exoplanetarchive.ipac.caltech.edu/overview/Kepler-354",
-      "publishedAt": "2026-11-06T13:51:55.610Z",
+      "publishedAt": "2026-11-06T22:48:07.179Z",
       "tags": [
         "Transit"
       ]
@@ -148,7 +162,7 @@
       "title": "Kepler-374 b — catalog entry updated",
       "summary": "Orbits Kepler-374: discovered via Transit, 2014, 1.03x Earth radius, 1.08x Earth mass, 1.9-day orbit.",
       "url": "https://exoplanetarchive.ipac.caltech.edu/overview/Kepler-374",
-      "publishedAt": "2026-11-06T13:51:55.610Z",
+      "publishedAt": "2026-11-06T22:48:07.179Z",
       "tags": [
         "Transit"
       ]
@@ -162,7 +176,7 @@
       "title": "Kepler-150 c — catalog entry updated",
       "summary": "Orbits Kepler-150: discovered via Transit, 2014, 3.69x Earth radius, 13.20x Earth mass, 7.4-day orbit.",
       "url": "https://exoplanetarchive.ipac.caltech.edu/overview/Kepler-150",
-      "publishedAt": "2026-11-06T13:51:55.610Z",
+      "publishedAt": "2026-11-06T22:48:07.179Z",
       "tags": [
         "Transit"
       ]
@@ -176,7 +190,7 @@
       "title": "Kepler-322 b — catalog entry updated",
       "summary": "Orbits Kepler-322: discovered via Transit, 2014, 1.01x Earth radius, 1.01x Earth mass, 1.7-day orbit.",
       "url": "https://exoplanetarchive.ipac.caltech.edu/overview/Kepler-322",
-      "publishedAt": "2026-11-06T13:51:55.610Z",
+      "publishedAt": "2026-11-06T22:48:07.179Z",
       "tags": [
         "Transit"
       ]
@@ -190,7 +204,7 @@
       "title": "Kepler-81 b — catalog entry updated",
       "summary": "Orbits Kepler-81: discovered via Transit, 2012, 2.42x Earth radius, 17.20x Earth mass, 6.0-day orbit.",
       "url": "https://exoplanetarchive.ipac.caltech.edu/overview/Kepler-81",
-      "publishedAt": "2026-11-06T13:51:55.610Z",
+      "publishedAt": "2026-11-06T22:48:07.179Z",
       "tags": [
         "Transit"
       ]
@@ -204,23 +218,33 @@
       "title": "HD 175167 b — catalog entry updated",
       "summary": "Orbits HD 175167: discovered via Radial Velocity, 2009, 12.30x Earth radius, 4703.86x Earth mass, 1175.0-day orbit.",
       "url": "https://exoplanetarchive.ipac.caltech.edu/overview/HD_175167",
-      "publishedAt": "2026-11-06T13:51:55.610Z",
+      "publishedAt": "2026-11-06T22:48:07.179Z",
       "tags": [
         "Radial Velocity"
       ]
     },
     {
-      "id": "9f5e5143a9c2",
-      "agency": "exo",
-      "ra": 354.741581,
-      "dec": 75.6852317,
-      "source": "NASA Exoplanet Archive",
-      "title": "TOI-1758 b — catalog entry updated",
-      "summary": "Orbits TOI-1758: discovered via Transit, 2024, 3.62x Earth radius, 6.90x Earth mass, 20.7-day orbit.",
-      "url": "https://exoplanetarchive.ipac.caltech.edu/overview/TOI-1758",
-      "publishedAt": "2026-11-06T13:51:55.609Z",
+      "id": "9ee29b170407",
+      "agency": "nasa",
+      "source": "NASA breaking news",
+      "title": "M30’s Sparkling Stars",
+      "summary": "This NASA/ESA Hubble Space Telescope image released Nov. 5, 2026, provides a lesson in galactic history. The sparkling collection of stars is named Messier 30 (M30) after the French astronomer, Charles Messier, who cataloged M30 and other diffuse objects that might be mistaken for comets in the early telescopes of Mess…",
+      "url": "https://www.nasa.gov/image-article/m30s-sparkling-stars/",
+      "publishedAt": "2026-11-06T16:23:41.000Z",
       "tags": [
-        "Transit"
+        "Messier Catalog"
+      ]
+    },
+    {
+      "id": "7a3513031f56",
+      "agency": "nasa",
+      "source": "NASA breaking news",
+      "title": "Supercomputing Tech Demo Schedule",
+      "summary": "Supercomputing 2026 Join NASA in the Exhibit Hall (Booth #4038) for presentations by NASA experts. Full Tech Demo schedule below. TUESDAY, NOVEMBER 17 10:00 AMType-safe Templates in Fortran 2028Tom Clune10:30 AMType-safe Templates in Fortran 2028Tom Clune11:00 AM Type-safe Templates in Fortran 2028Tom Clune1:00PM Mixin…",
+      "url": "https://science.nasa.gov/earth/supercomputing-tech-demo-schedule/",
+      "publishedAt": "2026-11-06T16:03:52.000Z",
+      "tags": [
+        "Earth"
       ]
     },
     {
@@ -583,36 +607,6 @@
         "Flight Innovation",
         "NASA Aircraft",
         "Research and Technology Mission Directorate"
-      ]
-    },
-    {
-      "id": "3285fd735bda",
-      "agency": "nasa",
-      "source": "NASA breaking news",
-      "title": "NASA Shares Plans to Accelerate Artemis, Return to Moon",
-      "summary": "In an update on Oct. 23, NASA Administrator Jared Isaacman and other agency leaders shared the agency’s path to returning Americans to the lunar surface in 2028. Agency leadership provided updates on the previously announced acceleration plans for the Artemis program, advancing toward the agency’s Artemis III test flig…",
-      "url": "https://www.nasa.gov/missions/artemis/nasa-shares-plans-to-accelerate-artemis-return-to-moon/",
-      "publishedAt": "2026-11-04T21:04:10.000Z",
-      "tags": [
-        "Artemis",
-        "Artemis 3",
-        "Artemis 4",
-        "Human Landing System Program",
-        "Marshall Space Flight Center",
-        "Space Launch System (SLS)"
-      ]
-    },
-    {
-      "id": "2e62bc2ded66",
-      "agency": "nasa",
-      "source": "NASA breaking news",
-      "title": "NASA Announces Ka-Band Satellite Relay Awards for Space Communications",
-      "summary": "NASA selected three companies on Wednesday to perform work to develop Ka-band space relay capability concepts that are compatible with current missions in space, ensuring service continuity for existing spacecraft without requiring modifications to their onboard systems. Through this work, NASA will aim to acquire end-…",
-      "url": "https://www.nasa.gov/news-release/nasa-announces-ka-band-satellite-relay-awards-for-space-communications/",
-      "publishedAt": "2026-11-04T18:00:02.000Z",
-      "tags": [
-        "Space Communications & Navigation Program",
-        "Space Communications Technology"
       ]
     },
     {
