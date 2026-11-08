@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-07T21:32:06.757Z",
+  "generatedAt": "2026-11-08T04:55:15.505Z",
   "sourceCount": 5,
   "itemCount": 70,
   "errors": [],
@@ -14,146 +14,6 @@
   },
   "items": [
     {
-      "id": "9f5e5143a9c2",
-      "agency": "exo",
-      "ra": 354.741581,
-      "dec": 75.6852317,
-      "source": "NASA Exoplanet Archive",
-      "title": "TOI-1758 b — catalog entry updated",
-      "summary": "Orbits TOI-1758: discovered via Transit, 2024, 3.62x Earth radius, 6.90x Earth mass, 20.7-day orbit.",
-      "url": "https://exoplanetarchive.ipac.caltech.edu/overview/TOI-1758",
-      "publishedAt": "2026-11-07T21:32:05.913Z",
-      "tags": [
-        "Transit"
-      ]
-    },
-    {
-      "id": "5af1dfd1728f",
-      "agency": "exo",
-      "ra": 291.0571451,
-      "dec": 44.632306,
-      "source": "NASA Exoplanet Archive",
-      "title": "Kepler-607 c — catalog entry updated",
-      "summary": "Orbits Kepler-607: discovered via Transit, 2021, 2.76x Earth radius, 8.05x Earth mass, 39.7-day orbit.",
-      "url": "https://exoplanetarchive.ipac.caltech.edu/overview/Kepler-607",
-      "publishedAt": "2026-11-07T21:32:05.913Z",
-      "tags": [
-        "Transit"
-      ]
-    },
-    {
-      "id": "9d3f6cba4191",
-      "agency": "exo",
-      "ra": 295.5772681,
-      "dec": 46.2547028,
-      "source": "NASA Exoplanet Archive",
-      "title": "Kepler-860 b — catalog entry updated",
-      "summary": "Orbits Kepler-860: discovered via Transit, 2016, 3.24x Earth radius, 10.60x Earth mass, 5.1-day orbit.",
-      "url": "https://exoplanetarchive.ipac.caltech.edu/overview/Kepler-860",
-      "publishedAt": "2026-11-07T21:32:05.913Z",
-      "tags": [
-        "Transit"
-      ]
-    },
-    {
-      "id": "43b6e2ee2e57",
-      "agency": "exo",
-      "ra": 130.4102091,
-      "dec": 17.6399744,
-      "source": "NASA Exoplanet Archive",
-      "title": "EPIC 211822797 b — catalog entry updated",
-      "summary": "Orbits EPIC 211822797: discovered via Transit, 2016, 1.92x Earth radius, 4.35x Earth mass, 21.2-day orbit.",
-      "url": "https://exoplanetarchive.ipac.caltech.edu/overview/EPIC_211822797",
-      "publishedAt": "2026-11-07T21:32:05.913Z",
-      "tags": [
-        "Transit"
-      ]
-    },
-    {
-      "id": "19d3cfe2327f",
-      "agency": "exo",
-      "ra": 283.1137663,
-      "dec": 48.1312774,
-      "source": "NASA Exoplanet Archive",
-      "title": "Kepler-1040 b — catalog entry updated",
-      "summary": "Orbits Kepler-1040: discovered via Transit, 2016, 2.08x Earth radius, 4.98x Earth mass, 201.1-day orbit.",
-      "url": "https://exoplanetarchive.ipac.caltech.edu/overview/Kepler-1040",
-      "publishedAt": "2026-11-07T21:32:05.913Z",
-      "tags": [
-        "Transit"
-      ]
-    },
-    {
-      "id": "25ee1937b4e7",
-      "agency": "exo",
-      "ra": 282.1113206,
-      "dec": 42.3545514,
-      "source": "NASA Exoplanet Archive",
-      "title": "Kepler-583 b — catalog entry updated",
-      "summary": "Orbits Kepler-583: discovered via Transit, 2016, 2.28x Earth radius, 5.82x Earth mass, 6.5-day orbit.",
-      "url": "https://exoplanetarchive.ipac.caltech.edu/overview/Kepler-583",
-      "publishedAt": "2026-11-07T21:32:05.913Z",
-      "tags": [
-        "Transit"
-      ]
-    },
-    {
-      "id": "5a058a5c2549",
-      "agency": "exo",
-      "ra": 291.960662,
-      "dec": 42.4329567,
-      "source": "NASA Exoplanet Archive",
-      "title": "Kepler-343 b — catalog entry updated",
-      "summary": "Orbits Kepler-343: discovered via Transit, 2014, 2.41x Earth radius, 6.39x Earth mass, 9.0-day orbit.",
-      "url": "https://exoplanetarchive.ipac.caltech.edu/overview/Kepler-343",
-      "publishedAt": "2026-11-07T21:32:05.913Z",
-      "tags": [
-        "Transit"
-      ]
-    },
-    {
-      "id": "a53ac74e6880",
-      "agency": "exo",
-      "ra": 297.3159994,
-      "dec": 46.0232642,
-      "source": "NASA Exoplanet Archive",
-      "title": "Kepler-257 d — catalog entry updated",
-      "summary": "Orbits Kepler-257: discovered via Transit, 2014, 4.95x Earth radius, 21.70x Earth mass, 24.7-day orbit.",
-      "url": "https://exoplanetarchive.ipac.caltech.edu/overview/Kepler-257",
-      "publishedAt": "2026-11-07T21:32:05.913Z",
-      "tags": [
-        "Transit"
-      ]
-    },
-    {
-      "id": "72917210c9de",
-      "agency": "exo",
-      "ra": 299.1275257,
-      "dec": 47.5938319,
-      "source": "NASA Exoplanet Archive",
-      "title": "Kepler-272 d — catalog entry updated",
-      "summary": "Orbits Kepler-272: discovered via Transit, 2014, 2.25x Earth radius, 5.69x Earth mass, 10.9-day orbit.",
-      "url": "https://exoplanetarchive.ipac.caltech.edu/overview/Kepler-272",
-      "publishedAt": "2026-11-07T21:32:05.913Z",
-      "tags": [
-        "Transit"
-      ]
-    },
-    {
-      "id": "8a5fe98d28b0",
-      "agency": "exo",
-      "ra": 285.7515347,
-      "dec": 41.3356739,
-      "source": "NASA Exoplanet Archive",
-      "title": "Kepler-354 c — catalog entry updated",
-      "summary": "Orbits Kepler-354: discovered via Transit, 2014, 1.31x Earth radius, 2.27x Earth mass, 16.9-day orbit.",
-      "url": "https://exoplanetarchive.ipac.caltech.edu/overview/Kepler-354",
-      "publishedAt": "2026-11-07T21:32:05.913Z",
-      "tags": [
-        "Transit"
-      ]
-    },
-    {
       "id": "bab3a9113aaa",
       "agency": "exo",
       "ra": 294.1378921,
@@ -162,7 +22,7 @@
       "title": "Kepler-374 b — catalog entry updated",
       "summary": "Orbits Kepler-374: discovered via Transit, 2014, 1.03x Earth radius, 1.08x Earth mass, 1.9-day orbit.",
       "url": "https://exoplanetarchive.ipac.caltech.edu/overview/Kepler-374",
-      "publishedAt": "2026-11-07T21:32:05.913Z",
+      "publishedAt": "2026-11-08T04:54:44.764Z",
       "tags": [
         "Transit"
       ]
@@ -176,7 +36,7 @@
       "title": "Kepler-150 c — catalog entry updated",
       "summary": "Orbits Kepler-150: discovered via Transit, 2014, 3.69x Earth radius, 13.20x Earth mass, 7.4-day orbit.",
       "url": "https://exoplanetarchive.ipac.caltech.edu/overview/Kepler-150",
-      "publishedAt": "2026-11-07T21:32:05.913Z",
+      "publishedAt": "2026-11-08T04:54:44.764Z",
       "tags": [
         "Transit"
       ]
@@ -190,7 +50,7 @@
       "title": "Kepler-322 b — catalog entry updated",
       "summary": "Orbits Kepler-322: discovered via Transit, 2014, 1.01x Earth radius, 1.01x Earth mass, 1.7-day orbit.",
       "url": "https://exoplanetarchive.ipac.caltech.edu/overview/Kepler-322",
-      "publishedAt": "2026-11-07T21:32:05.913Z",
+      "publishedAt": "2026-11-08T04:54:44.764Z",
       "tags": [
         "Transit"
       ]
@@ -204,7 +64,7 @@
       "title": "Kepler-81 b — catalog entry updated",
       "summary": "Orbits Kepler-81: discovered via Transit, 2012, 2.42x Earth radius, 17.20x Earth mass, 6.0-day orbit.",
       "url": "https://exoplanetarchive.ipac.caltech.edu/overview/Kepler-81",
-      "publishedAt": "2026-11-07T21:32:05.913Z",
+      "publishedAt": "2026-11-08T04:54:44.764Z",
       "tags": [
         "Transit"
       ]
@@ -218,9 +78,161 @@
       "title": "HD 175167 b — catalog entry updated",
       "summary": "Orbits HD 175167: discovered via Radial Velocity, 2009, 12.30x Earth radius, 4703.86x Earth mass, 1175.0-day orbit.",
       "url": "https://exoplanetarchive.ipac.caltech.edu/overview/HD_175167",
-      "publishedAt": "2026-11-07T21:32:05.913Z",
+      "publishedAt": "2026-11-08T04:54:44.764Z",
       "tags": [
         "Radial Velocity"
+      ]
+    },
+    {
+      "id": "9f5e5143a9c2",
+      "agency": "exo",
+      "ra": 354.741581,
+      "dec": 75.6852317,
+      "source": "NASA Exoplanet Archive",
+      "title": "TOI-1758 b — catalog entry updated",
+      "summary": "Orbits TOI-1758: discovered via Transit, 2024, 3.62x Earth radius, 6.90x Earth mass, 20.7-day orbit.",
+      "url": "https://exoplanetarchive.ipac.caltech.edu/overview/TOI-1758",
+      "publishedAt": "2026-11-08T04:54:44.763Z",
+      "tags": [
+        "Transit"
+      ]
+    },
+    {
+      "id": "5af1dfd1728f",
+      "agency": "exo",
+      "ra": 291.0571451,
+      "dec": 44.632306,
+      "source": "NASA Exoplanet Archive",
+      "title": "Kepler-607 c — catalog entry updated",
+      "summary": "Orbits Kepler-607: discovered via Transit, 2021, 2.76x Earth radius, 8.05x Earth mass, 39.7-day orbit.",
+      "url": "https://exoplanetarchive.ipac.caltech.edu/overview/Kepler-607",
+      "publishedAt": "2026-11-08T04:54:44.763Z",
+      "tags": [
+        "Transit"
+      ]
+    },
+    {
+      "id": "9d3f6cba4191",
+      "agency": "exo",
+      "ra": 295.5772681,
+      "dec": 46.2547028,
+      "source": "NASA Exoplanet Archive",
+      "title": "Kepler-860 b — catalog entry updated",
+      "summary": "Orbits Kepler-860: discovered via Transit, 2016, 3.24x Earth radius, 10.60x Earth mass, 5.1-day orbit.",
+      "url": "https://exoplanetarchive.ipac.caltech.edu/overview/Kepler-860",
+      "publishedAt": "2026-11-08T04:54:44.763Z",
+      "tags": [
+        "Transit"
+      ]
+    },
+    {
+      "id": "43b6e2ee2e57",
+      "agency": "exo",
+      "ra": 130.4102091,
+      "dec": 17.6399744,
+      "source": "NASA Exoplanet Archive",
+      "title": "EPIC 211822797 b — catalog entry updated",
+      "summary": "Orbits EPIC 211822797: discovered via Transit, 2016, 1.92x Earth radius, 4.35x Earth mass, 21.2-day orbit.",
+      "url": "https://exoplanetarchive.ipac.caltech.edu/overview/EPIC_211822797",
+      "publishedAt": "2026-11-08T04:54:44.763Z",
+      "tags": [
+        "Transit"
+      ]
+    },
+    {
+      "id": "19d3cfe2327f",
+      "agency": "exo",
+      "ra": 283.1137663,
+      "dec": 48.1312774,
+      "source": "NASA Exoplanet Archive",
+      "title": "Kepler-1040 b — catalog entry updated",
+      "summary": "Orbits Kepler-1040: discovered via Transit, 2016, 2.08x Earth radius, 4.98x Earth mass, 201.1-day orbit.",
+      "url": "https://exoplanetarchive.ipac.caltech.edu/overview/Kepler-1040",
+      "publishedAt": "2026-11-08T04:54:44.763Z",
+      "tags": [
+        "Transit"
+      ]
+    },
+    {
+      "id": "25ee1937b4e7",
+      "agency": "exo",
+      "ra": 282.1113206,
+      "dec": 42.3545514,
+      "source": "NASA Exoplanet Archive",
+      "title": "Kepler-583 b — catalog entry updated",
+      "summary": "Orbits Kepler-583: discovered via Transit, 2016, 2.28x Earth radius, 5.82x Earth mass, 6.5-day orbit.",
+      "url": "https://exoplanetarchive.ipac.caltech.edu/overview/Kepler-583",
+      "publishedAt": "2026-11-08T04:54:44.763Z",
+      "tags": [
+        "Transit"
+      ]
+    },
+    {
+      "id": "5a058a5c2549",
+      "agency": "exo",
+      "ra": 291.960662,
+      "dec": 42.4329567,
+      "source": "NASA Exoplanet Archive",
+      "title": "Kepler-343 b — catalog entry updated",
+      "summary": "Orbits Kepler-343: discovered via Transit, 2014, 2.41x Earth radius, 6.39x Earth mass, 9.0-day orbit.",
+      "url": "https://exoplanetarchive.ipac.caltech.edu/overview/Kepler-343",
+      "publishedAt": "2026-11-08T04:54:44.763Z",
+      "tags": [
+        "Transit"
+      ]
+    },
+    {
+      "id": "a53ac74e6880",
+      "agency": "exo",
+      "ra": 297.3159994,
+      "dec": 46.0232642,
+      "source": "NASA Exoplanet Archive",
+      "title": "Kepler-257 d — catalog entry updated",
+      "summary": "Orbits Kepler-257: discovered via Transit, 2014, 4.95x Earth radius, 21.70x Earth mass, 24.7-day orbit.",
+      "url": "https://exoplanetarchive.ipac.caltech.edu/overview/Kepler-257",
+      "publishedAt": "2026-11-08T04:54:44.763Z",
+      "tags": [
+        "Transit"
+      ]
+    },
+    {
+      "id": "72917210c9de",
+      "agency": "exo",
+      "ra": 299.1275257,
+      "dec": 47.5938319,
+      "source": "NASA Exoplanet Archive",
+      "title": "Kepler-272 d — catalog entry updated",
+      "summary": "Orbits Kepler-272: discovered via Transit, 2014, 2.25x Earth radius, 5.69x Earth mass, 10.9-day orbit.",
+      "url": "https://exoplanetarchive.ipac.caltech.edu/overview/Kepler-272",
+      "publishedAt": "2026-11-08T04:54:44.763Z",
+      "tags": [
+        "Transit"
+      ]
+    },
+    {
+      "id": "8a5fe98d28b0",
+      "agency": "exo",
+      "ra": 285.7515347,
+      "dec": 41.3356739,
+      "source": "NASA Exoplanet Archive",
+      "title": "Kepler-354 c — catalog entry updated",
+      "summary": "Orbits Kepler-354: discovered via Transit, 2014, 1.31x Earth radius, 2.27x Earth mass, 16.9-day orbit.",
+      "url": "https://exoplanetarchive.ipac.caltech.edu/overview/Kepler-354",
+      "publishedAt": "2026-11-08T04:54:44.763Z",
+      "tags": [
+        "Transit"
+      ]
+    },
+    {
+      "id": "8a4cc8d29532",
+      "agency": "nasa",
+      "source": "NASA breaking news",
+      "title": "NASA Awards Moon Base Transportation, Technology, Science Projects",
+      "summary": "NASA announced a suite of awards and mission updates on Saturday to expand the agency’s Moon Base exploration, science, and infrastructure capabilities. The investments will advance commercial robotic deliveries, a nuclear-powered rover named PROMISE, launch and orbital transfer services, and surface infrastructure as…",
+      "url": "https://www.nasa.gov/news-release/nasa-awards-moon-base-transportation-technology-science-projects/",
+      "publishedAt": "2026-11-07T22:47:03.000Z",
+      "tags": [
+        "Moon Base"
       ]
     },
     {
@@ -594,18 +606,6 @@
       "url": "https://arxiv.org/abs/2611.07910v1",
       "publishedAt": "2026-11-05T12:25:55.000Z",
       "tags": []
-    },
-    {
-      "id": "03704c694ed3",
-      "agency": "nasa",
-      "source": "NASA breaking news",
-      "title": "APOD: 2026 November 5 – Enceladus in Silhouette",
-      "summary": "APOD Science APOD APOD: 2026 November 5 –… Today’s APOD Archive Submissions Index Search Calendar RSS Education About Discuss APOD Astronomy Picture of the Day Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a professional…",
-      "url": "https://science.nasa.gov/image-article/apod-2026-november-5-enceladus-in-silhouette/",
-      "publishedAt": "2026-11-05T05:05:00.000Z",
-      "tags": [
-        "APOD"
-      ]
     },
     {
       "id": "eb8c655990e3",
