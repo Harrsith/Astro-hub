@@ -1,8 +1,12 @@
 {
-  "generatedAt": "2026-11-10T14:28:37.501Z",
+  "generatedAt": "2026-11-10T22:56:27.200Z",
   "sourceCount": 5,
-  "itemCount": 55,
+  "itemCount": 45,
   "errors": [
+    {
+      "source": "NASA breaking news",
+      "message": "Status code 429"
+    },
     {
       "source": "NASA Exoplanet Archive",
       "message": "HTTP 503"
@@ -19,91 +23,6 @@
   },
   "items": [
     {
-      "id": "da1bc8f6f8f3",
-      "agency": "nasa",
-      "source": "NASA breaking news",
-      "title": "APOD: 2026 November 10 – Saturn Behind the Moon",
-      "summary": "APOD Science APOD APOD: 2026 November 10 –… Today’s APOD Archive Submissions Index Search Calendar RSS Education About Discuss APOD Astronomy Picture of the Day Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a professional…",
-      "url": "https://science.nasa.gov/image-article/apod-2026-november-10-saturn-behind-the-moon/",
-      "publishedAt": "2026-11-10T05:05:00.000Z",
-      "tags": [
-        "APOD"
-      ]
-    },
-    {
-      "id": "270106a6716f",
-      "agency": "nasa",
-      "source": "NASA breaking news",
-      "title": "Autumn Mornings Bring Valley Fog",
-      "summary": "Low clouds trace the branching valleys of the Appalachian Plateau and the Cumberland River, then burn off by afternoon.",
-      "url": "https://science.nasa.gov/earth/earth-observatory/autumn-mornings-bring-valley-fog/",
-      "publishedAt": "2026-11-10T05:00:00.000Z",
-      "tags": [
-        "Clouds",
-        "Earth Observatory",
-        "NOAA-21 (JPSS-2)",
-        "Terra"
-      ]
-    },
-    {
-      "id": "69d28f4480ab",
-      "agency": "nasa",
-      "source": "NASA breaking news",
-      "title": "Curiosity Blog, Sols 5056-5062: Charging Back Up!",
-      "summary": "By Remington Free, Operations Systems Engineer, NASA-JPL Earth planning date: Friday, Oct. 30, 2026 Today’s plan covered 3 sols, 5060, 5061, and 5062, as we take a few recharging sols before getting back to our normal drilling activities. As you may know if you have been following the blog closely, we are in the middle…",
-      "url": "https://science.nasa.gov/blog/curiosity-blog-sols-5056-5062-charging-back-up/",
-      "publishedAt": "2026-11-10T01:07:45.000Z",
-      "tags": []
-    },
-    {
-      "id": "7e73d2ea927c",
-      "agency": "nasa",
-      "source": "NASA breaking news",
-      "title": "Curiosity Blog, Sols 5050-5055: It’s Nazca, Our 49th Drill Hole",
-      "summary": "Written by Susanne P. Schwenzer, Professor of Planetary Mineralogy at The Open University, UK Earth planning date: Friday, Oct. 23, 2026 As regular readers of this blog will know, we returned to the area where we found disc shaped inclusions in the rocks, which we interpreted as potential crystals. If they are indeed c…",
-      "url": "https://science.nasa.gov/blog/curiosity-blog-sols-5050-5055-its-nazca-our-49th-drill-hole/",
-      "publishedAt": "2026-11-10T01:05:48.000Z",
-      "tags": [
-        "Blogs"
-      ]
-    },
-    {
-      "id": "2efbd66871b2",
-      "agency": "nasa",
-      "source": "NASA breaking news",
-      "title": "Rubies on Mars?",
-      "summary": "Written by Roger C. Wiens, SuperCam Principal Investigator for NASA’s Perseverance rover at Purdue University Nov. 4, 2026 Exploration on Mars turns up the unexpected. Perseverance is equipped with a fantastic set of instruments for studying the rock record of this ancient planet. Both PIXL and SuperCam have great capa…",
-      "url": "https://science.nasa.gov/blog/rubies-on-mars/",
-      "publishedAt": "2026-11-09T22:27:12.000Z",
-      "tags": [
-        "Blogs"
-      ]
-    },
-    {
-      "id": "28ce724ae892",
-      "agency": "nasa",
-      "source": "NASA breaking news",
-      "title": "Newest Sample, Oldest Rock?",
-      "summary": "Written by Tasha Coelho, Mastcam-Z Student Collaborator at Arizona State University Nov. 1, 2026 Perseverance’s most recent abrasion “Pumbe” bears a striking resemblance to an earlier abrasion, “Badger Peak.” That’s no coincidence. As previously reported, that rock had a hardness too high to core. However, the team fel…",
-      "url": "https://science.nasa.gov/blog/newest-sample-oldest-rock/",
-      "publishedAt": "2026-11-09T22:25:52.000Z",
-      "tags": [
-        "Blogs"
-      ]
-    },
-    {
-      "id": "422fb850b078",
-      "agency": "nasa",
-      "source": "NASA breaking news",
-      "title": "La NASA busca a la próxima generación de astronautas",
-      "summary": "Read this release in English here.La NASA busca a los exploradores que ayudarán a escribir el próximo capítulo de los vuelos espaciales tripulados. Ya está abierto el plazo de inscripción para la próxima promoción de astronautas de la agencia, que se incorporarán a la NASA en un momento en el que Estados Unidos regresa…",
-      "url": "https://www.nasa.gov/news-release/la-nasa-busca-a-la-proxima-generacion-de-astronautas/",
-      "publishedAt": "2026-11-09T19:27:20.000Z",
-      "tags": [
-        "NASA en español"
-      ]
-    },
-    {
       "id": "4e2fc2321853",
       "agency": "arxiv",
       "source": "arXiv astro-ph (new submissions)",
@@ -112,26 +31,6 @@
       "url": "https://arxiv.org/abs/2611.12881v1",
       "publishedAt": "2026-11-09T18:59:28.000Z",
       "tags": []
-    },
-    {
-      "id": "d544226bf8e6",
-      "agency": "nasa",
-      "source": "NASA breaking news",
-      "title": "NASA’s Chandra Finds Source of Star’s Mysterious Outbursts",
-      "summary": "Using NASA’s Chandra X-ray Observatory, astronomers have discovered what is triggering repeated outbursts from a giant, unstable star. A new study, published Monday in the latest issue of The Astrophysical Journal, details the discovery of a previously hidden companion object that keeps pulling material away from the m…",
-      "url": "https://science.nasa.gov/missions/chandra/nasas-chandra-finds-source-of-stars-mysterious-outbursts/",
-      "publishedAt": "2026-11-09T18:55:50.000Z",
-      "tags": [
-        "Astrophysics",
-        "Black Holes",
-        "Chandra X-Ray Observatory",
-        "Galaxies",
-        "Galaxies, Stars, & Black Holes",
-        "Neutron Stars",
-        "Science & Research",
-        "Stars",
-        "The Universe"
-      ]
     },
     {
       "id": "61186f766512",
@@ -264,24 +163,6 @@
       "tags": []
     },
     {
-      "id": "1ade761a8a3e",
-      "agency": "nasa",
-      "source": "NASA breaking news",
-      "title": "NASA Advanced Mid-Power Electric Rocket Challenge",
-      "summary": "Mid-power (3-7 kW) Hall effect thruster systems have been identified by government and industry stakeholders as critical capabilities for satellite, defense, and exploration missions. Given the need for this capability, NASA is launching the Advanced Mid-Power Electric Rocket (AMPERE) Challenge. The NASA AMPERE Challen…",
-      "url": "https://www.nasa.gov/directorates/stmd/prizes-challenges-crowdsourcing-program/center-of-excellence-for-collaborative-innovation-coeci/nasa-advanced-mid-power-electric-rocket-challenge/",
-      "publishedAt": "2026-11-09T17:42:42.000Z",
-      "tags": [
-        "Center of Excellence for Collaborative Innovation (CoECI)",
-        "CoECI News",
-        "General",
-        "Get Involved",
-        "Opportunities to Contribute to NASA Missions & Get Involved",
-        "Prizes, Challenges, & Crowdsourcing News",
-        "Prizes, Challenges, and Crowdsourcing Program"
-      ]
-    },
-    {
       "id": "cb08369ec8d7",
       "agency": "arxiv",
       "source": "arXiv astro-ph (new submissions)",
@@ -290,18 +171,6 @@
       "url": "https://arxiv.org/abs/2611.12765v1",
       "publishedAt": "2026-11-09T17:39:02.000Z",
       "tags": []
-    },
-    {
-      "id": "f78cfd6f3421",
-      "agency": "nasa",
-      "source": "NASA breaking news",
-      "title": "La NASA destina un millón de dólares al reto estudiantil Base Lunar",
-      "summary": "Read this release in English here.El domingo 8 de noviembre de 2026, la NASA anunció la convocatoria del reto estudiantil Base Lunar, dotado con un millón de dólares, durante un acto de MAX POWER celebrado en el Complejo de Visitantes del Centro Espacial Kennedy, en Florida. En el marco de una edad de oro de […]",
-      "url": "https://www.nasa.gov/news-release/la-nasa-destina-un-millon-de-dolares-al-reto-estudiantil-base-lunar/",
-      "publishedAt": "2026-11-09T17:36:33.000Z",
-      "tags": [
-        "NASA en español"
-      ]
     },
     {
       "id": "f7891a7947db",
