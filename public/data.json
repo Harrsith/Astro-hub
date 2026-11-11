@@ -1,20 +1,20 @@
 {
-  "generatedAt": "2026-11-10T22:56:27.200Z",
+  "generatedAt": "2026-11-11T05:05:17.677Z",
   "sourceCount": 5,
-  "itemCount": 45,
+  "itemCount": 35,
   "errors": [
     {
       "source": "NASA breaking news",
       "message": "Status code 429"
     },
     {
-      "source": "NASA Exoplanet Archive",
-      "message": "HTTP 503"
+      "source": "arXiv astro-ph (new submissions)",
+      "message": "Request timed out after 15000ms"
     }
   ],
   "apod": {
-    "date": "2026-11-09",
-    "explanation": "Does the blue nebula look like the head of a witch? The nebula is known popularly as the Witch Head Nebula because, it is said, the nebula's shape resembles a Halloween-style caricature of a witch's head. Exactly how, though, can be a topic of imaginative speculation. What is clear is that IC 2118 is about 50 light-years across and made of gas and dust that points to -- because it has been partly eroded by -- the nearby star Rigel. One of the brighter stars in the constellation Orion, Rigel lies just below the center of the featured image. The blue color of the Witch Head Nebula and is caused not only by Rigel's intense blue starlight but also because the dust grains scatter blue light more efficiently than red. The same physical process causes Earth's daytime sky to appear blue, although the scatterers in planet Earth's atmosphere are molecules of nitrogen and oxygen.Tomorrow's picture: suddenly Saturn\t\t\t\t\t\t",
+    "date": "2026-11-11",
+    "explanation": "Sometimes Saturn disappears. It doesn't really go away, of course -- it just disappears from our view when Earth's Moon moves in front. Such a Saturnian eclipse, more formally called an occultation, was visible in early 2025 along a small swath of Earth -- from Greenland through central Europe and into northern Africa. The featured image is a digital fusion of three images, the first of just Saturn before it disappeared, and then two more of the Moon with different exposure lengths. The images were taken from Sardinia, Italy, after sunset. The bright dot near Saturn is not a moon of Saturn, but rather the star 85 Aquarii, which is further behind Saturn than Saturn is behind the Moon. The next time the Moon moves in front of Saturn, as visible from some place on Earth, will be in 2031. Tomorrow's picture: small but mighty\t\t\t\t\t\t",
     "hdurl": "https://science.nasa.gov/wp-content/themes/nasa-child/assets/images/nasa-logo@2x.png",
     "media_type": "image",
     "service_version": "v1",
@@ -23,254 +23,214 @@
   },
   "items": [
     {
-      "id": "4e2fc2321853",
-      "agency": "arxiv",
-      "source": "arXiv astro-ph (new submissions)",
-      "title": "The Brown Dwarf Desert is a Mass-Ratio Desert: Astrometric Demographics of 63,254 Stars",
-      "summary": "Brown dwarfs are rare as close companions to stars compared to planets and stellar companions, a paucity known as the brown dwarf desert. Whether the desert sits at a fixed companion mass or a fixed companion-to-star mass-ratio $q$ has been difficult to test, because microlensing, radial velocities, and direct imaging…",
-      "url": "https://arxiv.org/abs/2611.12881v1",
-      "publishedAt": "2026-11-09T18:59:28.000Z",
-      "tags": []
+      "id": "9f5e5143a9c2",
+      "agency": "exo",
+      "ra": 354.741581,
+      "dec": 75.6852317,
+      "source": "NASA Exoplanet Archive",
+      "title": "TOI-1758 b — catalog entry updated",
+      "summary": "Orbits TOI-1758: discovered via Transit, 2024, 3.62x Earth radius, 6.90x Earth mass, 20.7-day orbit.",
+      "url": "https://exoplanetarchive.ipac.caltech.edu/overview/TOI-1758",
+      "publishedAt": "2026-11-11T05:05:03.493Z",
+      "tags": [
+        "Transit"
+      ]
     },
     {
-      "id": "61186f766512",
-      "agency": "arxiv",
-      "source": "arXiv astro-ph (new submissions)",
-      "title": "Little Red Dots from Primordial Black Holes: Non-Gaussianity and Accretion Evade $μ$-Distortion Constraints",
-      "summary": "Recent JWST observations of \"Little Red Dots\" (LRDs) at $z \\gtrsim 4$ suggest the existence of early supermassive black holes (SMBHs) with masses $\\gtrsim 10^6\\,M_\\odot$. Their rapid emergence challenges conventional seeding and growth scenarios based on accretion and mergers of Population III stellar remnants, motivat…",
-      "url": "https://arxiv.org/abs/2611.12861v1",
-      "publishedAt": "2026-11-09T18:50:22.000Z",
-      "tags": []
+      "id": "5af1dfd1728f",
+      "agency": "exo",
+      "ra": 291.0571451,
+      "dec": 44.632306,
+      "source": "NASA Exoplanet Archive",
+      "title": "Kepler-607 c — catalog entry updated",
+      "summary": "Orbits Kepler-607: discovered via Transit, 2021, 2.76x Earth radius, 8.05x Earth mass, 39.7-day orbit.",
+      "url": "https://exoplanetarchive.ipac.caltech.edu/overview/Kepler-607",
+      "publishedAt": "2026-11-11T05:05:03.493Z",
+      "tags": [
+        "Transit"
+      ]
     },
     {
-      "id": "6062e51ccb0f",
-      "agency": "arxiv",
-      "source": "arXiv astro-ph (new submissions)",
-      "title": "Search for a Dispersion Measure Excess Toward Nearby Galaxy Halos Using Fast Radio Bursts from the Second CHIME/FRB Baseband Catalog",
-      "summary": "Fast radio bursts (FRBs) probe foreground ionized baryons via their dispersion measures (DM). Using 1748 sub-arcminute-localized sources from the Second CHIME/FRB Baseband Catalog, we conduct a statistical stacking study of the circumgalactic media (CGM) of nearby galaxies by analyzing the DMs of FRBs whose sightlines…",
-      "url": "https://arxiv.org/abs/2611.12860v1",
-      "publishedAt": "2026-11-09T18:49:50.000Z",
-      "tags": []
+      "id": "9d3f6cba4191",
+      "agency": "exo",
+      "ra": 295.5772681,
+      "dec": 46.2547028,
+      "source": "NASA Exoplanet Archive",
+      "title": "Kepler-860 b — catalog entry updated",
+      "summary": "Orbits Kepler-860: discovered via Transit, 2016, 3.24x Earth radius, 10.60x Earth mass, 5.1-day orbit.",
+      "url": "https://exoplanetarchive.ipac.caltech.edu/overview/Kepler-860",
+      "publishedAt": "2026-11-11T05:05:03.493Z",
+      "tags": [
+        "Transit"
+      ]
     },
     {
-      "id": "c4458bace64f",
-      "agency": "arxiv",
-      "source": "arXiv astro-ph (new submissions)",
-      "title": "The Tierras Observatory: Ultra-Precise Photometry for Characterizing Exoplanets and Their Host Stars",
-      "summary": "The Tierras Observatory is a fully robotic 1.3-m telescope at the Fred Lawrence Whipple Observatory in southern Arizona. Tierras achieves sub-part-per-thousand (ppt) photometric precision on two timescales: intra-night, to detect and characterize transits of planets around nearby mid-to-late M dwarfs, and night-to-nigh…",
-      "url": "https://arxiv.org/abs/2611.12849v1",
-      "publishedAt": "2026-11-09T18:41:56.000Z",
-      "tags": []
+      "id": "43b6e2ee2e57",
+      "agency": "exo",
+      "ra": 130.4102091,
+      "dec": 17.6399744,
+      "source": "NASA Exoplanet Archive",
+      "title": "EPIC 211822797 b — catalog entry updated",
+      "summary": "Orbits EPIC 211822797: discovered via Transit, 2016, 1.92x Earth radius, 4.35x Earth mass, 21.2-day orbit.",
+      "url": "https://exoplanetarchive.ipac.caltech.edu/overview/EPIC_211822797",
+      "publishedAt": "2026-11-11T05:05:03.493Z",
+      "tags": [
+        "Transit"
+      ]
     },
     {
-      "id": "5dce375162ca",
-      "agency": "arxiv",
-      "source": "arXiv astro-ph (new submissions)",
-      "title": "Forward modeling linear variable filter data: High resolution PAH and Paschen-$α$ maps from SPHEREx",
-      "summary": "Polycyclic aromatic hydrocarbon (PAH) emission is a powerful tool for the study of the interstellar medium (ISM) in both Galactic and extragalactic contexts. It can reveal ionization state, radiation field, metallicity, composition, and ISM structure as sculpted by processes like turbulence and stellar feedback. Here w…",
-      "url": "https://arxiv.org/abs/2611.12846v1",
-      "publishedAt": "2026-11-09T18:40:04.000Z",
-      "tags": []
+      "id": "19d3cfe2327f",
+      "agency": "exo",
+      "ra": 283.1137663,
+      "dec": 48.1312774,
+      "source": "NASA Exoplanet Archive",
+      "title": "Kepler-1040 b — catalog entry updated",
+      "summary": "Orbits Kepler-1040: discovered via Transit, 2016, 2.08x Earth radius, 4.98x Earth mass, 201.1-day orbit.",
+      "url": "https://exoplanetarchive.ipac.caltech.edu/overview/Kepler-1040",
+      "publishedAt": "2026-11-11T05:05:03.493Z",
+      "tags": [
+        "Transit"
+      ]
     },
     {
-      "id": "0f05153c5ab6",
-      "agency": "arxiv",
-      "source": "arXiv astro-ph (new submissions)",
-      "title": "AGN Feedback Turbulence in Cool-core Clusters: Evidence from XRISM",
-      "summary": "The XRISM X-ray Observatory has revealed evidence for a \"double-cascade\" scenario in the Perseus cluster, in which active galactic nucleus (AGN) feedback and mergers drive turbulence over distinct radial ranges and spatial scales. Whether this gas kinematic feature is common among cool-core clusters remains unclear. He…",
-      "url": "https://arxiv.org/abs/2611.12845v1",
-      "publishedAt": "2026-11-09T18:39:54.000Z",
-      "tags": []
+      "id": "25ee1937b4e7",
+      "agency": "exo",
+      "ra": 282.1113206,
+      "dec": 42.3545514,
+      "source": "NASA Exoplanet Archive",
+      "title": "Kepler-583 b — catalog entry updated",
+      "summary": "Orbits Kepler-583: discovered via Transit, 2016, 2.28x Earth radius, 5.82x Earth mass, 6.5-day orbit.",
+      "url": "https://exoplanetarchive.ipac.caltech.edu/overview/Kepler-583",
+      "publishedAt": "2026-11-11T05:05:03.493Z",
+      "tags": [
+        "Transit"
+      ]
     },
     {
-      "id": "a44bd569fc5e",
-      "agency": "arxiv",
-      "source": "arXiv astro-ph (new submissions)",
-      "title": "Joint Gaia-Hipparcos astrometry, RV, and Imaging posteriors from the G23H Hipparcos sample",
-      "summary": "We present uniform posteriors indicating the presence or absence of stellar and planetary companions over a sample of $10^5$ stars in Hipparcos and Gaia. We use the \"G23H\" catalog to fit a model that incorporates absolute astrometry constraints from Hipparcos, Gaia DR2, and Gaia DR3, as well as Gaia DR3 photometry, exc…",
-      "url": "https://arxiv.org/abs/2611.12841v1",
-      "publishedAt": "2026-11-09T18:38:15.000Z",
-      "tags": []
+      "id": "5a058a5c2549",
+      "agency": "exo",
+      "ra": 291.960662,
+      "dec": 42.4329567,
+      "source": "NASA Exoplanet Archive",
+      "title": "Kepler-343 b — catalog entry updated",
+      "summary": "Orbits Kepler-343: discovered via Transit, 2014, 2.41x Earth radius, 6.39x Earth mass, 9.0-day orbit.",
+      "url": "https://exoplanetarchive.ipac.caltech.edu/overview/Kepler-343",
+      "publishedAt": "2026-11-11T05:05:03.493Z",
+      "tags": [
+        "Transit"
+      ]
     },
     {
-      "id": "ef3e4bac3570",
-      "agency": "arxiv",
-      "source": "arXiv astro-ph (new submissions)",
-      "title": "Numerical-Relativity Particle-in-Cell Simulations: Self-Gravitating Collisionless Matter in Dynamical Spacetimes",
-      "summary": "Gravitational collapse and instability, black-hole dynamics in systems with large scale separations, and questions surrounding extremal black hole formation require full nonlinear studies using accurate and adapted numerical tools. To this end, we present a new algorithm to study collisionless relativistic systems usin…",
-      "url": "https://arxiv.org/abs/2611.12831v1",
-      "publishedAt": "2026-11-09T18:30:08.000Z",
-      "tags": []
+      "id": "a53ac74e6880",
+      "agency": "exo",
+      "ra": 297.3159994,
+      "dec": 46.0232642,
+      "source": "NASA Exoplanet Archive",
+      "title": "Kepler-257 d — catalog entry updated",
+      "summary": "Orbits Kepler-257: discovered via Transit, 2014, 4.95x Earth radius, 21.70x Earth mass, 24.7-day orbit.",
+      "url": "https://exoplanetarchive.ipac.caltech.edu/overview/Kepler-257",
+      "publishedAt": "2026-11-11T05:05:03.493Z",
+      "tags": [
+        "Transit"
+      ]
     },
     {
-      "id": "2844542ee13c",
-      "agency": "arxiv",
-      "source": "arXiv astro-ph (new submissions)",
-      "title": "Simulation of a Jovian Planet Undergoing Gas Accretion",
-      "summary": "To understand the process of planet formation in the Solar System or any other stellar system, we need to comprehend the interaction between forming planets and the protoplanetary disk. This work presents a study of the interaction of the protoplanetary disk with the protoplanet and the following types of orbital migra…",
-      "url": "https://arxiv.org/abs/2611.12819v1",
-      "publishedAt": "2026-11-09T18:21:38.000Z",
-      "tags": []
+      "id": "72917210c9de",
+      "agency": "exo",
+      "ra": 299.1275257,
+      "dec": 47.5938319,
+      "source": "NASA Exoplanet Archive",
+      "title": "Kepler-272 d — catalog entry updated",
+      "summary": "Orbits Kepler-272: discovered via Transit, 2014, 2.25x Earth radius, 5.69x Earth mass, 10.9-day orbit.",
+      "url": "https://exoplanetarchive.ipac.caltech.edu/overview/Kepler-272",
+      "publishedAt": "2026-11-11T05:05:03.493Z",
+      "tags": [
+        "Transit"
+      ]
     },
     {
-      "id": "8a6b43f9cbf3",
-      "agency": "arxiv",
-      "source": "arXiv astro-ph (new submissions)",
-      "title": "NS 1987A: A Potential Probe of Crustal Superfluidity with Future X-ray Observations",
-      "summary": "Several indirect observations imply that the central compact object in the supernova SN 1987A is likely to be the youngest neutron star identified to date, NS 1987A. We investigate how a future detection of its thermal X-ray emission could constrain neutron-star interiors, using cooling models and a generic high-resolu…",
-      "url": "https://arxiv.org/abs/2611.12811v1",
-      "publishedAt": "2026-11-09T18:16:33.000Z",
-      "tags": []
+      "id": "8a5fe98d28b0",
+      "agency": "exo",
+      "ra": 285.7515347,
+      "dec": 41.3356739,
+      "source": "NASA Exoplanet Archive",
+      "title": "Kepler-354 c — catalog entry updated",
+      "summary": "Orbits Kepler-354: discovered via Transit, 2014, 1.31x Earth radius, 2.27x Earth mass, 16.9-day orbit.",
+      "url": "https://exoplanetarchive.ipac.caltech.edu/overview/Kepler-354",
+      "publishedAt": "2026-11-11T05:05:03.493Z",
+      "tags": [
+        "Transit"
+      ]
     },
     {
-      "id": "6d3615f5ff24",
-      "agency": "arxiv",
-      "source": "arXiv astro-ph (new submissions)",
-      "title": "First demonstration of long-distance electron drift in liquid xenon with the Xenoscope time projection chamber",
-      "summary": "Xenoscope is a dual-phase xenon time projection chamber operated at the University of Zurich to investigate electron transport over distances relevant to the next-generation XLZD (XENON-LUX-ZEPLIN-DARWIN) observatory. We demonstrate electron drift over $2.6$ m in liquid xenon using cosmic-muon-induced ionization signal…",
-      "url": "https://arxiv.org/abs/2611.12808v1",
-      "publishedAt": "2026-11-09T18:14:39.000Z",
-      "tags": []
+      "id": "bab3a9113aaa",
+      "agency": "exo",
+      "ra": 294.1378921,
+      "dec": 42.3704075,
+      "source": "NASA Exoplanet Archive",
+      "title": "Kepler-374 b — catalog entry updated",
+      "summary": "Orbits Kepler-374: discovered via Transit, 2014, 1.03x Earth radius, 1.08x Earth mass, 1.9-day orbit.",
+      "url": "https://exoplanetarchive.ipac.caltech.edu/overview/Kepler-374",
+      "publishedAt": "2026-11-11T05:05:03.493Z",
+      "tags": [
+        "Transit"
+      ]
     },
     {
-      "id": "000d572325d5",
-      "agency": "arxiv",
-      "source": "arXiv astro-ph (new submissions)",
-      "title": "Coupled dark energy and apparent phantom crossing: a potential-independent lower bound",
-      "summary": "Baryon acoustic oscillation measurements from the Dark Energy Spectroscopic Instrument (DESI), combined with the cosmic microwave background (CMB) and type Ia supernovae, prefer a dark energy whose equation of state was below $-1$ in the past and is above $-1$ today. A canonical scalar field cannot cross this line, but…",
-      "url": "https://arxiv.org/abs/2611.12792v1",
-      "publishedAt": "2026-11-09T17:59:27.000Z",
-      "tags": []
+      "id": "87220bac032c",
+      "agency": "exo",
+      "ra": 288.2341025,
+      "dec": 40.520897,
+      "source": "NASA Exoplanet Archive",
+      "title": "Kepler-150 c — catalog entry updated",
+      "summary": "Orbits Kepler-150: discovered via Transit, 2014, 3.69x Earth radius, 13.20x Earth mass, 7.4-day orbit.",
+      "url": "https://exoplanetarchive.ipac.caltech.edu/overview/Kepler-150",
+      "publishedAt": "2026-11-11T05:05:03.493Z",
+      "tags": [
+        "Transit"
+      ]
     },
     {
-      "id": "042800b066d2",
-      "agency": "arxiv",
-      "source": "arXiv astro-ph (new submissions)",
-      "title": "MarsNet: Learning the Martian Atmosphere from Observations Alone",
-      "summary": "We present MarsNet, a machine-learned model of the Martian atmosphere trained only on observations. Existing reanalyses assimilate spacecraft retrievals into general circulation models (GCMs), so where observations are sparse their fields largely reflect the model. We therefore use extant reanalyses only for evaluation…",
-      "url": "https://arxiv.org/abs/2611.12787v1",
-      "publishedAt": "2026-11-09T17:57:01.000Z",
-      "tags": []
+      "id": "27218b818f27",
+      "agency": "exo",
+      "ra": 281.3487514,
+      "dec": 44.2952525,
+      "source": "NASA Exoplanet Archive",
+      "title": "Kepler-322 b — catalog entry updated",
+      "summary": "Orbits Kepler-322: discovered via Transit, 2014, 1.01x Earth radius, 1.01x Earth mass, 1.7-day orbit.",
+      "url": "https://exoplanetarchive.ipac.caltech.edu/overview/Kepler-322",
+      "publishedAt": "2026-11-11T05:05:03.493Z",
+      "tags": [
+        "Transit"
+      ]
     },
     {
-      "id": "e0d105c884b1",
-      "agency": "arxiv",
-      "source": "arXiv astro-ph (new submissions)",
-      "title": "Gravitational waves and the exit from de Sitter in Inflation without an Inflaton",
-      "summary": "In Inflation without an Inflaton (IWI), second-order de Sitter (dS) gravitons generate primordial curvature as the Coulomb-type potential of their gradient stress. Each pair contributes $(p/k)^2$, yielding exponential enhancement over the contributing e-folds. With exact Bunch-Davies evolution, this solution satisfies…",
-      "url": "https://arxiv.org/abs/2611.12772v1",
-      "publishedAt": "2026-11-09T17:46:07.000Z",
-      "tags": []
+      "id": "764c88530310",
+      "agency": "exo",
+      "ra": 293.6369437,
+      "dec": 42.8248275,
+      "source": "NASA Exoplanet Archive",
+      "title": "Kepler-81 b — catalog entry updated",
+      "summary": "Orbits Kepler-81: discovered via Transit, 2012, 2.42x Earth radius, 17.20x Earth mass, 6.0-day orbit.",
+      "url": "https://exoplanetarchive.ipac.caltech.edu/overview/Kepler-81",
+      "publishedAt": "2026-11-11T05:05:03.493Z",
+      "tags": [
+        "Transit"
+      ]
     },
     {
-      "id": "cb08369ec8d7",
-      "agency": "arxiv",
-      "source": "arXiv astro-ph (new submissions)",
-      "title": "Quality time in extra dimensions: axion quality and radion cosmology",
-      "summary": "Higher-form symmetries can protect extra-dimensional axions, but additional symmetry breaking can still spoil the solution to the strong CP problem. We focus on electrically charged matter and magnetic gauging in a five-dimensional circle compactification where the axion arises from an Abelian gauge field and the radiu…",
-      "url": "https://arxiv.org/abs/2611.12765v1",
-      "publishedAt": "2026-11-09T17:39:02.000Z",
-      "tags": []
-    },
-    {
-      "id": "f7891a7947db",
-      "agency": "arxiv",
-      "source": "arXiv astro-ph (new submissions)",
-      "title": "The Cool Circumgalactic Echo of the Stellar-to-Halo Mass Relatio",
-      "summary": "The stellar-to-halo mass relation (SHMR), a key prediction of galaxy formation models, peaks at $M_* \\sim 3 \\times 10^{10}\\,M_\\odot$. This scale is often attributed to circumgalactic baryonic feedback processes, however, direct observational evidence linking the two remains scarce. Using Dark Energy Spectroscopic Instr…",
-      "url": "https://arxiv.org/abs/2611.12734v1",
-      "publishedAt": "2026-11-09T17:19:54.000Z",
-      "tags": []
-    },
-    {
-      "id": "e82a7927d49a",
-      "agency": "arxiv",
-      "source": "arXiv astro-ph (new submissions)",
-      "title": "Ångström Exponent Calculation Using Wide-Field Stellar Photometry",
-      "summary": "The FRAM (F/Photometric Robotic Atmospheric Monitor) telescopes can measure the aerosol extinction at optical wavelengths using wide-field stellar photometry at the Cherenkov Telescope Array Observatory (CTAO) sites. The Angstrom exponent describes the wavelength dependence of aerosol extinction. In this work we extend…",
-      "url": "https://arxiv.org/abs/2611.12704v1",
-      "publishedAt": "2026-11-09T16:58:36.000Z",
-      "tags": []
-    },
-    {
-      "id": "ba5d05ff45cd",
-      "agency": "arxiv",
-      "source": "arXiv astro-ph (new submissions)",
-      "title": "GRB 241030A: A fallback-accreting magnetar description of the early X-ray emission",
-      "summary": "The bright, variable early X-ray emission of GRB~241030A at $z=1.411$ motivates investigating continued central-engine activity before the smoother afterglow emerges. We model a possible underlying magnetar contribution to the unabsorbed 0.3--10~keV XRT flux over 80--430~s, evolving the spin under fallback-disk and ele…",
-      "url": "https://arxiv.org/abs/2611.12660v1",
-      "publishedAt": "2026-11-09T16:28:39.000Z",
-      "tags": []
-    },
-    {
-      "id": "3b754f3cb0f8",
-      "agency": "arxiv",
-      "source": "arXiv astro-ph (new submissions)",
-      "title": "Testing Models of Disk Formation and Gravito-Viscous Evolution Against Observations of Young Protoplanetary Disks",
-      "summary": "Young protoplanetary disks have received increasing attention in recent years, due to observations revealing the presence of substructures in disks younger than one million years, suggesting that planet formation may begin earlier than previously thought. Other recent observations have provided new insights into the ev…",
-      "url": "https://arxiv.org/abs/2611.12655v1",
-      "publishedAt": "2026-11-09T16:24:07.000Z",
-      "tags": []
-    },
-    {
-      "id": "671e6d0610df",
-      "agency": "arxiv",
-      "source": "arXiv astro-ph (new submissions)",
-      "title": "The Swift/UVOT Observation Campaign of Comet C/2013 US10 (Catalina) and Near-nucleus UV Excess",
-      "summary": "We present results of a multi-wavelength extended monitoring campaign of dynamically new long-period comet C/2013 US$_{10}$ (Catalina), captured with the Ultraviolet and Optical Telescope (UVOT) on board the Swift spacecraft covering 5.8 AU inbound to 5 AU outbound. The pipeline and methodology developed for these resu…",
-      "url": "https://arxiv.org/abs/2611.12637v1",
-      "publishedAt": "2026-11-09T16:14:45.000Z",
-      "tags": []
-    },
-    {
-      "id": "c9b9587837a4",
-      "agency": "arxiv",
-      "source": "arXiv astro-ph (new submissions)",
-      "title": "Three-dimensional radiative transfer modeling of the scattering polarization in the solar H$α$ line",
-      "summary": "The H$α$ line probes the solar chromosphere, but its scattering polarization is difficult to interpret because of magnetic fields, plasma motions, and atmospheric 3D inhomogeneities. We investigate its intensity and linear polarization in a 3D magnetohydrodynamic solar-atmosphere model including nonequilibrium hydrogen…",
-      "url": "https://arxiv.org/abs/2611.12623v1",
-      "publishedAt": "2026-11-09T16:04:51.000Z",
-      "tags": []
-    },
-    {
-      "id": "474199cfb6d3",
-      "agency": "arxiv",
-      "source": "arXiv astro-ph (new submissions)",
-      "title": "The Edge of the Warm Corona in Active Galactic Nuclei",
-      "summary": "A model of warm, dissipative corona on top of an accretion disk is investigated, to explain the soft X-ray excess (SXE) emission observed in active galactic nuclei (AGN). The final ray-traced spectrum, computed through photoionization code with Comptonization, accounts for both: emitted and reflected components. As a r…",
-      "url": "https://arxiv.org/abs/2611.12595v1",
-      "publishedAt": "2026-11-09T15:44:16.000Z",
-      "tags": []
-    },
-    {
-      "id": "d77604a26fcd",
-      "agency": "arxiv",
-      "source": "arXiv astro-ph (new submissions)",
-      "title": "Investigating the timescales traced by dynamical ages in young stellar systems",
-      "summary": "Stars form in clustered environments, and then the stars may congregate into star clusters. The timescale on which individual stars form is not necessarily the same as the timescale on which star clusters assemble. Therefore, developing methods to probe these different timescales is a crucial part of understanding star…",
-      "url": "https://arxiv.org/abs/2611.12594v1",
-      "publishedAt": "2026-11-09T15:43:34.000Z",
-      "tags": []
-    },
-    {
-      "id": "2b9b8bd09f26",
-      "agency": "arxiv",
-      "source": "arXiv astro-ph (new submissions)",
-      "title": "The compositional link between rocky exoplanets and their host stars is consistent with Earth-like devolatilization",
-      "summary": "Previous work found a higher bulk iron-to-silicon (Fe/Si) ratio in rocky exoplanets relative to their host star, traditionally explained by iron enrichment. An alternative explanation is devolatilization of the planetary abundance ratios with respect to the host star, where volatile elements such as O and S are progres…",
-      "url": "https://arxiv.org/abs/2611.12581v1",
-      "publishedAt": "2026-11-09T15:37:31.000Z",
-      "tags": []
-    },
-    {
-      "id": "c72016e6c46a",
-      "agency": "arxiv",
-      "source": "arXiv astro-ph (new submissions)",
-      "title": "A Many-Shapes framework for Galactic Cosmic Rays",
-      "summary": "Thanks to recent measurements by space and ground-level detectors, the energy spectra of cosmic ray protons and helium nuclei are now known with good precision over a broad energy range extending for more than six orders of magnitude, from a few GeV to approximately 10PeV. These measurements reveal that both spectra do…",
-      "url": "https://arxiv.org/abs/2611.12580v1",
-      "publishedAt": "2026-11-09T15:37:00.000Z",
-      "tags": []
+      "id": "2a67f6aae864",
+      "agency": "exo",
+      "ra": 285.0033888,
+      "dec": -69.9450664,
+      "source": "NASA Exoplanet Archive",
+      "title": "HD 175167 b — catalog entry updated",
+      "summary": "Orbits HD 175167: discovered via Radial Velocity, 2009, 12.30x Earth radius, 4703.86x Earth mass, 1175.0-day orbit.",
+      "url": "https://exoplanetarchive.ipac.caltech.edu/overview/HD_175167",
+      "publishedAt": "2026-11-11T05:05:03.493Z",
+      "tags": [
+        "Radial Velocity"
+      ]
     },
     {
       "id": "eb8c655990e3",
