@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-17T15:37:57.103Z",
+  "generatedAt": "2026-11-18T00:40:59.224Z",
   "sourceCount": 5,
   "itemCount": 70,
   "errors": [],
@@ -14,132 +14,6 @@
   },
   "items": [
     {
-      "id": "c0f8b0bba5a6",
-      "agency": "exo",
-      "ra": 249.6966397,
-      "dec": 64.559181,
-      "source": "NASA Exoplanet Archive",
-      "title": "TOI-1269 c — catalog entry updated",
-      "summary": "Orbits TOI-1269: discovered via Transit, 2026, 2.23x Earth radius, 5.60x Earth mass, 9.2-day orbit.",
-      "url": "https://exoplanetarchive.ipac.caltech.edu/overview/TOI-1269",
-      "publishedAt": "2026-11-17T15:37:57.011Z",
-      "tags": [
-        "Transit"
-      ]
-    },
-    {
-      "id": "9f5e5143a9c2",
-      "agency": "exo",
-      "ra": 354.741581,
-      "dec": 75.6852317,
-      "source": "NASA Exoplanet Archive",
-      "title": "TOI-1758 b — catalog entry updated",
-      "summary": "Orbits TOI-1758: discovered via Transit, 2024, 3.62x Earth radius, 6.90x Earth mass, 20.7-day orbit.",
-      "url": "https://exoplanetarchive.ipac.caltech.edu/overview/TOI-1758",
-      "publishedAt": "2026-11-17T15:37:57.011Z",
-      "tags": [
-        "Transit"
-      ]
-    },
-    {
-      "id": "5af1dfd1728f",
-      "agency": "exo",
-      "ra": 291.0571451,
-      "dec": 44.632306,
-      "source": "NASA Exoplanet Archive",
-      "title": "Kepler-607 c — catalog entry updated",
-      "summary": "Orbits Kepler-607: discovered via Transit, 2021, 2.76x Earth radius, 8.05x Earth mass, 39.7-day orbit.",
-      "url": "https://exoplanetarchive.ipac.caltech.edu/overview/Kepler-607",
-      "publishedAt": "2026-11-17T15:37:57.011Z",
-      "tags": [
-        "Transit"
-      ]
-    },
-    {
-      "id": "25ee1937b4e7",
-      "agency": "exo",
-      "ra": 282.1113206,
-      "dec": 42.3545514,
-      "source": "NASA Exoplanet Archive",
-      "title": "Kepler-583 b — catalog entry updated",
-      "summary": "Orbits Kepler-583: discovered via Transit, 2016, 2.28x Earth radius, 5.82x Earth mass, 6.5-day orbit.",
-      "url": "https://exoplanetarchive.ipac.caltech.edu/overview/Kepler-583",
-      "publishedAt": "2026-11-17T15:37:57.011Z",
-      "tags": [
-        "Transit"
-      ]
-    },
-    {
-      "id": "43b6e2ee2e57",
-      "agency": "exo",
-      "ra": 130.4102091,
-      "dec": 17.6399744,
-      "source": "NASA Exoplanet Archive",
-      "title": "EPIC 211822797 b — catalog entry updated",
-      "summary": "Orbits EPIC 211822797: discovered via Transit, 2016, 1.92x Earth radius, 4.35x Earth mass, 21.2-day orbit.",
-      "url": "https://exoplanetarchive.ipac.caltech.edu/overview/EPIC_211822797",
-      "publishedAt": "2026-11-17T15:37:57.011Z",
-      "tags": [
-        "Transit"
-      ]
-    },
-    {
-      "id": "19d3cfe2327f",
-      "agency": "exo",
-      "ra": 283.1137663,
-      "dec": 48.1312774,
-      "source": "NASA Exoplanet Archive",
-      "title": "Kepler-1040 b — catalog entry updated",
-      "summary": "Orbits Kepler-1040: discovered via Transit, 2016, 2.08x Earth radius, 4.98x Earth mass, 201.1-day orbit.",
-      "url": "https://exoplanetarchive.ipac.caltech.edu/overview/Kepler-1040",
-      "publishedAt": "2026-11-17T15:37:57.011Z",
-      "tags": [
-        "Transit"
-      ]
-    },
-    {
-      "id": "87220bac032c",
-      "agency": "exo",
-      "ra": 288.2341025,
-      "dec": 40.520897,
-      "source": "NASA Exoplanet Archive",
-      "title": "Kepler-150 c — catalog entry updated",
-      "summary": "Orbits Kepler-150: discovered via Transit, 2014, 3.69x Earth radius, 13.20x Earth mass, 7.4-day orbit.",
-      "url": "https://exoplanetarchive.ipac.caltech.edu/overview/Kepler-150",
-      "publishedAt": "2026-11-17T15:37:57.011Z",
-      "tags": [
-        "Transit"
-      ]
-    },
-    {
-      "id": "bab3a9113aaa",
-      "agency": "exo",
-      "ra": 294.1378921,
-      "dec": 42.3704075,
-      "source": "NASA Exoplanet Archive",
-      "title": "Kepler-374 b — catalog entry updated",
-      "summary": "Orbits Kepler-374: discovered via Transit, 2014, 1.03x Earth radius, 1.08x Earth mass, 1.9-day orbit.",
-      "url": "https://exoplanetarchive.ipac.caltech.edu/overview/Kepler-374",
-      "publishedAt": "2026-11-17T15:37:57.011Z",
-      "tags": [
-        "Transit"
-      ]
-    },
-    {
-      "id": "72917210c9de",
-      "agency": "exo",
-      "ra": 299.1275257,
-      "dec": 47.5938319,
-      "source": "NASA Exoplanet Archive",
-      "title": "Kepler-272 d — catalog entry updated",
-      "summary": "Orbits Kepler-272: discovered via Transit, 2014, 2.25x Earth radius, 5.69x Earth mass, 10.9-day orbit.",
-      "url": "https://exoplanetarchive.ipac.caltech.edu/overview/Kepler-272",
-      "publishedAt": "2026-11-17T15:37:57.011Z",
-      "tags": [
-        "Transit"
-      ]
-    },
-    {
       "id": "8a5fe98d28b0",
       "agency": "exo",
       "ra": 285.7515347,
@@ -148,7 +22,7 @@
       "title": "Kepler-354 c — catalog entry updated",
       "summary": "Orbits Kepler-354: discovered via Transit, 2014, 1.31x Earth radius, 2.27x Earth mass, 16.9-day orbit.",
       "url": "https://exoplanetarchive.ipac.caltech.edu/overview/Kepler-354",
-      "publishedAt": "2026-11-17T15:37:57.011Z",
+      "publishedAt": "2026-11-18T00:40:28.355Z",
       "tags": [
         "Transit"
       ]
@@ -162,7 +36,7 @@
       "title": "Kepler-257 d — catalog entry updated",
       "summary": "Orbits Kepler-257: discovered via Transit, 2014, 4.95x Earth radius, 21.70x Earth mass, 24.7-day orbit.",
       "url": "https://exoplanetarchive.ipac.caltech.edu/overview/Kepler-257",
-      "publishedAt": "2026-11-17T15:37:57.011Z",
+      "publishedAt": "2026-11-18T00:40:28.355Z",
       "tags": [
         "Transit"
       ]
@@ -176,7 +50,7 @@
       "title": "Kepler-343 b — catalog entry updated",
       "summary": "Orbits Kepler-343: discovered via Transit, 2014, 2.41x Earth radius, 6.39x Earth mass, 9.0-day orbit.",
       "url": "https://exoplanetarchive.ipac.caltech.edu/overview/Kepler-343",
-      "publishedAt": "2026-11-17T15:37:57.011Z",
+      "publishedAt": "2026-11-18T00:40:28.355Z",
       "tags": [
         "Transit"
       ]
@@ -190,7 +64,7 @@
       "title": "Kepler-322 b — catalog entry updated",
       "summary": "Orbits Kepler-322: discovered via Transit, 2014, 1.01x Earth radius, 1.01x Earth mass, 1.7-day orbit.",
       "url": "https://exoplanetarchive.ipac.caltech.edu/overview/Kepler-322",
-      "publishedAt": "2026-11-17T15:37:57.011Z",
+      "publishedAt": "2026-11-18T00:40:28.355Z",
       "tags": [
         "Transit"
       ]
@@ -204,7 +78,7 @@
       "title": "Kepler-81 b — catalog entry updated",
       "summary": "Orbits Kepler-81: discovered via Transit, 2012, 2.42x Earth radius, 17.20x Earth mass, 6.0-day orbit.",
       "url": "https://exoplanetarchive.ipac.caltech.edu/overview/Kepler-81",
-      "publishedAt": "2026-11-17T15:37:57.011Z",
+      "publishedAt": "2026-11-18T00:40:28.355Z",
       "tags": [
         "Transit"
       ]
@@ -218,68 +92,291 @@
       "title": "HD 175167 b — catalog entry updated",
       "summary": "Orbits HD 175167: discovered via Radial Velocity, 2009, 12.30x Earth radius, 4703.86x Earth mass, 1175.0-day orbit.",
       "url": "https://exoplanetarchive.ipac.caltech.edu/overview/HD_175167",
-      "publishedAt": "2026-11-17T15:37:57.011Z",
+      "publishedAt": "2026-11-18T00:40:28.355Z",
       "tags": [
         "Radial Velocity"
       ]
     },
     {
-      "id": "f8f5db754ec1",
-      "agency": "nasa",
-      "source": "NASA breaking news",
-      "title": "APOD: 2026 November 17 – Milky Way versus Aurora",
-      "summary": "APOD Science APOD APOD: 2026 November 17 –… Today’s APOD Archive Submissions Index Search Calendar RSS Education About Discuss APOD Astronomy Picture of the Day Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a professional…",
-      "url": "https://science.nasa.gov/image-article/apod-2026-november-17-milky-way-versus-aurora/",
-      "publishedAt": "2026-11-17T05:05:00.000Z",
+      "id": "c0f8b0bba5a6",
+      "agency": "exo",
+      "ra": 249.6966397,
+      "dec": 64.559181,
+      "source": "NASA Exoplanet Archive",
+      "title": "TOI-1269 c — catalog entry updated",
+      "summary": "Orbits TOI-1269: discovered via Transit, 2026, 2.23x Earth radius, 5.60x Earth mass, 9.2-day orbit.",
+      "url": "https://exoplanetarchive.ipac.caltech.edu/overview/TOI-1269",
+      "publishedAt": "2026-11-18T00:40:28.354Z",
       "tags": [
-        "APOD"
+        "Transit"
       ]
     },
     {
-      "id": "947da179bbec",
-      "agency": "nasa",
-      "source": "NASA breaking news",
-      "title": "Tossing Fireworks from Cloud to Cloud",
-      "summary": "For many astronauts, the spectacular sight of lightning stands out when looking back at Earth from the International Space Station.",
-      "url": "https://science.nasa.gov/earth/earth-observatory/tossing-fireworks-from-cloud-to-cloud/",
-      "publishedAt": "2026-11-17T05:01:00.000Z",
+      "id": "9f5e5143a9c2",
+      "agency": "exo",
+      "ra": 354.741581,
+      "dec": 75.6852317,
+      "source": "NASA Exoplanet Archive",
+      "title": "TOI-1758 b — catalog entry updated",
+      "summary": "Orbits TOI-1758: discovered via Transit, 2024, 3.62x Earth radius, 6.90x Earth mass, 20.7-day orbit.",
+      "url": "https://exoplanetarchive.ipac.caltech.edu/overview/TOI-1758",
+      "publishedAt": "2026-11-18T00:40:28.354Z",
       "tags": [
-        "Earth Observatory"
+        "Transit"
       ]
     },
     {
-      "id": "d622b8aed7bb",
+      "id": "5af1dfd1728f",
+      "agency": "exo",
+      "ra": 291.0571451,
+      "dec": 44.632306,
+      "source": "NASA Exoplanet Archive",
+      "title": "Kepler-607 c — catalog entry updated",
+      "summary": "Orbits Kepler-607: discovered via Transit, 2021, 2.76x Earth radius, 8.05x Earth mass, 39.7-day orbit.",
+      "url": "https://exoplanetarchive.ipac.caltech.edu/overview/Kepler-607",
+      "publishedAt": "2026-11-18T00:40:28.354Z",
+      "tags": [
+        "Transit"
+      ]
+    },
+    {
+      "id": "25ee1937b4e7",
+      "agency": "exo",
+      "ra": 282.1113206,
+      "dec": 42.3545514,
+      "source": "NASA Exoplanet Archive",
+      "title": "Kepler-583 b — catalog entry updated",
+      "summary": "Orbits Kepler-583: discovered via Transit, 2016, 2.28x Earth radius, 5.82x Earth mass, 6.5-day orbit.",
+      "url": "https://exoplanetarchive.ipac.caltech.edu/overview/Kepler-583",
+      "publishedAt": "2026-11-18T00:40:28.354Z",
+      "tags": [
+        "Transit"
+      ]
+    },
+    {
+      "id": "43b6e2ee2e57",
+      "agency": "exo",
+      "ra": 130.4102091,
+      "dec": 17.6399744,
+      "source": "NASA Exoplanet Archive",
+      "title": "EPIC 211822797 b — catalog entry updated",
+      "summary": "Orbits EPIC 211822797: discovered via Transit, 2016, 1.92x Earth radius, 4.35x Earth mass, 21.2-day orbit.",
+      "url": "https://exoplanetarchive.ipac.caltech.edu/overview/EPIC_211822797",
+      "publishedAt": "2026-11-18T00:40:28.354Z",
+      "tags": [
+        "Transit"
+      ]
+    },
+    {
+      "id": "19d3cfe2327f",
+      "agency": "exo",
+      "ra": 283.1137663,
+      "dec": 48.1312774,
+      "source": "NASA Exoplanet Archive",
+      "title": "Kepler-1040 b — catalog entry updated",
+      "summary": "Orbits Kepler-1040: discovered via Transit, 2016, 2.08x Earth radius, 4.98x Earth mass, 201.1-day orbit.",
+      "url": "https://exoplanetarchive.ipac.caltech.edu/overview/Kepler-1040",
+      "publishedAt": "2026-11-18T00:40:28.354Z",
+      "tags": [
+        "Transit"
+      ]
+    },
+    {
+      "id": "87220bac032c",
+      "agency": "exo",
+      "ra": 288.2341025,
+      "dec": 40.520897,
+      "source": "NASA Exoplanet Archive",
+      "title": "Kepler-150 c — catalog entry updated",
+      "summary": "Orbits Kepler-150: discovered via Transit, 2014, 3.69x Earth radius, 13.20x Earth mass, 7.4-day orbit.",
+      "url": "https://exoplanetarchive.ipac.caltech.edu/overview/Kepler-150",
+      "publishedAt": "2026-11-18T00:40:28.354Z",
+      "tags": [
+        "Transit"
+      ]
+    },
+    {
+      "id": "bab3a9113aaa",
+      "agency": "exo",
+      "ra": 294.1378921,
+      "dec": 42.3704075,
+      "source": "NASA Exoplanet Archive",
+      "title": "Kepler-374 b — catalog entry updated",
+      "summary": "Orbits Kepler-374: discovered via Transit, 2014, 1.03x Earth radius, 1.08x Earth mass, 1.9-day orbit.",
+      "url": "https://exoplanetarchive.ipac.caltech.edu/overview/Kepler-374",
+      "publishedAt": "2026-11-18T00:40:28.354Z",
+      "tags": [
+        "Transit"
+      ]
+    },
+    {
+      "id": "72917210c9de",
+      "agency": "exo",
+      "ra": 299.1275257,
+      "dec": 47.5938319,
+      "source": "NASA Exoplanet Archive",
+      "title": "Kepler-272 d — catalog entry updated",
+      "summary": "Orbits Kepler-272: discovered via Transit, 2014, 2.25x Earth radius, 5.69x Earth mass, 10.9-day orbit.",
+      "url": "https://exoplanetarchive.ipac.caltech.edu/overview/Kepler-272",
+      "publishedAt": "2026-11-18T00:40:28.354Z",
+      "tags": [
+        "Transit"
+      ]
+    },
+    {
+      "id": "32110fc5e0f5",
       "agency": "nasa",
       "source": "NASA breaking news",
-      "title": "Perseverance Update: The Ghostly Rocks of ‘Idubi’ — Bright Remnants of Aqueous Systems from Long Ago",
-      "summary": "Written by Candice Bedford, Research Scientist at Purdue University Date: Nov. 16, 2026 During the Perseverance rover’s investigation of “Idubi” — an area of ancient Martian crust exposed in the “Lac de Charmes” region, outside of Jezero crater — the Perseverance rover team has been captivated by a cluster of eerily br…",
-      "url": "https://science.nasa.gov/blog/perseverance-update-the-ghostly-rocks-of-idubi-bright-remnants-of-aqueous-systems-from-long-ago/",
-      "publishedAt": "2026-11-16T23:12:45.000Z",
+      "title": "NASA Launches Nuclear Power Systems Student Contest",
+      "summary": "NASA’s Power to Explore Student Challenge kicked off Tuesday, Nov. 17. The science, engineering, technology, and mathematics (STEM) challenge invites kindergarten through 12th grade students in the United States to learn about space nuclear power systems and illustrate how these nuclear “batteries” could help power the…",
+      "url": "https://science.nasa.gov/centers-and-facilities/glenn/nasa-launches-nuclear-power-systems-student-contest/",
+      "publishedAt": "2026-11-17T22:02:48.000Z",
+      "tags": [
+        "Glenn Research Center",
+        "Prizes, Challenges, and Crowdsourcing Program",
+        "Radioisotope Power Systems (RPS)",
+        "Technology for Space Travel"
+      ]
+    },
+    {
+      "id": "310b0bf5a829",
+      "agency": "nasa",
+      "source": "NASA breaking news",
+      "title": "NASA Space Apps Challenge Breaks Global Hackathon Records",
+      "summary": "On Nov. 14 and 15, NASA held the annual Space Apps Challenge with a record-breaking 181,835 registered participants taking part in 593 events around the world. The annual hackathon invites participants to use NASA’s open data to address one of 14 challenges focused on space exploration or Earth science. This year, the…",
+      "url": "https://science.nasa.gov/open-science/nasa-space-apps-challenge-breaks-global-hackathon-records/",
+      "publishedAt": "2026-11-17T21:50:34.000Z",
+      "tags": [
+        "Open Science"
+      ]
+    },
+    {
+      "id": "69fee50cb49a",
+      "agency": "nasa",
+      "source": "NASA breaking news",
+      "title": "BPS Digital AVATAR Challenge",
+      "summary": "The NASA Space Biology Program within the Biological and Physical Sciences (BPS) Division investigates how living systems respond across the full spectrum of biological organization to advance understanding of how living systems respond to the unique stressors of space exploration—including microgravity, ionizing radia…",
+      "url": "https://www.nasa.gov/directorates/stmd/prizes-challenges-crowdsourcing-program/center-of-excellence-for-collaborative-innovation-coeci/bps-digital-avatar-challenge/",
+      "publishedAt": "2026-11-17T20:39:38.000Z",
+      "tags": [
+        "Center of Excellence for Collaborative Innovation (CoECI)",
+        "CoECI News",
+        "Get Involved",
+        "Opportunities to Contribute to NASA Missions & Get Involved",
+        "Prizes, Challenges, & Crowdsourcing News",
+        "Prizes, Challenges, and Crowdsourcing Program"
+      ]
+    },
+    {
+      "id": "322fa129b2e5",
+      "agency": "nasa",
+      "source": "NASA breaking news",
+      "title": "New Album of Baby Star Sounds Shared by NASA’s Chandra",
+      "summary": "A new album from NASA’s Chandra X-ray Observatory collects snapshots of baby stars across the galaxy and beyond and transforms that data into sound. Four new sonifications use data of stars that are actively forming, captured by Chandra and other NASA telescopes By studying places in the universe where stars are curren…",
+      "url": "https://science.nasa.gov/missions/chandra/new-album-of-baby-star-sounds-shared-by-nasas-chandra/",
+      "publishedAt": "2026-11-17T20:26:17.000Z",
+      "tags": [
+        "Chandra X-Ray Observatory",
+        "Galaxies",
+        "Hubble Space Telescope",
+        "James Webb Space Telescope (JWST)",
+        "Marshall Astrophysics",
+        "Marshall Space Flight Center",
+        "Nebulae",
+        "Spitzer Space Telescope",
+        "The Universe"
+      ]
+    },
+    {
+      "id": "33623c6d773d",
+      "agency": "nasa",
+      "source": "NASA breaking news",
+      "title": "NASA to Cover 35th SpaceX Resupply Mission Space Station Departure",
+      "summary": "NASA and its international partners are set to receive scientific research samples and hardware as a SpaceX Dragon spacecraft departs the International Space Station no earlier than Wednesday, Nov. 18, for its return to Earth. Pending weather conditions, the Dragon spacecraft will undock from the Harmony module’s space…",
+      "url": "https://www.nasa.gov/news-release/nasa-to-cover-35th-spacex-resupply-mission-space-station-departure/",
+      "publishedAt": "2026-11-17T19:16:22.000Z",
+      "tags": [
+        "International Space Station (ISS)",
+        "Missions",
+        "SpaceX Commercial Resupply"
+      ]
+    },
+    {
+      "id": "c00a30f7ecef",
+      "agency": "nasa",
+      "source": "NASA breaking news",
+      "title": "NICER Status Updates",
+      "summary": "November 17, 2026 NASA’s NICER Telescope Ends Science Operations After studying the universe for six and a half years beyond its initial mission, NASA’s NICER (Neutron star Interior Composition Explorer) telescope on the International Space Station has ended science operations. The mission and space station teams are n…",
+      "url": "https://www.nasa.gov/missions/station/nicer-status-updates/",
+      "publishedAt": "2026-11-17T18:18:16.000Z",
+      "tags": [
+        "International Space Station (ISS)",
+        "Active Galaxies",
+        "Astrophysics",
+        "Black Holes",
+        "Galaxies",
+        "Galaxies, Stars, & Black Holes Research",
+        "Goddard Space Flight Center",
+        "ISS Research",
+        "Neutron Stars",
+        "NICER (Neutron star Interior Composition Explorer)",
+        "Pulsars",
+        "Science & Research",
+        "Stars",
+        "The Universe"
+      ]
+    },
+    {
+      "id": "eb8ae8da944a",
+      "agency": "nasa",
+      "source": "NASA breaking news",
+      "title": "NASA to Conduct Low-Altitude Flights Over Texas Farmland",
+      "summary": "Editor’s Note: This article was originally published on Oct. 15, 2026, and has been updated to correct the location and update the duration of the flight deployment. A NASA Dynamic Aviation A200 aircraft will conduct low-flying research flights over farmland near Amarillo, Texas, from Thursday, Oct. 22, through Monday,…",
+      "url": "https://www.nasa.gov/general/nasa-to-conduct-low-altitude-flights-over-texas-farmland/",
+      "publishedAt": "2026-11-17T17:12:20.000Z",
+      "tags": [
+        "General",
+        "Ames Research Center",
+        "NASA Aircraft",
+        "Science in the Air"
+      ]
+    },
+    {
+      "id": "6404bbe8c5c3",
+      "agency": "nasa",
+      "source": "NASA breaking news",
+      "title": "Curiosity Blog, Sols 5072-5076: The Return of the Polygons",
+      "summary": "Written by Abigail Fraeman, Deputy Project Scientist, Jet Propulsion Laboratory, California Institute of Technology Earth planning date: Friday, Nov. 13, 2026 Curiosity’s past several weeks have been very focused on drilling and analysis of the “Basque Lakes” and “Nazca” samples. We learned a lot from those drilled sam…",
+      "url": "https://science.nasa.gov/blog/curiosity-blog-sols-5072-5076-the-return-of-the-polygons/",
+      "publishedAt": "2026-11-17T17:06:07.000Z",
       "tags": [
         "Blogs"
       ]
     },
     {
-      "id": "52b415c3a5a5",
+      "id": "bcd64c149894",
       "agency": "nasa",
       "source": "NASA breaking news",
-      "title": "A Collage Showing 49 Drill Holes Made by NASA’s Curiosity Mars Rover",
-      "summary": "Description This collage shows 49 drill holes captured by NASA’s Curiosity Mars rover as of November 2026. Each hole represents a sample collected from rocks on the Martian surface; Curiosity’s drill, located on the end of its robotic arm, drops pulverized rock samples into instruments in its belly that analyze their c…",
-      "url": "https://science.nasa.gov/photojournal/a-collage-showing-49-drill-holes-made-by-nasas-curiosity-mars-rover/",
-      "publishedAt": "2026-11-16T22:05:23.000Z",
-      "tags": []
+      "title": "NASA Invites Media, Public to View Roman Telescope’s First Images",
+      "summary": "NASA will release the first images from its Nancy Grace Roman Space Telescope during a live stream from the American Geophysical Union (AGU) Annual Meeting in San Francisco at 3:30 p.m. EST (12:30 p.m. PST) Monday, Dec. 7. The images will showcase the unique scientific capabilities of Roman, which will soon capture dee…",
+      "url": "https://www.nasa.gov/news-release/nasa-invites-media-public-to-view-roman-telescopes-first-images/",
+      "publishedAt": "2026-11-17T17:00:29.000Z",
+      "tags": [
+        "Nancy Grace Roman Space Telescope",
+        "Goddard Space Flight Center",
+        "Science Mission Directorate"
+      ]
     },
     {
-      "id": "6e0c614892de",
+      "id": "3feff6ed9928",
       "agency": "nasa",
       "source": "NASA breaking news",
-      "title": "NASA Receives 16th Consecutive ‘Clean’ Financial Audit Opinion",
-      "summary": "For the 16th consecutive year, NASA has received an unmodified, or “clean,” opinion from an external auditor on its fiscal year 2026 financial statements. The rating is the best possible audit opinion, certifying that NASA’s financial statements conform with Generally Accepted Accounting Principles for federal agencies…",
-      "url": "https://www.nasa.gov/news-release/nasa-receives-16th-consecutive-clean-financial-audit-opinion/",
-      "publishedAt": "2026-11-16T20:30:40.000Z",
+      "title": "Space Selfie",
+      "summary": "NASA astronaut Anil Menon took this selfie during a spacewalk on Oct. 29, 2026. He and CSA (Canadian Space Agency) astronaut Joshua Kutryk installed a new roll-out solar array on the International Space Station. Get daily updates from the space station. Image credit: NASA/Anil Menon",
+      "url": "https://www.nasa.gov/image-article/space-selfie-2/",
+      "publishedAt": "2026-11-17T16:51:14.000Z",
       "tags": [
-        "Office of the Chief Financial Officer (OCFO)",
-        "Budget & Annual Reports"
+        "Anil Menon"
       ]
     },
     {
@@ -303,19 +400,6 @@
       "tags": []
     },
     {
-      "id": "149de7498bd8",
-      "agency": "nasa",
-      "source": "NASA breaking news",
-      "title": "Sentinel-6B in Orbit Around Earth",
-      "summary": "Description This artist’s concept shows the Sentinel-6B satellite, which will become the reference satellite for other missions studying sea surface height.",
-      "url": "https://science.nasa.gov/photojournal/sentinel-6b-in-orbit-around-earth/",
-      "publishedAt": "2026-11-16T18:52:32.000Z",
-      "tags": [
-        "Photojournal",
-        "Sentinel-6B"
-      ]
-    },
-    {
       "id": "604fde052a7b",
       "agency": "arxiv",
       "source": "arXiv astro-ph (new submissions)",
@@ -333,16 +417,6 @@
       "summary": "Ubiquitous wind-driven (aeolian) ripples have been thought to emerge solely from grain collisions with the bed during saltation. Recent findings, however, have shown that there are two scales of aeolian ripples, with the larger scale having a hydrodynamic origin, akin to water ripples, and the smaller scale ('impact ri…",
       "url": "https://arxiv.org/abs/2611.21575v1",
       "publishedAt": "2026-11-16T18:45:47.000Z",
-      "tags": []
-    },
-    {
-      "id": "c6377ff964f9",
-      "agency": "nasa",
-      "source": "NASA breaking news",
-      "title": "Thunderbirds in Formation",
-      "summary": "U.S. Air Force Thunderbirds fighter jets pass overhead during the agency’s MAX POWER expo and air show on Saturday, Nov. 7, 2026, at NASA’s Kennedy Space Center in Florida. NASA’s inaugural MAX POWER was an aerospace festival celebrating the past, present, and future of flight and space exploration in honor of America’…",
-      "url": "https://www.nasa.gov/image-article/thunderbirds-in-formation/",
-      "publishedAt": "2026-11-16T18:34:47.000Z",
       "tags": []
     },
     {
@@ -554,45 +628,6 @@
       "url": "https://arxiv.org/abs/2611.21245v1",
       "publishedAt": "2026-11-16T15:25:44.000Z",
       "tags": []
-    },
-    {
-      "id": "2eb37a9d39b5",
-      "agency": "nasa",
-      "source": "NASA breaking news",
-      "title": "Contractor to Civil Servant: NASA Welcomes Jim Mirandy",
-      "summary": "The rumble of a rocket engine might be considered a soundtrack for Jim Mirandy’s life. Mirandy has grown up with NASA as a constant presence, and his path to becoming a civil servant at NASA’s Stennis Space Center near Bay St. Louis, Mississippi, has been decades in the making. Hired under the agency’s workforce direct…",
-      "url": "https://www.nasa.gov/centers-and-facilities/stennis/contractor-to-civil-servant-jim-mirandy/",
-      "publishedAt": "2026-11-16T15:22:09.000Z",
-      "tags": [
-        "Stennis Space Center"
-      ]
-    },
-    {
-      "id": "36bf02a2da24",
-      "agency": "nasa",
-      "source": "NASA breaking news",
-      "title": "APOD: 2026 November 16 – NGC 7129: Star Formation with Jets from Webb",
-      "summary": "APOD Science APOD APOD: 2026 November 16 – NGC… Today’s APOD Archive Submissions Index Search Calendar RSS Education About Discuss APOD Astronomy Picture of the Day Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a professi…",
-      "url": "https://science.nasa.gov/image-article/apod-2026-november-16-ngc-7129-star-formation-with-jets-from-webb/",
-      "publishedAt": "2026-11-16T05:05:00.000Z",
-      "tags": [
-        "APOD"
-      ]
-    },
-    {
-      "id": "89f4b6682ce6",
-      "agency": "nasa",
-      "source": "NASA breaking news",
-      "title": "The Last Ice on Puncak Jaya",
-      "summary": "Ice near the summit of the Indonesian mountain peak has shrunk to scattered patches too small to flow like glaciers.",
-      "url": "https://science.nasa.gov/earth/earth-observatory/the-last-ice-on-puncak-jaya/",
-      "publishedAt": "2026-11-16T05:00:00.000Z",
-      "tags": [
-        "Earth Observatory",
-        "Ice & Glaciers",
-        "Landsat 5",
-        "Landsat 9"
-      ]
     },
     {
       "id": "eb8c655990e3",
