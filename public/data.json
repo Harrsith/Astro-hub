@@ -1,11 +1,11 @@
 {
-  "generatedAt": "2026-11-19T07:08:35.153Z",
+  "generatedAt": "2026-11-19T20:06:13.000Z",
   "sourceCount": 5,
   "itemCount": 70,
   "errors": [],
   "apod": {
-    "date": "2026-11-17",
-    "explanation": "Are these two giant arches battling for control of the sky? No, but it sure looks like it! The arch on the left is the central band of our Milky Way Galaxy, an ancient system of stars, gas, and dust that predates our Earth and is very far away. The arch on the right, by contrast, is an auroral ribbon that is only hours old, composed of energized atoms and molecules, and is close by -- right in Earth's upper atmosphere. These chance-superposed titans have our Sun in common, a stellar member of the Milky Way that ejects energetic particles which create auroras. Far behind the middle of the auroral arch is the Big Dipper. Even farther in the distance is the Andromeda galaxy -- the bright spot near the top of the frame, just left of center. The featured image was taken about a month ago from Kvaløya in northern Norway.Tomorrow's picture: open space\t\t\t\t\t\t",
+    "date": "2026-11-19",
+    "explanation": "Today's image could have been a painting. But what do these colors mean? The brightest star, left of the center, is blue Alnitak (the Girdle): a triple star system best known for being the easternmost star in Orion's Belt. The instantly recognizable shape of a dark horse's head at the center is the aptly named Horsehead Nebula. It is about five light-years tall and lies approximately 1,500 light-years away. It is made of dust and gas that obscure the red glow behind it, which is caused by hydrogen gas being ionized by the bright star Sigma Orionis at the top. The orange nebula with dark filaments on the left is the Flame Nebula. Closer to the Horsehead, the blue reflection nebula NGC 2023 is actively forming stars. The data for this \"painting\" were collected for almost six hours at the Utah Desert Remote Observatories, but the equipment was remotely controlled by the astrophotographer from his home, over 2,000 km away in Illinois.Tomorrow's picture: V-G-R\t\t\t\t\t\t",
     "hdurl": "https://science.nasa.gov/wp-content/themes/nasa-child/assets/images/nasa-logo@2x.png",
     "media_type": "image",
     "service_version": "v1",
@@ -22,7 +22,7 @@
       "title": "TOI-1269 c — catalog entry updated",
       "summary": "Orbits TOI-1269: discovered via Transit, 2026, 2.23x Earth radius, 5.60x Earth mass, 9.2-day orbit.",
       "url": "https://exoplanetarchive.ipac.caltech.edu/overview/TOI-1269",
-      "publishedAt": "2026-11-19T07:08:34.282Z",
+      "publishedAt": "2026-11-19T20:05:36.749Z",
       "tags": [
         "Transit"
       ]
@@ -36,7 +36,7 @@
       "title": "TOI-1758 b — catalog entry updated",
       "summary": "Orbits TOI-1758: discovered via Transit, 2024, 3.62x Earth radius, 6.90x Earth mass, 20.7-day orbit.",
       "url": "https://exoplanetarchive.ipac.caltech.edu/overview/TOI-1758",
-      "publishedAt": "2026-11-19T07:08:34.282Z",
+      "publishedAt": "2026-11-19T20:05:36.749Z",
       "tags": [
         "Transit"
       ]
@@ -50,7 +50,7 @@
       "title": "Kepler-607 c — catalog entry updated",
       "summary": "Orbits Kepler-607: discovered via Transit, 2021, 2.76x Earth radius, 8.05x Earth mass, 39.7-day orbit.",
       "url": "https://exoplanetarchive.ipac.caltech.edu/overview/Kepler-607",
-      "publishedAt": "2026-11-19T07:08:34.282Z",
+      "publishedAt": "2026-11-19T20:05:36.749Z",
       "tags": [
         "Transit"
       ]
@@ -64,7 +64,7 @@
       "title": "Kepler-583 b — catalog entry updated",
       "summary": "Orbits Kepler-583: discovered via Transit, 2016, 2.28x Earth radius, 5.82x Earth mass, 6.5-day orbit.",
       "url": "https://exoplanetarchive.ipac.caltech.edu/overview/Kepler-583",
-      "publishedAt": "2026-11-19T07:08:34.282Z",
+      "publishedAt": "2026-11-19T20:05:36.749Z",
       "tags": [
         "Transit"
       ]
@@ -78,7 +78,7 @@
       "title": "EPIC 211822797 b — catalog entry updated",
       "summary": "Orbits EPIC 211822797: discovered via Transit, 2016, 1.92x Earth radius, 4.35x Earth mass, 21.2-day orbit.",
       "url": "https://exoplanetarchive.ipac.caltech.edu/overview/EPIC_211822797",
-      "publishedAt": "2026-11-19T07:08:34.282Z",
+      "publishedAt": "2026-11-19T20:05:36.749Z",
       "tags": [
         "Transit"
       ]
@@ -92,7 +92,7 @@
       "title": "Kepler-1040 b — catalog entry updated",
       "summary": "Orbits Kepler-1040: discovered via Transit, 2016, 2.08x Earth radius, 4.98x Earth mass, 201.1-day orbit.",
       "url": "https://exoplanetarchive.ipac.caltech.edu/overview/Kepler-1040",
-      "publishedAt": "2026-11-19T07:08:34.282Z",
+      "publishedAt": "2026-11-19T20:05:36.749Z",
       "tags": [
         "Transit"
       ]
@@ -106,7 +106,7 @@
       "title": "Kepler-150 c — catalog entry updated",
       "summary": "Orbits Kepler-150: discovered via Transit, 2014, 3.69x Earth radius, 13.20x Earth mass, 7.4-day orbit.",
       "url": "https://exoplanetarchive.ipac.caltech.edu/overview/Kepler-150",
-      "publishedAt": "2026-11-19T07:08:34.282Z",
+      "publishedAt": "2026-11-19T20:05:36.749Z",
       "tags": [
         "Transit"
       ]
@@ -120,7 +120,7 @@
       "title": "Kepler-374 b — catalog entry updated",
       "summary": "Orbits Kepler-374: discovered via Transit, 2014, 1.03x Earth radius, 1.08x Earth mass, 1.9-day orbit.",
       "url": "https://exoplanetarchive.ipac.caltech.edu/overview/Kepler-374",
-      "publishedAt": "2026-11-19T07:08:34.282Z",
+      "publishedAt": "2026-11-19T20:05:36.749Z",
       "tags": [
         "Transit"
       ]
@@ -134,7 +134,7 @@
       "title": "Kepler-272 d — catalog entry updated",
       "summary": "Orbits Kepler-272: discovered via Transit, 2014, 2.25x Earth radius, 5.69x Earth mass, 10.9-day orbit.",
       "url": "https://exoplanetarchive.ipac.caltech.edu/overview/Kepler-272",
-      "publishedAt": "2026-11-19T07:08:34.282Z",
+      "publishedAt": "2026-11-19T20:05:36.749Z",
       "tags": [
         "Transit"
       ]
@@ -148,7 +148,7 @@
       "title": "Kepler-354 c — catalog entry updated",
       "summary": "Orbits Kepler-354: discovered via Transit, 2014, 1.31x Earth radius, 2.27x Earth mass, 16.9-day orbit.",
       "url": "https://exoplanetarchive.ipac.caltech.edu/overview/Kepler-354",
-      "publishedAt": "2026-11-19T07:08:34.282Z",
+      "publishedAt": "2026-11-19T20:05:36.749Z",
       "tags": [
         "Transit"
       ]
@@ -162,7 +162,7 @@
       "title": "Kepler-257 d — catalog entry updated",
       "summary": "Orbits Kepler-257: discovered via Transit, 2014, 4.95x Earth radius, 21.70x Earth mass, 24.7-day orbit.",
       "url": "https://exoplanetarchive.ipac.caltech.edu/overview/Kepler-257",
-      "publishedAt": "2026-11-19T07:08:34.282Z",
+      "publishedAt": "2026-11-19T20:05:36.749Z",
       "tags": [
         "Transit"
       ]
@@ -176,7 +176,7 @@
       "title": "Kepler-343 b — catalog entry updated",
       "summary": "Orbits Kepler-343: discovered via Transit, 2014, 2.41x Earth radius, 6.39x Earth mass, 9.0-day orbit.",
       "url": "https://exoplanetarchive.ipac.caltech.edu/overview/Kepler-343",
-      "publishedAt": "2026-11-19T07:08:34.282Z",
+      "publishedAt": "2026-11-19T20:05:36.749Z",
       "tags": [
         "Transit"
       ]
@@ -190,7 +190,7 @@
       "title": "Kepler-322 b — catalog entry updated",
       "summary": "Orbits Kepler-322: discovered via Transit, 2014, 1.01x Earth radius, 1.01x Earth mass, 1.7-day orbit.",
       "url": "https://exoplanetarchive.ipac.caltech.edu/overview/Kepler-322",
-      "publishedAt": "2026-11-19T07:08:34.282Z",
+      "publishedAt": "2026-11-19T20:05:36.749Z",
       "tags": [
         "Transit"
       ]
@@ -204,7 +204,7 @@
       "title": "Kepler-81 b — catalog entry updated",
       "summary": "Orbits Kepler-81: discovered via Transit, 2012, 2.42x Earth radius, 17.20x Earth mass, 6.0-day orbit.",
       "url": "https://exoplanetarchive.ipac.caltech.edu/overview/Kepler-81",
-      "publishedAt": "2026-11-19T07:08:34.282Z",
+      "publishedAt": "2026-11-19T20:05:36.749Z",
       "tags": [
         "Transit"
       ]
@@ -218,9 +218,85 @@
       "title": "HD 175167 b — catalog entry updated",
       "summary": "Orbits HD 175167: discovered via Radial Velocity, 2009, 12.30x Earth radius, 4703.86x Earth mass, 1175.0-day orbit.",
       "url": "https://exoplanetarchive.ipac.caltech.edu/overview/HD_175167",
-      "publishedAt": "2026-11-19T07:08:34.282Z",
+      "publishedAt": "2026-11-19T20:05:36.749Z",
       "tags": [
         "Radial Velocity"
+      ]
+    },
+    {
+      "id": "472edcef85ab",
+      "agency": "nasa",
+      "source": "NASA breaking news",
+      "title": "Challenge: Public Input on Life and the World in 2075",
+      "summary": "NASA’s Transformational Tools and Technologies (TTT) is gathering public perspectives on life today and how the world may change by 2075. This challenge asks for conceptual ideas about life in 2075 across four challenge topics. Ideas should explore how future aviation or aerospace systems could: Ideas should be concept…",
+      "url": "https://www.nasa.gov/directorates/stmd/prizes-challenges-crowdsourcing-program/center-of-excellence-for-collaborative-innovation-coeci/challenge-public-input-on-life-and-the-world-in-2075/",
+      "publishedAt": "2026-11-19T19:34:20.000Z",
+      "tags": [
+        "Center of Excellence for Collaborative Innovation (CoECI)",
+        "CoECI News",
+        "Get Involved",
+        "Opportunities to Contribute to NASA Missions & Get Involved",
+        "Prizes, Challenges, & Crowdsourcing News",
+        "Prizes, Challenges, and Crowdsourcing Program"
+      ]
+    },
+    {
+      "id": "230e1560daf2",
+      "agency": "nasa",
+      "source": "NASA breaking news",
+      "title": "NASA Science Data Powers New Method to Discover Hard-to-Find Pulsars",
+      "summary": "Open data from NASA’s Fermi mission helped an international team of scientists develop a method for finding pulsars about a million times faster than before.",
+      "url": "https://science.nasa.gov/open-science/fermi-data-pulsar-discovery/",
+      "publishedAt": "2026-11-19T15:33:55.000Z",
+      "tags": [
+        "Fermi Gamma-Ray Space Telescope",
+        "Open Science",
+        "Pulsars"
+      ]
+    },
+    {
+      "id": "470f7b58a80a",
+      "agency": "nasa",
+      "source": "NASA breaking news",
+      "title": "Lake Pelku",
+      "summary": "An astronaut on the International Space Station captured this photograph of Lake Pelku (near center) as the station orbited above Asia. The International Space Station serves as a unique platform for observing Earth with both hands-on and automated equipment. Station crew members have produced hundreds of thousands of…",
+      "url": "https://www.nasa.gov/image-article/lake-pelku/",
+      "publishedAt": "2026-11-19T15:32:39.000Z",
+      "tags": [
+        "International Space Station (ISS)"
+      ]
+    },
+    {
+      "id": "634743bc9709",
+      "agency": "nasa",
+      "source": "NASA breaking news",
+      "title": "NASA Conducts Latest RS-25 Engine Test in Support of Future Artemis Missions",
+      "summary": "NASA tested RS-25 engine No. 10001 on Nov. 18 on the Fred Haise Test Stand at NASA’s Stennis Space Center near Bay St. Louis, Mississippi. Test teams fired the developmental engine for the planned duration of three minutes and 20 seconds (200 seconds). While this developmental engine will not be used in flight, the hot…",
+      "url": "https://www.nasa.gov/image-article/latest-rs-25-engine-test-in-support-of-future-artemis-missions/",
+      "publishedAt": "2026-11-19T14:44:39.000Z",
+      "tags": [
+        "Marshall Space Flight Center",
+        "RS-25",
+        "Space Launch System (SLS)",
+        "Stennis Space Center"
+      ]
+    },
+    {
+      "id": "4cc59e849f09",
+      "agency": "nasa",
+      "source": "NASA breaking news",
+      "title": "NASA’s Voyager 1 Makes History Reaching One Light-Day From Earth",
+      "summary": "NASA’s Voyager 1 probe, humanity’s farthest-flying spacecraft, has reached one light-day from Earth, after more than 49 years of constant travel. A light-day is the distance light travels in 24 hours, equaling about 16.1 billion miles (25.9 billion kilometers). The spacecraft achieved the milestone at 2:16 a.m. PST (5:…",
+      "url": "https://www.nasa.gov/news-release/nasas-voyager-1-makes-history-reaching-one-light-day-from-earth/",
+      "publishedAt": "2026-11-19T14:31:15.000Z",
+      "tags": [
+        "Voyager 1",
+        "Heliophysics",
+        "Heliophysics Division",
+        "Jet Propulsion Laboratory",
+        "Science Mission Directorate",
+        "The Solar System",
+        "The Sun"
       ]
     },
     {
@@ -228,7 +304,7 @@
       "agency": "nasa",
       "source": "NASA breaking news",
       "title": "APOD: 2026 November 19 – The Horsehead and Flame Nebulas",
-      "summary": "APOD Science APOD APOD: 2026 November 19 – The… Today’s APOD Archive Submissions Index Search Calendar RSS Education About Discuss APOD Astronomy Picture of the Day Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a professi…",
+      "summary": "APODScienceAPODAPOD: 2026 November 19 – The…Today’s APODArchiveSubmissionsIndexSearchCalendarRSSEducationAboutDiscuss APOD Astronomy Picture of the Day Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a professional astronom…",
       "url": "https://science.nasa.gov/image-article/apod-2026-november-19-the-horsehead-and-flame-nebulas/",
       "publishedAt": "2026-11-19T05:05:00.000Z",
       "tags": [
@@ -359,19 +435,6 @@
       "tags": []
     },
     {
-      "id": "9b896caf0bb4",
-      "agency": "nasa",
-      "source": "NASA breaking news",
-      "title": "Empire State Building Goes Gold for Voyager",
-      "summary": "The Empire State Building is seen illuminated in gold to celebrate NASA’s Voyager 1 spacecraft as it was about to pass one light-day away from Earth, a distance reached by no other human-made object, Nov. 17, 2026. The color gold represents the gold-plated copper phonograph record that is flying on Voyager; the Golden…",
-      "url": "https://www.nasa.gov/image-article/empire-state-building-goes-gold-for-voyager/",
-      "publishedAt": "2026-11-18T17:50:26.000Z",
-      "tags": [
-        "Voyager 1",
-        "Voyager Program"
-      ]
-    },
-    {
       "id": "e6d1624605a8",
       "agency": "arxiv",
       "source": "arXiv astro-ph (new submissions)",
@@ -410,33 +473,6 @@
       "url": "https://arxiv.org/abs/2611.24796v1",
       "publishedAt": "2026-11-18T17:40:58.000Z",
       "tags": []
-    },
-    {
-      "id": "4860f27995d2",
-      "agency": "nasa",
-      "source": "NASA breaking news",
-      "title": "What Is the Moon Base?",
-      "summary": "This article is for students. NASA is returning astronauts to the Moon – and this time they will spend more time on the lunar surface. The Moon Base is humanity’s first lunar outpost. It will be a place where astronauts live, work, and explore. ______________________________________________________________________ Word…",
-      "url": "https://www.nasa.gov/learning-resources/for-kids-and-students/what-is-the-moon-base/",
-      "publishedAt": "2026-11-18T17:36:03.000Z",
-      "tags": [
-        "For Kids and Students",
-        "Explore",
-        "Grades 5 - 8",
-        "Learning Resources"
-      ]
-    },
-    {
-      "id": "883e59987eb4",
-      "agency": "nasa",
-      "source": "NASA breaking news",
-      "title": "Thank You for Doing NASA Science!",
-      "summary": "It’s Thanksgiving time, and we’re giving thanks to you for doing NASA Science with us! You and NASA’s other volunteers have enabled an incredible banquet of discoveries—by taking data, analyzing data, writing code, writing papers, and even inventing your own science projects. Whether you’re an expert participant or som…",
-      "url": "https://science.nasa.gov/get-involved/citizen-science/thank-you-for-doing-nasa-science/",
-      "publishedAt": "2026-11-18T17:32:52.000Z",
-      "tags": [
-        "Citizen Science"
-      ]
     },
     {
       "id": "746cbf2b77e3",
@@ -507,27 +543,6 @@
       "url": "https://arxiv.org/abs/2611.24664v1",
       "publishedAt": "2026-11-18T16:01:14.000Z",
       "tags": []
-    },
-    {
-      "id": "49c56cb191c4",
-      "agency": "nasa",
-      "source": "NASA breaking news",
-      "title": "NASA Data Clinches First-of-Its-Kind Stellar Merger",
-      "summary": "Researchers recently identified a first of its kind: A star slightly less massive than the Sun spiraled into and merged with a puffy supergiant star at the outskirts of our neighboring Andromeda galaxy. They nicknamed the newly single, potentially “rejuvenated” star Bao. Their NASA-funded discovery was then bolstered b…",
-      "url": "https://science.nasa.gov/missions/webb/nasa-data-clinches-first-of-its-kind-stellar-merger/",
-      "publishedAt": "2026-11-18T16:00:00.000Z",
-      "tags": [
-        "Astrophysics",
-        "Astrophysics Division",
-        "Binary Stars",
-        "Galaxies",
-        "Goddard Space Flight Center",
-        "James Webb Space Telescope (JWST)",
-        "Science & Research",
-        "Sensing the Universe & Multimessenger Astronomy",
-        "Stars",
-        "The Universe"
-      ]
     },
     {
       "id": "d69e4371b232",
@@ -608,18 +623,6 @@
       "url": "https://arxiv.org/abs/2611.24612v1",
       "publishedAt": "2026-11-18T15:32:27.000Z",
       "tags": []
-    },
-    {
-      "id": "871c70453337",
-      "agency": "nasa",
-      "source": "NASA breaking news",
-      "title": "APOD: 2026 November 18 – A Medium-Sized Solar Flare",
-      "summary": "APOD Science APOD APOD: 2026 November 18 – A… Today’s APOD Archive Submissions Index Search Calendar RSS Education About Discuss APOD Astronomy Picture of the Day Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a profession…",
-      "url": "https://science.nasa.gov/image-article/apod-2026-november-18-an-m-class-solar-flare/",
-      "publishedAt": "2026-11-18T05:05:00.000Z",
-      "tags": [
-        "APOD"
-      ]
     },
     {
       "id": "eb8c655990e3",
