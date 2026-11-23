@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-23T06:14:53.566Z",
+  "generatedAt": "2026-11-23T23:30:20.845Z",
   "sourceCount": 5,
   "itemCount": 70,
   "errors": [],
@@ -22,7 +22,7 @@
       "title": "TOI-1269 c — catalog entry updated",
       "summary": "Orbits TOI-1269: discovered via Transit, 2026, 2.23x Earth radius, 5.60x Earth mass, 9.2-day orbit.",
       "url": "https://exoplanetarchive.ipac.caltech.edu/overview/TOI-1269",
-      "publishedAt": "2026-11-23T06:14:42.375Z",
+      "publishedAt": "2026-11-23T23:30:17.168Z",
       "tags": [
         "Transit"
       ]
@@ -36,7 +36,7 @@
       "title": "TOI-1758 b — catalog entry updated",
       "summary": "Orbits TOI-1758: discovered via Transit, 2024, 3.62x Earth radius, 6.90x Earth mass, 20.7-day orbit.",
       "url": "https://exoplanetarchive.ipac.caltech.edu/overview/TOI-1758",
-      "publishedAt": "2026-11-23T06:14:42.375Z",
+      "publishedAt": "2026-11-23T23:30:17.168Z",
       "tags": [
         "Transit"
       ]
@@ -50,7 +50,7 @@
       "title": "Kepler-607 c — catalog entry updated",
       "summary": "Orbits Kepler-607: discovered via Transit, 2021, 2.76x Earth radius, 8.05x Earth mass, 39.7-day orbit.",
       "url": "https://exoplanetarchive.ipac.caltech.edu/overview/Kepler-607",
-      "publishedAt": "2026-11-23T06:14:42.375Z",
+      "publishedAt": "2026-11-23T23:30:17.168Z",
       "tags": [
         "Transit"
       ]
@@ -64,7 +64,7 @@
       "title": "Kepler-583 b — catalog entry updated",
       "summary": "Orbits Kepler-583: discovered via Transit, 2016, 2.28x Earth radius, 5.82x Earth mass, 6.5-day orbit.",
       "url": "https://exoplanetarchive.ipac.caltech.edu/overview/Kepler-583",
-      "publishedAt": "2026-11-23T06:14:42.375Z",
+      "publishedAt": "2026-11-23T23:30:17.168Z",
       "tags": [
         "Transit"
       ]
@@ -78,7 +78,7 @@
       "title": "EPIC 211822797 b — catalog entry updated",
       "summary": "Orbits EPIC 211822797: discovered via Transit, 2016, 1.92x Earth radius, 4.35x Earth mass, 21.2-day orbit.",
       "url": "https://exoplanetarchive.ipac.caltech.edu/overview/EPIC_211822797",
-      "publishedAt": "2026-11-23T06:14:42.375Z",
+      "publishedAt": "2026-11-23T23:30:17.168Z",
       "tags": [
         "Transit"
       ]
@@ -92,7 +92,7 @@
       "title": "Kepler-1040 b — catalog entry updated",
       "summary": "Orbits Kepler-1040: discovered via Transit, 2016, 2.08x Earth radius, 4.98x Earth mass, 201.1-day orbit.",
       "url": "https://exoplanetarchive.ipac.caltech.edu/overview/Kepler-1040",
-      "publishedAt": "2026-11-23T06:14:42.375Z",
+      "publishedAt": "2026-11-23T23:30:17.168Z",
       "tags": [
         "Transit"
       ]
@@ -106,7 +106,7 @@
       "title": "Kepler-150 c — catalog entry updated",
       "summary": "Orbits Kepler-150: discovered via Transit, 2014, 3.69x Earth radius, 13.20x Earth mass, 7.4-day orbit.",
       "url": "https://exoplanetarchive.ipac.caltech.edu/overview/Kepler-150",
-      "publishedAt": "2026-11-23T06:14:42.375Z",
+      "publishedAt": "2026-11-23T23:30:17.168Z",
       "tags": [
         "Transit"
       ]
@@ -120,7 +120,7 @@
       "title": "Kepler-374 b — catalog entry updated",
       "summary": "Orbits Kepler-374: discovered via Transit, 2014, 1.03x Earth radius, 1.08x Earth mass, 1.9-day orbit.",
       "url": "https://exoplanetarchive.ipac.caltech.edu/overview/Kepler-374",
-      "publishedAt": "2026-11-23T06:14:42.375Z",
+      "publishedAt": "2026-11-23T23:30:17.168Z",
       "tags": [
         "Transit"
       ]
@@ -134,7 +134,7 @@
       "title": "Kepler-272 d — catalog entry updated",
       "summary": "Orbits Kepler-272: discovered via Transit, 2014, 2.25x Earth radius, 5.69x Earth mass, 10.9-day orbit.",
       "url": "https://exoplanetarchive.ipac.caltech.edu/overview/Kepler-272",
-      "publishedAt": "2026-11-23T06:14:42.375Z",
+      "publishedAt": "2026-11-23T23:30:17.168Z",
       "tags": [
         "Transit"
       ]
@@ -148,7 +148,7 @@
       "title": "Kepler-354 c — catalog entry updated",
       "summary": "Orbits Kepler-354: discovered via Transit, 2014, 1.31x Earth radius, 2.27x Earth mass, 16.9-day orbit.",
       "url": "https://exoplanetarchive.ipac.caltech.edu/overview/Kepler-354",
-      "publishedAt": "2026-11-23T06:14:42.375Z",
+      "publishedAt": "2026-11-23T23:30:17.168Z",
       "tags": [
         "Transit"
       ]
@@ -162,7 +162,7 @@
       "title": "Kepler-257 d — catalog entry updated",
       "summary": "Orbits Kepler-257: discovered via Transit, 2014, 4.95x Earth radius, 21.70x Earth mass, 24.7-day orbit.",
       "url": "https://exoplanetarchive.ipac.caltech.edu/overview/Kepler-257",
-      "publishedAt": "2026-11-23T06:14:42.375Z",
+      "publishedAt": "2026-11-23T23:30:17.168Z",
       "tags": [
         "Transit"
       ]
@@ -176,7 +176,7 @@
       "title": "Kepler-343 b — catalog entry updated",
       "summary": "Orbits Kepler-343: discovered via Transit, 2014, 2.41x Earth radius, 6.39x Earth mass, 9.0-day orbit.",
       "url": "https://exoplanetarchive.ipac.caltech.edu/overview/Kepler-343",
-      "publishedAt": "2026-11-23T06:14:42.375Z",
+      "publishedAt": "2026-11-23T23:30:17.168Z",
       "tags": [
         "Transit"
       ]
@@ -190,7 +190,7 @@
       "title": "Kepler-322 b — catalog entry updated",
       "summary": "Orbits Kepler-322: discovered via Transit, 2014, 1.01x Earth radius, 1.01x Earth mass, 1.7-day orbit.",
       "url": "https://exoplanetarchive.ipac.caltech.edu/overview/Kepler-322",
-      "publishedAt": "2026-11-23T06:14:42.375Z",
+      "publishedAt": "2026-11-23T23:30:17.168Z",
       "tags": [
         "Transit"
       ]
@@ -204,7 +204,7 @@
       "title": "Kepler-81 b — catalog entry updated",
       "summary": "Orbits Kepler-81: discovered via Transit, 2012, 2.42x Earth radius, 17.20x Earth mass, 6.0-day orbit.",
       "url": "https://exoplanetarchive.ipac.caltech.edu/overview/Kepler-81",
-      "publishedAt": "2026-11-23T06:14:42.375Z",
+      "publishedAt": "2026-11-23T23:30:17.168Z",
       "tags": [
         "Transit"
       ]
@@ -218,9 +218,82 @@
       "title": "HD 175167 b — catalog entry updated",
       "summary": "Orbits HD 175167: discovered via Radial Velocity, 2009, 12.30x Earth radius, 4703.86x Earth mass, 1175.0-day orbit.",
       "url": "https://exoplanetarchive.ipac.caltech.edu/overview/HD_175167",
-      "publishedAt": "2026-11-23T06:14:42.375Z",
+      "publishedAt": "2026-11-23T23:30:17.168Z",
       "tags": [
         "Radial Velocity"
+      ]
+    },
+    {
+      "id": "02af000e203f",
+      "agency": "nasa",
+      "source": "NASA breaking news",
+      "title": "NASA Awards Contract for NOAA’s Near Earth Orbit Network Program",
+      "summary": "NASA, on behalf of the National Oceanic and Atmospheric Administration (NOAA), has awarded a contract to Northrop Grumman Systems Corporation for the Sounder for Microwave-Based Applications (SMBA) instruments on NOAA’s Near Earth Orbit Network (NEON) satellites. The cost-plus-fixed-fee, firm-fixed-price, and time-and-…",
+      "url": "https://www.nasa.gov/news-release/nasa-awards-contract-for-noaas-near-earth-orbit-network-program/",
+      "publishedAt": "2026-11-23T21:10:03.000Z",
+      "tags": [
+        "Science Mission Directorate",
+        "Goddard Space Flight Center",
+        "NOAA (National Oceanic and Atmospheric Administration)"
+      ]
+    },
+    {
+      "id": "25af7379426c",
+      "agency": "nasa",
+      "source": "NASA breaking news",
+      "title": "Studying Cancer Cells in Microgravity",
+      "summary": "This Nov. 19, 2026, image shows gastric microtumors grown within an Encapsulates biochip. The Encapsulate-1 investigation studies patient-derived tumor samples aboard the International Space Station to better understand how cancer cells move and interact in microgravity. The results could help researchers develop furth…",
+      "url": "https://www.nasa.gov/image-article/studying-cancer-cells-in-microgravity/",
+      "publishedAt": "2026-11-23T17:28:37.000Z",
+      "tags": [
+        "ISS Research"
+      ]
+    },
+    {
+      "id": "d7229f632137",
+      "agency": "nasa",
+      "source": "NASA breaking news",
+      "title": "NASA Seeks Partners to Design First Nuclear Reactor for the Moon",
+      "summary": "NASA is seeking industry partners to develop and test the first nuclear reactor designed to provide electricity on the Moon, a major step toward establishing a sustained human presence on the lunar surface. Lunar Reactor-1 (LR-1) will be a small fission power system that will generate 20 kilowatts of electricity, enoug…",
+      "url": "https://www.nasa.gov/directorates/rtmd/nasa-seeks-partners-to-design-first-nuclear-reactor-for-the-moon/",
+      "publishedAt": "2026-11-23T17:23:50.000Z",
+      "tags": [
+        "Research and Technology Mission Directorate",
+        "Technology",
+        "Technology for Living in Space"
+      ]
+    },
+    {
+      "id": "bac9e080d06b",
+      "agency": "nasa",
+      "source": "NASA breaking news",
+      "title": "NASA+ Documentary Captures Europa Clipper’s Journey Into Deep Space",
+      "summary": "NASA invites the world behind the scenes to witness the story of Europa Clipper’s journey from a far-off vision to a cutting-edge deep space exploration mission with the release of the agency’s newest documentary, “The Europa Concept.” The documentary will air on NASA+, the NASA app, and the agency’s website starting M…",
+      "url": "https://www.nasa.gov/missions/europa-clipper/nasa-documentary-captures-europa-clippers-journey-into-deep-space/",
+      "publishedAt": "2026-11-23T16:08:23.000Z",
+      "tags": [
+        "Europa Clipper",
+        "Europa"
+      ]
+    },
+    {
+      "id": "67813de0a1c8",
+      "agency": "nasa",
+      "source": "NASA breaking news",
+      "title": "NASA’s Webb Shows How Supernova Dust Chronicles Star Evolution",
+      "summary": "NASA’s James Webb Space Telescope has painted a vibrant tapestry of the legendary supernova remnant Cassiopeia A (Cas A). Remnants like these are the clouds of gas and dust that remain following the explosion of a massive star and will eventually seed a new generation of stars and planets. This high-resolution, mid-inf…",
+      "url": "https://science.nasa.gov/missions/webb/nasas-webb-shows-how-supernova-dust-chronicles-star-evolution/",
+      "publishedAt": "2026-11-23T15:00:00.000Z",
+      "tags": [
+        "Astrophysics",
+        "Astrophysics Division",
+        "Goddard Space Flight Center",
+        "James Webb Space Telescope (JWST)",
+        "Nebulae",
+        "Science & Research",
+        "Supernova Remnants",
+        "Supernovae",
+        "The Universe"
       ]
     },
     {
@@ -284,36 +357,6 @@
       "publishedAt": "2026-11-21T05:05:00.000Z",
       "tags": [
         "APOD"
-      ]
-    },
-    {
-      "id": "b61998a18fb4",
-      "agency": "nasa",
-      "source": "NASA breaking news",
-      "title": "Curiosity Spots Drifting Twilight Clouds",
-      "summary": "Description NASA’s Curiosity Mars rover captured these drifting clouds on Oct. 31, 2026, the 5,061st Martian day, or sol, of the mission. The rover uses its navigation cameras to capture post-sunset clouds, called twilight clouds, which appear for only a short time each fall over Gale Crater, which it has been explorin…",
-      "url": "https://science.nasa.gov/photojournal/curiosity-spots-drifting-twilight-clouds/",
-      "publishedAt": "2026-11-20T22:27:05.000Z",
-      "tags": [
-        "Curiosity (Rover)",
-        "Mars Science Laboratory (MSL)",
-        "Photojournal"
-      ]
-    },
-    {
-      "id": "2c15e84b8a09",
-      "agency": "nasa",
-      "source": "NASA breaking news",
-      "title": "New NASA Seed Funding Primes Small Businesses for Innovation",
-      "summary": "Awards to small businesses around the country are addressing some of NASA’s most crucial technology needs for exploration of the Moon and Mars while fueling the U.S. space economy. NASA’s Small Business Innovation Research/Small Business Technology Transfer (SBIR/STTR) program recently selected 302 innovative projects,…",
-      "url": "https://www.nasa.gov/directorates/rtmd/new-nasa-seed-funding-primes-small-businesses-for-innovation/",
-      "publishedAt": "2026-11-20T20:46:14.000Z",
-      "tags": [
-        "Research and Technology Mission Directorate",
-        "Ames Research Center",
-        "General",
-        "NASA Centers & Facilities",
-        "Space Technology Mission Directorate"
       ]
     },
     {
@@ -417,18 +460,6 @@
       "tags": []
     },
     {
-      "id": "57bebe29f83b",
-      "agency": "nasa",
-      "source": "NASA breaking news",
-      "title": "NASA Honor Awards Ceremony Recognizes Employees at Stennis Space Center",
-      "summary": "Employees contributing to NASA’s mission at the agency’s Stennis Space Center near Bay St. Louis, Mississippi, were recognized during the center’s Honor Awards ceremony on Nov. 18. Presenting the awards were Christine Powell, NASA Stennis center director, and Jeremy Parsons, the agency’s Artemis program manager respons…",
-      "url": "https://www.nasa.gov/centers-and-facilities/stennis/honor-awards-ceremony-at-stennis/",
-      "publishedAt": "2026-11-20T16:27:46.000Z",
-      "tags": [
-        "Stennis Space Center"
-      ]
-    },
-    {
       "id": "6edb9edcc976",
       "agency": "arxiv",
       "source": "arXiv astro-ph (new submissions)",
@@ -446,16 +477,6 @@
       "summary": "Aims: On a rare occasion, asteroids are temporarily captured by the Earth to become the planet's interim companions. The discovery of asteroid 2026~QQ$_8$ provided an opportunity to study this class of objects, adding to the sparse discovery catalogue of Earth's temporary companions. Methods: We performed astrometric,…",
       "url": "https://arxiv.org/abs/2611.27770v1",
       "publishedAt": "2026-11-20T16:01:10.000Z",
-      "tags": []
-    },
-    {
-      "id": "3c75783da394",
-      "agency": "nasa",
-      "source": "NASA breaking news",
-      "title": "NASA’s Curiosity Mars Rover Collects Samples",
-      "summary": "This Nov. 16 collage shows 49 drill holes captured by NASA’s Curiosity Mars rover as of November 2026. Each hole represents a sample collected from rocks on the Martian surface; Curiosity’s drill, located on the end of its robotic arm, drops pulverized rock samples into instruments in its belly that analyze their compo…",
-      "url": "https://www.nasa.gov/image-article/nasas-curiosity-mars-rover-collects-samples/",
-      "publishedAt": "2026-11-20T15:53:24.000Z",
       "tags": []
     },
     {
@@ -587,18 +608,6 @@
       "url": "https://arxiv.org/abs/2611.27551v1",
       "publishedAt": "2026-11-20T12:47:43.000Z",
       "tags": []
-    },
-    {
-      "id": "7d625a5cccdb",
-      "agency": "nasa",
-      "source": "NASA breaking news",
-      "title": "APOD: 2026 November 20 – V-G-R",
-      "summary": "APODScienceAPODAPOD: 2026 November…Today’s APODArchiveSubmissionsIndexSearchCalendarRSSEducationAboutDiscuss APOD Astronomy Picture of the Day Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a professional astronomer. V-G-R…",
-      "url": "https://science.nasa.gov/image-article/apod-2026-november-20-v-g-r/",
-      "publishedAt": "2026-11-20T05:05:00.000Z",
-      "tags": [
-        "APOD"
-      ]
     },
     {
       "id": "eb8c655990e3",
