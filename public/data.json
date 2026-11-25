@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-25T07:26:22.857Z",
+  "generatedAt": "2026-11-25T21:13:02.761Z",
   "sourceCount": 5,
   "itemCount": 70,
   "errors": [],
@@ -22,7 +22,7 @@
       "title": "TOI-1269 c — catalog entry updated",
       "summary": "Orbits TOI-1269: discovered via Transit, 2026, 2.23x Earth radius, 5.60x Earth mass, 9.2-day orbit.",
       "url": "https://exoplanetarchive.ipac.caltech.edu/overview/TOI-1269",
-      "publishedAt": "2026-11-25T07:26:10.161Z",
+      "publishedAt": "2026-11-25T21:12:51.755Z",
       "tags": [
         "Transit"
       ]
@@ -36,7 +36,7 @@
       "title": "TOI-1758 b — catalog entry updated",
       "summary": "Orbits TOI-1758: discovered via Transit, 2024, 3.62x Earth radius, 6.90x Earth mass, 20.7-day orbit.",
       "url": "https://exoplanetarchive.ipac.caltech.edu/overview/TOI-1758",
-      "publishedAt": "2026-11-25T07:26:10.161Z",
+      "publishedAt": "2026-11-25T21:12:51.755Z",
       "tags": [
         "Transit"
       ]
@@ -50,7 +50,7 @@
       "title": "Kepler-607 c — catalog entry updated",
       "summary": "Orbits Kepler-607: discovered via Transit, 2021, 2.76x Earth radius, 8.05x Earth mass, 39.7-day orbit.",
       "url": "https://exoplanetarchive.ipac.caltech.edu/overview/Kepler-607",
-      "publishedAt": "2026-11-25T07:26:10.161Z",
+      "publishedAt": "2026-11-25T21:12:51.755Z",
       "tags": [
         "Transit"
       ]
@@ -64,7 +64,7 @@
       "title": "Kepler-583 b — catalog entry updated",
       "summary": "Orbits Kepler-583: discovered via Transit, 2016, 2.28x Earth radius, 5.82x Earth mass, 6.5-day orbit.",
       "url": "https://exoplanetarchive.ipac.caltech.edu/overview/Kepler-583",
-      "publishedAt": "2026-11-25T07:26:10.161Z",
+      "publishedAt": "2026-11-25T21:12:51.755Z",
       "tags": [
         "Transit"
       ]
@@ -78,7 +78,7 @@
       "title": "EPIC 211822797 b — catalog entry updated",
       "summary": "Orbits EPIC 211822797: discovered via Transit, 2016, 1.92x Earth radius, 4.35x Earth mass, 21.2-day orbit.",
       "url": "https://exoplanetarchive.ipac.caltech.edu/overview/EPIC_211822797",
-      "publishedAt": "2026-11-25T07:26:10.161Z",
+      "publishedAt": "2026-11-25T21:12:51.755Z",
       "tags": [
         "Transit"
       ]
@@ -92,7 +92,7 @@
       "title": "Kepler-1040 b — catalog entry updated",
       "summary": "Orbits Kepler-1040: discovered via Transit, 2016, 2.08x Earth radius, 4.98x Earth mass, 201.1-day orbit.",
       "url": "https://exoplanetarchive.ipac.caltech.edu/overview/Kepler-1040",
-      "publishedAt": "2026-11-25T07:26:10.161Z",
+      "publishedAt": "2026-11-25T21:12:51.755Z",
       "tags": [
         "Transit"
       ]
@@ -106,7 +106,7 @@
       "title": "Kepler-150 c — catalog entry updated",
       "summary": "Orbits Kepler-150: discovered via Transit, 2014, 3.69x Earth radius, 13.20x Earth mass, 7.4-day orbit.",
       "url": "https://exoplanetarchive.ipac.caltech.edu/overview/Kepler-150",
-      "publishedAt": "2026-11-25T07:26:10.161Z",
+      "publishedAt": "2026-11-25T21:12:51.755Z",
       "tags": [
         "Transit"
       ]
@@ -120,7 +120,7 @@
       "title": "Kepler-374 b — catalog entry updated",
       "summary": "Orbits Kepler-374: discovered via Transit, 2014, 1.03x Earth radius, 1.08x Earth mass, 1.9-day orbit.",
       "url": "https://exoplanetarchive.ipac.caltech.edu/overview/Kepler-374",
-      "publishedAt": "2026-11-25T07:26:10.161Z",
+      "publishedAt": "2026-11-25T21:12:51.755Z",
       "tags": [
         "Transit"
       ]
@@ -134,7 +134,7 @@
       "title": "Kepler-272 d — catalog entry updated",
       "summary": "Orbits Kepler-272: discovered via Transit, 2014, 2.25x Earth radius, 5.69x Earth mass, 10.9-day orbit.",
       "url": "https://exoplanetarchive.ipac.caltech.edu/overview/Kepler-272",
-      "publishedAt": "2026-11-25T07:26:10.161Z",
+      "publishedAt": "2026-11-25T21:12:51.755Z",
       "tags": [
         "Transit"
       ]
@@ -148,7 +148,7 @@
       "title": "Kepler-354 c — catalog entry updated",
       "summary": "Orbits Kepler-354: discovered via Transit, 2014, 1.31x Earth radius, 2.27x Earth mass, 16.9-day orbit.",
       "url": "https://exoplanetarchive.ipac.caltech.edu/overview/Kepler-354",
-      "publishedAt": "2026-11-25T07:26:10.161Z",
+      "publishedAt": "2026-11-25T21:12:51.755Z",
       "tags": [
         "Transit"
       ]
@@ -162,7 +162,7 @@
       "title": "Kepler-257 d — catalog entry updated",
       "summary": "Orbits Kepler-257: discovered via Transit, 2014, 4.95x Earth radius, 21.70x Earth mass, 24.7-day orbit.",
       "url": "https://exoplanetarchive.ipac.caltech.edu/overview/Kepler-257",
-      "publishedAt": "2026-11-25T07:26:10.161Z",
+      "publishedAt": "2026-11-25T21:12:51.755Z",
       "tags": [
         "Transit"
       ]
@@ -176,7 +176,7 @@
       "title": "Kepler-343 b — catalog entry updated",
       "summary": "Orbits Kepler-343: discovered via Transit, 2014, 2.41x Earth radius, 6.39x Earth mass, 9.0-day orbit.",
       "url": "https://exoplanetarchive.ipac.caltech.edu/overview/Kepler-343",
-      "publishedAt": "2026-11-25T07:26:10.161Z",
+      "publishedAt": "2026-11-25T21:12:51.755Z",
       "tags": [
         "Transit"
       ]
@@ -190,7 +190,7 @@
       "title": "Kepler-322 b — catalog entry updated",
       "summary": "Orbits Kepler-322: discovered via Transit, 2014, 1.01x Earth radius, 1.01x Earth mass, 1.7-day orbit.",
       "url": "https://exoplanetarchive.ipac.caltech.edu/overview/Kepler-322",
-      "publishedAt": "2026-11-25T07:26:10.161Z",
+      "publishedAt": "2026-11-25T21:12:51.755Z",
       "tags": [
         "Transit"
       ]
@@ -204,7 +204,7 @@
       "title": "Kepler-81 b — catalog entry updated",
       "summary": "Orbits Kepler-81: discovered via Transit, 2012, 2.42x Earth radius, 17.20x Earth mass, 6.0-day orbit.",
       "url": "https://exoplanetarchive.ipac.caltech.edu/overview/Kepler-81",
-      "publishedAt": "2026-11-25T07:26:10.161Z",
+      "publishedAt": "2026-11-25T21:12:51.755Z",
       "tags": [
         "Transit"
       ]
@@ -218,9 +218,80 @@
       "title": "HD 175167 b — catalog entry updated",
       "summary": "Orbits HD 175167: discovered via Radial Velocity, 2009, 12.30x Earth radius, 4703.86x Earth mass, 1175.0-day orbit.",
       "url": "https://exoplanetarchive.ipac.caltech.edu/overview/HD_175167",
-      "publishedAt": "2026-11-25T07:26:10.161Z",
+      "publishedAt": "2026-11-25T21:12:51.755Z",
       "tags": [
         "Radial Velocity"
+      ]
+    },
+    {
+      "id": "ecb5d293ef4c",
+      "agency": "nasa",
+      "source": "NASA breaking news",
+      "title": "NASA Enhances Supplier Program, Announces Mentor-Protégé Agreement",
+      "summary": "How NASA works with small businesses is evolving, and as a result, the agency is strengthening the domestic aerospace industrial base to support future exploration missions through its recently renamed Small Business Supplier Development Program. As part of the program, NASA announced its latest Mentor-Protégé Agreemen…",
+      "url": "https://www.nasa.gov/organizations/osbp/nasa-enhances-supplier-program-announces-mentor-protege-agreement/",
+      "publishedAt": "2026-11-25T19:06:56.000Z",
+      "tags": [
+        "Office of Small Business Programs (OSBP)"
+      ]
+    },
+    {
+      "id": "8cd7bb44a04c",
+      "agency": "nasa",
+      "source": "NASA breaking news",
+      "title": "NASA Eyes Crop Candidates for Future Menus",
+      "summary": "As NASA prepares for future missions to the Moon and Mars, researchers are studying crops that could provide astronauts with fresh food, nutrition, and variety far from Earth. Such crop variety can help with menus in deep space, something top of mind this week as the nation celebrates Thanksgiving. Recent testing point…",
+      "url": "https://science.nasa.gov/directorates/smd/nasa-eyes-crop-candidates-for-future-menus/",
+      "publishedAt": "2026-11-25T17:53:42.000Z",
+      "tags": [
+        "Biological & Physical Sciences",
+        "International Space Station (ISS)",
+        "Science Mission Directorate"
+      ]
+    },
+    {
+      "id": "afc105b15bba",
+      "agency": "nasa",
+      "source": "NASA breaking news",
+      "title": "Childhood, Career Come Full Circle for Budget Analyst at NASA Goddard",
+      "summary": "Conversations about NASA were the norm around the dinner table during Ashley Knight’s childhood. Her parents worked at NASA’s Goddard Space Flight Center in Greenbelt, Maryland, and discussions about happenings at the agency continued even when they came home from the office. “I remember a poignant dialogue we had afte…",
+      "url": "https://www.nasa.gov/centers-and-facilities/goddard/childhood-career-come-full-circle-for-budget-analyst-at-nasa-goddard/",
+      "publishedAt": "2026-11-25T16:47:29.000Z",
+      "tags": [
+        "Goddard Space Flight Center",
+        "People of Goddard",
+        "People of NASA"
+      ]
+    },
+    {
+      "id": "0a54c50cca1e",
+      "agency": "nasa",
+      "source": "NASA breaking news",
+      "title": "Eye of the Sahara",
+      "summary": "The Richat Structure, also known as the “Eye of the Sahara,” is seen from the International Space Station as it orbited above on Nov. 14, 2026. It is an eroded geological dome about 100 million years old created by igneous activity and uplift in the nation of Mauritania. In this type of geologic structure, rocks […]",
+      "url": "https://www.nasa.gov/image-article/eye-of-the-sahara/",
+      "publishedAt": "2026-11-25T16:21:04.000Z",
+      "tags": [
+        "Earth"
+      ]
+    },
+    {
+      "id": "1d9cf67cf255",
+      "agency": "nasa",
+      "source": "NASA breaking news",
+      "title": "NASA’s Hubble Views Ocean of Stars in Groundwork for Roman",
+      "summary": "These Hubble observations are part of a survey that will help researchers better interpret upcoming Nancy Grace Roman Space Telescope observations as they seek to characterize the stars and search for exoplanets in this busy region of our galaxy.",
+      "url": "https://science.nasa.gov/missions/hubble/nasas-hubble-views-ocean-of-stars-in-groundwork-for-roman/",
+      "publishedAt": "2026-11-25T14:56:54.000Z",
+      "tags": [
+        "Astrophysics",
+        "Astrophysics Division",
+        "Galaxies",
+        "Goddard Space Flight Center",
+        "Hubble Space Telescope",
+        "Nancy Grace Roman Space Telescope",
+        "The Milky Way",
+        "The Universe"
       ]
     },
     {
@@ -292,21 +363,6 @@
       ]
     },
     {
-      "id": "0fc14089684c",
-      "agency": "nasa",
-      "source": "NASA breaking news",
-      "title": "NASA’s Northrop Grumman CRS-25 Mission Overview",
-      "summary": "NASA’s Northrop Grumman Commercial Resupply Services 25 mission, or Northrop Grumman CRS-25, will deliver about 11,000 pounds of science and supplies to the International Space Station. The mission will be the third flight of the company’s Cygnus XL, the larger, more cargo-capable version of the company’s solar-powered…",
-      "url": "https://www.nasa.gov/missions/station/nasas-northrop-grumman-crs-25-mission-overview/",
-      "publishedAt": "2026-11-24T19:09:16.000Z",
-      "tags": [
-        "International Space Station (ISS)",
-        "Commercial Resupply",
-        "Missions",
-        "Northrop Grumman Commercial Resupply"
-      ]
-    },
-    {
       "id": "bd2225cc9573",
       "agency": "arxiv",
       "source": "arXiv astro-ph (new submissions)",
@@ -315,18 +371,6 @@
       "url": "https://arxiv.org/abs/2611.33142v1",
       "publishedAt": "2026-11-24T18:56:18.000Z",
       "tags": []
-    },
-    {
-      "id": "40b4609b4a62",
-      "agency": "nasa",
-      "source": "NASA breaking news",
-      "title": "AGU Hyperwall Schedule",
-      "summary": "American Geophysical Union (AGU) 2026 Join NASA in the Exhibit Hall (Booth #525) for Hyperwall Storytelling by NASA experts. Full Hyperwall Agenda below. TUESDAY, NOVEMBER 17 10:30 AMHigh Resolution Hydrology Simulations and Agentic Super Intelligence Interfaces for Mapping Water Availability and ExtremesSujay Kumar11:…",
-      "url": "https://science.nasa.gov/earth/agu-hyperwall-schedule/",
-      "publishedAt": "2026-11-24T18:55:42.000Z",
-      "tags": [
-        "Earth"
-      ]
     },
     {
       "id": "4ec55442e433",
@@ -397,18 +441,6 @@
       "url": "https://arxiv.org/abs/2611.32950v1",
       "publishedAt": "2026-11-24T16:53:03.000Z",
       "tags": []
-    },
-    {
-      "id": "8d0e58502c37",
-      "agency": "nasa",
-      "source": "NASA breaking news",
-      "title": "Webb Reveals New Details in Supernova Remnant",
-      "summary": "NASA’s James Webb Space Telescope reveals the hot dust that makes up Cassiopeia A (Cas A) in this high-resolution, mid-infrared image released on Nov. 23, 2026. Remnants like these are the clouds of gas and dust that remain following the explosion of a massive star and will eventually seed a new generation of stars and…",
-      "url": "https://www.nasa.gov/image-article/webb-reveals-new-details-in-supernova-remnant/",
-      "publishedAt": "2026-11-24T16:51:27.000Z",
-      "tags": [
-        "Supernova Remnants"
-      ]
     },
     {
       "id": "6bdaab6d29be",
@@ -511,16 +543,6 @@
       "tags": []
     },
     {
-      "id": "d97b339455e3",
-      "agency": "nasa",
-      "source": "NASA breaking news",
-      "title": "NASA’s Titan-Bound Dragonfly Rotorcraft Gets Its Eyes",
-      "summary": "Science instruments for NASA’s Dragonfly are starting to arrive at the Johns Hopkins Applied Physics Laboratory (APL) in Laurel, Maryland, where the car-sized rotorcraft is coming together for its mission to explore Saturn’s largest moon, Titan. First to check in: DragonCam, which consists of seven cameras designed to…",
-      "url": "https://science.nasa.gov/missions/dragonfly/nasas-titan-bound-dragonfly-rotorcraft-gets-its-eyes/",
-      "publishedAt": "2026-11-24T15:44:38.000Z",
-      "tags": []
-    },
-    {
       "id": "9847c1b5b7e8",
       "agency": "arxiv",
       "source": "arXiv astro-ph (new submissions)",
@@ -589,24 +611,6 @@
       "url": "https://arxiv.org/abs/2611.32699v1",
       "publishedAt": "2026-11-24T14:29:19.000Z",
       "tags": []
-    },
-    {
-      "id": "7b9fce499d3b",
-      "agency": "nasa",
-      "source": "NASA breaking news",
-      "title": "NASA Hubble’s New View of NGC 4394 Raises the Bar",
-      "summary": "The brilliant galaxy NGC 4394 with its distinct galactic bar takes center stage in this Hubble Space Telescope image",
-      "url": "https://science.nasa.gov/missions/hubble/nasa-hubbles-new-view-of-ngc-4394-raises-the-bar/",
-      "publishedAt": "2026-11-24T13:58:28.000Z",
-      "tags": [
-        "Astrophysics",
-        "Astrophysics Division",
-        "Galaxies",
-        "Goddard Space Flight Center",
-        "Hubble Space Telescope",
-        "Spiral Galaxies",
-        "The Universe"
-      ]
     },
     {
       "id": "eb8c655990e3",
